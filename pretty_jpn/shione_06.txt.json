@@ -1,8 +1,8 @@
 [
   [
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「すっかり世話になったな」",
       "voices": [
         {
@@ -12,26 +12,26 @@
           "voice": "b05_40045"
         }
       ],
-      "idk_2": 464,
+      "idk_1": 464,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「別にいいさ。それよりもう大丈夫なのか？」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「歩くくらいはな」",
       "voices": [
         {
@@ -41,70 +41,70 @@
           "voice": "b05_40046"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "夕方になって修平は帰ると言った。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "体力は少しずつ戻ってきているらしい。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "自宅の方がゆっくり休めるだろうから、帰れるなら\\nその方が良いだろう。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "自宅の方がゆっくり休めるだろうから、帰れるならその方が良いだろう。",
       "txt_idk_2": "自宅の方がゆっくり休めるだろうから、帰れるならその方が良いだろう。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "夕方になって千歳さんが戻った後は、入れ替わりで汐音が\\n来ていた。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "夕方になって千歳さんが戻った後は、入れ替わりで汐音が来ていた。",
       "txt_idk_2": "夕方になって千歳さんが戻った後は、入れ替わりで汐音が来ていた。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "桜花も交えて、三人で外に出ている。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「やっぱりタクシー呼んだ方がよくない？」",
       "voices": [
         {
@@ -114,15 +114,15 @@
           "voice": "a03_40049"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「近いし平気だろ」",
       "voices": [
         {
@@ -132,15 +132,15 @@
           "voice": "b05_40047"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「家は以前に妹さんを送った時に一度行ってるしね。\\nまた送っておこうか」",
       "voices": [
         {
@@ -150,15 +150,15 @@
           "voice": "a02_40153"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「家は以前に妹さんを送った時に一度行ってるしね。また送っておこうか」",
       "txt_idk_2": "「家は以前に妹さんを送った時に一度行ってるしね。また送っておこうか」"
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「そこまでは……それに連中に見つかったら」",
       "voices": [
         {
@@ -168,15 +168,15 @@
           "voice": "b05_40048"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「道隆が居れば平気だよ。\\nボクも……腕には自信がある」",
       "voices": [
         {
@@ -186,15 +186,15 @@
           "voice": "a02_40154"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「道隆が居れば平気だよ。ボクも……腕には自信がある」",
       "txt_idk_2": "「道隆が居れば平気だよ。ボクも……腕には自信がある」"
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「わ、わたしは逃げようかな……」",
       "voices": [
         {
@@ -204,15 +204,15 @@
           "voice": "a03_40050"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「…………」",
       "voices": [
         {
@@ -222,48 +222,48 @@
           "voice": "b05_40049"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "どうするんだ？　という目でこっちを見てくる。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「……桜花なら大丈夫だろう。\\nこいつを殺せる人間が地球上に居るとは思えない」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「……桜花なら大丈夫だろう。こいつを殺せる人間が地球上に居るとは思えない」",
       "txt_idk_2": "「……桜花なら大丈夫だろう。こいつを殺せる人間が地球上に居るとは思えない」"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "もう死んでるし。幽霊だし。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「どんな自信かは知らないが、わかった」",
       "voices": [
         {
@@ -273,37 +273,37 @@
           "voice": "b05_40050"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "不承不承ではあるが、ひとまず妥協してくれたようだった。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "怪我してる修平だが歩くペースは普通くらいで、外見からは\\n変化が見えなかった。",
       "voices": null,
-      "idk_2": 464,
+      "idk_1": 464,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "怪我してる修平だが歩くペースは普通くらいで、外見からは変化が見えなかった。",
       "txt_idk_2": "怪我してる修平だが歩くペースは普通くらいで、外見からは変化が見えなかった。"
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「傷は多くても軽かったからな。少し痛むくらいだ」",
       "voices": [
         {
@@ -313,15 +313,15 @@
           "voice": "b05_40051"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「それだけではなく、殴られ慣れている感じだね。\\n武道でもやっていたのかな」",
       "voices": [
         {
@@ -331,15 +331,15 @@
           "voice": "a02_40155"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「それだけではなく、殴られ慣れている感じだね。武道でもやっていたのかな」",
       "txt_idk_2": "「それだけではなく、殴られ慣れている感じだね。武道でもやっていたのかな」"
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「いや……昔少し親から習った。\\n主に実践だったから、その時に慣れた」",
       "voices": [
         {
@@ -349,15 +349,15 @@
           "voice": "b05_40052"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「いや……昔少し親から習った。主に実践だったから、その時に慣れた」",
       "txt_idk_2": "「いや……昔少し親から習った。主に実践だったから、その時に慣れた」"
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「ふぅん？　ご両親は何を」",
       "voices": [
         {
@@ -367,15 +367,15 @@
           "voice": "a02_40156"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「親父はどっかいっちまった。生きてるかどうかは知らん。\\n母親は東京に稼ぎに出ている」",
       "voices": [
         {
@@ -385,15 +385,15 @@
           "voice": "b05_40053"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「親父はどっかいっちまった。生きてるかどうかは知らん。母親は東京に稼ぎに出ている」",
       "txt_idk_2": "「親父はどっかいっちまった。生きてるかどうかは知らん。母親は東京に稼ぎに出ている」"
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「なるほど、込み入った話を聞いてしまった」",
       "voices": [
         {
@@ -403,15 +403,15 @@
           "voice": "a02_40157"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「別に隠していた訳でもないしな。\\nそっちは？」",
       "voices": [
         {
@@ -421,15 +421,15 @@
           "voice": "b05_40054"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「別に隠していた訳でもないしな。そっちは？」",
       "txt_idk_2": "「別に隠していた訳でもないしな。そっちは？」"
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「ボクかい？」",
       "voices": [
         {
@@ -439,15 +439,15 @@
           "voice": "a02_40158"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「なんかやってるのか？」",
       "voices": [
         {
@@ -457,15 +457,15 @@
           "voice": "b05_40055"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「いや……生まれついての体質みたいなもんだ」",
       "voices": [
         {
@@ -475,15 +475,15 @@
           "voice": "a02_40159"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「……なんだそりゃ」",
       "voices": [
         {
@@ -493,26 +493,26 @@
           "voice": "b05_40056"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "呆れた口調で言うが、桜花に対する警戒みたいなのは\\n徐々に解けてきているようだった。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "呆れた口調で言うが、桜花に対する警戒みたいなのは徐々に解けてきているようだった。",
       "txt_idk_2": "呆れた口調で言うが、桜花に対する警戒みたいなのは徐々に解けてきているようだった。"
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「美緒ちゃんに電話入れておこうか？」",
       "voices": [
         {
@@ -522,15 +522,15 @@
           "voice": "a03_40051"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「そうだな……帰る連絡はしておくか。\\nバイト先で怪我して、付き添って貰った事にする。いいか？」",
       "voices": [
         {
@@ -540,103 +540,103 @@
           "voice": "b05_40057"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「そうだな……帰る連絡はしておくか。バイト先で怪我して、付き添って貰った事にする。いいか？」",
       "txt_idk_2": "「そうだな……帰る連絡はしておくか。バイト先で怪我して、付き添って貰った事にする。いいか？」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「もちろん」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "悪いと一言だけいって、修平が電話を掛ける。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "その間にも俺は辺りの色を見ていた。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "話に聞いた限りだと修平を襲った連中は集団で動いている\\nようだ。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "話に聞いた限りだと修平を襲った連中は集団で動いているようだ。",
       "txt_idk_2": "話に聞いた限りだと修平を襲った連中は集団で動いているようだ。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "複数人数が固まって動いてる場合、色もその通りに残る。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "塊となっての集団活動は、個々がバラバラに動くのとは\\n痕跡の残り方も全然違う。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "塊となっての集団活動は、個々がバラバラに動くのとは痕跡の残り方も全然違う。",
       "txt_idk_2": "塊となっての集団活動は、個々がバラバラに動くのとは痕跡の残り方も全然違う。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "事実、今こうして歩いている俺たち――といっても、俺が\\n色を見えるのが汐音と修平だけが、歩調を合わせて歩く二人の\\n色は空間に残る他の雑多な色と違って区別しやすい。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "事実、今こうして歩いている俺たち――といっても、俺が色を見えるのが汐音と修平だけが、歩調を合わせて歩く二人の色は空間に残る他の雑多な色と違って区別しやすい。",
       "txt_idk_2": "事実、今こうして歩いている俺たち――といっても、俺が色を見えるのが汐音と修平だけが、歩調を合わせて歩く二人の色は空間に残る他の雑多な色と違って区別しやすい。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "これの人数が増えたなら、見落とす事はないだろう。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「一緒に行くといったら喜んでいた。\\n猫を見て欲しいらしいが、構わないか」",
       "voices": [
         {
@@ -646,15 +646,15 @@
           "voice": "b05_40058"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「一緒に行くといったら喜んでいた。猫を見て欲しいらしいが、構わないか」",
       "txt_idk_2": "「一緒に行くといったら喜んでいた。猫を見て欲しいらしいが、構わないか」"
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「もちろんだよ」",
       "voices": [
         {
@@ -664,15 +664,15 @@
           "voice": "a02_40160"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「こっちからお願いしたいくらいだよー」",
       "voices": [
         {
@@ -682,15 +682,15 @@
           "voice": "a03_40052"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「そっか。助かる」",
       "voices": [
         {
@@ -700,15 +700,15 @@
           "voice": "b05_40059"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "美緒",
-      "idk_1": null,
+      "actual_character_speaking": "美緒",
+      "hidden_character_speaking": null,
       "txt": "「あ！！　おにいちゃんっ！」",
       "voices": [
         {
@@ -718,37 +718,37 @@
           "voice": "b06_40001"
         }
       ],
-      "idk_2": 464,
+      "idk_1": 464,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "公園を通りがかると、美緒ちゃんが駆けてきた。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "そして修平に勢いよく飛びついた。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「……ぐ……っ」",
       "voices": [
         {
@@ -758,15 +758,15 @@
           "voice": "b05_40060"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "美緒",
-      "idk_1": null,
+      "actual_character_speaking": "美緒",
+      "hidden_character_speaking": null,
       "txt": "「怪我大丈夫？　痛くない？」",
       "voices": [
         {
@@ -776,15 +776,15 @@
           "voice": "b06_40002"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「お前がぶつかった所が痛い」",
       "voices": [
         {
@@ -794,15 +794,15 @@
           "voice": "b05_40061"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "美緒",
-      "idk_1": null,
+      "actual_character_speaking": "美緒",
+      "hidden_character_speaking": null,
       "txt": "「うう……ごめんなさい……」",
       "voices": [
         {
@@ -812,15 +812,15 @@
           "voice": "b06_40003"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「……なんてことはない。\\nそれより昨日一人だっただろう。大丈夫だったか？」",
       "voices": [
         {
@@ -830,15 +830,15 @@
           "voice": "b05_40062"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「……なんてことはない。それより昨日一人だっただろう。大丈夫だったか？」",
       "txt_idk_2": "「……なんてことはない。それより昨日一人だっただろう。大丈夫だったか？」"
     },
     {
-      "character_speaking": "美緒",
-      "idk_1": null,
+      "actual_character_speaking": "美緒",
+      "hidden_character_speaking": null,
       "txt": "「うんっ」",
       "voices": [
         {
@@ -848,15 +848,15 @@
           "voice": "b06_40004"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「そうか」",
       "voices": [
         {
@@ -866,15 +866,15 @@
           "voice": "b05_40063"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「美緒ちゃんこんにちは」",
       "voices": [
         {
@@ -884,15 +884,15 @@
           "voice": "a03_40053"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "美緒",
-      "idk_1": null,
+      "actual_character_speaking": "美緒",
+      "hidden_character_speaking": null,
       "txt": "「こんにちはですっ」",
       "voices": [
         {
@@ -902,26 +902,26 @@
           "voice": "b06_40005"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "修平と無事に会えたためか、この前会った時よりも美緒ちゃん\\nは元気いっぱいになっていた。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "修平と無事に会えたためか、この前会った時よりも美緒ちゃんは元気いっぱいになっていた。",
       "txt_idk_2": "修平と無事に会えたためか、この前会った時よりも美緒ちゃんは元気いっぱいになっていた。"
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「……どうだい？」",
       "voices": [
         {
@@ -931,37 +931,37 @@
           "voice": "a02_40161"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "その様子を見ながら、桜花が声を潜めて聞いてくる。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「公園の中は大丈夫そうだ。\\nといっても俺が見えるのは通り過ぎたかどうかだけだから\\n鉢合わせはどうしようもないぞ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「公園の中は大丈夫そうだ。といっても俺が見えるのは通り過ぎたかどうかだけだから鉢合わせはどうしようもないぞ」",
       "txt_idk_2": "「公園の中は大丈夫そうだ。といっても俺が見えるのは通り過ぎたかどうかだけだから鉢合わせはどうしようもないぞ」"
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「そうだな……そこの警戒が必要だが、あまり慎重に\\nなりすぎても動けなくなる」",
       "voices": [
         {
@@ -971,15 +971,15 @@
           "voice": "a02_40162"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「そうだな……そこの警戒が必要だが、あまり慎重になりすぎても動けなくなる」",
       "txt_idk_2": "「そうだな……そこの警戒が必要だが、あまり慎重になりすぎても動けなくなる」"
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「では帰ろうか。今日は早めに体を休めた方がいい」",
       "voices": [
         {
@@ -989,15 +989,15 @@
           "voice": "a02_40163"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「……ああ」",
       "voices": [
         {
@@ -1007,26 +1007,26 @@
           "voice": "b05_40064"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「明日もバイト入っているのか？」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「いや、さすがに休む。\\nこれじゃ仕事にならないだろうから」",
       "voices": [
         {
@@ -1036,37 +1036,37 @@
           "voice": "b05_40065"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「いや、さすがに休む。これじゃ仕事にならないだろうから」",
       "txt_idk_2": "「いや、さすがに休む。これじゃ仕事にならないだろうから」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「そっか……ならそこは安心か」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "安堵する俺と対照的に、美緒ちゃんは劇的な反応をしていた。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "美緒",
-      "idk_1": null,
+      "actual_character_speaking": "美緒",
+      "hidden_character_speaking": null,
       "txt": "「ほんとう！？」",
       "voices": [
         {
@@ -1076,15 +1076,15 @@
           "voice": "b06_40006"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「ああ。怪我しているからな。\\n明日は休む」",
       "voices": [
         {
@@ -1094,15 +1094,15 @@
           "voice": "b05_40066"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「ああ。怪我しているからな。明日は休む」",
       "txt_idk_2": "「ああ。怪我しているからな。明日は休む」"
     },
     {
-      "character_speaking": "美緒",
-      "idk_1": null,
+      "actual_character_speaking": "美緒",
+      "hidden_character_speaking": null,
       "txt": "「やったぁっ！　じゃあ、じゃあ。晩ご飯一緒に食べても\\nいい？」",
       "voices": [
         {
@@ -1112,15 +1112,15 @@
           "voice": "b06_40007"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「やったぁっ！　じゃあ、じゃあ。晩ご飯一緒に食べてもいい？」",
       "txt_idk_2": "「やったぁっ！　じゃあ、じゃあ。晩ご飯一緒に食べてもいい？」"
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「いいぞ」",
       "voices": [
         {
@@ -1130,15 +1130,15 @@
           "voice": "b05_40067"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "美緒",
-      "idk_1": null,
+      "actual_character_speaking": "美緒",
+      "hidden_character_speaking": null,
       "txt": "「一緒に寝てもいい？」",
       "voices": [
         {
@@ -1148,15 +1148,15 @@
           "voice": "b06_40008"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「構わないぞ」",
       "voices": [
         {
@@ -1166,15 +1166,15 @@
           "voice": "b05_40068"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "美緒",
-      "idk_1": null,
+      "actual_character_speaking": "美緒",
+      "hidden_character_speaking": null,
       "txt": "「えっと、それじゃ……えっと……。\\n猫さんと一緒に遊んでもいい？」",
       "voices": [
         {
@@ -1184,15 +1184,15 @@
           "voice": "b06_40009"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「えっと、それじゃ……えっと……。猫さんと一緒に遊んでもいい？」",
       "txt_idk_2": "「えっと、それじゃ……えっと……。猫さんと一緒に遊んでもいい？」"
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「もちろん」",
       "voices": [
         {
@@ -1202,15 +1202,15 @@
           "voice": "b05_40069"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "美緒",
-      "idk_1": null,
+      "actual_character_speaking": "美緒",
+      "hidden_character_speaking": null,
       "txt": "「やったぁっ」",
       "voices": [
         {
@@ -1220,15 +1220,15 @@
           "voice": "b06_40010"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「……可愛い……」",
       "voices": [
         {
@@ -1238,48 +1238,48 @@
           "voice": "a03_40054"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "汐音の目つきがだんだんヤバくなっている。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「現実に帰ってこい」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "――びしっ！",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「は――っ！？　危なかった……もう少しで戻って来れない\\n境界線を踏み越える所だったよ」",
       "voices": [
         {
@@ -1289,15 +1289,15 @@
           "voice": "a03_40055"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「は――っ！？　危なかった……もう少しで戻って来れない境界線を踏み越える所だったよ」",
       "txt_idk_2": "「は――っ！？　危なかった……もう少しで戻って来れない境界線を踏み越える所だったよ」"
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「…………汐音は可愛い生物なら何でも好きなのかい？」",
       "voices": [
         {
@@ -1307,15 +1307,15 @@
           "voice": "a02_40164"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「好みはあるけれど……大体そうかも？」",
       "voices": [
         {
@@ -1325,15 +1325,15 @@
           "voice": "a03_40056"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「……そうか。なるほどな」",
       "voices": [
         {
@@ -1343,26 +1343,26 @@
           "voice": "a02_40165"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「さっき聞いた事情からすると、二人暮らしみたいなもん\\nらしいからなぁ。そりゃ喜ぶよな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「さっき聞いた事情からすると、二人暮らしみたいなもんらしいからなぁ。そりゃ喜ぶよな」",
       "txt_idk_2": "「さっき聞いた事情からすると、二人暮らしみたいなもんらしいからなぁ。そりゃ喜ぶよな」"
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「そうだね。ボクも道隆が休みの日は喜びを露わにしようか？」",
       "voices": [
         {
@@ -1372,26 +1372,26 @@
           "voice": "a02_40166"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「絶対にやめてくれ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「これでも普段一人で退屈を持て余しているから、休みの日が\\n待ち遠しくて仕方ないのは事実だよ」",
       "voices": [
         {
@@ -1401,26 +1401,26 @@
           "voice": "a02_40167"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「これでも普段一人で退屈を持て余しているから、休みの日が待ち遠しくて仕方ないのは事実だよ」",
       "txt_idk_2": "「これでも普段一人で退屈を持て余しているから、休みの日が待ち遠しくて仕方ないのは事実だよ」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「喜んでくれるのは嬉しいけど、真似はしなくていいぞ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「そうなのか。残念だよ」",
       "voices": [
         {
@@ -1430,15 +1430,15 @@
           "voice": "a02_40168"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "美緒",
-      "idk_1": null,
+      "actual_character_speaking": "美緒",
+      "hidden_character_speaking": null,
       "txt": "「あ、あの……」",
       "voices": [
         {
@@ -1448,26 +1448,26 @@
           "voice": "b06_40011"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "ふと見ると、美緒ちゃんが我に返っている。\\n赤面しながらこっちを見ていた。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "ふと見ると、美緒ちゃんが我に返っている。赤面しながらこっちを見ていた。",
       "txt_idk_2": "ふと見ると、美緒ちゃんが我に返っている。赤面しながらこっちを見ていた。"
     },
     {
-      "character_speaking": "美緒",
-      "idk_1": null,
+      "actual_character_speaking": "美緒",
+      "hidden_character_speaking": null,
       "txt": "「あ、あの。あの……」",
       "voices": [
         {
@@ -1477,15 +1477,15 @@
           "voice": "b06_40012"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「……美緒」",
       "voices": [
         {
@@ -1495,26 +1495,26 @@
           "voice": "b05_40070"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "修平が頭に手を乗せる。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「この人達は誰も笑ったりしない」",
       "voices": [
         {
@@ -1524,15 +1524,15 @@
           "voice": "b05_40071"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「そうだよー。仲のいい兄妹で羨ましくなっちゃった」",
       "voices": [
         {
@@ -1542,26 +1542,26 @@
           "voice": "a03_40057"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「仲の良い姉妹だから、お前は別にいいだろ。\\n俺なんか一人っ子だからなぁ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「仲の良い姉妹だから、お前は別にいいだろ。俺なんか一人っ子だからなぁ」",
       "txt_idk_2": "「仲の良い姉妹だから、お前は別にいいだろ。俺なんか一人っ子だからなぁ」"
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「それを言ったらボクは天涯孤独の身の上だ」",
       "voices": [
         {
@@ -1571,26 +1571,26 @@
           "voice": "a02_40169"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「……お前はどうしようもないだろ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "美緒",
-      "idk_1": null,
+      "actual_character_speaking": "美緒",
+      "hidden_character_speaking": null,
       "txt": "「あ、ありがとう。ございます」",
       "voices": [
         {
@@ -1600,48 +1600,48 @@
           "voice": "b06_40013"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "それでも照れ臭いのか、美緒ちゃんは消え入りそうな声で\\nお礼を言った。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "それでも照れ臭いのか、美緒ちゃんは消え入りそうな声でお礼を言った。",
       "txt_idk_2": "それでも照れ臭いのか、美緒ちゃんは消え入りそうな声でお礼を言った。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "修平の家についた。\\n汐音は美緒ちゃんに猫を見せて貰っている。",
       "voices": null,
-      "idk_2": 464,
+      "idk_1": 464,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "修平の家についた。汐音は美緒ちゃんに猫を見せて貰っている。",
       "txt_idk_2": "修平の家についた。汐音は美緒ちゃんに猫を見せて貰っている。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "それを待っている間、修平が言った。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「世話になった」",
       "voices": [
         {
@@ -1651,26 +1651,26 @@
           "voice": "b05_40072"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「別にいいよ。……本当はそういう事態になる前に、見つけた\\nかったんだけど」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「別にいいよ。……本当はそういう事態になる前に、見つけたかったんだけど」",
       "txt_idk_2": "「別にいいよ。……本当はそういう事態になる前に、見つけたかったんだけど」"
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「絡まれたのは街の方だった。\\n行くなら気をつけろ」",
       "voices": [
         {
@@ -1680,26 +1680,26 @@
           "voice": "b05_40073"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「絡まれたのは街の方だった。行くなら気をつけろ」",
       "txt_idk_2": "「絡まれたのは街の方だった。行くなら気をつけろ」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「そうする。余程の事がない限り鉢合わせしないだろうし、\\n俺は顔を知られてる訳でもないからな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「そうする。余程の事がない限り鉢合わせしないだろうし、俺は顔を知られてる訳でもないからな」",
       "txt_idk_2": "「そうする。余程の事がない限り鉢合わせしないだろうし、俺は顔を知られてる訳でもないからな」"
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「そうだな……」",
       "voices": [
         {
@@ -1709,26 +1709,26 @@
           "voice": "b05_40074"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "修平にしてはどこか歯切れが悪い。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「……『石』って聞いた事あるか？」",
       "voices": [
         {
@@ -1738,26 +1738,26 @@
           "voice": "b05_40075"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「…………は？　石？\\nそこらに転がってるだろ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「…………は？　石？そこらに転がってるだろ」",
       "txt_idk_2": "「…………は？　石？そこらに転がってるだろ」"
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「そうだよな……やっぱ」",
       "voices": [
         {
@@ -1767,15 +1767,15 @@
           "voice": "b05_40076"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「何か気になる事でも？」",
       "voices": [
         {
@@ -1785,15 +1785,15 @@
           "voice": "a02_40170"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「……ああ」",
       "voices": [
         {
@@ -1803,15 +1803,15 @@
           "voice": "b05_40077"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「あいつらから逃げ回ってる時に、そんな事を言ってる奴が\\nいたんだ」",
       "voices": [
         {
@@ -1821,15 +1821,15 @@
           "voice": "b05_40078"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「あいつらから逃げ回ってる時に、そんな事を言ってる奴がいたんだ」",
       "txt_idk_2": "「あいつらから逃げ回ってる時に、そんな事を言ってる奴がいたんだ」"
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「『あいつが石を持ってるのか？』と言っていた。\\n俺に対する仕返しより、これを探しているようだったな」",
       "voices": [
         {
@@ -1839,26 +1839,26 @@
           "voice": "b05_40079"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「『あいつが石を持ってるのか？』と言っていた。俺に対する仕返しより、これを探しているようだったな」",
       "txt_idk_2": "「『あいつが石を持ってるのか？』と言っていた。俺に対する仕返しより、これを探しているようだったな」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「……石……ねぇ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「何かのキーワードのようだね。\\n石そのものを指していない可能性もある」",
       "voices": [
         {
@@ -1868,15 +1868,15 @@
           "voice": "a02_40171"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「何かのキーワードのようだね。石そのものを指していない可能性もある」",
       "txt_idk_2": "「何かのキーワードのようだね。石そのものを指していない可能性もある」"
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「隠語か。ありそうだな」",
       "voices": [
         {
@@ -1886,26 +1886,26 @@
           "voice": "b05_40080"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「とにかく、それっぽいのを探してる訳だろ？\\n後で警察寄って行くから、その時に一緒に言っておくよ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「とにかく、それっぽいのを探してる訳だろ？後で警察寄って行くから、その時に一緒に言っておくよ」",
       "txt_idk_2": "「とにかく、それっぽいのを探してる訳だろ？後で警察寄って行くから、その時に一緒に言っておくよ」"
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「頼む」",
       "voices": [
         {
@@ -1915,26 +1915,26 @@
           "voice": "b05_40081"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「お前の事はどうする？　言っておいた方がいいか？」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "修平",
-      "idk_1": null,
+      "actual_character_speaking": "修平",
+      "hidden_character_speaking": null,
       "txt": "「いや……バイト辞めさせられたら困るから、今はまだいい。\\nしぶとく来るようだったら言っておく」",
       "voices": [
         {
@@ -1944,59 +1944,59 @@
           "voice": "b05_40082"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「いや……バイト辞めさせられたら困るから、今はまだいい。しぶとく来るようだったら言っておく」",
       "txt_idk_2": "「いや……バイト辞めさせられたら困るから、今はまだいい。しぶとく来るようだったら言っておく」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「わかった」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "修平達を送り届けた後に、警察署に向かった。",
       "voices": null,
-      "idk_2": 464,
+      "idk_1": 464,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "袴姿の桜花は目立つので、汐音と外で待ってて貰いながら\\n中で話をする。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "袴姿の桜花は目立つので、汐音と外で待ってて貰いながら中で話をする。",
       "txt_idk_2": "袴姿の桜花は目立つので、汐音と外で待ってて貰いながら中で話をする。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "……ただ、あまり良い感触とは言えなかった。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「その様子だとダメだったみたいだね」",
       "voices": [
         {
@@ -2006,26 +2006,26 @@
           "voice": "a02_40172"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「怪我をしたといっても、やっぱり本人じゃないとダメ\\nみたいだ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「怪我をしたといっても、やっぱり本人じゃないとダメみたいだ」",
       "txt_idk_2": "「怪我をしたといっても、やっぱり本人じゃないとダメみたいだ」"
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「もうー、ひっどいなぁ」",
       "voices": [
         {
@@ -2035,15 +2035,15 @@
           "voice": "a03_40058"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「例の『石』についてはどうだい？」",
       "voices": [
         {
@@ -2053,26 +2053,26 @@
           "voice": "a02_40173"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「そういう話を聞いたって形で伝えた。\\nもしかしたら薬の事かも知れないと言った時は、結構聞いて\\nくれているようだったけど……又聞きだからやっぱダメだな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「そういう話を聞いたって形で伝えた。もしかしたら薬の事かも知れないと言った時は、結構聞いてくれているようだったけど……又聞きだからやっぱダメだな」",
       "txt_idk_2": "「そういう話を聞いたって形で伝えた。もしかしたら薬の事かも知れないと言った時は、結構聞いてくれているようだったけど……又聞きだからやっぱダメだな」"
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「そうか……」",
       "voices": [
         {
@@ -2082,15 +2082,15 @@
           "voice": "a02_40174"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「……じゃあ全然ダメだったんだ」",
       "voices": [
         {
@@ -2100,15 +2100,15 @@
           "voice": "a03_40059"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「手持ちの情報ではね。仕方がない」",
       "voices": [
         {
@@ -2118,15 +2118,15 @@
           "voice": "a02_40175"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「そうかなぁ」",
       "voices": [
         {
@@ -2136,15 +2136,15 @@
           "voice": "a03_40060"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「ああ。だって何も情報が無い時点で道隆の話を聞いた場合\\n言ってる内容を一言にまとめる事が出来る」",
       "voices": [
         {
@@ -2154,15 +2154,15 @@
           "voice": "a02_40176"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「ああ。だって何も情報が無い時点で道隆の話を聞いた場合言ってる内容を一言にまとめる事が出来る」",
       "txt_idk_2": "「ああ。だって何も情報が無い時点で道隆の話を聞いた場合言ってる内容を一言にまとめる事が出来る」"
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「この街のチンピラを警察が取り締まってくれ、とね」",
       "voices": [
         {
@@ -2172,15 +2172,15 @@
           "voice": "a02_40177"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「う……それはそうだけど」",
       "voices": [
         {
@@ -2190,15 +2190,15 @@
           "voice": "a03_40061"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「こちらが出せる情報が無さ過ぎるんだ。\\nさすがにこれだけあやふやなモノじゃ動けないだろう」",
       "voices": [
         {
@@ -2208,26 +2208,26 @@
           "voice": "a02_40178"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「こちらが出せる情報が無さ過ぎるんだ。さすがにこれだけあやふやなモノじゃ動けないだろう」",
       "txt_idk_2": "「こちらが出せる情報が無さ過ぎるんだ。さすがにこれだけあやふやなモノじゃ動けないだろう」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「お前、それ分かってたな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「ああ。だが同時に重要でもある」",
       "voices": [
         {
@@ -2237,15 +2237,15 @@
           "voice": "a02_40179"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「そうなの？」",
       "voices": [
         {
@@ -2255,15 +2255,15 @@
           "voice": "a03_40062"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「種まきと同じさ。種をまかないと花は咲かない。\\n一度相談して話を通しておいたなら、もしも万が一に当事者に\\nなった場合、今の話に信憑性が生まれる」",
       "voices": [
         {
@@ -2273,15 +2273,15 @@
           "voice": "a02_40180"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「種まきと同じさ。種をまかないと花は咲かない。一度相談して話を通しておいたなら、もしも万が一に当事者になった場合、今の話に信憑性が生まれる」",
       "txt_idk_2": "「種まきと同じさ。種をまかないと花は咲かない。一度相談して話を通しておいたなら、もしも万が一に当事者になった場合、今の話に信憑性が生まれる」"
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「本当に頼れるとしたら、それからだろうね」",
       "voices": [
         {
@@ -2291,70 +2291,70 @@
           "voice": "a02_40181"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「そう考えると、必要な事だったんだろうけど……」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "背後を振り返る。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "出てきたばかりの警察署の建物は、重厚な感じがした。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "あんまり中に入りたい所ではない。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「でももどかしいな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「そうだねぇ……」",
       "voices": [
         {
@@ -2364,15 +2364,15 @@
           "voice": "a03_40063"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「しかし『石』か」",
       "voices": [
         {
@@ -2382,26 +2382,26 @@
           "voice": "a02_40182"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "桜花荘に帰ってきた頃には、すっかり夜も更けていた。",
       "voices": null,
-      "idk_2": 464,
+      "idk_1": 464,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「それじゃおやすみなさい」",
       "voices": [
         {
@@ -2411,26 +2411,26 @@
           "voice": "a03_40064"
         }
       ],
-      "idk_2": 464,
+      "idk_1": 464,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「遅くまで連れまわして悪いな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「ううん。美緒ちゃんとも仲良くなれたし、わたしも\\n嬉しかったよ」",
       "voices": [
         {
@@ -2440,26 +2440,26 @@
           "voice": "a03_40065"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「ううん。美緒ちゃんとも仲良くなれたし、わたしも嬉しかったよ」",
       "txt_idk_2": "「ううん。美緒ちゃんとも仲良くなれたし、わたしも嬉しかったよ」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「そっか」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「じゃね」",
       "voices": [
         {
@@ -2469,26 +2469,26 @@
           "voice": "a03_40066"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「ああ、また明日」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「おやすみ」",
       "voices": [
         {
@@ -2498,26 +2498,26 @@
           "voice": "a02_40183"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「……なんか色々な事があったなぁ」",
       "voices": null,
-      "idk_2": 464,
+      "idk_1": 464,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「そうだね……道隆は今晩どうする？」",
       "voices": [
         {
@@ -2527,26 +2527,26 @@
           "voice": "a02_40184"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「少し休んで、行けそうなら行ってみようと思ってる」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「分かった、そうしよう」",
       "voices": [
         {
@@ -2556,31 +2556,31 @@
           "voice": "a02_40185"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "元から桜花も行く気だったようだ。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "さすがにこれ以上遅くなるなら、汐音を誘うつもりもない。\\n少しだけ休憩して、二人で出かけるとしよう……。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "さすがにこれ以上遅くなるなら、汐音を誘うつもりもない。少しだけ休憩して、二人で出かけるとしよう……。",
       "txt_idk_2": "さすがにこれ以上遅くなるなら、汐音を誘うつもりもない。少しだけ休憩して、二人で出かけるとしよう……。"
     }

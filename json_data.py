@@ -25,24 +25,24 @@ def json_import_serialize(obj):
             model: ModelTextLine = None
             if len(text) == 9:
                 model = ModelTextLine(
-                    text[0],  # Character speaking
-                    text[1],  # idk 1
+                    text[0],  # Actual character name
+                    text[1],  # Hidden character name
                     text[2],  # Text
                     voices,  # Voices
-                    text[4],  # idk 2
+                    text[4],  # idk 1
                     text[5],  # scene data
-                    text[6],  # idk 3
+                    text[6],  # idk 2
                     text[7],  # text idk 1
                     text[8]  # text idk2
                 )
                 pass
             elif len(text) == 6:
                 model = ModelTextLine(
-                    text[0],  # Character speaking
-                    text[1],  # idk 1
+                    text[0],  # Actual character name
+                    text[1],  # Hidden character name
                     text[2],  # Text
                     voices,  # Voices
-                    text[4],  # idk 2
+                    text[4],  # idk 1
                     text[5]  # scene data
                 )
                 pass
@@ -74,14 +74,14 @@ def json_import_deserialize(obj):
                 continue
             pass
         return {
-            'character_speaking': obj.character_speaking,
-            'idk_1': obj.idk_1,
+            'actual_character_speaking': obj.actual_character_speaking,
+            'hidden_character_speaking': obj.hidden_character_speaking,
             'txt': obj.txt,
             'voices': new_voices,
-            'idk_2': obj.idk_2,
+            'idk_1': obj.idk_1,
             # 'scene_data': obj.scene_data,
             'scene_data': None,  # Do not write scene data, this is written back later on
-            'idk_3': obj.idk_3,
+            'idk_2': obj.idk_2,
             'txt_idk_1': obj.txt_idk_1,
             'txt_idk_2': obj.txt_idk_2,
         }
@@ -99,24 +99,24 @@ def json_import_deserialize(obj):
 def json_export_serialize(obj):
     if len(obj) == 9:
         # Do not write full 9 if last 3 are invalid
-        if obj['idk_3'] == None and obj['txt_idk_1'] == None and obj['txt_idk_2'] == None:
+        if obj['idk_2'] == None and obj['txt_idk_1'] == None and obj['txt_idk_2'] == None:
             return [
-                obj['character_speaking'],
-                obj['idk_1'],
+                obj['actual_character_speaking'],
+                obj['hidden_character_speaking'],
                 obj['txt'],
                 obj['voices'],
-                obj['idk_2'],
+                obj['idk_1'],
                 obj['scene_data']
             ]
         else:
             return [
-                obj['character_speaking'],
-                obj['idk_1'],
+                obj['actual_character_speaking'],
+                obj['hidden_character_speaking'],
                 obj['txt'],
                 obj['voices'],
-                obj['idk_2'],
+                obj['idk_1'],
                 obj['scene_data'],
-                obj['idk_3'],
+                obj['idk_2'],
                 obj['txt_idk_1'],
                 obj['txt_idk_2']
             ]

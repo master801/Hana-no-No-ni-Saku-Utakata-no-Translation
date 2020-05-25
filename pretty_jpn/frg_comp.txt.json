@@ -1,8 +1,8 @@
 [
   [
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「この度はこんな格好で失礼するよ」",
       "voices": [
         {
@@ -12,15 +12,15 @@
           "voice": "a02_40463a"
         }
       ],
-      "idk_2": 472,
+      "idk_1": 472,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「うわわ、みんな見慣れない姿になってる！」",
       "voices": [
         {
@@ -30,15 +30,15 @@
           "voice": "a03_40505a"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「ここを見る事が出来ている人だけに、普段とは違う姿って\\n訳なのね」",
       "voices": [
         {
@@ -48,15 +48,15 @@
           "voice": "a06_40047a"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「ここを見る事が出来ている人だけに、普段とは違う姿って訳なのね」",
       "txt_idk_2": "「ここを見る事が出来ている人だけに、普段とは違う姿って訳なのね」"
     },
     {
-      "character_speaking": "涼子",
-      "idk_1": null,
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
       "txt": "「特別という事なんでしょうか？」",
       "voices": [
         {
@@ -66,15 +66,15 @@
           "voice": "a04_40044a"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "雫",
-      "idk_1": null,
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
       "txt": "「そう。それじゃ改めて……」",
       "voices": [
         {
@@ -84,15 +84,15 @@
           "voice": "a05_40017a"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「花の野に咲くうたかたの、コンプリートおめでとう」",
       "voices": [
         {
@@ -102,15 +102,15 @@
           "voice": "a02_40463"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「ここまでプレイしてくれて、本当にありがとうー！」",
       "voices": [
         {
@@ -120,15 +120,15 @@
           "voice": "a03_40505"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「最後まで付き合ってくれた皆には、改めてお礼を言うわ」",
       "voices": [
         {
@@ -138,15 +138,15 @@
           "voice": "a06_40046"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "涼子",
-      "idk_1": null,
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
       "txt": "「本当にありがとうございました！」",
       "voices": [
         {
@@ -156,15 +156,15 @@
           "voice": "a04_40044"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "雫",
-      "idk_1": null,
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
       "txt": "「これで『はなのの』の物語も終わりなのよね……。\\nこの街と桜花さんの物語にも一段落なのかしら」",
       "voices": [
         {
@@ -174,15 +174,15 @@
           "voice": "a05_40017"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「これで『はなのの』の物語も終わりなのよね……。この街と桜花さんの物語にも一段落なのかしら」",
       "txt_idk_2": "「これで『はなのの』の物語も終わりなのよね……。この街と桜花さんの物語にも一段落なのかしら」"
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「そうだね。もしかしたら何かしらあるかもしれないけれど\\n今のところはこれで全部だよ」",
       "voices": [
         {
@@ -192,15 +192,15 @@
           "voice": "a02_40464"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「そうだね。もしかしたら何かしらあるかもしれないけれど今のところはこれで全部だよ」",
       "txt_idk_2": "「そうだね。もしかしたら何かしらあるかもしれないけれど今のところはこれで全部だよ」"
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「そうなんだぁ……。\\nそれじゃみんな、さようならだね」",
       "voices": [
         {
@@ -210,15 +210,15 @@
           "voice": "a03_40506"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「そうなんだぁ……。それじゃみんな、さようならだね」",
       "txt_idk_2": "「そうなんだぁ……。それじゃみんな、さようならだね」"
     },
     {
-      "character_speaking": "涼子",
-      "idk_1": null,
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
       "txt": "「お別れは残念ですが、わたしたちはいつもここにいます。\\nまた遊びに来て下さると嬉しいです」",
       "voices": [
         {
@@ -228,15 +228,15 @@
           "voice": "a04_40045"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「お別れは残念ですが、わたしたちはいつもここにいます。また遊びに来て下さると嬉しいです」",
       "txt_idk_2": "「お別れは残念ですが、わたしたちはいつもここにいます。また遊びに来て下さると嬉しいです」"
     },
     {
-      "character_speaking": "汐音",
-      "idk_1": null,
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
       "txt": "「そっか！　いつでも会えるから、またね！　だね」",
       "voices": [
         {
@@ -246,15 +246,15 @@
           "voice": "a03_40507"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「それではね。\\n気が向いたら道隆の面倒をみてあげて」",
       "voices": [
         {
@@ -264,15 +264,15 @@
           "voice": "a06_40047"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「それではね。気が向いたら道隆の面倒をみてあげて」",
       "txt_idk_2": "「それではね。気が向いたら道隆の面倒をみてあげて」"
     },
     {
-      "character_speaking": "雫",
-      "idk_1": null,
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
       "txt": "「では、またいつか会える日まで」",
       "voices": [
         {
@@ -282,15 +282,15 @@
           "voice": "a05_40018"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "桜花",
-      "idk_1": null,
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
       "txt": "「最後までプレイしてくれて、ありがとう」",
       "voices": [
         {
@@ -300,9 +300,9 @@
           "voice": "a02_40465"
         }
       ],
-      "idk_2": 456,
+      "idk_1": 456,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     }

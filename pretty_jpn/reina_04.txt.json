@@ -1,19 +1,19 @@
 [
   [
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "麗奈と共に繁みをかき分けながら奥に向かう。",
       "voices": null,
-      "idk_2": 464,
+      "idk_1": 464,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「色は見えてる？」",
       "voices": [
         {
@@ -23,26 +23,26 @@
           "voice": "a06_20093"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「ああ。麗奈が直前まで触ってたからばっちり。\\nでも空間に残る色の方は本人じゃないし、すぐに消えちまう」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「ああ。麗奈が直前まで触ってたからばっちり。でも空間に残る色の方は本人じゃないし、すぐに消えちまう」",
       "txt_idk_2": "「ああ。麗奈が直前まで触ってたからばっちり。でも空間に残る色の方は本人じゃないし、すぐに消えちまう」"
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「見失わなければ平気よ。\\nそれより帰り道分からなくなったりしないわよね」",
       "voices": [
         {
@@ -52,37 +52,37 @@
           "voice": "a06_20094"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「見失わなければ平気よ。それより帰り道分からなくなったりしないわよね」",
       "txt_idk_2": "「見失わなければ平気よ。それより帰り道分からなくなったりしないわよね」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「そっちも大丈夫。お前の色は目立つからな。\\n例え薄れても見失ったりしない」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「そっちも大丈夫。お前の色は目立つからな。例え薄れても見失ったりしない」",
       "txt_idk_2": "「そっちも大丈夫。お前の色は目立つからな。例え薄れても見失ったりしない」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「とはいえ、こっちもあまり時間が掛かり過ぎるとまずい」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「なら少しでも目印が残るようにしていくわ」",
       "voices": [
         {
@@ -92,48 +92,48 @@
           "voice": "a06_20095"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "パキという音に振り返ると、麗奈は後ろをついてきながら\\n樹の小枝などを折っていく。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "パキという音に振り返ると、麗奈は後ろをついてきながら樹の小枝などを折っていく。",
       "txt_idk_2": "パキという音に振り返ると、麗奈は後ろをついてきながら樹の小枝などを折っていく。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "これなら折れた部分が目印になるのはもちろん、麗奈自身の\\n色も残るから間違いようがない。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "これなら折れた部分が目印になるのはもちろん、麗奈自身の色も残るから間違いようがない。",
       "txt_idk_2": "これなら折れた部分が目印になるのはもちろん、麗奈自身の色も残るから間違いようがない。"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「悪い。助かる」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「いいから、道隆は猫を追って。\\n見失わないように」",
       "voices": [
         {
@@ -143,70 +143,70 @@
           "voice": "a06_20096"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「いいから、道隆は猫を追って。見失わないように」",
       "txt_idk_2": "「いいから、道隆は猫を追って。見失わないように」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「わかった」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "どこまで入り込んだのか、繁みの中をかき分けていく。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "入ったばかりの所は開けていたが、徐々に深さを増していく。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "猫は背が小さい。\\n人間のサイズで見降ろすと例え色が残っていても、木々に\\n覆い隠されてしまいそうになる。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "猫は背が小さい。人間のサイズで見降ろすと例え色が残っていても、木々に覆い隠されてしまいそうになる。",
       "txt_idk_2": "猫は背が小さい。人間のサイズで見降ろすと例え色が残っていても、木々に覆い隠されてしまいそうになる。"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「……この辺りのはずだけど」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「樹の上は？」",
       "voices": [
         {
@@ -216,103 +216,103 @@
           "voice": "a06_20097"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「ええっと……」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "探すまでもなく鳴き声が聞こえてきた。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "上をみると少し高い枝に子猫がしがみついている。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「ほら、こっちこい」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "手を伸ばす。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "にーにーと鳴き続ける子猫は、迫ってくる俺の手に向けて\\n威嚇のように鳴き続けている。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "にーにーと鳴き続ける子猫は、迫ってくる俺の手に向けて威嚇のように鳴き続けている。",
       "txt_idk_2": "にーにーと鳴き続ける子猫は、迫ってくる俺の手に向けて威嚇のように鳴き続けている。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "それでも逃げる事はなく、捕まえる事が出来た。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「こんな所まで逃げてくるんだな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「普段が心配になるわね」",
       "voices": [
         {
@@ -322,26 +322,26 @@
           "voice": "a06_20098"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「森に接して暮らしてるから、その辺りは案外平気なのかも。\\n街で飼ってる猫も迷路みたいな住宅街の隙間を根城にしている\\n訳だしな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「森に接して暮らしてるから、その辺りは案外平気なのかも。街で飼ってる猫も迷路みたいな住宅街の隙間を根城にしている訳だしな」",
       "txt_idk_2": "「森に接して暮らしてるから、その辺りは案外平気なのかも。街で飼ってる猫も迷路みたいな住宅街の隙間を根城にしている訳だしな」"
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「そうね」",
       "voices": [
         {
@@ -351,48 +351,48 @@
           "voice": "a06_20099"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「じゃ、帰るか。こいつよろしく」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "麗奈に子猫を渡して帰り道を先導して歩く。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "色がはっきり残っているから、たやすく神社まで戻れた。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「ああ、よかった。お二人とも探しました」",
       "voices": [
         {
@@ -402,37 +402,37 @@
           "voice": "b02_20018"
         }
       ],
-      "idk_2": 464,
+      "idk_1": 464,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "境内に戻ると巫女服の優枝さんが待っていた。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「ごめんごめん、こいつが森の中に入っちゃって」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「そうだったんですか。ありがとうございます。\\nよく見つけられましたね」",
       "voices": [
         {
@@ -442,26 +442,26 @@
           "voice": "b02_20019"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「そうだったんですか。ありがとうございます。よく見つけられましたね」",
       "txt_idk_2": "「そうだったんですか。ありがとうございます。よく見つけられましたね」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「あー……うん。麗奈のおかげで」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「そうなのですか？　すごいです」",
       "voices": [
         {
@@ -471,15 +471,15 @@
           "voice": "b02_20020"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「私は何もしていないのよね」",
       "voices": [
         {
@@ -489,26 +489,26 @@
           "voice": "a06_20100"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "思わぬ所からきた賛辞に、麗奈が困ったと髪をかきあげる。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「森の中に入ってるけど大丈夫なのかしら」",
       "voices": [
         {
@@ -518,15 +518,15 @@
           "voice": "a06_20101"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「出来るだけ行かないようにはさせてるのですが、猫ですから\\nどうしても入っちゃいますね……」",
       "voices": [
         {
@@ -536,15 +536,15 @@
           "voice": "b02_20021"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「出来るだけ行かないようにはさせてるのですが、猫ですからどうしても入っちゃいますね……」",
       "txt_idk_2": "「出来るだけ行かないようにはさせてるのですが、猫ですからどうしても入っちゃいますね……」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「最近は遊び場にしているみたいで、体に葉っぱや蜘蛛の巣を\\nつけてくる事も多いですよ」",
       "voices": [
         {
@@ -554,26 +554,26 @@
           "voice": "b02_20022"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「最近は遊び場にしているみたいで、体に葉っぱや蜘蛛の巣をつけてくる事も多いですよ」",
       "txt_idk_2": "「最近は遊び場にしているみたいで、体に葉っぱや蜘蛛の巣をつけてくる事も多いですよ」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「そっか……そこを含めて猫だしな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「……そうね」",
       "voices": [
         {
@@ -583,15 +583,15 @@
           "voice": "a06_20102"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「あ、髪に葉っぱが」",
       "voices": [
         {
@@ -601,37 +601,37 @@
           "voice": "b02_20023"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "優枝さんが麗奈の髪に手を伸ばす。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "絡みついた葉っぱや小枝を取り除いていた。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「あら、ありがとう」",
       "voices": [
         {
@@ -641,15 +641,15 @@
           "voice": "a06_20103"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「いえ。ですが綺麗な髪ですね。普段はどんなケアをされて\\nいるのですか？」",
       "voices": [
         {
@@ -659,15 +659,15 @@
           "voice": "b02_20024"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「いえ。ですが綺麗な髪ですね。普段はどんなケアをされているのですか？」",
       "txt_idk_2": "「いえ。ですが綺麗な髪ですね。普段はどんなケアをされているのですか？」"
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「何もしていないけれど」",
       "voices": [
         {
@@ -677,15 +677,15 @@
           "voice": "a06_20104"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「え……」",
       "voices": [
         {
@@ -695,15 +695,15 @@
           "voice": "b02_20025"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「シャンプーの後にトリートメントはつけるわよ。\\n後は面倒なんでほったらかしておくわ」",
       "voices": [
         {
@@ -713,15 +713,15 @@
           "voice": "a06_20105"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「シャンプーの後にトリートメントはつけるわよ。後は面倒なんでほったらかしておくわ」",
       "txt_idk_2": "「シャンプーの後にトリートメントはつけるわよ。後は面倒なんでほったらかしておくわ」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「本当ですか？」",
       "voices": [
         {
@@ -731,15 +731,15 @@
           "voice": "b02_20026"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「嘘ついても仕方ないじゃない」",
       "voices": [
         {
@@ -749,15 +749,15 @@
           "voice": "a06_20106"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「……それでこの髪に？」",
       "voices": [
         {
@@ -767,15 +767,15 @@
           "voice": "b02_20027"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「寝癖がついたら直したりはするけれど」",
       "voices": [
         {
@@ -785,26 +785,26 @@
           "voice": "a06_20107"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「…………言いたい事は分かるよ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「わかりますか……」",
       "voices": [
         {
@@ -814,15 +814,15 @@
           "voice": "b02_20028"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「なんで男の道隆が、女の優枝と分かりあってるのか\\nそっちの方が気になるわね」",
       "voices": [
         {
@@ -832,26 +832,26 @@
           "voice": "a06_20108"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「なんで男の道隆が、女の優枝と分かりあってるのかそっちの方が気になるわね」",
       "txt_idk_2": "「なんで男の道隆が、女の優枝と分かりあってるのかそっちの方が気になるわね」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「お前には絶対に理解できない領域があるという事実が\\n俺たちを結びつけるんだ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「お前には絶対に理解できない領域があるという事実が俺たちを結びつけるんだ」",
       "txt_idk_2": "「お前には絶対に理解できない領域があるという事実が俺たちを結びつけるんだ」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「はい……」",
       "voices": [
         {
@@ -861,15 +861,15 @@
           "voice": "b02_20029"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「疎外感があって腹立たしいわね」",
       "voices": [
         {
@@ -879,48 +879,48 @@
           "voice": "a06_20109"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "麗奈は不機嫌そうに腕組みしている。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「そうだ、こんな話してる場合じゃなかったんだ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「ちょっと聞きたい事があったんだけど、いいかな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「はい……私にですか？」",
       "voices": [
         {
@@ -930,15 +930,15 @@
           "voice": "b02_20030"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「前に七不思議の事を聞いたわよね」",
       "voices": [
         {
@@ -948,15 +948,15 @@
           "voice": "a06_20110"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「あ、はいっ」",
       "voices": [
         {
@@ -966,15 +966,15 @@
           "voice": "b02_20031"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「月女の七不思議って何があるのかしら」",
       "voices": [
         {
@@ -984,15 +984,15 @@
           "voice": "a06_20111"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「うちのですか？」",
       "voices": [
         {
@@ -1002,26 +1002,26 @@
           "voice": "b02_20032"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「ああ。久住の七不思議の件が完全に行き詰っちゃってるんだ。\\n知ってる当事者に聞こうにも、上手く糸口がつかめなくて。\\nそれでそっちのを聞かせて欲しいんだ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「ああ。久住の七不思議の件が完全に行き詰っちゃってるんだ。知ってる当事者に聞こうにも、上手く糸口がつかめなくて。それでそっちのを聞かせて欲しいんだ」",
       "txt_idk_2": "「ああ。久住の七不思議の件が完全に行き詰っちゃってるんだ。知ってる当事者に聞こうにも、上手く糸口がつかめなくて。それでそっちのを聞かせて欲しいんだ」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「それは構いませんが……」",
       "voices": [
         {
@@ -1031,59 +1031,59 @@
           "voice": "b02_20033"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "優枝さんは首をかしげている。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "彼女からすると、自分の所に伝わっているのはただの怖い話で\\n久住学園のは『本物』だ。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "彼女からすると、自分の所に伝わっているのはただの怖い話で久住学園のは『本物』だ。",
       "txt_idk_2": "彼女からすると、自分の所に伝わっているのはただの怖い話で久住学園のは『本物』だ。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "なんでわざわざと思ってるのかもしれない。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「合わせて語られるくらいだから、共通点があると思って。\\n全く関係ない物なら一緒に語るなんてしないから」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「合わせて語られるくらいだから、共通点があると思って。全く関係ない物なら一緒に語るなんてしないから」",
       "txt_idk_2": "「合わせて語られるくらいだから、共通点があると思って。全く関係ない物なら一緒に語るなんてしないから」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「なるほどですね」",
       "voices": [
         {
@@ -1093,15 +1093,15 @@
           "voice": "b02_20034"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「少し長くなるので社務所に猫を入れてきます。\\nお茶もお出ししますので、良かったらこちらにどうでしょう」",
       "voices": [
         {
@@ -1111,37 +1111,37 @@
           "voice": "b02_20035"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「少し長くなるので社務所に猫を入れてきます。お茶もお出ししますので、良かったらこちらにどうでしょう」",
       "txt_idk_2": "「少し長くなるので社務所に猫を入れてきます。お茶もお出ししますので、良かったらこちらにどうでしょう」"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "優枝さんが本殿の庇の下を示した。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "石段の上よりよほど話すのに適している。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「ありがたく貰うわ」",
       "voices": [
         {
@@ -1151,37 +1151,37 @@
           "voice": "a06_20112"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「俺も」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "優枝さんに感謝して場所を移した。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「うちのは部活動に関係した話が多いです」",
       "voices": [
         {
@@ -1191,26 +1191,26 @@
           "voice": "b02_20036"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "そう前置きして話を始める。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「最初がプールサイドに出る幽霊。\\n昔、部活中に事故で溺れ死んだ子が夜にプールで泳いでいて\\n近づく者を水に引き込むという物です」",
       "voices": [
         {
@@ -1220,15 +1220,15 @@
           "voice": "b02_20037"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「最初がプールサイドに出る幽霊。昔、部活中に事故で溺れ死んだ子が夜にプールで泳いでいて近づく者を水に引き込むという物です」",
       "txt_idk_2": "「最初がプールサイドに出る幽霊。昔、部活中に事故で溺れ死んだ子が夜にプールで泳いでいて近づく者を水に引き込むという物です」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「次が音楽室の怪です」",
       "voices": [
         {
@@ -1238,26 +1238,26 @@
           "voice": "b02_20038"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "音楽室……うちのと同じだ。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「夜にピアノが自動的に鳴るという定番の物ですね」",
       "voices": [
         {
@@ -1267,15 +1267,15 @@
           "voice": "b02_20039"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「それだけ？」",
       "voices": [
         {
@@ -1285,15 +1285,15 @@
           "voice": "a06_20113"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「え？　はい、そうです。\\n吹奏楽部で聞いた人が何人かいるみたいです」",
       "voices": [
         {
@@ -1303,15 +1303,15 @@
           "voice": "b02_20040"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「え？　はい、そうです。吹奏楽部で聞いた人が何人かいるみたいです」",
       "txt_idk_2": "「え？　はい、そうです。吹奏楽部で聞いた人が何人かいるみたいです」"
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「わかったわ。続けて」",
       "voices": [
         {
@@ -1321,15 +1321,15 @@
           "voice": "a06_20114"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「３つ目が校庭の桜の木。\\n月女のこれまでの歴史で五人自殺者がいるのですが、全てが\\n同じ桜の木で首を吊っているようです」",
       "voices": [
         {
@@ -1339,15 +1339,15 @@
           "voice": "b02_20041"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「３つ目が校庭の桜の木。月女のこれまでの歴史で五人自殺者がいるのですが、全てが同じ桜の木で首を吊っているようです」",
       "txt_idk_2": "「３つ目が校庭の桜の木。月女のこれまでの歴史で五人自殺者がいるのですが、全てが同じ桜の木で首を吊っているようです」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「心が弱るとその樹と死者に連れていかれてしまうとか……」",
       "voices": [
         {
@@ -1357,26 +1357,26 @@
           "voice": "b02_20042"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「本当に自殺者が？」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「さあ、どうなのでしょう？」",
       "voices": [
         {
@@ -1386,26 +1386,26 @@
           "voice": "b02_20043"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "七不思議なんてこんなもんだ。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「４つ目が校長室です。\\n特定のとある時間……私が聞いた話だと１１月１１日の日付が\\n変わる瞬間、校長室の扉が別の世界に繋がるという物です」",
       "voices": [
         {
@@ -1415,15 +1415,15 @@
           "voice": "b02_20044"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「４つ目が校長室です。特定のとある時間……私が聞いた話だと１１月１１日の日付が変わる瞬間、校長室の扉が別の世界に繋がるという物です」",
       "txt_idk_2": "「４つ目が校長室です。特定のとある時間……私が聞いた話だと１１月１１日の日付が変わる瞬間、校長室の扉が別の世界に繋がるという物です」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「５つ目が裏庭の焼却炉です」",
       "voices": [
         {
@@ -1433,37 +1433,37 @@
           "voice": "b02_20045"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「……焼却炉」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "先日のチョークの一件を思い出した。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「いじめられっ子が中に鞄を隠されて、入った時に入り口を\\n閉められたそうなんです」",
       "voices": [
         {
@@ -1473,15 +1473,15 @@
           "voice": "b02_20046"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「いじめられっ子が中に鞄を隠されて、入った時に入り口を閉められたそうなんです」",
       "txt_idk_2": "「いじめられっ子が中に鞄を隠されて、入った時に入り口を閉められたそうなんです」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「その時は連休前で出られなくなった子は、そのまま中に\\n閉じ込められて衰弱してしまい、連休明けに用務員さんが\\n人がいると知らないまま火を付けてしまったとか……」",
       "voices": [
         {
@@ -1491,26 +1491,26 @@
           "voice": "b02_20047"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「その時は連休前で出られなくなった子は、そのまま中に閉じ込められて衰弱してしまい、連休明けに用務員さんが人がいると知らないまま火を付けてしまったとか……」",
       "txt_idk_2": "「その時は連休前で出られなくなった子は、そのまま中に閉じ込められて衰弱してしまい、連休明けに用務員さんが人がいると知らないまま火を付けてしまったとか……」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「なかなかグロい話だな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「似た話を前に何かで見た気がするわ。\\n本かテレビか忘れたけれど」",
       "voices": [
         {
@@ -1520,15 +1520,15 @@
           "voice": "a06_20115"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「似た話を前に何かで見た気がするわ。本かテレビか忘れたけれど」",
       "txt_idk_2": "「似た話を前に何かで見た気がするわ。本かテレビか忘れたけれど」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「元は同じ話なのかもしれませんね」",
       "voices": [
         {
@@ -1538,15 +1538,15 @@
           "voice": "b02_20048"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「６つ目が屋上の影です。\\n月女は屋上が立ち入り禁止になっているのですが、見上げると\\n屋上に人影があるんです」",
       "voices": [
         {
@@ -1556,15 +1556,15 @@
           "voice": "b02_20049"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「６つ目が屋上の影です。月女は屋上が立ち入り禁止になっているのですが、見上げると屋上に人影があるんです」",
       "txt_idk_2": "「６つ目が屋上の影です。月女は屋上が立ち入り禁止になっているのですが、見上げると屋上に人影があるんです」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「どうやって上ったのだろうと見ていると、やがてその人物は\\n飛び降り自殺をしてしまいます。慌てて駆け寄ってもそこには\\n誰もいないんです」",
       "voices": [
         {
@@ -1574,15 +1574,15 @@
           "voice": "b02_20050"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「どうやって上ったのだろうと見ていると、やがてその人物は飛び降り自殺をしてしまいます。慌てて駆け寄ってもそこには誰もいないんです」",
       "txt_idk_2": "「どうやって上ったのだろうと見ていると、やがてその人物は飛び降り自殺をしてしまいます。慌てて駆け寄ってもそこには誰もいないんです」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「そして気がつくと、自分が屋上の端に立っているんです。\\n体が動かなくて何も無い空中に向かって倒れて、屋上から\\n落ちていく……」",
       "voices": [
         {
@@ -1592,15 +1592,15 @@
           "voice": "b02_20051"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「そして気がつくと、自分が屋上の端に立っているんです。体が動かなくて何も無い空中に向かって倒れて、屋上から落ちていく……」",
       "txt_idk_2": "「そして気がつくと、自分が屋上の端に立っているんです。体が動かなくて何も無い空中に向かって倒れて、屋上から落ちていく……」"
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「後半は具体的になってくるわね」",
       "voices": [
         {
@@ -1610,15 +1610,15 @@
           "voice": "a06_20116"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「取り返しのつかない事が後ろに回されているのでしょうね」",
       "voices": [
         {
@@ -1628,15 +1628,15 @@
           "voice": "b02_20052"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「７つ目が教室にいる謎の生徒です。\\nある日仲良くなった女子生徒がいるのですが、その子のクラス\\nが分からないんです」",
       "voices": [
         {
@@ -1646,15 +1646,15 @@
           "voice": "b02_20053"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「７つ目が教室にいる謎の生徒です。ある日仲良くなった女子生徒がいるのですが、その子のクラスが分からないんです」",
       "txt_idk_2": "「７つ目が教室にいる謎の生徒です。ある日仲良くなった女子生徒がいるのですが、その子のクラスが分からないんです」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「交流は続いていくのですが、どこの誰とも分からない。\\nでもその子は存在していない生徒……という話です」",
       "voices": [
         {
@@ -1664,15 +1664,15 @@
           "voice": "b02_20054"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「交流は続いていくのですが、どこの誰とも分からない。でもその子は存在していない生徒……という話です」",
       "txt_idk_2": "「交流は続いていくのですが、どこの誰とも分からない。でもその子は存在していない生徒……という話です」"
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「その話のオチは異世界に連れていかれる物？\\nそれとも死亡オチかしら」",
       "voices": [
         {
@@ -1682,26 +1682,26 @@
           "voice": "a06_20117"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「その話のオチは異世界に連れていかれる物？それとも死亡オチかしら」",
       "txt_idk_2": "「その話のオチは異世界に連れていかれる物？それとも死亡オチかしら」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「……途端にホラーからコメディになる言い方だな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「別にいいでしょ」",
       "voices": [
         {
@@ -1711,15 +1711,15 @@
           "voice": "a06_20118"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「異世界オチです……その子の世界に連れていかれるという\\n終わりになります」",
       "voices": [
         {
@@ -1729,26 +1729,26 @@
           "voice": "b02_20055"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「異世界オチです……その子の世界に連れていかれるという終わりになります」",
       "txt_idk_2": "「異世界オチです……その子の世界に連れていかれるという終わりになります」"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "真面目に語っていた優枝さんも、どこか意気消沈している\\nように見えるのは気のせいだろうか。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "真面目に語っていた優枝さんも、どこか意気消沈しているように見えるのは気のせいだろうか。",
       "txt_idk_2": "真面目に語っていた優枝さんも、どこか意気消沈しているように見えるのは気のせいだろうか。"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「８つ目が体育館の音です」",
       "voices": [
         {
@@ -1758,15 +1758,15 @@
           "voice": "b02_20056"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「ちょっと待って」",
       "voices": [
         {
@@ -1776,26 +1776,26 @@
           "voice": "a06_20119"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「８つ目？」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「えっと……はい……」",
       "voices": [
         {
@@ -1805,26 +1805,26 @@
           "voice": "b02_20057"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "優枝さんは居心地が悪そうだ。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「先輩方が面白がって教えてくれるのですが、人によって\\n内容が違うので、合計するとこういう事に」",
       "voices": [
         {
@@ -1834,26 +1834,26 @@
           "voice": "b02_20058"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「先輩方が面白がって教えてくれるのですが、人によって内容が違うので、合計するとこういう事に」",
       "txt_idk_2": "「先輩方が面白がって教えてくれるのですが、人によって内容が違うので、合計するとこういう事に」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「それで元の数をオーバーしてる訳か」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「これまでどんな話が出ていたとしても、これで一気に恐怖感が消えるわね」",
       "voices": [
         {
@@ -1863,15 +1863,15 @@
           "voice": "a06_20120"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「恐縮です……」",
       "voices": [
         {
@@ -1881,15 +1881,15 @@
           "voice": "b02_20059"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「これは誰もいない体育館に運動する音が響いていて\\n中に入ると誰もいないという物です」",
       "voices": [
         {
@@ -1899,15 +1899,15 @@
           "voice": "b02_20060"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「これは誰もいない体育館に運動する音が響いていて中に入ると誰もいないという物です」",
       "txt_idk_2": "「これは誰もいない体育館に運動する音が響いていて中に入ると誰もいないという物です」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「９つ目が中庭の怪です」",
       "voices": [
         {
@@ -1917,26 +1917,26 @@
           "voice": "b02_20061"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「もう突っ込みいれないから続けてくれ……」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「五人そろって四天王みたいな雰囲気になってきたわね」",
       "voices": [
         {
@@ -1946,15 +1946,15 @@
           "voice": "a06_20121"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「……はい……」",
       "voices": [
         {
@@ -1964,15 +1964,15 @@
           "voice": "b02_20062"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「こちらも……えっと、異世界オチです。\\n昔亡くなった人の幽霊が中庭にいて、いつしか自分もそちらの\\n世界に行ってしまうという物です」",
       "voices": [
         {
@@ -1982,15 +1982,15 @@
           "voice": "b02_20063"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「こちらも……えっと、異世界オチです。昔亡くなった人の幽霊が中庭にいて、いつしか自分もそちらの世界に行ってしまうという物です」",
       "txt_idk_2": "「こちらも……えっと、異世界オチです。昔亡くなった人の幽霊が中庭にいて、いつしか自分もそちらの世界に行ってしまうという物です」"
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「で、１０個目は？」",
       "voices": [
         {
@@ -2000,15 +2000,15 @@
           "voice": "a06_20122"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「これで終わりです」",
       "voices": [
         {
@@ -2018,15 +2018,15 @@
           "voice": "b02_20064"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「なんだ、そうなの」",
       "voices": [
         {
@@ -2036,37 +2036,37 @@
           "voice": "a06_20123"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「……なぜそこで落胆する」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「しかし話を聞いてると異世界オチが多いな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「でも大体見えてきたわね」",
       "voices": [
         {
@@ -2076,70 +2076,70 @@
           "voice": "a06_20124"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "異世界オチが多い月女の七不思議と並列で語られるなら、\\nうちの音楽室も異世界オチだろう。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "異世界オチが多い月女の七不思議と並列で語られるなら、うちの音楽室も異世界オチだろう。",
       "txt_idk_2": "異世界オチが多い月女の七不思議と並列で語られるなら、うちの音楽室も異世界オチだろう。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "わざわざ違う物を並べるとは考えにくい。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "……ただ、そんな予想を遥かに超えて起きる『本物』という\\n可能性もあるが。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "……ただ、そんな予想を遥かに超えて起きる『本物』という可能性もあるが。",
       "txt_idk_2": "……ただ、そんな予想を遥かに超えて起きる『本物』という可能性もあるが。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "その場合だとしても、どっちにしろ自宅に『本物』がいる状況\\nに比べれば大した事はないはずだ。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "その場合だとしても、どっちにしろ自宅に『本物』がいる状況に比べれば大した事はないはずだ。",
       "txt_idk_2": "その場合だとしても、どっちにしろ自宅に『本物』がいる状況に比べれば大した事はないはずだ。"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「ちなみに月女で言われる久住の七不思議って、これらが\\n語られた後の、総まとめとして付け加えられる扱い？」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「ちなみに月女で言われる久住の七不思議って、これらが語られた後の、総まとめとして付け加えられる扱い？」",
       "txt_idk_2": "「ちなみに月女で言われる久住の七不思議って、これらが語られた後の、総まとめとして付け加えられる扱い？」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「いえ、そういう訳ではないです」",
       "voices": [
         {
@@ -2149,15 +2149,15 @@
           "voice": "b02_20065"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「当たり前じゃない。何話しても最後の締めが『余所の学園の\\n方が怖い』では怪談として成立しないわ」",
       "voices": [
         {
@@ -2167,26 +2167,26 @@
           "voice": "a06_20125"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「当たり前じゃない。何話しても最後の締めが『余所の学園の方が怖い』では怪談として成立しないわ」",
       "txt_idk_2": "「当たり前じゃない。何話しても最後の締めが『余所の学園の方が怖い』では怪談として成立しないわ」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「まあなぁ……そうなると、実際はどういう状況で久住の\\n七不思議が出てくるんだ？」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「まあなぁ……そうなると、実際はどういう状況で久住の七不思議が出てくるんだ？」",
       "txt_idk_2": "「まあなぁ……そうなると、実際はどういう状況で久住の七不思議が出てくるんだ？」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「裏の怪談のような扱いです。\\n私は進学前からの知り合いだった先輩も月女に通われて\\nいましたので、そちらの方から教えて貰いました」",
       "voices": [
         {
@@ -2196,48 +2196,48 @@
           "voice": "b02_20066"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「裏の怪談のような扱いです。私は進学前からの知り合いだった先輩も月女に通われていましたので、そちらの方から教えて貰いました」",
       "txt_idk_2": "「裏の怪談のような扱いです。私は進学前からの知り合いだった先輩も月女に通われていましたので、そちらの方から教えて貰いました」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「裏の怪談……ねぇ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "裏と表とは、また意味深な言葉だ。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "普通の怪談が新入生や後輩を驚かせたり、話題作りのための\\nエンターテイメントなら、裏というのはひっそりと語り継ぐ\\n秘密というイメージがある。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "普通の怪談が新入生や後輩を驚かせたり、話題作りのためのエンターテイメントなら、裏というのはひっそりと語り継ぐ秘密というイメージがある。",
       "txt_idk_2": "普通の怪談が新入生や後輩を驚かせたり、話題作りのためのエンターテイメントなら、裏というのはひっそりと語り継ぐ秘密というイメージがある。"
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「そもそもどこでどうやって、うちから月女に伝わったのかも\\n分からない話なのよね」",
       "voices": [
         {
@@ -2247,15 +2247,15 @@
           "voice": "a06_20126"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「そもそもどこでどうやって、うちから月女に伝わったのかも分からない話なのよね」",
       "txt_idk_2": "「そもそもどこでどうやって、うちから月女に伝わったのかも分からない話なのよね」"
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「今さら真面目に考える必要があるのか疑問に思えてきたわ」",
       "voices": [
         {
@@ -2265,15 +2265,15 @@
           "voice": "a06_20127"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「あ！　それは分かります」",
       "voices": [
         {
@@ -2283,15 +2283,15 @@
           "voice": "b02_20067"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「そうなの？」",
       "voices": [
         {
@@ -2301,15 +2301,15 @@
           "voice": "a06_20128"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「はい。今は滅多に行われていないみたいなのですが、昔は\\n近くの学園での合同合宿があったそうなんです」",
       "voices": [
         {
@@ -2319,15 +2319,15 @@
           "voice": "b02_20068"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「はい。今は滅多に行われていないみたいなのですが、昔は近くの学園での合同合宿があったそうなんです」",
       "txt_idk_2": "「はい。今は滅多に行われていないみたいなのですが、昔は近くの学園での合同合宿があったそうなんです」"
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「そこでお互いの七不思議を教え合ったり、校舎を使っての\\n肝試しをする事があったらしく、その時の体験が元になって\\nいると伺ってます」",
       "voices": [
         {
@@ -2337,26 +2337,26 @@
           "voice": "b02_20069"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「そこでお互いの七不思議を教え合ったり、校舎を使っての肝試しをする事があったらしく、その時の体験が元になっていると伺ってます」",
       "txt_idk_2": "「そこでお互いの七不思議を教え合ったり、校舎を使っての肝試しをする事があったらしく、その時の体験が元になっていると伺ってます」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「何があったのか具体的な事は分からない？」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「はい……」",
       "voices": [
         {
@@ -2366,26 +2366,26 @@
           "voice": "b02_20070"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「体験って事は、月女の子がうちで合宿中に何かあった訳\\nだよな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「体験って事は、月女の子がうちで合宿中に何かあった訳だよな」",
       "txt_idk_2": "「体験って事は、月女の子がうちで合宿中に何かあった訳だよな」"
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「はっきりそう言われるだけの事件なら、記録に残ってるん\\nじゃないかしら」",
       "voices": [
         {
@@ -2395,26 +2395,26 @@
           "voice": "a06_20129"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「はっきりそう言われるだけの事件なら、記録に残ってるんじゃないかしら」",
       "txt_idk_2": "「はっきりそう言われるだけの事件なら、記録に残ってるんじゃないかしら」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「かもな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "優枝",
-      "idk_1": null,
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
       "txt": "「調べに行くのですか？」",
       "voices": [
         {
@@ -2424,59 +2424,59 @@
           "voice": "b02_20071"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「いや……」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "大昔の事件は今は関係がない。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "波多野が何をしたいと思って、どんな願いだったのかが\\n気になるだけで、七不思議の調査自体はどうでもいい。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "波多野が何をしたいと思って、どんな願いだったのかが気になるだけで、七不思議の調査自体はどうでもいい。",
       "txt_idk_2": "波多野が何をしたいと思って、どんな願いだったのかが気になるだけで、七不思議の調査自体はどうでもいい。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "麗奈も同じ気持ちのようだった。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「時間もないし手間もかかりそうよね。\\nそれに異世界オチが多い月女の七不思議と合わせてなら\\n合宿中に行方不明になったとか、その辺りでしょ」",
       "voices": [
         {
@@ -2486,15 +2486,15 @@
           "voice": "a06_20130"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「時間もないし手間もかかりそうよね。それに異世界オチが多い月女の七不思議と合わせてなら合宿中に行方不明になったとか、その辺りでしょ」",
       "txt_idk_2": "「時間もないし手間もかかりそうよね。それに異世界オチが多い月女の七不思議と合わせてなら合宿中に行方不明になったとか、その辺りでしょ」"
     },
     {
-      "character_speaking": "麗奈",
-      "idk_1": null,
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
       "txt": "「でも、それだと……」",
       "voices": [
         {
@@ -2504,53 +2504,53 @@
           "voice": "a06_20131"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「……だよな」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "何となく気が重くなる。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "もしもそうだとしたら、波多野は……。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "自分の母親が居なくなる事を願っている……？",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     }

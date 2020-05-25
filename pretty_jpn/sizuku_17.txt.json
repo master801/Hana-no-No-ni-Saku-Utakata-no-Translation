@@ -1,30 +1,30 @@
 [
   [
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "太陽が沈み、いつしか窓の外も暗くなっていた。",
       "voices": null,
-      "idk_2": 464,
+      "idk_1": 464,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "地平線に残る赤と橙と紫が入り混じった残滓も消えると\\n月の光が淡く教室を映し出す。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "地平線に残る赤と橙と紫が入り混じった残滓も消えると月の光が淡く教室を映し出す。",
       "txt_idk_2": "地平線に残る赤と橙と紫が入り混じった残滓も消えると月の光が淡く教室を映し出す。"
     },
     {
-      "character_speaking": "雫",
-      "idk_1": null,
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
       "txt": "「……改めて、私もずいぶん毒されていると思う」",
       "voices": [
         {
@@ -34,37 +34,37 @@
           "voice": "a05_30805"
         }
       ],
-      "idk_2": 464,
+      "idk_1": 464,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "教卓の上に手鏡をおく。\\n俺の鞄や厚い教科書などで挟んで、こちらに向いて立つように\\n固定した。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "教卓の上に手鏡をおく。俺の鞄や厚い教科書などで挟んで、こちらに向いて立つように固定した。",
       "txt_idk_2": "教卓の上に手鏡をおく。俺の鞄や厚い教科書などで挟んで、こちらに向いて立つように固定した。"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「どうしてですか？」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "雫",
-      "idk_1": null,
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
       "txt": "「だってあなた達に出会って、本物の不思議があるって\\n知ってしまったから」",
       "voices": [
         {
@@ -74,15 +74,15 @@
           "voice": "a05_30806"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「だってあなた達に出会って、本物の不思議があるって知ってしまったから」",
       "txt_idk_2": "「だってあなた達に出会って、本物の不思議があるって知ってしまったから」"
     },
     {
-      "character_speaking": "雫",
-      "idk_1": null,
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
       "txt": "「知り合う前だったら、絶対にこんな事はしてなかったわよ」",
       "voices": [
         {
@@ -92,48 +92,48 @@
           "voice": "a05_30807"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「……なるほど」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "こちらで使う鏡は、生徒会室に置かれていた物があったので\\n借りる事にした。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "こちらで使う鏡は、生徒会室に置かれていた物があったので借りる事にした。",
       "txt_idk_2": "こちらで使う鏡は、生徒会室に置かれていた物があったので借りる事にした。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "老朽化した建物から取り外した物を、予備として置いている\\nらしい。使い道もない物だからちょうどいい。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "老朽化した建物から取り外した物を、予備として置いているらしい。使い道もない物だからちょうどいい。",
       "txt_idk_2": "老朽化した建物から取り外した物を、予備として置いているらしい。使い道もない物だからちょうどいい。"
     },
     {
-      "character_speaking": "雫",
-      "idk_1": null,
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
       "txt": "「…………新堂君は、これがもしも本物だったらと考えると\\n怖くなったりはしない？」",
       "voices": [
         {
@@ -143,37 +143,37 @@
           "voice": "a05_30808"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「…………新堂君は、これがもしも本物だったらと考えると怖くなったりはしない？」",
       "txt_idk_2": "「…………新堂君は、これがもしも本物だったらと考えると怖くなったりはしない？」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「怖いと言えば怖いですけど……」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「先輩がわざわざ時間を待って、試してみようと言うのは\\n単なる好奇心だけじゃないですよね」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「先輩がわざわざ時間を待って、試してみようと言うのは単なる好奇心だけじゃないですよね」",
       "txt_idk_2": "「先輩がわざわざ時間を待って、試してみようと言うのは単なる好奇心だけじゃないですよね」"
     },
     {
-      "character_speaking": "雫",
-      "idk_1": null,
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
       "txt": "「ええ」",
       "voices": [
         {
@@ -183,26 +183,26 @@
           "voice": "a05_30809"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「多分……昔の経験は、先輩の中で強く根付いてしまっている。\\nそれこそ、人格面に影響するまで」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「多分……昔の経験は、先輩の中で強く根付いてしまっている。それこそ、人格面に影響するまで」",
       "txt_idk_2": "「多分……昔の経験は、先輩の中で強く根付いてしまっている。それこそ、人格面に影響するまで」"
     },
     {
-      "character_speaking": "雫",
-      "idk_1": null,
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
       "txt": "「新堂君と同じようにね」",
       "voices": [
         {
@@ -212,48 +212,48 @@
           "voice": "a05_30810"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「ええ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "それを根拠に言ったのだが、読み取られてしまっては苦笑\\nするしかない。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "それを根拠に言ったのだが、読み取られてしまっては苦笑するしかない。",
       "txt_idk_2": "それを根拠に言ったのだが、読み取られてしまっては苦笑するしかない。"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「だからといって、先輩が約束を守らず鏡を神社に持って\\nいかないとも思えない……なら、多分今が最初で最後の\\nチャンスって事ぐらい、俺にも分かりますよ」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「だからといって、先輩が約束を守らず鏡を神社に持っていかないとも思えない……なら、多分今が最初で最後のチャンスって事ぐらい、俺にも分かりますよ」",
       "txt_idk_2": "「だからといって、先輩が約束を守らず鏡を神社に持っていかないとも思えない……なら、多分今が最初で最後のチャンスって事ぐらい、俺にも分かりますよ」"
     },
     {
-      "character_speaking": "雫",
-      "idk_1": null,
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
       "txt": "「何も無ければいいの。でも、万が一にも本当に何かが\\nあったら？　と思ってしまうのも事実よ」",
       "voices": [
         {
@@ -263,15 +263,15 @@
           "voice": "a05_30811"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「何も無ければいいの。でも、万が一にも本当に何かがあったら？　と思ってしまうのも事実よ」",
       "txt_idk_2": "「何も無ければいいの。でも、万が一にも本当に何かがあったら？　と思ってしまうのも事実よ」"
     },
     {
-      "character_speaking": "雫",
-      "idk_1": null,
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
       "txt": "「……今ここで止めるべきかもしれないわ」",
       "voices": [
         {
@@ -281,26 +281,26 @@
           "voice": "a05_30812"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「そうですね……それが正しいかもしれないです。\\nあるいは準備をして、いずれまたの機会を待つとか」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「そうですね……それが正しいかもしれないです。あるいは準備をして、いずれまたの機会を待つとか」",
       "txt_idk_2": "「そうですね……それが正しいかもしれないです。あるいは準備をして、いずれまたの機会を待つとか」"
     },
     {
-      "character_speaking": "雫",
-      "idk_1": null,
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
       "txt": "「ええ」",
       "voices": [
         {
@@ -310,59 +310,59 @@
           "voice": "a05_30813"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "神主さんに渡しても、借りてくる手もある。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "……しかし、本当に失われた祭器だったとしたら？\\n他人に渡してくれるだろうか。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "……しかし、本当に失われた祭器だったとしたら？他人に渡してくれるだろうか。",
       "txt_idk_2": "……しかし、本当に失われた祭器だったとしたら？他人に渡してくれるだろうか。"
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "……無理そうな気がする。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "となると、今この時間が試す最後のチャンスだ。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": "雫",
-      "idk_1": null,
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
       "txt": "「もし何かあったとしたら、新堂君が頼みになるわ。\\n決めて貰ってもいい？　私はそれに従うから」",
       "voices": [
         {
@@ -372,31 +372,31 @@
           "voice": "a05_30814"
         }
       ],
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": "「もし何かあったとしたら、新堂君が頼みになるわ。決めて貰ってもいい？　私はそれに従うから」",
       "txt_idk_2": "「もし何かあったとしたら、新堂君が頼みになるわ。決めて貰ってもいい？　私はそれに従うから」"
     },
     {
-      "character_speaking": "道隆",
-      "idk_1": null,
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
       "txt": "「わかりました」",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     },
     {
-      "character_speaking": null,
-      "idk_1": null,
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
       "txt": "俺は――。",
       "voices": null,
-      "idk_2": 448,
+      "idk_1": 448,
       "scene_data": null,
-      "idk_3": null,
+      "idk_2": null,
       "txt_idk_1": null,
       "txt_idk_2": null
     }
