@@ -1,0 +1,1827 @@
+[
+  [
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――俺と桜花で踏みとどまる。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「汐音！　先行けっ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花と並んで汐音の盾になるように位置取る。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "背後の汐音に向けて、早く行くように手を振った。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "汐音",
+      "idk_1": null,
+      "txt": "「で、でもぉっ」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_50001"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「いいから！　早くっ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "汐音",
+      "idk_1": null,
+      "txt": "「う――うんっ」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_50002"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "汐音がじりじりと後ろに下がる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「お前も行けっ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "重ねて背後の奴に声を掛ける。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そいつも連れてけ――早くっ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "汐音",
+      "idk_1": null,
+      "txt": "「わ、わかったよ……っ」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_50003"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "走る音が徐々に遠ざかっていく。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "いくら公園の奥とはいえ夜の森の中だ。\\n一度離れてしまえば追いつく事は出来ないだろう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "いくら公園の奥とはいえ夜の森の中だ。一度離れてしまえば追いつく事は出来ないだろう。",
+      "txt_idk_2": "いくら公園の奥とはいえ夜の森の中だ。一度離れてしまえば追いつく事は出来ないだろう。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ボクが囮になろう。\\n道隆が後をつけて後ろから攻撃だ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50001"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ボクが囮になろう。道隆が後をつけて後ろから攻撃だ」",
+      "txt_idk_2": "「ボクが囮になろう。道隆が後をつけて後ろから攻撃だ」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「わかった」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「いくよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50002"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "掛け声とともに、桜花がまっすぐ突っ込んだ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "金髪めがけて一直線に。\\n合図された俺でさえ、あまりの無謀さに面食らった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "金髪めがけて一直線に。合図された俺でさえ、あまりの無謀さに面食らった。",
+      "txt_idk_2": "金髪めがけて一直線に。合図された俺でさえ、あまりの無謀さに面食らった。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "突っ込まれた側は更に驚いた事だろう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ふふ、遅い遅い」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50003"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "連中が桜花に向けて手を伸ばす。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "袴は布地が多く掴みやすい。それにも関わらず、桜花は\\n紙一重で交わし、すり抜けるように走り抜けた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "袴は布地が多く掴みやすい。それにも関わらず、桜花は紙一重で交わし、すり抜けるように走り抜けた。",
+      "txt_idk_2": "袴は布地が多く掴みやすい。それにも関わらず、桜花は紙一重で交わし、すり抜けるように走り抜けた。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……あいつ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "すり抜けるようにじゃない。\\n完全にすり抜けてやがる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "すり抜けるようにじゃない。完全にすり抜けてやがる。",
+      "txt_idk_2": "すり抜けるようにじゃない。完全にすり抜けてやがる。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "（幽霊は反則だな……）",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花が注目を集めている間に、出来るだけ足音を消しながら\\n反対方向に移動した。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "桜花が注目を集めている間に、出来るだけ足音を消しながら反対方向に移動した。",
+      "txt_idk_2": "桜花が注目を集めている間に、出来るだけ足音を消しながら反対方向に移動した。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "連中の『色』の痕跡を見ながら、森の中を回りこんだ。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ふぅぅ……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "深呼吸して心と体を落ち着かせようと努力する。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "その間にも口から飛び出しそうな程に、心臓が鼓動を打ち\\n鳴らしている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "その間にも口から飛び出しそうな程に、心臓が鼓動を打ち鳴らしている。",
+      "txt_idk_2": "その間にも口から飛び出しそうな程に、心臓が鼓動を打ち鳴らしている。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "落ち着こうとしても、全然効果がなかった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "（……でも……行くか）",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "正直、この手の事は慣れていない。\\n足はがくがくと細かい震えが走っている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "正直、この手の事は慣れていない。足はがくがくと細かい震えが走っている。",
+      "txt_idk_2": "正直、この手の事は慣れていない。足はがくがくと細かい震えが走っている。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "けれど――今この前の空間。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "夜の暗い森の赤に見える、他人の移動した痕跡と色。\\nそれらを見分けて後を追うのは、俺だけが出来る利点だ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "夜の暗い森の赤に見える、他人の移動した痕跡と色。それらを見分けて後を追うのは、俺だけが出来る利点だ。",
+      "txt_idk_2": "夜の暗い森の赤に見える、他人の移動した痕跡と色。それらを見分けて後を追うのは、俺だけが出来る利点だ。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "そして連中はこれを知らない。\\n警戒すら出来ない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "そして連中はこれを知らない。警戒すら出来ない。",
+      "txt_idk_2": "そして連中はこれを知らない。警戒すら出来ない。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "相手よりも絶対有利な武器を持っている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "その事に少しだけ安心をおぼえる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「どうした、こっちだよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50004"
+        }
+      ],
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花が相手を挑発する声が聞こえる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "五人中三人は、桜花を捕まえようと躍起になっているようだ。\\n俺の事も探しているのは、残りの二人。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "五人中三人は、桜花を捕まえようと躍起になっているようだ。俺の事も探しているのは、残りの二人。",
+      "txt_idk_2": "五人中三人は、桜花を捕まえようと躍起になっているようだ。俺の事も探しているのは、残りの二人。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "（…………よし）",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "少し考えて、決めた。\\n桜花を追い回してる数を減らそう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "少し考えて、決めた。桜花を追い回してる数を減らそう。",
+      "txt_idk_2": "少し考えて、決めた。桜花を追い回してる数を減らそう。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "見つからないように身をひそめながら、森の中を移動する。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "俺を追いかけてくる奴の痕跡、辿った道筋。\\nそれから、桜花を追いかけていった連中の経路。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "俺を追いかけてくる奴の痕跡、辿った道筋。それから、桜花を追いかけていった連中の経路。",
+      "txt_idk_2": "俺を追いかけてくる奴の痕跡、辿った道筋。それから、桜花を追いかけていった連中の経路。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "これらがすべて分かる現状、見通しの悪い森は完全に俺の味方だ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――いた。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花は相手をおちょくるようにしながら、わざとらしく\\n飛んだり跳ねたりしながら森の中を動いている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "桜花は相手をおちょくるようにしながら、わざとらしく飛んだり跳ねたりしながら森の中を動いている。",
+      "txt_idk_2": "桜花は相手をおちょくるようにしながら、わざとらしく飛んだり跳ねたりしながら森の中を動いている。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ふふ、うふふふ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50005"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "笑い声が森の中に木霊する。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "（あいつ……）",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "少しずつ近づき、耳をすませる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "\\x『や、やべぇよ……』\\n『こいつ普通じゃねぇよ』",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "『や、やべぇよ……』『こいつ普通じゃねぇよ』",
+      "txt_idk_2": "『や、やべぇよ……』『こいつ普通じゃねぇよ』"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……その意見には完全に同意だ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……桜花は演技なんだろうけど、心底楽しんでいるように\\nしか見えない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "……桜花は演技なんだろうけど、心底楽しんでいるようにしか見えない。",
+      "txt_idk_2": "……桜花は演技なんだろうけど、心底楽しんでいるようにしか見えない。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "なるほど、森の中でこれをやられたら、桜花一人で足止めが\\n出来る。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "なるほど、森の中でこれをやられたら、桜花一人で足止めが出来る。",
+      "txt_idk_2": "なるほど、森の中でこれをやられたら、桜花一人で足止めが出来る。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ついでに今のような状況でなら……。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "両手を組んで後ろに回る。\\n桜花に気を取られてる男の、後頭部目指して――。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "両手を組んで後ろに回る。桜花に気を取られてる男の、後頭部目指して――。",
+      "txt_idk_2": "両手を組んで後ろに回る。桜花に気を取られてる男の、後頭部目指して――。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "振り下ろした。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "頭を押さえてうずくまる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "一撃で失神とはいかないが、かなりのダメージのはずだ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ついでにそのまま前に蹴り飛ばして、地面に倒した。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "金髪",
+      "idk_1": null,
+      "txt": "「てめぇっ。いつのまに！！」",
+      "voices": [
+        {
+          "name": "金髪",
+          "pan": 0,
+          "type": 0,
+          "voice": "c12_50001"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "こっちに怒りをぶつけてくる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それを見て、背後の繁みに飛びこんだ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ふふ、いいタイミングじゃないか」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50006"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "いつの間にか桜花が隣を走ってる。\\nこちらに笑みを送りながら、親指を立てた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "いつの間にか桜花が隣を走ってる。こちらに笑みを送りながら、親指を立てた。",
+      "txt_idk_2": "いつの間にか桜花が隣を走ってる。こちらに笑みを送りながら、親指を立てた。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「正面、色が見える。最初に俺を追っていた奴だ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「数は？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50007"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「見えてる限り一人」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「わかった」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50008"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花は身を屈めると、俺の指示した方向に地面を蹴って\\n間合いを詰めた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "桜花は身を屈めると、俺の指示した方向に地面を蹴って間合いを詰めた。",
+      "txt_idk_2": "桜花は身を屈めると、俺の指示した方向に地面を蹴って間合いを詰めた。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "相手からすると、いきなり目の前に現れたように見えるだろう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "辺りを探していた男の前に現れると、桜花はまっすぐ手を\\n伸ばす。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "辺りを探していた男の前に現れると、桜花はまっすぐ手を伸ばす。",
+      "txt_idk_2": "辺りを探していた男の前に現れると、桜花はまっすぐ手を伸ばす。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "男の両手のガードを文字通りすり抜けて、喉元に桜花の手が\\n到達した。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "男の両手のガードを文字通りすり抜けて、喉元に桜花の手が到達した。",
+      "txt_idk_2": "男の両手のガードを文字通りすり抜けて、喉元に桜花の手が到達した。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "首を両手で掴むと――素早く後ろに回り込んで、頭を抱える\\nようにして締めあげた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "首を両手で掴むと――素早く後ろに回り込んで、頭を抱えるようにして締めあげた。",
+      "txt_idk_2": "首を両手で掴むと――素早く後ろに回り込んで、頭を抱えるようにして締めあげた。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……数十秒と経たずに地面に倒れ込む。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「気絶したのか？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ああ。上手くいった。……靴を脱がしてくれ。\\nそれで腕を縛ろう」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50009"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ああ。上手くいった。……靴を脱がしてくれ。それで腕を縛ろう」",
+      "txt_idk_2": "「ああ。上手くいった。……靴を脱がしてくれ。それで腕を縛ろう」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「わかった」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "靴紐を解いた靴を使い、靴紐を解く。\\n後ろに両手に回すと縛りあげた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "靴紐を解いた靴を使い、靴紐を解く。後ろに両手に回すと縛りあげた。",
+      "txt_idk_2": "靴紐を解いた靴を使い、靴紐を解く。後ろに両手に回すと縛りあげた。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「これで一人目だね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50010"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「さっき俺が殴り倒した奴は？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「気を失ってないなら、もう復帰してるだろうね。\\nこの調子で一人ずつ減らしていくとしよう」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50011"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「気を失ってないなら、もう復帰してるだろうね。この調子で一人ずつ減らしていくとしよう」",
+      "txt_idk_2": "「気を失ってないなら、もう復帰してるだろうね。この調子で一人ずつ減らしていくとしよう」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「わかった」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花と共に追跡に戻る。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "色が見られれば、先手を取るのは容易だ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花は俺を追い掛けていたうちの片割れの背後を取ると、\\n先ほどと同じように締め落としていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "桜花は俺を追い掛けていたうちの片割れの背後を取ると、先ほどと同じように締め落としていた。",
+      "txt_idk_2": "桜花は俺を追い掛けていたうちの片割れの背後を取ると、先ほどと同じように締め落としていた。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「残りは最初に桜花を追ってた連中か……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「このまま森の中に置き去りにして、警察を呼ぶのも手だよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50013"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "そう言って桜花は自分の胸に手を置いた。\\n何度も深呼吸をして、息を整えているようだった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "そう言って桜花は自分の胸に手を置いた。何度も深呼吸をして、息を整えているようだった。",
+      "txt_idk_2": "そう言って桜花は自分の胸に手を置いた。何度も深呼吸をして、息を整えているようだった。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そうだな……それが一番手っ取り早い。……ん？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "少し離れた地面から、違う色が見える。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "拾い上げてみると、硬く冷たい感触があった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「石……？　いや、でもこの色の残り方は……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「もしかして、これが連中の言ってた『石』か」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "片手に持てるサイズの少しとがった石の棒だ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "磨かれた様子はないが片面がとがっている。\\n昔歴史の授業で習った、石器時代の石のナイフのようだった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "磨かれた様子はないが片面がとがっている。昔歴史の授業で習った、石器時代の石のナイフのようだった。",
+      "txt_idk_2": "磨かれた様子はないが片面がとがっている。昔歴史の授業で習った、石器時代の石のナイフのようだった。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「逃げる時に落したようだね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50014"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花に見えるように持ち上げた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "角度を変えて覗きこむが、桜花にもそれ以上の事は分からない\\nらしい。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "角度を変えて覗きこむが、桜花にもそれ以上の事は分からないらしい。",
+      "txt_idk_2": "角度を変えて覗きこむが、桜花にもそれ以上の事は分からないらしい。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ともあれ今回の元凶だ。持っていこう」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50015"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ああ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ハンカチで包んでからポケットに入れる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "うっかり傷でもつけたら二の舞になるから、扱いは慎重に\\nしよう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "うっかり傷でもつけたら二の舞になるから、扱いは慎重にしよう。",
+      "txt_idk_2": "うっかり傷でもつけたら二の舞になるから、扱いは慎重にしよう。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「他の連中の色はまだ見えているかな？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50016"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ああ。追い掛けよう」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先ほどと同じ方法で、もう一人倒して無力化した。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「はぁ……はぁ……。\\nよし、これで、後は二人……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50017"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「はぁ……はぁ……。よし、これで、後は二人……」",
+      "txt_idk_2": "「はぁ……はぁ……。よし、これで、後は二人……」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "樹に手をついて、息を切らせている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……桜花？　大丈夫か？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ああ……普段運動なんか全然やらないからね。\\nさすがに厳しかったよ。体力的にもそろそろまずいね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50018"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ああ……普段運動なんか全然やらないからね。さすがに厳しかったよ。体力的にもそろそろまずいね」",
+      "txt_idk_2": "「ああ……普段運動なんか全然やらないからね。さすがに厳しかったよ。体力的にもそろそろまずいね」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「わかった……けど」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「早く終わらせて、休ませて貰うとしよう」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50019"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「あ、ああ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "夜眠りもしない幽霊が、疲れる事ってあるのか……？",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「次は？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50020"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「こっちだ。行こう」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "でもその疑問は口に出せなかった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "色を辿り、森の中から公園に戻った。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "俺達を見失ったからか、それとも森の中で翻弄されたせいか\\n外に出る事を選んだらしい。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "俺達を見失ったからか、それとも森の中で翻弄されたせいか外に出る事を選んだらしい。",
+      "txt_idk_2": "俺達を見失ったからか、それとも森の中で翻弄されたせいか外に出る事を選んだらしい。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ここらが潮時かな。ボク達もそろそろ逃げる事を考えよう」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50021"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ああ。でも、連中の色も出口の方に向かってる。\\nこのままいくと鉢合わせしちまうな」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ああ。でも、連中の色も出口の方に向かってる。このままいくと鉢合わせしちまうな」",
+      "txt_idk_2": "「ああ。でも、連中の色も出口の方に向かってる。このままいくと鉢合わせしちまうな」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「なら反対側からだね。\\n帰りが遠回りになるけれど、相手を撒くのに都合がいい」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50022"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「なら反対側からだね。帰りが遠回りになるけれど、相手を撒くのに都合がいい」",
+      "txt_idk_2": "「なら反対側からだね。帰りが遠回りになるけれど、相手を撒くのに都合がいい」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「だな」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "違う出口の方へ向かう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "しかし、遠目にも人間の『色』が見えた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……こっちにも人がいるぞ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「まだ仲間がいたのか……待ち伏せして入り口をふさぐ\\nようだね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50023"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「まだ仲間がいたのか……待ち伏せして入り口をふさぐようだね」",
+      "txt_idk_2": "「まだ仲間がいたのか……待ち伏せして入り口をふさぐようだね」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「どうする？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「構っていられない。森を抜けて迂回するか、ボクを囮に\\n警戒を外そう」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50024"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「構っていられない。森を抜けて迂回するか、ボクを囮に警戒を外そう」",
+      "txt_idk_2": "「構っていられない。森を抜けて迂回するか、ボクを囮に警戒を外そう」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「道隆が逃げられたなら、後は姿を消して桜花荘に直接戻る。\\nそこで合流すればいいだろう」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50025"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「道隆が逃げられたなら、後は姿を消して桜花荘に直接戻る。そこで合流すればいいだろう」",
+      "txt_idk_2": "「道隆が逃げられたなら、後は姿を消して桜花荘に直接戻る。そこで合流すればいいだろう」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「なるほど、さすが幽霊。便利だな」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「もっと褒めてくれてもいいよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50026"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "作戦は決まった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花と共に身を潜める。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "遠目に見える色を見ながら、ちょうどいいタイミングを\\n見計らう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "遠目に見える色を見ながら、ちょうどいいタイミングを見計らう。",
+      "txt_idk_2": "遠目に見える色を見ながら、ちょうどいいタイミングを見計らう。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花が飛び出して注意を引く。\\nその間に俺が公園を抜ける。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "桜花が飛び出して注意を引く。その間に俺が公園を抜ける。",
+      "txt_idk_2": "桜花が飛び出して注意を引く。その間に俺が公園を抜ける。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "後は警察に通報でもすれば良いだろう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "あるいは汐音が既にやってるかもしれない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "どちらにしろ、簡単なはずだった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――女の子の声が聞こえてくるまでは。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": "？？？",
+      "txt": "「きゃぁぁぁぁぁぁっっ」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_50001"
+        }
+      ],
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「美緒ちゃん……！？」",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「…………まずいね。\\nどこか様子が見える場所に行こう」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50027"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「…………まずいね。どこか様子が見える場所に行こう」",
+      "txt_idk_2": "「…………まずいね。どこか様子が見える場所に行こう」"
+    }
+  ]
+]

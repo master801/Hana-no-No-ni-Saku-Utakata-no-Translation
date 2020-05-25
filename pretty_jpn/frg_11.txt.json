@@ -1,0 +1,1013 @@
+[
+  [
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "帰りに神社に顔を出してみた。\\n最近なかなか来られなかったけれど、変化はないだろうか。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "帰りに神社に顔を出してみた。最近なかなか来られなかったけれど、変化はないだろうか。",
+      "txt_idk_2": "帰りに神社に顔を出してみた。最近なかなか来られなかったけれど、変化はないだろうか。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ここにいた猫は先輩と美緒ちゃんに飼って貰っているけれど\\nもう一匹は残ったままだ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "ここにいた猫は先輩と美緒ちゃんに飼って貰っているけれどもう一匹は残ったままだ。",
+      "txt_idk_2": "ここにいた猫は先輩と美緒ちゃんに飼って貰っているけれどもう一匹は残ったままだ。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "お世話してくれる人達は居るけれど、外飼いは何があるか\\n分からない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "お世話してくれる人達は居るけれど、外飼いは何があるか分からない。",
+      "txt_idk_2": "お世話してくれる人達は居るけれど、外飼いは何があるか分からない。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "今日も元気でいてくれると良いんだけど……。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「あ！　おにいさん。こんにちは」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40024"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「あれ……？　美緒ちゃん？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「はい。猫をみにきたんですか？」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40025"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そうだけど……美緒ちゃんも？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「そうですっ」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40026"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ニコニコと笑顔の美緒ちゃんを見ていると、本当に動物が好き\\nなんだと実感する。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "ニコニコと笑顔の美緒ちゃんを見ていると、本当に動物が好きなんだと実感する。",
+      "txt_idk_2": "ニコニコと笑顔の美緒ちゃんを見ていると、本当に動物が好きなんだと実感する。"
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「こんにちは」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40001"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "優枝さんが子猫を抱いている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "猫は抱かれるまま大人しくしていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「はい、どうぞ。\\n日向で眠っていました」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40002"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「はい、どうぞ。日向で眠っていました」",
+      "txt_idk_2": "「はい、どうぞ。日向で眠っていました」"
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「うわぁ……触っていいんですか？　起こしちゃったり\\nしないですか？」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40027"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「うわぁ……触っていいんですか？　起こしちゃったりしないですか？」",
+      "txt_idk_2": "「うわぁ……触っていいんですか？　起こしちゃったりしないですか？」"
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「この子いつも人に触られてるから、まったく気にしない\\nですよ」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40003"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「この子いつも人に触られてるから、まったく気にしないですよ」",
+      "txt_idk_2": "「この子いつも人に触られてるから、まったく気にしないですよ」"
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「じゃあ……」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40028"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "美緒ちゃんが猫を受け取る。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「おっきいですね。兄弟なのにうちよりずっとおっきいです」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40029"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「皆さんがご飯沢山あげるんですよ。それで外でいっぱい運動\\nするから、こんなに育っちゃったみたいです」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40004"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「皆さんがご飯沢山あげるんですよ。それで外でいっぱい運動するから、こんなに育っちゃったみたいです」",
+      "txt_idk_2": "「皆さんがご飯沢山あげるんですよ。それで外でいっぱい運動するから、こんなに育っちゃったみたいです」"
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「へー！　うちも外に出すと大きくなるのかな？」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40030"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「どうなんだろうな……家の中で飼ってると、外で生きてく\\nノウハウが無いだろうし」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「どうなんだろうな……家の中で飼ってると、外で生きてくノウハウが無いだろうし」",
+      "txt_idk_2": "「どうなんだろうな……家の中で飼ってると、外で生きてくノウハウが無いだろうし」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「いきなり外に出るようになると、危ないかもしれない」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「そうなんですか……」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40031"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「ですがここの子はいつもいますから、外で遊ぶ時はこっちに\\n来るのも良いと思いますよ」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40005"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ですがここの子はいつもいますから、外で遊ぶ時はこっちに来るのも良いと思いますよ」",
+      "txt_idk_2": "「ですがここの子はいつもいますから、外で遊ぶ時はこっちに来るのも良いと思いますよ」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「公園も外に子猫沢山いるしね」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「はいっ！」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40032"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "美緒ちゃんが境内で猫と遊んでいる。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "といっても、丸まって寝ている猫を撫でているだけだが\\n本人はそれでもすごく楽しそうだ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "といっても、丸まって寝ている猫を撫でているだけだが本人はそれでもすごく楽しそうだ。",
+      "txt_idk_2": "といっても、丸まって寝ている猫を撫でているだけだが本人はそれでもすごく楽しそうだ。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「優枝さんはここのアルバイトなのに、最近は猫の世話まで\\n入っちゃって、なんだか申し訳ないな」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「優枝さんはここのアルバイトなのに、最近は猫の世話まで入っちゃって、なんだか申し訳ないな」",
+      "txt_idk_2": "「優枝さんはここのアルバイトなのに、最近は猫の世話まで入っちゃって、なんだか申し訳ないな」"
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「大丈夫ですよ。すごく楽しいです」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40006"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そう？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「はい。元から神社の仕事は楽しくはあったんですが、結構\\n大変でした」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40007"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「はい。元から神社の仕事は楽しくはあったんですが、結構大変でした」",
+      "txt_idk_2": "「はい。元から神社の仕事は楽しくはあったんですが、結構大変でした」"
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「元々は巫女服が可愛いから始めたお手伝いのようなもので\\nどんな仕事をするのかも分かって無かったですから……」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40008"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「元々は巫女服が可愛いから始めたお手伝いのようなものでどんな仕事をするのかも分かって無かったですから……」",
+      "txt_idk_2": "「元々は巫女服が可愛いから始めたお手伝いのようなものでどんな仕事をするのかも分かって無かったですから……」"
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「特に神社って力仕事が多いですし」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40009"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「ですが神社に猫が来てからは、訪れる方も増えましたし、\\n中にはお手伝いしてくれる方もいますので、結果的に楽に\\nなりました」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40010"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ですが神社に猫が来てからは、訪れる方も増えましたし、中にはお手伝いしてくれる方もいますので、結果的に楽になりました」",
+      "txt_idk_2": "「ですが神社に猫が来てからは、訪れる方も増えましたし、中にはお手伝いしてくれる方もいますので、結果的に楽になりました」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そうだったんだ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「今では皆さんとお知り合いにもなれましたから」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40011"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "笑顔で言う優枝さんはとても楽しそうだ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "見ているこっちまで幸せになる笑顔だった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「わたしも、猫さん飼えて嬉しいですっ」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40033"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「修平に猫を引き取って貰わなかったら、今この時間も無い\\nんだよなぁ……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「修平に猫を引き取って貰わなかったら、今この時間も無いんだよなぁ……」",
+      "txt_idk_2": "「修平に猫を引き取って貰わなかったら、今この時間も無いんだよなぁ……」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "そう考えると人と人の出会いって不思議だ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「……あ！　もう一匹の猫さんっ」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40034"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "美緒ちゃんが見てる方向に視線を向けると、そこには大きな\\n真っ黒い猫がこっちを伺っていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "美緒ちゃんが見てる方向に視線を向けると、そこには大きな真っ黒い猫がこっちを伺っていた。",
+      "txt_idk_2": "美緒ちゃんが見てる方向に視線を向けると、そこには大きな真っ黒い猫がこっちを伺っていた。"
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「ああ、この辺り一帯のボス猫みたいですよ。\\n最近顔を出すんです」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40012"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ああ、この辺り一帯のボス猫みたいですよ。最近顔を出すんです」",
+      "txt_idk_2": "「ああ、この辺り一帯のボス猫みたいですよ。最近顔を出すんです」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そうなんですか？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「ええ。餌を食べたりしてますね……もうすっかりここを\\n餌場にしちゃってます」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40013"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ええ。餌を食べたりしてますね……もうすっかりここを餌場にしちゃってます」",
+      "txt_idk_2": "「ええ。餌を食べたりしてますね……もうすっかりここを餌場にしちゃってます」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "苦笑している。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「こ、こんにちは」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40035"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "警戒する猫の前にいって、美緒ちゃんが頭を下げる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「……さわってもいいですか……？」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40036"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "黒猫に尋ねながら、手を出す。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "すると――。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ぺちん。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "猫パンチではたき落されていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「わわ」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40037"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "手を出す。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ぺちん。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "再び手を出す。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ぺちん。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……一進一退の攻防が続いていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「こちらをどうぞ」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40014"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "優枝さんが猫が食べるカリカリを手に、美緒ちゃんの所に\\n持っていっていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "優枝さんが猫が食べるカリカリを手に、美緒ちゃんの所に持っていっていた。",
+      "txt_idk_2": "優枝さんが猫が食べるカリカリを手に、美緒ちゃんの所に持っていっていた。"
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「こうして……。ほら、触れました」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40015"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美緒",
+      "idk_1": null,
+      "txt": "「わぁ……やわらかい。ふかふか～～」",
+      "voices": [
+        {
+          "name": "美緒",
+          "pan": 0,
+          "type": 0,
+          "voice": "b06_40038"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "大きく育った黒猫は体格もいい。\\n触ると気持ちよさそうだ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "大きく育った黒猫は体格もいい。触ると気持ちよさそうだ。",
+      "txt_idk_2": "大きく育った黒猫は体格もいい。触ると気持ちよさそうだ。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "猫と、美緒ちゃんを撫でながら優枝さんが俺の方を向く。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "優枝",
+      "idk_1": null,
+      "txt": "「ほら、とっても楽しいです」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_40016"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……だな」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "こんな穏やかに働けるなら、巫女のバイトも楽しそうだ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "そんな事を思いながら、のどかな時間を過ごしていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    }
+  ]
+]

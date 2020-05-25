@@ -1,0 +1,2127 @@
+[
+  [
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「………………」",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「………………」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20022"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "お茶と煎餅を置いて千歳さんが帰った後は、ずっと\\nこんな調子だ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "お茶と煎餅を置いて千歳さんが帰った後は、ずっとこんな調子だ。",
+      "txt_idk_2": "お茶と煎餅を置いて千歳さんが帰った後は、ずっとこんな調子だ。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花は俺たちが見える位置に陣取って、のんきに煎餅を\\nかじっている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "桜花は俺たちが見える位置に陣取って、のんきに煎餅をかじっている。",
+      "txt_idk_2": "桜花は俺たちが見える位置に陣取って、のんきに煎餅をかじっている。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「お見合いにしてももう少し喋る物だと思うよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_20073"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「あ、……はい……」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20023"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野は頷きはしたが、桜花をちらちらとみている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ああ、ボクかい？　ここの建物の住人だ。\\n道隆やその友人とは親しくさせて貰っているよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_20074"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ああ、ボクかい？　ここの建物の住人だ。道隆やその友人とは親しくさせて貰っているよ」",
+      "txt_idk_2": "「ああ、ボクかい？　ここの建物の住人だ。道隆やその友人とは親しくさせて貰っているよ」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「い、いえ。そうではなく……」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20024"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ボクの事は気にしないで構わないよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_20075"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「あの……」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20025"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野は助けてくれと言いたげな視線を向けてくる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……ごめん、言いたい事はすごくよく分かる」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "他人に聞かせたくない話をしているから、席をはずしてくれと\\n言いたいのだろう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "他人に聞かせたくない話をしているから、席をはずしてくれと言いたいのだろう。",
+      "txt_idk_2": "他人に聞かせたくない話をしているから、席をはずしてくれと言いたいのだろう。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "でも後から来たのは自分だから、遠慮をしてしまってる訳だ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「実の所、大体の事情は知っているんだ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_20076"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「事情……ですか……？」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20026"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "訝しげに聞く。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "彼女からすると訳が分からないだろう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「道隆は今、久住学園の七不思議を調べているんだ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_20077"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「――――っ」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20027"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野が息を飲んだ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それでも表に出さないように、スカートの端を握りしめて\\n隠そうとしていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "それでも表に出さないように、スカートの端を握りしめて隠そうとしていた。",
+      "txt_idk_2": "それでも表に出さないように、スカートの端を握りしめて隠そうとしていた。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「音楽室に願いが叶うという七不思議があるらしい。\\n願いが叶うとは大きく出た内容だけれど、何とも漠然と\\nしすぎているじゃないか」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_20078"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「音楽室に願いが叶うという七不思議があるらしい。願いが叶うとは大きく出た内容だけれど、何とも漠然としすぎているじゃないか」",
+      "txt_idk_2": "「音楽室に願いが叶うという七不思議があるらしい。願いが叶うとは大きく出た内容だけれど、何とも漠然としすぎているじゃないか」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「それが気になって、生徒会長達と色々とやっているようだ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_20079"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「それは、一体どこまで――」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20028"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「さてね。本人に聞くしかないんじゃないかな？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_20080"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ここで俺に振るのかよっ！",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "非難したい気持ちを抑えて、平静を装う。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "俺も波多野もどっちも隠し事をしたまま向き合っている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それはある種の滑稽さを持っている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野が俺を見据える。\\n先を促している。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "波多野が俺を見据える。先を促している。",
+      "txt_idk_2": "波多野が俺を見据える。先を促している。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……元々は先生から聞いた話なんだ。夜の校舎で人の顔が\\n見えたって」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……元々は先生から聞いた話なんだ。夜の校舎で人の顔が見えたって」",
+      "txt_idk_2": "「……元々は先生から聞いた話なんだ。夜の校舎で人の顔が見えたって」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「それで知り合いに聞いてるうちに、月女に久住学園の\\n怪談が伝わってるのが分かった」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「それで知り合いに聞いてるうちに、月女に久住学園の怪談が伝わってるのが分かった」",
+      "txt_idk_2": "「それで知り合いに聞いてるうちに、月女に久住学園の怪談が伝わってるのが分かった」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「うちの学園の話が余所の所に……？」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20029"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「何でも『うちのは本物』らしい。\\nそれがどういう意味か分からないから、じゃあ見に行こうって\\n話になった」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「何でも『うちのは本物』らしい。それがどういう意味か分からないから、じゃあ見に行こうって話になった」",
+      "txt_idk_2": "「何でも『うちのは本物』らしい。それがどういう意味か分からないから、じゃあ見に行こうって話になった」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「直接……音楽室に？」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20030"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ああ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「それは、いつ？」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20031"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「木曜の夜……だったかな」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「…………」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20032"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野の顔が青ざめている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "握りしめた手は力の入れ過ぎで真っ白になっていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ただそれだけの話だよ。\\nそれで、君の方は一体どうしたのかな？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_20081"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ただそれだけの話だよ。それで、君の方は一体どうしたのかな？」",
+      "txt_idk_2": "「ただそれだけの話だよ。それで、君の方は一体どうしたのかな？」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「それ、は……」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20033"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花を見るが、そこには先ほどのような部外者がいるから\\n話しづらいといった雰囲気は薄れていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "桜花を見るが、そこには先ほどのような部外者がいるから話しづらいといった雰囲気は薄れていた。",
+      "txt_idk_2": "桜花を見るが、そこには先ほどのような部外者がいるから話しづらいといった雰囲気は薄れていた。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「あまり急かすなって」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「波多野が俺に会いに来るのが、そもそも珍しいんだ。\\nなら、それだけ話しづらい内容なんだろう」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「波多野が俺に会いに来るのが、そもそも珍しいんだ。なら、それだけ話しづらい内容なんだろう」",
+      "txt_idk_2": "「波多野が俺に会いに来るのが、そもそも珍しいんだ。なら、それだけ話しづらい内容なんだろう」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「…………」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20034"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野は黙ったまま答えないが、それが真実を現している。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「俺に……というか、桜花荘に何か用があったりする？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「え――」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20035"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「いえ、そんな事は」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20036"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……じゃあ俺に？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "聞き返すと波多野ははっきりと頷いた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それから桜花の方をちらりと見て、ため息をついた。\\nどうやら諦めたらしい。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "それから桜花の方をちらりと見て、ため息をついた。どうやら諦めたらしい。",
+      "txt_idk_2": "それから桜花の方をちらりと見て、ため息をついた。どうやら諦めたらしい。"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「麗奈さんと一番親しくしているのが、あなただから……」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20037"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野はポケットの中から、封筒を取り出した。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「これを渡して貰いたいのだけれど」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20038"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……麗奈に？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野が頷く。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「中は？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「それは……」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20039"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「平たく言うと見ないでくれって事だよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_20082"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「あ」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20040"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "横から伸びた手が波多野が出した封筒をとった。\\n桜花は封筒を部屋の明かりに、封筒を透かしていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "横から伸びた手が波多野が出した封筒をとった。桜花は封筒を部屋の明かりに、封筒を透かしていた。",
+      "txt_idk_2": "横から伸びた手が波多野が出した封筒をとった。桜花は封筒を部屋の明かりに、封筒を透かしていた。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「大きさ、中に入っている物の形からすると写真かな。\\n大きさ違いの物は手紙のようだ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_20083"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「大きさ、中に入っている物の形からすると写真かな。大きさ違いの物は手紙のようだ」",
+      "txt_idk_2": "「大きさ、中に入っている物の形からすると写真かな。大きさ違いの物は手紙のようだ」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "そこまで言って、桜花は封筒を波多野の手に戻した。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「……はい」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20041"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……わかった。預かる。\\n中も見ないで渡すよ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……わかった。預かる。中も見ないで渡すよ」",
+      "txt_idk_2": "「……わかった。預かる。中も見ないで渡すよ」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野は安心したのか、肩の力を抜いた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「ありがとう」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20042"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ほら、渡すなら早い方がいいだろう。\\n後で届けてくるといい」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_20084"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ほら、渡すなら早い方がいいだろう。後で届けてくるといい」",
+      "txt_idk_2": "「ほら、渡すなら早い方がいいだろう。後で届けてくるといい」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そうするか……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "受け取った封筒の口は厳重に糊とテープで止められている。\\n言われるまでもなく、見られないようになっている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "受け取った封筒の口は厳重に糊とテープで止められている。言われるまでもなく、見られないようになっている。",
+      "txt_idk_2": "受け取った封筒の口は厳重に糊とテープで止められている。言われるまでもなく、見られないようになっている。"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「それでは、私はこれで」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20043"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ああ。わかった」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野を玄関まで見送った。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「引き受けてくれてありがとう」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20044"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "改めて折り目正しく頭を下げた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「それは別にいいんだけど……ちょっと聞いてもいいか？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「何……？」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20045"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「波多野って俺の事を嫌ってたよな。でも何でこんな頼みを\\n俺に？　それだけ切羽詰まってたのか？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「波多野って俺の事を嫌ってたよな。でも何でこんな頼みを俺に？　それだけ切羽詰まってたのか？」",
+      "txt_idk_2": "「波多野って俺の事を嫌ってたよな。でも何でこんな頼みを俺に？　それだけ切羽詰まってたのか？」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「別に断る訳じゃないよ。ただ、それだけ急いでるなら、\\nすぐにでも麗奈の所いってくる」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「別に断る訳じゃないよ。ただ、それだけ急いでるなら、すぐにでも麗奈の所いってくる」",
+      "txt_idk_2": "「別に断る訳じゃないよ。ただ、それだけ急いでるなら、すぐにでも麗奈の所いってくる」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「――――」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20046"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "びっくりした様子で、目を見開く。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ややあって、波多野はどこか透明な笑みを浮かべた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「嫌ってなんかない」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20047"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「…………本当に？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「ただ、知られるのは怖かった。麗奈さんと仲が良かったから」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20048"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「知られる？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "今回の再婚の問題だろうか。\\n確かに色々と思う所はあるけど、そこまで思い悩む物なのか？",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "今回の再婚の問題だろうか。確かに色々と思う所はあるけど、そこまで思い悩む物なのか？",
+      "txt_idk_2": "今回の再婚の問題だろうか。確かに色々と思う所はあるけど、そこまで思い悩む物なのか？"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……いや、まだ俺が知らない事があるのかも知れない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野が改めてこっちを向く。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "そして深く頭を下げた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「昔、助けてくれたのを感謝してる」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20049"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「――――え」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "その言葉は驚きとなって突き刺さった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「すぐには気づかなかった。ずっとクラスの誰かだろうなと\\n思っていた」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20050"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「すぐには気づかなかった。ずっとクラスの誰かだろうなと思っていた」",
+      "txt_idk_2": "「すぐには気づかなかった。ずっとクラスの誰かだろうなと思っていた」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「でも長くやり取りが続いて、ノートに書いてくれる字も\\n覚えて……」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20051"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「でも長くやり取りが続いて、ノートに書いてくれる字も覚えて……」",
+      "txt_idk_2": "「でも長くやり取りが続いて、ノートに書いてくれる字も覚えて……」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「しばらくして、私がみんなの答案を集めた時があったのを\\n覚えている？」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20052"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「しばらくして、私がみんなの答案を集めた時があったのを覚えている？」",
+      "txt_idk_2": "「しばらくして、私がみんなの答案を集めた時があったのを覚えている？」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「いや、そんなの皆やってたから、いつの事かは」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「……そっか。そうね」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20053"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野はどこかさびしそうに笑った。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「見慣れた文字だったから、すごく驚いた。\\nその時に、教室で初めて話をしたの。今でも覚えてる」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20054"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「見慣れた文字だったから、すごく驚いた。その時に、教室で初めて話をしたの。今でも覚えてる」",
+      "txt_idk_2": "「見慣れた文字だったから、すごく驚いた。その時に、教室で初めて話をしたの。今でも覚えてる」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「俺と……？　どんな会話を？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「大したことじゃないの。本当に」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20055"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「……新堂君は、勉強好きなの？」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20056"
+        }
+      ],
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そんなには。将来なりたいものもないから、あんまり真面目\\nにする気もなくて」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「そんなには。将来なりたいものもないから、あんまり真面目にする気もなくて」",
+      "txt_idk_2": "「そんなには。将来なりたいものもないから、あんまり真面目にする気もなくて」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「そうなんだ」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20057"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「波多野は……いつも真面目だよな。\\nやりたい事でもあるのか？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「波多野は……いつも真面目だよな。やりたい事でもあるのか？」",
+      "txt_idk_2": "「波多野は……いつも真面目だよな。やりたい事でもあるのか？」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「私も、特に……ない」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20058"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「でも剣道頑張ってるじゃないか。\\n前に表彰されてたよな」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「でも剣道頑張ってるじゃないか。前に表彰されてたよな」",
+      "txt_idk_2": "「でも剣道頑張ってるじゃないか。前に表彰されてたよな」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「……うん。ありがとう」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20059"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「それだけでも、俺なんかよりよっぽど頑張ってると思う\\nけどなぁ……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「それだけでも、俺なんかよりよっぽど頑張ってると思うけどなぁ……」",
+      "txt_idk_2": "「それだけでも、俺なんかよりよっぽど頑張ってると思うけどなぁ……」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「…………ありがとう……」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20060"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「…………ああ……」",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "言われて思い出す。\\nそういう話をした事があった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "言われて思い出す。そういう話をした事があった。",
+      "txt_idk_2": "言われて思い出す。そういう話をした事があった。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "当たり障りのない会話だ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "普段の雑談。日常の事。\\nそんな言葉で流されてしまいそうな、とりとめのない物。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "普段の雑談。日常の事。そんな言葉で流されてしまいそうな、とりとめのない物。",
+      "txt_idk_2": "普段の雑談。日常の事。そんな言葉で流されてしまいそうな、とりとめのない物。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……でも、それらに縁のなかった波多野には、大事な思い出に\\nなっている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "……でも、それらに縁のなかった波多野には、大事な思い出になっている。",
+      "txt_idk_2": "……でも、それらに縁のなかった波多野には、大事な思い出になっている。"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「頑張っていると言われて、嬉しかった」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20061"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……ずっと怒ってると思ってた」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「最初は怒って……悲しくなった。\\nもう読み返す事も出来なくなったから」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20062"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「最初は怒って……悲しくなった。もう読み返す事も出来なくなったから」",
+      "txt_idk_2": "「最初は怒って……悲しくなった。もう読み返す事も出来なくなったから」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "結果的に俺と波多野のやり取りが表に出る事は避けられた。\\nでも本当にそれで守りきれたと言えるんだろうか。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "結果的に俺と波多野のやり取りが表に出る事は避けられた。でも本当にそれで守りきれたと言えるんだろうか。",
+      "txt_idk_2": "結果的に俺と波多野のやり取りが表に出る事は避けられた。でも本当にそれで守りきれたと言えるんだろうか。"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「でもクラスに知られたら、私は孤独なままだったと思うから」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20063"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野は背を伸ばす。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「あの時はありがとう。今まで言えなくてごめんなさい」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20064"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「いや……俺の方こそ。\\nもっと考えればよかった」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「いや……俺の方こそ。もっと考えればよかった」",
+      "txt_idk_2": "「いや……俺の方こそ。もっと考えればよかった」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「……ううん」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20065"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野は微笑んで、首を振った。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「久しぶりに、少しでも話せてよかった。\\nじゃあ、お願いします」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20066"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「久しぶりに、少しでも話せてよかった。じゃあ、お願いします」",
+      "txt_idk_2": "「久しぶりに、少しでも話せてよかった。じゃあ、お願いします」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ああ。分かった。\\nついでに聞きたいんだけど、いい？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ああ。分かった。ついでに聞きたいんだけど、いい？」",
+      "txt_idk_2": "「ああ。分かった。ついでに聞きたいんだけど、いい？」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「……？」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20067"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「音楽室の怪談って結局なんだったんだ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「それは……」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20068"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「……月桂樹の葉に名前を書いて張っておくと、その人の人格\\nが変わるという物」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20069"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……月桂樹の葉に名前を書いて張っておくと、その人の人格が変わるという物」",
+      "txt_idk_2": "「……月桂樹の葉に名前を書いて張っておくと、その人の人格が変わるという物」"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「私は子供の頃、お父さんに教えて貰った。\\nずっと忘れていたけれど、ふと思い出して……」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20070"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「私は子供の頃、お父さんに教えて貰った。ずっと忘れていたけれど、ふと思い出して……」",
+      "txt_idk_2": "「私は子供の頃、お父さんに教えて貰った。ずっと忘れていたけれど、ふと思い出して……」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「聞くまでもない事かもしれないけど、結果は？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "波多野は首を振った。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「内容を見られてしまうと意味がないらしいから。\\nでも、どっちにしても叶うはずがないおまじないだし」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20071"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「内容を見られてしまうと意味がないらしいから。でも、どっちにしても叶うはずがないおまじないだし」",
+      "txt_idk_2": "「内容を見られてしまうと意味がないらしいから。でも、どっちにしても叶うはずがないおまじないだし」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そっか……悪い事したな」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「自分でも、あんな事するなんてどうかしていたと思ってる。\\nおまじないなんて子供みたいだし、知られていたのもすごく\\n恥ずかしい……」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20072"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「自分でも、あんな事するなんてどうかしていたと思ってる。おまじないなんて子供みたいだし、知られていたのもすごく恥ずかしい……」",
+      "txt_idk_2": "「自分でも、あんな事するなんてどうかしていたと思ってる。おまじないなんて子供みたいだし、知られていたのもすごく恥ずかしい……」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "でもそんな物に頼らなくちゃいけない程、切羽詰まっていた\\nのだろう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "でもそんな物に頼らなくちゃいけない程、切羽詰まっていたのだろう。",
+      "txt_idk_2": "でもそんな物に頼らなくちゃいけない程、切羽詰まっていたのだろう。"
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「昔の、ノートに書いていた時からも色々あって、お母さんは\\nどんどん厳しい人になっていった。\\nもっと優しくなって欲しくて、あんな事を……」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20073"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「昔の、ノートに書いていた時からも色々あって、お母さんはどんどん厳しい人になっていった。もっと優しくなって欲しくて、あんな事を……」",
+      "txt_idk_2": "「昔の、ノートに書いていた時からも色々あって、お母さんはどんどん厳しい人になっていった。もっと優しくなって欲しくて、あんな事を……」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……そっか」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「それじゃ、私はこれで」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20074"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「あ、ああ。またな」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "とっさに返した言葉に、波多野は驚いた顔をして――。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "美奈",
+      "idk_1": null,
+      "txt": "「うん。また学園で」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_20075"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "女の子らしい微笑みを浮かべた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    }
+  ]
+]

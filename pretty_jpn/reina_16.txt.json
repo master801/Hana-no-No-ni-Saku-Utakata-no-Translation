@@ -1,0 +1,2966 @@
+[
+  [
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "汐音の家に泊まる麗奈達を見送って、部屋で考え事をしていた。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "でも上手く形にならずに、とりとめもない雑念になって\\n散っていってしまう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "でも上手く形にならずに、とりとめもない雑念になって散っていってしまう。",
+      "txt_idk_2": "でも上手く形にならずに、とりとめもない雑念になって散っていってしまう。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "窓からこうして外を見ているのは、桜花がよくやっていた。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "この街は山にそってなだらかな傾斜になっている。\\n桜花荘は比較的高い位置にあるらしく、遠くの方まで見渡す\\n事ができた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "この街は山にそってなだらかな傾斜になっている。桜花荘は比較的高い位置にあるらしく、遠くの方まで見渡す事ができた。",
+      "txt_idk_2": "この街は山にそってなだらかな傾斜になっている。桜花荘は比較的高い位置にあるらしく、遠くの方まで見渡す事ができた。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……ん？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "下の方で人影が見えた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈が手を振っている。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "何かあったんだろうか。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「悪いわね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20430"
+        }
+      ],
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「いいけど、汐音は？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「部屋にいったらすぐ寝ちゃったのよ。\\nおばさんに聞いたら、昨日全然寝てなかったらしくて」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20431"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「部屋にいったらすぐ寝ちゃったのよ。おばさんに聞いたら、昨日全然寝てなかったらしくて」",
+      "txt_idk_2": "「部屋にいったらすぐ寝ちゃったのよ。おばさんに聞いたら、昨日全然寝てなかったらしくて」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そっか……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「私は逆に全然寝付けないの。昼間寝すぎたからかしらね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20432"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「それで少し散歩しようと思って。\\nそしたら窓から見えたから」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20433"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「それで少し散歩しようと思って。そしたら窓から見えたから」",
+      "txt_idk_2": "「それで少し散歩しようと思って。そしたら窓から見えたから」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「上がってなんか飲んでくか？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「何があるの？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20434"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「お茶かコーヒーだな」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……どっちも眠れなくなりそうな物ね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20435"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「確かに」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "笑いながら頷く。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "別の物を探す事にした。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ココアがあったので、それを入れて麗奈に渡した。\\n牛乳が苦手な麗奈のために、彼女の分だけはお湯で作った。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "ココアがあったので、それを入れて麗奈に渡した。牛乳が苦手な麗奈のために、彼女の分だけはお湯で作った。",
+      "txt_idk_2": "ココアがあったので、それを入れて麗奈に渡した。牛乳が苦手な麗奈のために、彼女の分だけはお湯で作った。"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……ありがとう」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20436"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「かなり甘めにしてみた。\\n塊になってるかもしれないから、よくかき混ぜてくれ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「かなり甘めにしてみた。塊になってるかもしれないから、よくかき混ぜてくれ」",
+      "txt_idk_2": "「かなり甘めにしてみた。塊になってるかもしれないから、よくかき混ぜてくれ」"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「わかった。ありがとう」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20437"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「汐音、どうだった？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……普段通り。\\n予想通りと言った方がいいかしら」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20438"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……普段通り。予想通りと言った方がいいかしら」",
+      "txt_idk_2": "「……普段通り。予想通りと言った方がいいかしら」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「…………そっか」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「気持ちが分かるのよ。\\n私が汐音と道隆と付き合ったと聞かされたら、きっと喜んで\\nいたから」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20439"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「気持ちが分かるのよ。私が汐音と道隆と付き合ったと聞かされたら、きっと喜んでいたから」",
+      "txt_idk_2": "「気持ちが分かるのよ。私が汐音と道隆と付き合ったと聞かされたら、きっと喜んでいたから」"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「でも、これまでとは関係が変わってしまった事が\\nきっと痛くてたまらなくなる」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20440"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「でも、これまでとは関係が変わってしまった事がきっと痛くてたまらなくなる」",
+      "txt_idk_2": "「でも、これまでとは関係が変わってしまった事がきっと痛くてたまらなくなる」"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「こんな事、道隆に言っても仕方ないのにね……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20441"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……いや……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "かといって遠慮している姿を見ても、汐音はきっと\\n悲しんでしまう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "かといって遠慮している姿を見ても、汐音はきっと悲しんでしまう。",
+      "txt_idk_2": "かといって遠慮している姿を見ても、汐音はきっと悲しんでしまう。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "俺たちが普段通り、元の態度で接するのが良いのに\\nどうしてもそれが出来ない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "俺たちが普段通り、元の態度で接するのが良いのにどうしてもそれが出来ない。",
+      "txt_idk_2": "俺たちが普段通り、元の態度で接するのが良いのにどうしてもそれが出来ない。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "付き合いが長いから下手な隠し事は通じない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "逆に、隠そうとする事が傷をつけてしまう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "なら――。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「よし。エッチな事でもするか」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「………………頭大丈夫？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20442"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「至って正常だ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そもそも、麗奈の大事な初めてを昨日みたいに真っ暗な外で\\nなんてのがおかしかったんだよ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「そもそも、麗奈の大事な初めてを昨日みたいに真っ暗な外でなんてのがおかしかったんだよ」",
+      "txt_idk_2": "「そもそも、麗奈の大事な初めてを昨日みたいに真っ暗な外でなんてのがおかしかったんだよ」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「お前とのエッチは、家の中で、二人きりで、大切にじっくり\\nとするべきなんだ！」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「お前とのエッチは、家の中で、二人きりで、大切にじっくりとするべきなんだ！」",
+      "txt_idk_2": "「お前とのエッチは、家の中で、二人きりで、大切にじっくりとするべきなんだ！」"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「ちょ――力説しないでよ！　恥ずかしいっ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20443"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「で、お前は幸せな顔をしてるべきなんだ。\\n今みたいに頭痛を抱えてるような、しかめっ面は似合わない」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「で、お前は幸せな顔をしてるべきなんだ。今みたいに頭痛を抱えてるような、しかめっ面は似合わない」",
+      "txt_idk_2": "「で、お前は幸せな顔をしてるべきなんだ。今みたいに頭痛を抱えてるような、しかめっ面は似合わない」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「というかせっかく綺麗なんだから、ガンつけてないで\\nもっと聖母みたいな笑顔を浮かべてた方がいい」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「というかせっかく綺麗なんだから、ガンつけてないでもっと聖母みたいな笑顔を浮かべてた方がいい」",
+      "txt_idk_2": "「というかせっかく綺麗なんだから、ガンつけてないでもっと聖母みたいな笑顔を浮かべてた方がいい」"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「頭は痛いわよ……誰かさんに食らったせいで。\\n今は別の意味でも痛くなってきたわ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20444"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「頭は痛いわよ……誰かさんに食らったせいで。今は別の意味でも痛くなってきたわ」",
+      "txt_idk_2": "「頭は痛いわよ……誰かさんに食らったせいで。今は別の意味でも痛くなってきたわ」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ゲンコツはお前もやるからおあいこだ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「別に怒ってないけど……そうね。\\nいつまでもこんな顔していたら、私たちが汐音に貰う事に\\nなるわね……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20445"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「別に怒ってないけど……そうね。いつまでもこんな顔していたら、私たちが汐音に貰う事になるわね……」",
+      "txt_idk_2": "「別に怒ってないけど……そうね。いつまでもこんな顔していたら、私たちが汐音に貰う事になるわね……」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈が立ち上がる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「部屋に戻るわ。励ましてくれてありがとう」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20446"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ちょっと待った！」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "その腕をとって引きとめる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……さっきの本気？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20447"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「もちろん本気だ。昨日は……仕方無かったとはいえ\\nムードも何もなかったから。\\nやり直しさせて欲しい」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「もちろん本気だ。昨日は……仕方無かったとはいえムードも何もなかったから。やり直しさせて欲しい」",
+      "txt_idk_2": "「もちろん本気だ。昨日は……仕方無かったとはいえムードも何もなかったから。やり直しさせて欲しい」"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「私はむしろ、その方が私たちらしいと思っているけれど。\\n……まあ、やり直しも、ある意味らしいかしらね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20448"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「私はむしろ、その方が私たちらしいと思っているけれど。……まあ、やり直しも、ある意味らしいかしらね」",
+      "txt_idk_2": "「私はむしろ、その方が私たちらしいと思っているけれど。……まあ、やり直しも、ある意味らしいかしらね」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈が目を閉じる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "抱き寄せると、その唇にキスをした。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "服を脱いだ麗奈が横たわっている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……綺麗だな」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "素直にその言葉が出た。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……もう……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20449"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈の裸を見たのは、子供の時にプールに行った時以来だ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "あの頃は着替える場所も同じだった。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "スタイルがいいのは分かっていたけど、改めてみると\\nますます実感する。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "スタイルがいいのは分かっていたけど、改めてみるとますます実感する。",
+      "txt_idk_2": "スタイルがいいのは分かっていたけど、改めてみるとますます実感する。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "胸に手を伸ばす。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "今度は直接触れる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "触るだけで、しなやかな弾力を持った丘が揺れた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「すごい柔らかい……ずっと触っていたくなる」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「強く揉まないでよ、強くすると痛くなるから」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20450"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「わかった」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "少しずつ両手で転がすように力を入れていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "指で押しつぶすのではなく、形を支えるように。\\nゆっくりと丹念に転がしていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "指で押しつぶすのではなく、形を支えるように。ゆっくりと丹念に転がしていく。",
+      "txt_idk_2": "指で押しつぶすのではなく、形を支えるように。ゆっくりと丹念に転がしていく。"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……ん……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20451"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "少しずつ麗奈の吐息が荒くなる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "胸から違う場所も触れてみる事にした。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "首筋の辺りまで朱に染まり、火照っている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "白い肌に指を滑らせて、徐々に下の方へと移動する。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "へその辺りと腰のくびれが艶めかしい。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「――ちゅ……ちゅぱ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "胸の先端を口に含み、舌で愛撫した。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……甘えてるの？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20452"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そうじゃないけど……ん、ちゅ……」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「はいはい、どうぞ。気が済むまでしゃぶってていいわよ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20453"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「…………」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "子供扱いされてしまった。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それでも、頭を撫でる手が心地いい。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "唇で胸を愛撫しながら、手でも揉みしだいていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……ん、……なんだか、もどかしくなる……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20454"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "胸だけの愛撫のせいか、快感が中途半端なのかもしれない。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "手を下におろすと、麗奈の下半身に手を伸ばした。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "下着もまとめて足から抜き取る。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "昨日も見た場所だが、今は微かに愛液に濡れて光っていた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "部屋の明かりのおかげで形がはっきりと分かる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「もう、入れるの……？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20455"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「いや……昨日それで痛い思いさせちまったから」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……まだ少し痛いから、優しく」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20456"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ああ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "まだ殆ど濡れていないそこを指先でなぞる",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「んんっ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20457"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "やっぱりここが一番感じるらしい。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "秘所の辺りをなぞり、膨らんだ丘を擦る。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "太ももの辺りに口づけて、それから徐々に顔を近づける。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「――まって、そこは――」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20458"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈の静止も無視して、舌であそこを舐めた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「ひゃっ――」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20459"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "口からこぼれた声を、慌てて両手で押さえている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ぴちゃぴちゃと唾液を垂らしながら、麗奈のあそこを舐めて\\n舌を僅かに差し込んだ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "ぴちゃぴちゃと唾液を垂らしながら、麗奈のあそこを舐めて舌を僅かに差し込んだ。",
+      "txt_idk_2": "ぴちゃぴちゃと唾液を垂らしながら、麗奈のあそこを舐めて舌を僅かに差し込んだ。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈の体が跳ねて、快感を訴えていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "クリトリスが硬くなり、自己主張をしている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……はむ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「～～っっ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20460"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "その部分を唇に挟んだ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "舌でノックをしながら、胸を舐めていた時のように\\nちゅぱちゅぱと愛撫をする。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "舌でノックをしながら、胸を舐めていた時のようにちゅぱちゅぱと愛撫をする。",
+      "txt_idk_2": "舌でノックをしながら、胸を舐めていた時のようにちゅぱちゅぱと愛撫をする。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "敏感な部分に来る刺激のせいか、麗奈は何度も小刻みに体を\\n跳ねていた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "敏感な部分に来る刺激のせいか、麗奈は何度も小刻みに体を跳ねていた。",
+      "txt_idk_2": "敏感な部分に来る刺激のせいか、麗奈は何度も小刻みに体を跳ねていた。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ちゅく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "体の奥から蜜が溢れてくる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「はぁ……はぁ……っ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20461"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "いつしか閉じた秘所が口をあけて、愛液を流していた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「気持ちいいか……？」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……ん、わからない、けど。多分……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20462"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「わかった」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "指を入れるよりも、いじった方がいいのかもしれない。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "奥には入れずに入り口の辺りを少しずつ擦っていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "その間にも舌で麗奈のあそこを舐めて、快感を与える。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ちゅ、ちゅぱ……ちゅ。……ずず。……くちゅ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「んっ！　あっ、ああ……っ。だ、め。刺激……強いから。\\nんんっ！！　くぅぅ……んっ！」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20463"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「んっ！　あっ、ああ……っ。だ、め。刺激……強いから。んんっ！！　くぅぅ……んっ！」",
+      "txt_idk_2": "「んっ！　あっ、ああ……っ。だ、め。刺激……強いから。んんっ！！　くぅぅ……んっ！」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "昨日みたいに痛い思いをさせないように、何度も何度も\\n丹念に愛撫を重ねていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "昨日みたいに痛い思いをさせないように、何度も何度も丹念に愛撫を重ねていく。",
+      "txt_idk_2": "昨日みたいに痛い思いをさせないように、何度も何度も丹念に愛撫を重ねていく。"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「や……っ。んんっ。……あっ！　はぁ……っ。\\nんんっっ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20464"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「や……っ。んんっ。……あっ！　はぁ……っ。んんっっ」",
+      "txt_idk_2": "「や……っ。んんっ。……あっ！　はぁ……っ。んんっっ」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "あふれ出る蜜をすくい、舌に乗せてぴちゃぴちゃと\\nクリトリスを舐め上げる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "あふれ出る蜜をすくい、舌に乗せてぴちゃぴちゃとクリトリスを舐め上げる。",
+      "txt_idk_2": "あふれ出る蜜をすくい、舌に乗せてぴちゃぴちゃとクリトリスを舐め上げる。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈の体から力が抜ける。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "俺の行為にされるがままになっている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈を気持ちよくしているのが、明るい部屋の中だと\\nより分かる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "麗奈を気持ちよくしているのが、明るい部屋の中だとより分かる。",
+      "txt_idk_2": "麗奈を気持ちよくしているのが、明るい部屋の中だとより分かる。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "痛い思いをさせずに気持ちよくなって欲しいと心から思った。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……はぁ、はぁ……。みちたか、は、……しない、の……？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20465"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「でも、まだ入れると痛いだろ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「構わないわよ……そのうち慣れるでしょうし」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20466"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈が体を起こした。\\n手が自分の秘所に当てられる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "麗奈が体を起こした。手が自分の秘所に当てられる。",
+      "txt_idk_2": "麗奈が体を起こした。手が自分の秘所に当てられる。"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「ここはそのためにある場所だもの」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20467"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "指で押し開く。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "中はピンク色で次なる挿入を待ちかまえて、ひくひくと\\n震えていた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "中はピンク色で次なる挿入を待ちかまえて、ひくひくと震えていた。",
+      "txt_idk_2": "中はピンク色で次なる挿入を待ちかまえて、ひくひくと震えていた。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……ごくり」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "煽情的な麗奈の挑発に、あそこが痛いほど膨張している。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "服を脱いだ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈と向かい合うように、ペニスをあてがう。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「少しずつ入れるわよ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20468"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ああ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "向かい合った姿勢から麗奈が腰を下ろす。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "体を抱いて支えるように手を回した。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ちゅく。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「ん……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20469"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "指よりずっと太い俺のモノが、麗奈のあそこを広げていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先端が埋まった。\\n中に入ると熱い肉の襞が絡みついて、俺のを締めつけていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "先端が埋まった。中に入ると熱い肉の襞が絡みついて、俺のを締めつけていく。",
+      "txt_idk_2": "先端が埋まった。中に入ると熱い肉の襞が絡みついて、俺のを締めつけていく。"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「もう、少し……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20470"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "呼吸を整えながら、麗奈が腰を下ろしていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "そして――。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ずちゅ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "奥まで入った。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "中から溢れだした愛液が音を立てる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「はぁ……はぁ……っ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20471"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「痛む？」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「昨日よりはマシね……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20472"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「わかった。じゃあ少しずつ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈の体をいたわれるように背中を撫でる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それが気にいったのか、しがみつくように手を回した。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ちゅく、くちゅ。ずちゅ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ゆっくりと体を揺らすように引き抜いては、麗奈の奥へと\\n差し込んでいく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "ゆっくりと体を揺らすように引き抜いては、麗奈の奥へと差し込んでいく。",
+      "txt_idk_2": "ゆっくりと体を揺らすように引き抜いては、麗奈の奥へと差し込んでいく。"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「昨日と違って……よく、分かるわ。\\n道隆のが入ってる……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20473"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「昨日と違って……よく、分かるわ。道隆のが入ってる……」",
+      "txt_idk_2": "「昨日と違って……よく、分かるわ。道隆のが入ってる……」"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「体の中に、別のが侵入してきて、私の中につきたってる……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20474"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……ん、……はぁ……はぁ。\\nお腹の中が持ち上げられていて、変な感じ……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20475"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……ん、……はぁ……はぁ。お腹の中が持ち上げられていて、変な感じ……」",
+      "txt_idk_2": "「……ん、……はぁ……はぁ。お腹の中が持ち上げられていて、変な感じ……」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "喋るだけの余裕が出てきている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈の中が熱く締めつけてきて離さない。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "荒い息遣いが聞こえる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈自身が感じてきている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "少しだけ動きを速めてみた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「あっ！　んんっ、あ……っ！　んっ、く……っ！」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20476"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「動き、はやく……っ。んんっ。私の、中、何度も……っ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20477"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「すげぇ気持ちいい……っ。動くたびに、麗奈のあそこが\\n締めつけてくる」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「すげぇ気持ちいい……っ。動くたびに、麗奈のあそこが締めつけてくる」",
+      "txt_idk_2": "「すげぇ気持ちいい……っ。動くたびに、麗奈のあそこが締めつけてくる」"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「知らない、私、じゃない……っ。\\n体が勝手に……っ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20478"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「知らない、私、じゃない……っ。体が勝手に……っ」",
+      "txt_idk_2": "「知らない、私、じゃない……っ。体が勝手に……っ」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "何度も何度も突き上げていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "腰がぶつかり、麗奈の体が跳ねる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "締めつけられて、射精を促される。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "溢れ出る愛液が混ざり合い、更なる潤滑液となっていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "体勢のためにあまり早くは出来ない。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それなのに限界があっという間に訪れてしまいそうだ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……だというのに、気がつけば麗奈を突きあげて粘膜を\\n擦り合わせている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "……だというのに、気がつけば麗奈を突きあげて粘膜を擦り合わせている。",
+      "txt_idk_2": "……だというのに、気がつけば麗奈を突きあげて粘膜を擦り合わせている。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "互いの肉を打ちつける音が室内に響く。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「あっ、や……っ。んんっ。ん……っ。はぁ……っ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20479"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……う……っ。んっ、……はぁ、く……っ。\\n何も、考えられない……道隆、そろ、そろ……んっ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20480"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……う……っ。んっ、……はぁ、く……っ。何も、考えられない……道隆、そろ、そろ……んっ」",
+      "txt_idk_2": "「……う……っ。んっ、……はぁ、く……っ。何も、考えられない……道隆、そろ、そろ……んっ」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "艶交じりの声に突き動かされるように、麗奈の中を更に\\n突き入れてゆく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "艶交じりの声に突き動かされるように、麗奈の中を更に突き入れてゆく。",
+      "txt_idk_2": "艶交じりの声に突き動かされるように、麗奈の中を更に突き入れてゆく。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そろそろ……！」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……くっ。ううっ。あんっ、んああっ！！」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20481"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "喘ぎながら麗奈はこくこくと頷く。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "甘い声が耳から入り、脳の奥をしびれさせる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "高みに向けて、更に膣内をまさぐっていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「ああっ！！　んっ、ああっ！　あっ。くぅ……。\\n中、しびれて……っ。もう、私……んんっ！」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20482"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ああっ！！　んっ、ああっ！　あっ。くぅ……。中、しびれて……っ。もう、私……んんっ！」",
+      "txt_idk_2": "「ああっ！！　んっ、ああっ！　あっ。くぅ……。中、しびれて……っ。もう、私……んんっ！」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈の声が弾む。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "俺自身も限界だ。\\n体を引き寄せて、一番奥へと差しこんだ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "俺自身も限界だ。体を引き寄せて、一番奥へと差しこんだ。",
+      "txt_idk_2": "俺自身も限界だ。体を引き寄せて、一番奥へと差しこんだ。"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「あ…………っ！！」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20483"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「くぅっ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「あああぁぁ…………っっ！！」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20484"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "肉襞が一際締めつけてくる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "そこで限界が訪れた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――どくっ、どくっ、どくっ！！",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈の一番奥めがけて、精液が溢れていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……はぁ……はぁ……はぁ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……ふぅ。は、……ぁぁ……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20485"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "放心したように全身から力が抜ける。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……はぁぁ……」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "長い射精が終わった。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "力を失ったペニスが堅さを失っていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ちゅく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "麗奈の体から抜いた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ペニスが抜けた事で、体液が溢れてくる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……はぁ……はぁ……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20486"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「はぁぁ……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20487"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "大きく息を吐き出す。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "恍惚とした物が混じっていた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    }
+  ],
+  [
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……あんた結構無茶するわね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20488"
+        }
+      ],
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "終わって片付けながら、麗奈は言った。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「悪い。辛かったか？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「そう言う訳じゃないけど、あんな気持ちよさそうに\\n腰振られると反応に困るわ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20489"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「そう言う訳じゃないけど、あんな気持ちよさそうに腰振られると反応に困るわ」",
+      "txt_idk_2": "「そう言う訳じゃないけど、あんな気持ちよさそうに腰振られると反応に困るわ」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……うぐ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「まあ、私も慣れるようにはしていくけれど」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20490"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「慣れて……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「想像するんじゃないわよ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20491"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ま、まあ。そこは後の楽しみにするとして」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「明日は親父さんいるんだよな。\\n挨拶に行こうと思うんだけど」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「明日は親父さんいるんだよな。挨拶に行こうと思うんだけど」",
+      "txt_idk_2": "「明日は親父さんいるんだよな。挨拶に行こうと思うんだけど」"
+    },
+    {
+      "character_speaking": "麗奈",
+      "idk_1": null,
+      "txt": "「……わかったわ。放課後でいいわよね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_20492"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ああ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    }
+  ]
+]

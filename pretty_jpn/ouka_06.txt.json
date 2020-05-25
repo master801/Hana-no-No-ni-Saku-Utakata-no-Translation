@@ -1,0 +1,5248 @@
+[
+  [
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "皆と別れて、桜花荘に帰ってきた。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ただいま……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「おかえり」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50222"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "一緒に帰宅した桜花が、出迎えの挨拶を言う。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それがどこか気恥ずかしい。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ボクもただいまだ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50223"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……お帰り」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ふふ、ありがとう」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50224"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "どこかくすぐったくて、気持ちが暖かくなる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……こういうのもいいものだと思った。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "部屋に戻り、服を着替える。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "一息ついた所で、桜花がやってきた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「少しお邪魔するよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50225"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「許可取るなんて珍しいな。\\n普段は居座ってるのに」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「許可取るなんて珍しいな。普段は居座ってるのに」",
+      "txt_idk_2": "「許可取るなんて珍しいな。普段は居座ってるのに」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「そう言えばそうだね。我ながらおかしい事をしている」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50226"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……何も言わずに居座ってる方が変なんだからな」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「そう言う意見もあると受け取っておこう」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50227"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「まったく……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "苦笑して隣を空ける。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "普段なら桜花は本を片手に、俺の隣を陣取る。\\nしかし今日は、窓に向かうと空を見上げた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "普段なら桜花は本を片手に、俺の隣を陣取る。しかし今日は、窓に向かうと空を見上げた。",
+      "txt_idk_2": "普段なら桜花は本を片手に、俺の隣を陣取る。しかし今日は、窓に向かうと空を見上げた。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「月が綺麗じゃないか」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50228"
+        }
+      ],
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……そうだな」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花の隣に座った。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それきり互いに喋らなくなる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……なんだか変だ。\\n向こうもそう思っているんだろうか。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "……なんだか変だ。向こうもそう思っているんだろうか。",
+      "txt_idk_2": "……なんだか変だ。向こうもそう思っているんだろうか。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ただ、すぐそばに人の気配があるのに、居心地悪くは\\nならなかった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "ただ、すぐそばに人の気配があるのに、居心地悪くはならなかった。",
+      "txt_idk_2": "ただ、すぐそばに人の気配があるのに、居心地悪くはならなかった。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "部屋の中にいるのは桜花だけ。\\nそして、見える色もない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "部屋の中にいるのは桜花だけ。そして、見える色もない。",
+      "txt_idk_2": "部屋の中にいるのは桜花だけ。そして、見える色もない。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ただ俺と桜花がいて、室内を月明かりが照らしている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「道隆と出会ってから、長いようで短い時間だった」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50229"
+        }
+      ],
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……急にどうしたんだ？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「何となく、感慨にふけってしまってね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50230"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ボクは……まあ知っての通り、この世に存在しているか\\nどうかも分からない幽霊だ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50231"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ボクは……まあ知っての通り、この世に存在しているかどうかも分からない幽霊だ」",
+      "txt_idk_2": "「ボクは……まあ知っての通り、この世に存在しているかどうかも分からない幽霊だ」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「実の所、最初の出会いの時に浮かれていた」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50232"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「その割には騙す気満々だったけどなぁ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「引っ込みがつかなくなってしまってね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50233"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ただ長くは一緒にいられないだろうと思った。\\n同時に最初で最後の機会だとも思っていたんだ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50234"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ただ長くは一緒にいられないだろうと思った。同時に最初で最後の機会だとも思っていたんだ」",
+      "txt_idk_2": "「ただ長くは一緒にいられないだろうと思った。同時に最初で最後の機会だとも思っていたんだ」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「最初で最後の？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ああ、ボクがはっきりと見えて会話出来る人間なんて\\nこの先訪れる事はない。自分自身の事を調べる機会は、\\nこれが最後だと思っていた」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50235"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ああ、ボクがはっきりと見えて会話出来る人間なんてこの先訪れる事はない。自分自身の事を調べる機会は、これが最後だと思っていた」",
+      "txt_idk_2": "「ああ、ボクがはっきりと見えて会話出来る人間なんてこの先訪れる事はない。自分自身の事を調べる機会は、これが最後だと思っていた」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「きっとこれは正しい予感だ。\\n道隆を接点に、ボクは世界と繋がる事が出来たのだから」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50236"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「きっとこれは正しい予感だ。道隆を接点に、ボクは世界と繋がる事が出来たのだから」",
+      "txt_idk_2": "「きっとこれは正しい予感だ。道隆を接点に、ボクは世界と繋がる事が出来たのだから」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「結局、過去はまだ見つけてやれてないけれどな」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……道隆は今も、ボクのルーツ探しをしていたのかい？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50237"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「いや……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そういう訳じゃない。日々を過ごすのに精いっぱいだったよ。\\nでも、次やるのはそれも良いなと思ってる」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「そういう訳じゃない。日々を過ごすのに精いっぱいだったよ。でも、次やるのはそれも良いなと思ってる」",
+      "txt_idk_2": "「そういう訳じゃない。日々を過ごすのに精いっぱいだったよ。でも、次やるのはそれも良いなと思ってる」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「どうして？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50238"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「さあ、何でだろうな。\\nきっと俺がもっと深く知りたいんだ。桜花の事を」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「さあ、何でだろうな。きっと俺がもっと深く知りたいんだ。桜花の事を」",
+      "txt_idk_2": "「さあ、何でだろうな。きっと俺がもっと深く知りたいんだ。桜花の事を」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……君はもう少し考えてから喋った方がいい」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50239"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "どこか呆れた気配が混じる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「それでは口説いてるのだと思われてしまうよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50240"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……そうなのかな？　でも……うん、それでもいいか」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "幽霊だからとか、桜花との付かず離れずだった距離感も\\n全てがどうでもいい事に思えていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "幽霊だからとか、桜花との付かず離れずだった距離感も全てがどうでもいい事に思えていた。",
+      "txt_idk_2": "幽霊だからとか、桜花との付かず離れずだった距離感も全てがどうでもいい事に思えていた。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ただ隣には、桜花という一人の少女がいる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それだけで俺は満ち足りる事が出来てしまっている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……俺と同じ世界を見てくれた女の子がいて。\\n今、隣にいて、一緒に空を見上げてる」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……俺と同じ世界を見てくれた女の子がいて。今、隣にいて、一緒に空を見上げてる」",
+      "txt_idk_2": "「……俺と同じ世界を見てくれた女の子がいて。今、隣にいて、一緒に空を見上げてる」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「いいシチュエーションだと思わないか？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「そんな場合はね、女の取る行動も決まっているんだ。\\n知っていたかな？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50241"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「そんな場合はね、女の取る行動も決まっているんだ。知っていたかな？」",
+      "txt_idk_2": "「そんな場合はね、女の取る行動も決まっているんだ。知っていたかな？」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「いや……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "腕に重みを感じる。\\n不意に呼気を感じて、隣を見た。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "腕に重みを感じる。不意に呼気を感じて、隣を見た。",
+      "txt_idk_2": "腕に重みを感じる。不意に呼気を感じて、隣を見た。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花が俺に寄りそって、体重を掛けていた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「…………」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50242"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花は俺にもたれかかったまま月を見ている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "胸が、一つ大きな鼓動を鳴らした。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "わずか一月。でもその中で共に過ごした時間は濃密で、ずっと\\n前から一緒にいたような気さえしてくる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "わずか一月。でもその中で共に過ごした時間は濃密で、ずっと前から一緒にいたような気さえしてくる。",
+      "txt_idk_2": "わずか一月。でもその中で共に過ごした時間は濃密で、ずっと前から一緒にいたような気さえしてくる。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ありがとうな」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "気がついたら、そんな言葉が出ていた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「こちらこそ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50243"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花が俺を見上げる。\\n月明かりに照らされた顔はすごく綺麗で、目が離せなくなる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "桜花が俺を見上げる。月明かりに照らされた顔はすごく綺麗で、目が離せなくなる。",
+      "txt_idk_2": "桜花が俺を見上げる。月明かりに照らされた顔はすごく綺麗で、目が離せなくなる。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花も、目を離さない。\\n俺を見つめて、その視線で捕えてしまっているかのようだ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "桜花も、目を離さない。俺を見つめて、その視線で捕えてしまっているかのようだ。",
+      "txt_idk_2": "桜花も、目を離さない。俺を見つめて、その視線で捕えてしまっているかのようだ。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「側に居て欲しい。これからもずっと一緒に」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「きっと長い時間になるよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50244"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「構わない。好きだ。\\nこれからもずっと一緒にいてくれ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「構わない。好きだ。これからもずっと一緒にいてくれ」",
+      "txt_idk_2": "「構わない。好きだ。これからもずっと一緒にいてくれ」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「そうか……なら、こちらが言うべき事は決まっている」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50245"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花は俺を正面から見据えた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "瞳が潤んでいる。\\n桜色の唇が、囁くように開く。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "瞳が潤んでいる。桜色の唇が、囁くように開く。",
+      "txt_idk_2": "瞳が潤んでいる。桜色の唇が、囁くように開く。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「私もあなたの事が好きよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50246"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それはまるで初めて会った時のような言葉だった。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……意味は痛いほどに、伝わってくる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "あの頃から好きだったという、桜花の告白。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "目を閉じる。\\n唇が触れ合った。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "目を閉じる。唇が触れ合った。",
+      "txt_idk_2": "目を閉じる。唇が触れ合った。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "月明かりの下、俺たちは長い――長い、キスをしていた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「これは……照れるね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50247"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "唇を離した桜花が、朱に染まった顔で微笑む。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「あ、ああ。確かに」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「道隆への恩返しを色々と考えていたんだ。\\nボクは女だから、強く求められたらそれも良いと思っていた」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50248"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「道隆への恩返しを色々と考えていたんだ。ボクは女だから、強く求められたらそれも良いと思っていた」",
+      "txt_idk_2": "「道隆への恩返しを色々と考えていたんだ。ボクは女だから、強く求められたらそれも良いと思っていた」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「それは……ダメだろ、自分を大事にしないと」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "真面目に言ったつもりなのだが、桜花はくすくすと笑う。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「道隆以外の人間には、触れたり話したり出来ないのに？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50249"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……う」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「どの道、君以外に相手がいない。だからそれも当然の事で\\nつまりは運命だと思っていた」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50250"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「どの道、君以外に相手がいない。だからそれも当然の事でつまりは運命だと思っていた」",
+      "txt_idk_2": "「どの道、君以外に相手がいない。だからそれも当然の事でつまりは運命だと思っていた」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ボクは目の前に降りかかった運命に感謝をしていたんだ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50251"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そうなのか……？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「そうじゃなかったら、君を誘わない。\\n女として好きになる前に、道隆を愛していたんだ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50252"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「そうじゃなかったら、君を誘わない。女として好きになる前に、道隆を愛していたんだ」",
+      "txt_idk_2": "「そうじゃなかったら、君を誘わない。女として好きになる前に、道隆を愛していたんだ」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「なんだか複雑だな……それ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「嫌だったかい？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50253"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「嫌じゃないんだけれど、自分の中に落ち着かなくて」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「そうだね、言葉で説明しようとすると迷う。\\nただ、得体の知れない幽霊を本物かどうかを見極める目を\\n持っていて、更には言葉を信じて手助けするお人よし」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50254"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「そうだね、言葉で説明しようとすると迷う。ただ、得体の知れない幽霊を本物かどうかを見極める目を持っていて、更には言葉を信じて手助けするお人よし」",
+      "txt_idk_2": "「そうだね、言葉で説明しようとすると迷う。ただ、得体の知れない幽霊を本物かどうかを見極める目を持っていて、更には言葉を信じて手助けするお人よし」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「そんな人材は、ボクがこれから過ごすであろう時間の中でも\\n永遠に現れない事だけは、分かっていたんだ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50255"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「そんな人材は、ボクがこれから過ごすであろう時間の中でも永遠に現れない事だけは、分かっていたんだ」",
+      "txt_idk_2": "「そんな人材は、ボクがこれから過ごすであろう時間の中でも永遠に現れない事だけは、分かっていたんだ」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "だから、運命だと桜花は言う。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "どれほど続くか分からない時間の中で、ただひとたびの\\n出会いを迎えられた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "どれほど続くか分からない時間の中で、ただひとたびの出会いを迎えられた。",
+      "txt_idk_2": "どれほど続くか分からない時間の中で、ただひとたびの出会いを迎えられた。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "他の誰でもない、俺自身だからこそだと。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……でも、違った。道隆はボクが想像していたような\\n人間じゃなかった」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50256"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……でも、違った。道隆はボクが想像していたような人間じゃなかった」",
+      "txt_idk_2": "「……でも、違った。道隆はボクが想像していたような人間じゃなかった」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「それは――ん！？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花が唇を寄せてくる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ついばむように何度も合わせてくる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「好きだよ。愛している。\\nこの言葉を口にするたびに、胸の奥が恥ずかしくて仕方ない」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50257"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「好きだよ。愛している。この言葉を口にするたびに、胸の奥が恥ずかしくて仕方ない」",
+      "txt_idk_2": "「好きだよ。愛している。この言葉を口にするたびに、胸の奥が恥ずかしくて仕方ない」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「でも――嬉しくてたまらない。温かい気持ちが溢れてくる」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50258"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「人を愛した後に、恋を知った。\\nこの気持ちを、道隆は受け止めてくれるかい……？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50259"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「人を愛した後に、恋を知った。この気持ちを、道隆は受け止めてくれるかい……？」",
+      "txt_idk_2": "「人を愛した後に、恋を知った。この気持ちを、道隆は受け止めてくれるかい……？」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "切なげに囁く言葉は、嘘偽りない想いの吐露だ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「当たり前だ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "正面から桜花に言った。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……即答するとは思わなかったよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50260"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ここで返事に迷うくらいなら、最初から言わない」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「…………ぷ、あはは、それはそうだね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50261"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「それに、お前の挑発めいた言葉にも、ずっとドキドキ\\nしっぱなしだったんだ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「それに、お前の挑発めいた言葉にも、ずっとドキドキしっぱなしだったんだ」",
+      "txt_idk_2": "「それに、お前の挑発めいた言葉にも、ずっとドキドキしっぱなしだったんだ」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「それは今もかい？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50262"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ああ、今が一番ドキドキしてる」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "再び唇が重なりあう。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "俺たちは互いの想いを確かめ合っていた……。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "唇が離れる。\\nお互いに何も言う事ができない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "唇が離れる。お互いに何も言う事ができない。",
+      "txt_idk_2": "唇が離れる。お互いに何も言う事ができない。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……やっぱりどこか照れくさくて仕方ない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「あ……そろそろ寝るか」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花から顔をそらして畳まれた布団を広げる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……う」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "これはこれで誘っているようで気恥ずかしい。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……電気、つけるぞ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "暗いのがよくないのだろう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "部屋の明かりに手を伸ばす。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "その途端……。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「道隆……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50263"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ん……？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花に袖を引かれた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "広げた布団の上に、押し倒したような形になっていた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「桜花？」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……はしたない事だと思わないで欲しいのだけれど」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50264"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "窓の外からは明るい月明かりが入り込んでいる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先ほどの月明かりの下での神秘さはなりを潜め、俺の腕の下に\\nは肉体を持った一人の女の子がいた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "先ほどの月明かりの下での神秘さはなりを潜め、俺の腕の下には肉体を持った一人の女の子がいた。",
+      "txt_idk_2": "先ほどの月明かりの下での神秘さはなりを潜め、俺の腕の下には肉体を持った一人の女の子がいた。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "俺を見上げたまま、どこか震える声で言う。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「道隆の証を、ボクにくれないかな……？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50265"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「いいのか……？」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ああ……心が通いあうのが嬉しい。嬉しくてたまらない。\\nだけれど、不安もあるんだ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50266"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ああ……心が通いあうのが嬉しい。嬉しくてたまらない。だけれど、不安もあるんだ」",
+      "txt_idk_2": "「ああ……心が通いあうのが嬉しい。嬉しくてたまらない。だけれど、不安もあるんだ」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……ボクと道隆は違う。本来交わってはいけない世界の\\n住人なのかもしれない」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50267"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……ボクと道隆は違う。本来交わってはいけない世界の住人なのかもしれない」",
+      "txt_idk_2": "「……ボクと道隆は違う。本来交わってはいけない世界の住人なのかもしれない」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ここで想いを成就して、成仏……なんていうのも笑えない。\\nだから、未練が欲しい。強く、心に」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50268"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ここで想いを成就して、成仏……なんていうのも笑えない。だから、未練が欲しい。強く、心に」",
+      "txt_idk_2": "「ここで想いを成就して、成仏……なんていうのも笑えない。だから、未練が欲しい。強く、心に」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……未練？」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「君と共に歩んで行きたいという未練だ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50269"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花が耳元で囁く。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……わかった」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それを拒む理由は、どこにもなかった。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……ちゅ、ん……ん」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50270"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "キスをしながら、胸に手を伸ばした。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ん……、触り方、優しいな……もう少し強くしてもいいよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50271"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「わかった」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花の豊満な胸を両手で触っていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "手のひらを動かすたびに形を変えて、弾力が押し返してくる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "丸く円を描くようにすると、袴からこぼれおちそうになって\\nいる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "丸く円を描くようにすると、袴からこぼれおちそうになっている。",
+      "txt_idk_2": "丸く円を描くようにすると、袴からこぼれおちそうになっている。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……ん、……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50272"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "表情に苦しげな物が混じった。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「あ、悪い」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「大丈夫……他人に触れられるのは初めてでね……。\\n感覚に戸惑っている……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50273"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「大丈夫……他人に触れられるのは初めてでね……。感覚に戸惑っている……」",
+      "txt_idk_2": "「大丈夫……他人に触れられるのは初めてでね……。感覚に戸惑っている……」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……そっか。普段体がなかったから」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ん……ボクに触れたのは道隆が初めてだと思う。\\nこの刺激が初めての体験だよ……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50274"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ん……ボクに触れたのは道隆が初めてだと思う。この刺激が初めての体験だよ……」",
+      "txt_idk_2": "「ん……ボクに触れたのは道隆が初めてだと思う。この刺激が初めての体験だよ……」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「じゃあ、ゆっくりと……」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「好きにしていいよ。慣れていないから、新しい刺激は\\nどれも興味深くあるからね……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50275"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「好きにしていいよ。慣れていないから、新しい刺激はどれも興味深くあるからね……」",
+      "txt_idk_2": "「好きにしていいよ。慣れていないから、新しい刺激はどれも興味深くあるからね……」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花の言葉に頷いて、愛撫を重ねていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……ちゅ、ぴちゃ、ちゅ……ん。くちゅ。\\nはぁ、はぁ……んん」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50276"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……ちゅ、ぴちゃ、ちゅ……ん。くちゅ。はぁ、はぁ……んん」",
+      "txt_idk_2": "「……ちゅ、ぴちゃ、ちゅ……ん。くちゅ。はぁ、はぁ……んん」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "唇をあわせ、舌をついばんで唾液を吸い上げる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "キスをしているだけで、こちらの脳がとろけそうな程の\\n快感だ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "キスをしているだけで、こちらの脳がとろけそうな程の快感だ。",
+      "txt_idk_2": "キスをしているだけで、こちらの脳がとろけそうな程の快感だ。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "首筋にキスをして襟元から手を差し込んだ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……んんっ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50277"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "直に触れるとしっとりとした熱が伝わってくる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「はぁ……はぁ……ん。ん……はぁ……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50278"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "白い頬が朱に染まる。\\n緊張に硬くなっていた桜花の体から、徐々に力が抜けてきた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "白い頬が朱に染まる。緊張に硬くなっていた桜花の体から、徐々に力が抜けてきた。",
+      "txt_idk_2": "白い頬が朱に染まる。緊張に硬くなっていた桜花の体から、徐々に力が抜けてきた。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……なんだか、すごい、ね。\\nこうして触れ合っているだけでも、気持ちいい」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50279"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……なんだか、すごい、ね。こうして触れ合っているだけでも、気持ちいい」",
+      "txt_idk_2": "「……なんだか、すごい、ね。こうして触れ合っているだけでも、気持ちいい」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そうだな……」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「安易な繋がりで抱かれなくて、よかったと思っている。\\nそれでも後悔は無く嬉しかったとは思うのだけれど……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50280"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「安易な繋がりで抱かれなくて、よかったと思っている。それでも後悔は無く嬉しかったとは思うのだけれど……」",
+      "txt_idk_2": "「安易な繋がりで抱かれなくて、よかったと思っている。それでも後悔は無く嬉しかったとは思うのだけれど……」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「今ほどの愛されている喜びは得られなかっただろうね……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50281"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そうかもな。でも、もし知りあって直ぐに桜花に手を出した\\nとしても、俺はきっとお前に夢中になってたと思う」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「そうかもな。でも、もし知りあって直ぐに桜花に手を出したとしても、俺はきっとお前に夢中になってたと思う」",
+      "txt_idk_2": "「そうかもな。でも、もし知りあって直ぐに桜花に手を出したとしても、俺はきっとお前に夢中になってたと思う」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……そうなのかい？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50282"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「実は興奮してるのを隠すのに苦労した事が何度もあった」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……そうか。それを聞くと、残念な気もしてくるね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50283"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「はは、やっぱり桜花は桜花なんだな」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「なんだい？　それは……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50284"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「色々な事を考えて、試したがる。\\n俺が沢山お世話になって、好きになった桜花そのままって事」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「色々な事を考えて、試したがる。俺が沢山お世話になって、好きになった桜花そのままって事」",
+      "txt_idk_2": "「色々な事を考えて、試したがる。俺が沢山お世話になって、好きになった桜花そのままって事」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……こういう時に、そんな事を言うのは卑怯……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50285"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "これ以上ないほどに頬を染めて、桜花は上目づかいで抗議する。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「胸の奥が苦しくなってしまうよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50286"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……ん、ちゅ……ん……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50287"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花がしがみつくようにキスを求めてくる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それに応じながら、先に進める事にした。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "はだけた胸元から豊満な乳房がこぼれおちる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「どう、かな。おかしくないかい……？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50288"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……綺麗だと思う……そしてすごくエロい」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「胸も大きいよな……触っていると、手のひらから溢れそう」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……ん、……あ、胸も触られたのは初めてだけれど。\\n息苦しくなってくる……ん、……はぁ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50289"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……ん、……あ、胸も触られたのは初めてだけれど。息苦しくなってくる……ん、……はぁ」",
+      "txt_idk_2": "「……ん、……あ、胸も触られたのは初めてだけれど。息苦しくなってくる……ん、……はぁ」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「触っているだけで、気持ちいいのかい……？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50290"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ああ、全然飽きない。手に吸いつくみたいで気持ちいい」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "袴一枚隔てるだけで、柔らかい弾力が直に返ってくる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "乳首は硬くなり、指で擦るたびに桜花の体が小さく跳ねる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "そこに口づけて吸った。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ちゅ、……ちゅぱ、ん、ぴちゃ……」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「んっ！　あっ、ああぁっ。ん」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50291"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……あ、んんっ、くすぐった、……んっ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50292"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "体をよじって逃げようとするが、それを許さずに愛撫を続ける。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "愛撫を続けながら、下半身に手を伸ばした。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……はぁ、はぁ……ん。ん……ぁ……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50293"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "袴の下には現代風の下着を穿いていた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「着替えの時には、穿いてなかったやつだよな」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「部屋に来るのでね、準備をしてきたんだ……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50294"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……今日は、そのつもりで？」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「いや……さすがに、そこまでは急いでなかったよ。\\nただ、自分が無防備に感じられて、恥ずかしくてね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50295"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「いや……さすがに、そこまでは急いでなかったよ。ただ、自分が無防備に感じられて、恥ずかしくてね」",
+      "txt_idk_2": "「いや……さすがに、そこまでは急いでなかったよ。ただ、自分が無防備に感じられて、恥ずかしくてね」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「普段のままの方が、よかったかな……？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50296"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……いや」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「触るぞ……力抜いて」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「そこ、は……んんっ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50297"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "太ももの辺りを触り、下着の上から丘をなぞる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「あっ、んんっ、く……ぅぅ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50298"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "急に与えられた刺激に体を震わせた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "内股の辺りは、汗で潤んでいる。\\n下着が濡れているのは、けっして汗だけではないだろう。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "内股の辺りは、汗で潤んでいる。下着が濡れているのは、けっして汗だけではないだろう。",
+      "txt_idk_2": "内股の辺りは、汗で潤んでいる。下着が濡れているのは、けっして汗だけではないだろう。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "指で下着越しに秘所をなでる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "布を通しても柔らかな丘と、割れ目の感触があった。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ああ……っ、そこは、……ん……っ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50299"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花が身を震わせる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "強く押し込むと、下着が割れ目にそって中に埋まっていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "押し出される愛液が下着について、染みとなっていた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「はぁっ、はぁっ……ん、あぁ……はぁ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50300"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "興奮のあまり、ズボンの中が痛いほど硬くなっている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花の様子を見ながら、指先を下着の中に滑らせた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ちゅく、くちゅ。ちゅぷ……ちゅくくちゅっ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「あっ……んっ。ふ、んんっ、あっ。んっ！\\nんん……くぅ……んんぅ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50301"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「あっ……んっ。ふ、んんっ、あっ。んっ！んん……くぅ……んんぅ」",
+      "txt_idk_2": "「あっ……んっ。ふ、んんっ、あっ。んっ！んん……くぅ……んんぅ」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「刺激、が……強くて。んっ、んんっ！！」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50302"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "秘所からこぼれる蜜を塗りたくるように、少しずつ桜花の\\n中に侵入していく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "秘所からこぼれる蜜を塗りたくるように、少しずつ桜花の中に侵入していく。",
+      "txt_idk_2": "秘所からこぼれる蜜を塗りたくるように、少しずつ桜花の中に侵入していく。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ゆっくりと傷を付けないように、周囲の壁を押しては\\n中からこぼれる愛液をかきまぜた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "ゆっくりと傷を付けないように、周囲の壁を押しては中からこぼれる愛液をかきまぜた。",
+      "txt_idk_2": "ゆっくりと傷を付けないように、周囲の壁を押しては中からこぼれる愛液をかきまぜた。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "そのたびに桜花は、背をのけぞらせて声を漏らす。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "左右に首を振り、快感に喘いでいた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「んんっ！　あっ、ああんっっ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50303"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ちゅく。ぷちゅ、くちゅ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ふぁぁっ。あ……ああっ、ん……っ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50304"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……みち、たか……いじわる、しないで……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50305"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「そろそろ……ボクを、道隆のものに……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50306"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "息も絶え絶えで桜花が訴える。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ああ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "俺自身も、我慢の限界を迎えていた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "下着を抜き取り、桜花の秘所を晒した。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……あまり、みないで、くれないか……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50307"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「すごい綺麗だ。愛液が溢れてて光ってる……。\\nすごいエロい……」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「すごい綺麗だ。愛液が溢れてて光ってる……。すごいエロい……」",
+      "txt_idk_2": "「すごい綺麗だ。愛液が溢れてて光ってる……。すごいエロい……」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「道隆はいじわるだ……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50308"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "そう言いながらも、桜花は自分の秘所と俺の股間の辺りを\\nまじまじと見ている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "そう言いながらも、桜花は自分の秘所と俺の股間の辺りをまじまじと見ている。",
+      "txt_idk_2": "そう言いながらも、桜花は自分の秘所と俺の股間の辺りをまじまじと見ている。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……それが、本当に中に入るのかい……？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50309"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「あ、ああ……多分」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "自分のがデカいとは思わないが、こんな狭そうなあそこに\\n果たして入るのだろうか。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "自分のがデカいとは思わないが、こんな狭そうなあそこに果たして入るのだろうか。",
+      "txt_idk_2": "自分のがデカいとは思わないが、こんな狭そうなあそこに果たして入るのだろうか。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ちゅく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先端を秘所にあてがう。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……はぁ……はぁ……ん、……はぁ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50310"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "興奮のためか呼吸が荒くなっている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それは俺も同じだろう。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ちゅく、くちゅ、ちゅぷ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "いきなり入れると痛いだろう。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "指で左右に広げながら、桜花の柔らかなアソコにペニスを\\n擦りつけていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "指で左右に広げながら、桜花の柔らかなアソコにペニスを擦りつけていく。",
+      "txt_idk_2": "指で左右に広げながら、桜花の柔らかなアソコにペニスを擦りつけていく。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「うわ……気持ちいい、お前のあそこ、柔らかくてあったかい」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……んんっ、あ……んっ、……んんっ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50311"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "素股で擦りつけているだけで、クリトリスにあたって\\nペニスが擦れている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "素股で擦りつけているだけで、クリトリスにあたってペニスが擦れている。",
+      "txt_idk_2": "素股で擦りつけているだけで、クリトリスにあたってペニスが擦れている。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花から新たな蜜が溢れるたびにペニスに愛液が絡んで\\n糸を引いた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "桜花から新たな蜜が溢れるたびにペニスに愛液が絡んで糸を引いた。",
+      "txt_idk_2": "桜花から新たな蜜が溢れるたびにペニスに愛液が絡んで糸を引いた。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……行くぞ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ああ、いつでも中に……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50312"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先端を入れると、桜花の中に挿入した。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ずちゅっ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「んっ！！　んくぅぅ……っ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50313"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ぐ……んんっ、あ、はっ、はぁっ。あぁっ！」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50314"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "痛みに喘ぐ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "呼吸が乱れ、体にぎゅぅっと力が入った。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ぐ……っ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花の中は熱く、愛液が溢れてくる。\\n破瓜の血が毀れて、ペニスを伝って滴り落ちた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "桜花の中は熱く、愛液が溢れてくる。破瓜の血が毀れて、ペニスを伝って滴り落ちた。",
+      "txt_idk_2": "桜花の中は熱く、愛液が溢れてくる。破瓜の血が毀れて、ペニスを伝って滴り落ちた。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……ん、ぐぅ、……なかなか、痛い……ものだね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50315"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「小説の描写は、思ったよりも正確らしい……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50316"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……どんな感じなんだ？」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「股の間に、棒を突き刺されている……これは、見たままだが。\\n熱いそれが体の中心に立って、動きを阻害しているようだ……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50317"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「股の間に、棒を突き刺されている……これは、見たままだが。熱いそれが体の中心に立って、動きを阻害しているようだ……」",
+      "txt_idk_2": "「股の間に、棒を突き刺されている……これは、見たままだが。熱いそれが体の中心に立って、動きを阻害しているようだ……」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「体の奥に熱を感じるよ……道隆だと思うと、愛おしくあるが\\nやはり痛い物は痛いね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50318"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「体の奥に熱を感じるよ……道隆だと思うと、愛おしくあるがやはり痛い物は痛いね」",
+      "txt_idk_2": "「体の奥に熱を感じるよ……道隆だと思うと、愛おしくあるがやはり痛い物は痛いね」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "荒い息をつきながら、桜花が答える。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「また今度にしておくか？」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……いつでも、痛みは同じさ。このままでいい。\\n道隆を体の奥で感じられている……とても嬉しいよ……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50319"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……いつでも、痛みは同じさ。このままでいい。道隆を体の奥で感じられている……とても嬉しいよ……」",
+      "txt_idk_2": "「……いつでも、痛みは同じさ。このままでいい。道隆を体の奥で感じられている……とても嬉しいよ……」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「わかった」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "少しでも和らげようと、胸とあそこに手を伸ばした。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ゆっくりと挿入したペニスを動かしていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "愛液と鮮血で濡れているペニスは、動かすたびにきつい膣壁を\\nかき分けて、俺を締めつけてくる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "愛液と鮮血で濡れているペニスは、動かすたびにきつい膣壁をかき分けて、俺を締めつけてくる。",
+      "txt_idk_2": "愛液と鮮血で濡れているペニスは、動かすたびにきつい膣壁をかき分けて、俺を締めつけてくる。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ん……ぁ。はぁ、はぁ……んんっ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50320"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "痛みとも快感ともつかない声を出しながら、桜花は身を固く\\nしている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "痛みとも快感ともつかない声を出しながら、桜花は身を固くしている。",
+      "txt_idk_2": "痛みとも快感ともつかない声を出しながら、桜花は身を固くしている。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「体の力を抜いて。そうした方が痛くないと思う」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……難しい、ことを、言うね……ん……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50321"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「すぅ……はぁ……んん。あ……く……んん」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50322"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "大きく呼吸をするたびに乳房が揺れる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それでも痛み混じりの声ではあったが、何度も繰り返すうちに\\n体から徐々に力が抜けていった。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "それでも痛み混じりの声ではあったが、何度も繰り返すうちに体から徐々に力が抜けていった。",
+      "txt_idk_2": "それでも痛み混じりの声ではあったが、何度も繰り返すうちに体から徐々に力が抜けていった。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ちゅく、くちゅ。ずちゅ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それにあわせて少しずつ動くのを再開する。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……ん、……桜花の中、きもちいい……」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「それは、ん……よかった」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50323"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "こわばりが解けると共に、締め付けが緩んでくる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "硬い膣壁が俺の物を受け入れて、形にそって襞が締めつけて\\nきた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "硬い膣壁が俺の物を受け入れて、形にそって襞が締めつけてきた。",
+      "txt_idk_2": "硬い膣壁が俺の物を受け入れて、形にそって襞が締めつけてきた。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ペニスが別個の生き物に包み込まれているようだ……。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……んんぅ。はぁ……っ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50324"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それでも辛そうなので、ゆっくりと腰を引いていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ちゅく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "引きぬく動きと共に、愛液が溢れて糸を引いた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「あ……っ。あ……く……あぁ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50325"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先端が見えるくらいまで腰を引いた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "そして今度はゆっくりと中に入れていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ずちゅっ。ちゅくっ！",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「あ！　ああ、んんっ、はっ！　ぁぁっ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50326"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「く……気持ち、いい。中に入れると、きつ……っ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「今ぐらい、ならなんとか……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50327"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「わかった」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "無理に根元まで入れずにゆっくりと引きだす。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先端だけを埋没させたまま、左右の壁を擦ってほぐす。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "中に入れては、桜花が痛みを感じる前にまた引き抜く。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「あっ、んんっ！　あっ、んんっ、くぅ……んぅ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50328"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "何度も繰り返しているうちに、声に甘い物が混じりはじめた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花自身も体が受け入れてきたのか、少しずつ緊張がほぐれて\\nきてるようだった。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "桜花自身も体が受け入れてきたのか、少しずつ緊張がほぐれてきてるようだった。",
+      "txt_idk_2": "桜花自身も体が受け入れてきたのか、少しずつ緊張がほぐれてきてるようだった。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ズチュ、クチュッ、ズチュッ！",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「みち、たか……少し、ずつ、変な感じが……っ。\\nんっ！　ああっ！！　あん、んんっ！　あああっ！！」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50329"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「みち、たか……少し、ずつ、変な感じが……っ。んっ！　ああっ！！　あん、んんっ！　あああっ！！」",
+      "txt_idk_2": "「みち、たか……少し、ずつ、変な感じが……っ。んっ！　ああっ！！　あん、んんっ！　あああっ！！」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「声が、出てしまって……奥を突かれるたびに、息が漏れて\\nんんっ！　ああっ！！」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50330"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「声が、出てしまって……奥を突かれるたびに、息が漏れてんんっ！　ああっ！！」",
+      "txt_idk_2": "「声が、出てしまって……奥を突かれるたびに、息が漏れてんんっ！　ああっ！！」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「いいよ、我慢しないでくれ、体の力をぬいて、もっと\\n俺を受け入れて……」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「いいよ、我慢しないでくれ、体の力をぬいて、もっと俺を受け入れて……」",
+      "txt_idk_2": "「いいよ、我慢しないでくれ、体の力をぬいて、もっと俺を受け入れて……」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ああっ！！　ああっ。あああっっ！！！」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50331"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "左右の膣壁を擦るように入れる。\\nゆっくりと往復しながら、桜花の胸をもみしだいた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "左右の膣壁を擦るように入れる。ゆっくりと往復しながら、桜花の胸をもみしだいた。",
+      "txt_idk_2": "左右の膣壁を擦るように入れる。ゆっくりと往復しながら、桜花の胸をもみしだいた。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "少しずつ俺自身にも余裕が出てきた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "入り口の辺りは狭い締め付けがある。\\nそこを越えると、膣壁が絡みついてくる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "入り口の辺りは狭い締め付けがある。そこを越えると、膣壁が絡みついてくる。",
+      "txt_idk_2": "入り口の辺りは狭い締め付けがある。そこを越えると、膣壁が絡みついてくる。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "奥に入れるときつく閉ざされている……。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "この先に桜花の最も奥があるのだが、まだ痛いようだ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "入り口の辺りは亀頭の辺りを入れる時が、もっとも抵抗が\\nある。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "入り口の辺りは亀頭の辺りを入れる時が、もっとも抵抗がある。",
+      "txt_idk_2": "入り口の辺りは亀頭の辺りを入れる時が、もっとも抵抗がある。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それを突きぬけてしまうと、強く握られているようで\\n気持ちいい。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "それを突きぬけてしまうと、強く握られているようで気持ちいい。",
+      "txt_idk_2": "それを突きぬけてしまうと、強く握られているようで気持ちいい。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ああっ！！　んっ、あああっ！！　ああぁっ！！」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50332"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ズチュ！　チュプッ！　ジュプッ！",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "少しずつ挿入を繰り返すたびに、ペニスの奥にじんとした\\n熱を感じる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "少しずつ挿入を繰り返すたびに、ペニスの奥にじんとした熱を感じる。",
+      "txt_idk_2": "少しずつ挿入を繰り返すたびに、ペニスの奥にじんとした熱を感じる。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "精液が出口を求めて溜まってきているかのようだ。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "俺自身の快楽が桜花の中に吐き出したいという欲望を刺激\\nしていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "俺自身の快楽が桜花の中に吐き出したいという欲望を刺激していく。",
+      "txt_idk_2": "俺自身の快楽が桜花の中に吐き出したいという欲望を刺激していく。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「く……んんっ！！　あっ、はぁ……っ。\\nそろ、そろ……くる、し……っ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50333"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「く……んんっ！！　あっ、はぁ……っ。そろ、そろ……くる、し……っ」",
+      "txt_idk_2": "「く……んんっ！！　あっ、はぁ……っ。そろ、そろ……くる、し……っ」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「桜花……俺、そろそろ……」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花の足の付け根にペニスを埋没させながら、両手で胸を\\n愛撫する。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "桜花の足の付け根にペニスを埋没させながら、両手で胸を愛撫する。",
+      "txt_idk_2": "桜花の足の付け根にペニスを埋没させながら、両手で胸を愛撫する。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "その度にびくびくと震える太ももに力が入り、入り口の辺りを\\nきゅっと締めつけてくる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "その度にびくびくと震える太ももに力が入り、入り口の辺りをきゅっと締めつけてくる。",
+      "txt_idk_2": "その度にびくびくと震える太ももに力が入り、入り口の辺りをきゅっと締めつけてくる。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先端の辺りにじんわりとした熱を感じる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先走りした液体が溢れて、膣内にこぼれているのだろう。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "挿入をするたびに愛液と混ざり合い、引き抜く時に白濁した\\n液体になって糸を引いている。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "挿入をするたびに愛液と混ざり合い、引き抜く時に白濁した液体になって糸を引いている。",
+      "txt_idk_2": "挿入をするたびに愛液と混ざり合い、引き抜く時に白濁した液体になって糸を引いている。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ああっ！！　んっ、ああっ！　あっ！！　くぅっ。んんぅ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50334"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……そろ、そろ……ボクも、終わりに……っ！！」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50335"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「あああっ！！　あっ、んんっ！！　あっ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50336"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「桜花……出る、もう少しで……っ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「いいよ、道隆、ボクの中に……。\\nもっと深いつながりを、感じさせて欲しい……っ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50337"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「いいよ、道隆、ボクの中に……。もっと深いつながりを、感じさせて欲しい……っ」",
+      "txt_idk_2": "「いいよ、道隆、ボクの中に……。もっと深いつながりを、感じさせて欲しい……っ」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――ズチュ、チュク！　チュプッ！　ズチュッ！",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ああっ！！　あんっ、んんっ！　あっ！！　あああっ！！」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50338"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "快感が高まっていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花の一番奥をめがけて、動きが加速していく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "もっとゆっくりと味わいたいのに、全然止まらない。\\nこの中を最大限感じるようにペニスを突きたてていた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "もっとゆっくりと味わいたいのに、全然止まらない。この中を最大限感じるようにペニスを突きたてていた。",
+      "txt_idk_2": "もっとゆっくりと味わいたいのに、全然止まらない。この中を最大限感じるようにペニスを突きたてていた。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「あっ！！　ああっ！　んんっ、く……ふぅ……っ、んっ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50339"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「く、みち、たか……道隆……っ！！\\nあ、ああっ！！」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50340"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「く、みち、たか……道隆……っ！！あ、ああっ！！」",
+      "txt_idk_2": "「く、みち、たか……道隆……っ！！あ、ああっ！！」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……桜花……っっ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "体を抱きしめ、一番奥へ突き刺した。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ああぁぁぁぁぁっっ！！！」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50341"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――どくっ、どくっ、どくっ！！",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "激しく精液がほとばしる。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「あっ、ああっ！！　あんっ、んっ、あっ！　ああっっ！！」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50342"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「く……、あ、はぁ……はぁ……っ」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "二度三度と膣内に放出した。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "溢れ出る精液が繰り返し桜花の一番奥の部分を叩いていく。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……あ……ああ、あ……ぁ……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50343"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「はぁぁ……ぁ……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50344"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……おう、か……ちゅ、ん……」",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ちゅ、ぴちゃ……ちゅ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50345"
+        }
+      ],
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "繋がったまま唇を求めあう。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "脱力したまま布団の上で力を抜いた。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "挿入したまま、桜花と寄りそっていた……。",
+      "voices": null,
+      "idk_2": 456,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "裸のまま二人で抱き合い、やっと動けるようになったのは\\n数分後の事だった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "裸のまま二人で抱き合い、やっと動けるようになったのは数分後の事だった。",
+      "txt_idk_2": "裸のまま二人で抱き合い、やっと動けるようになったのは数分後の事だった。"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「なかなか……激しい……ね……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50346"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "よろよろと体を起こす。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "立ち上がった桜花の股間から、精液がどろりと溢れてくる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……うわ、ずいぶん出したものだね……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50347"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "その中には鮮血も混じっている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ティッシュを取ると、太ももを伝う精液を拭いはじめた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "（うわ……えろっ）",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「……ちょっと量が多すぎないかい？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50348"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「悪い……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花からティッシュを渡される。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "滴り落ちる精液を拭うのを手伝った。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「中に思いっきり出しちまった……ごめん」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「いいさ。ボクが求めた物だ。\\nそれに……この中に道隆がいると思うと、嬉しくなる」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50349"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「いいさ。ボクが求めた物だ。それに……この中に道隆がいると思うと、嬉しくなる」",
+      "txt_idk_2": "「いいさ。ボクが求めた物だ。それに……この中に道隆がいると思うと、嬉しくなる」"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "下腹部を抑えながら、桜花が微笑む。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「それに存在を考えると子供が出来るかどうかは怪しい。\\n……作れるならそれはそれで嬉しいけれどね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50350"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「それに存在を考えると子供が出来るかどうかは怪しい。……作れるならそれはそれで嬉しいけれどね」",
+      "txt_idk_2": "「それに存在を考えると子供が出来るかどうかは怪しい。……作れるならそれはそれで嬉しいけれどね」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そうなのか……？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ボクという存在がいた証になる。\\nさすがにそこまでは望めないけれどね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50351"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ボクという存在がいた証になる。さすがにそこまでは望めないけれどね」",
+      "txt_idk_2": "「ボクという存在がいた証になる。さすがにそこまでは望めないけれどね」"
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ただ……道隆と強い繋がりを感じる。\\n今はこれだけでも十分だよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50352"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ただ……道隆と強い繋がりを感じる。今はこれだけでも十分だよ」",
+      "txt_idk_2": "「ただ……道隆と強い繋がりを感じる。今はこれだけでも十分だよ」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……そっか」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「さてと、お風呂でも借りてくるとしよう。\\n道隆も入るかい？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50353"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「さてと、お風呂でも借りてくるとしよう。道隆も入るかい？」",
+      "txt_idk_2": "「さてと、お風呂でも借りてくるとしよう。道隆も入るかい？」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「いや、後で入るよ。先に使うといい」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "桜花",
+      "idk_1": null,
+      "txt": "「ではありがたく」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50354"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "桜花が廊下に消える。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……部屋の掃除をしないとなぁ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ティッシュを何枚かとって、情交の痕に手を入れるのだった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    }
+  ],
+  null
+]

@@ -1,0 +1,1571 @@
+[
+  [
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――閉じ込められてから、４８時間が過ぎた。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "一つの場所に丸二日となると、そろそろやる事が無くなって\\nきた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "一つの場所に丸二日となると、そろそろやる事が無くなってきた。",
+      "txt_idk_2": "一つの場所に丸二日となると、そろそろやる事が無くなってきた。"
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「……さすがに机で寝続けるのは辛くなってきたわね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30902"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……ですね。\\nカーテン外して布団代わりにでもします？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……ですね。カーテン外して布団代わりにでもします？」",
+      "txt_idk_2": "「……ですね。カーテン外して布団代わりにでもします？」"
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「それがいいのかしら……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30903"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先輩と手分けして、教室のカーテンを外していく。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "折り畳んだのを重ねると、それなりに寝られそうになった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「薄くて床が痛いのが難点ですけど」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「こうすればいいじゃない」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30904"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "四つ折りにしていたカーテンを広げて三つ折りにしなおす。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "改めて重ねると、厚みのある広い一人用の寝どこになった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「何も離して寝床作らなくても、二人で寝ればいいでしょ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30905"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「先輩がいいなら」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「もちろん。拒む理由なんて今さらないでしょ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30906"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……そうかもですね」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先輩にそっとキスをした。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――６１時間が経過。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "もう起きている理由も無くなったので、簡易ベッドの上で\\n先輩と寝ころんでいる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "もう起きている理由も無くなったので、簡易ベッドの上で先輩と寝ころんでいる。",
+      "txt_idk_2": "もう起きている理由も無くなったので、簡易ベッドの上で先輩と寝ころんでいる。"
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「……一応時間をメモしておくけれど、あまり意味がない\\n気がしてきたわ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30907"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……一応時間をメモしておくけれど、あまり意味がない気がしてきたわ」",
+      "txt_idk_2": "「……一応時間をメモしておくけれど、あまり意味がない気がしてきたわ」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そうですね……外の天気も変わらないし」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「日数だけ記録しようかしら」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30908"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……今日はどうします？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「やる事ないというのも困るわよね。\\n勉強でもする？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30909"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「やる事ないというのも困るわよね。勉強でもする？」",
+      "txt_idk_2": "「やる事ないというのも困るわよね。勉強でもする？」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「…………出来ればもっと違う事を」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「エッチな事だけして時間潰すのも、あまりよくないと思う\\nけれど」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30910"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「エッチな事だけして時間潰すのも、あまりよくないと思うけれど」",
+      "txt_idk_2": "「エッチな事だけして時間潰すのも、あまりよくないと思うけれど」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「それでもなくて、もっと手軽な娯楽があれば……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「じゃあ……交互にアイディア出していきましょうか」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30911"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「わかりました」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "お互いに無言で手を出す。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "一度振って出した手が――俺がグー、先輩がチョキだった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「あやとりでもしましょう。\\n手軽だし寝たまま出来るわ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30912"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「あやとりでもしましょう。手軽だし寝たまま出来るわ」",
+      "txt_idk_2": "「あやとりでもしましょう。手軽だし寝たまま出来るわ」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「分からないんで教えてください」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「いいわよ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30913"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――三日と半分くらいが経過した。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「…………『メロンソーダ』」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「大根の煮つけ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30914"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「けんちん汁」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「る……る……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30915"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "食い物限定しりとりも、長丁場になってきた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「ルッコラ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30916"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ラ……ラ……ラーメ……これじゃダメだ。\\nラ……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ラ……ラ……ラーメ……これじゃダメだ。ラ……」",
+      "txt_idk_2": "「ラ……ラ……ラーメ……これじゃダメだ。ラ……」"
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「今のアウトじゃない？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30917"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「全部は言ってないのでセーフで」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「ふふ、まあいいけど」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30918"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「ラディッシュ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「……シュールストレミング」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30919"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「グ、グ、グ……グァテマラ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「コーヒーの銘柄にしても、それは苦しいわね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30920"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そんな事よりラですよ。ラ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「ラ……ラ……なかなか出てこないわね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30921"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "こんなくだらない暇つぶしでも、とてもありがたかった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――五日目。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "さすがにやる事が底をついてきた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「ん、んぁぁっっ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30922"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先輩が俺の上で跳ねる。\\n絶頂に達し、倒れ込むのを支えて抱きしめた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "先輩が俺の上で跳ねる。絶頂に達し、倒れ込むのを支えて抱きしめた。",
+      "txt_idk_2": "先輩が俺の上で跳ねる。絶頂に達し、倒れ込むのを支えて抱きしめた。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "体を重ねると、疲労して程良く眠れるようになる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "俺たちがここに居る事の証のために、セックスをしている\\nような物だった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "俺たちがここに居る事の証のために、セックスをしているような物だった。",
+      "txt_idk_2": "俺たちがここに居る事の証のために、セックスをしているような物だった。"
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「はぁ……はぁ……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30923"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "繋がったままお互い体の力を抜く。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……もしも今すぐ元に戻ったら、この姿を人前に晒す事に\\nなるだろう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "……もしも今すぐ元に戻ったら、この姿を人前に晒す事になるだろう。",
+      "txt_idk_2": "……もしも今すぐ元に戻ったら、この姿を人前に晒す事になるだろう。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "当初はそれが自制心になったのだが、もうすぐ一週間……。\\n今現在、俺たちの心を保つために、そんな自制心は捨てていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "当初はそれが自制心になったのだが、もうすぐ一週間……。今現在、俺たちの心を保つために、そんな自制心は捨てていた。",
+      "txt_idk_2": "当初はそれが自制心になったのだが、もうすぐ一週間……。今現在、俺たちの心を保つために、そんな自制心は捨てていた。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ポケットの中に入ってるモノを出し合って、ゴムがあったのが\\n更に拍車をかけている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "ポケットの中に入ってるモノを出し合って、ゴムがあったのが更に拍車をかけている。",
+      "txt_idk_2": "ポケットの中に入ってるモノを出し合って、ゴムがあったのが更に拍車をかけている。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "（……何とかしないとな……）",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "でも……俺に何が出来るんだろう？",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……一週間が経過した。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "大体の予測でメモっているだけだから、本当はもう少し少ない\\nかもしれないし、もっと長いのかも知れない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "大体の予測でメモっているだけだから、本当はもう少し少ないかもしれないし、もっと長いのかも知れない。",
+      "txt_idk_2": "大体の予測でメモっているだけだから、本当はもう少し少ないかもしれないし、もっと長いのかも知れない。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "どちらともつかず、時間の感覚から切り離されつつある。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先輩は今も気丈にふるまっている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "自分に責任があると思っているんだろう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "そんな事は無いと思っているのだが……。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "（……まずいな）",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "まだ飢えも乾きもない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "けれど、思いっきり飲み食いをして自由になりたいという\\n欲求やストレスは身の内に湧き出てくる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "けれど、思いっきり飲み食いをして自由になりたいという欲求やストレスは身の内に湧き出てくる。",
+      "txt_idk_2": "けれど、思いっきり飲み食いをして自由になりたいという欲求やストレスは身の内に湧き出てくる。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "俺だけじゃなく、先輩もそうだろう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "でも発散出来ないストレスに負けた時に、自分がどうなるのか\\n分からなくなってしまう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "でも発散出来ないストレスに負けた時に、自分がどうなるのか分からなくなってしまう。",
+      "txt_idk_2": "でも発散出来ないストレスに負けた時に、自分がどうなるのか分からなくなってしまう。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "そんなのは嫌だし、例え出られたとしてもすっきりしない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "（そもそも、出られるのか……？）",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "このまま死ぬまでここに居るしかないんだろうか。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "飯も食わない、水も必要ない。\\nそれでいて、死ぬまで出られない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "飯も食わない、水も必要ない。それでいて、死ぬまで出られない。",
+      "txt_idk_2": "飯も食わない、水も必要ない。それでいて、死ぬまで出られない。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「…………」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それは緩慢に死に向かう拷問を連想させた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "――大体１０日目が過ぎた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「……今日は……何しましょうか」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30924"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「じゃあ……前に言ってたように、勉強でもします？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "机の中には何も入ってなかったが、教室後のロッカーには\\n物が残されているのは見つけていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "机の中には何も入ってなかったが、教室後のロッカーには物が残されているのは見つけていた。",
+      "txt_idk_2": "机の中には何も入ってなかったが、教室後のロッカーには物が残されているのは見つけていた。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それでも脱出の道具になるような物はなかったけれど……。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "この程度の暇つぶしになるだけでも、ありがたかった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「……そうね。戻った後に授業内容が完全に抜けていたら\\n大変だもの」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30925"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「……そうね。戻った後に授業内容が完全に抜けていたら大変だもの」",
+      "txt_idk_2": "「……そうね。戻った後に授業内容が完全に抜けていたら大変だもの」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「予習しまくりで進学も楽になったりして」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「新堂君ってポジティブよね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30926"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「問題は薄暗くて教科書も見づらい事でしょうか」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「……そうなのよね……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30927"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ローテンションの中、月明かりを頼りにしばらく教科書を\\nめくっていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "ローテンションの中、月明かりを頼りにしばらく教科書をめくっていた。",
+      "txt_idk_2": "ローテンションの中、月明かりを頼りにしばらく教科書をめくっていた。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……十五日目。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "暇つぶしのためのセックスは殆どしていなかったが、それでも\\nゴムが底を尽きるくらいにはしていたようだ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "暇つぶしのためのセックスは殆どしていなかったが、それでもゴムが底を尽きるくらいにはしていたようだ。",
+      "txt_idk_2": "暇つぶしのためのセックスは殆どしていなかったが、それでもゴムが底を尽きるくらいにはしていたようだ。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "行為が終わって、二人で寝そべったまま先輩がぽつりと言った。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「外……出たいわね……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30928"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「…………ですね」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「……ごめんね……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30929"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「…………」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先輩の頭を撫でる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "やがて声が嗚咽に変わる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それでも、頭を撫で続けていた……。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "（……何とか……ならないかな……）",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "何とかして先輩を守りたい。\\nこの気持ちを持ち続けていられるうちに、何とか……。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "何とかして先輩を守りたい。この気持ちを持ち続けていられるうちに、何とか……。",
+      "txt_idk_2": "何とかして先輩を守りたい。この気持ちを持ち続けていられるうちに、何とか……。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……多分……十八日目。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "時間の感覚がおかしくなってきている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "携帯のバッテリーは俺も先輩もとうの昔に切れている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "だから大体の感覚でメモをつけているが、二週間すぎて後は\\nかなり怪しい。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "だから大体の感覚でメモをつけているが、二週間すぎて後はかなり怪しい。",
+      "txt_idk_2": "だから大体の感覚でメモをつけているが、二週間すぎて後はかなり怪しい。"
+    },
+    {
+      "character_speaking": "雫",
+      "idk_1": null,
+      "txt": "「……ん……んん……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30930"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "寝苦しそうだ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "常に夜のままだから体内感覚も狂っている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "寝て起きてを一サイクルにしているつもりでも、気がつけば\\n一日中寝ていた感覚に陥る事も何度かあった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "寝て起きてを一サイクルにしているつもりでも、気がつけば一日中寝ていた感覚に陥る事も何度かあった。",
+      "txt_idk_2": "寝て起きてを一サイクルにしているつもりでも、気がつけば一日中寝ていた感覚に陥る事も何度かあった。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "あるいは錯覚で長く感じているだけかもしれない。\\nそれも定かではないのが、感覚が狂うのに拍車をかけていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "あるいは錯覚で長く感じているだけかもしれない。それも定かではないのが、感覚が狂うのに拍車をかけていた。",
+      "txt_idk_2": "あるいは錯覚で長く感じているだけかもしれない。それも定かではないのが、感覚が狂うのに拍車をかけていた。"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "（……まずいな……）",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "体は何ともなくても、心が先に壊れてしまう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "腹も減らないというのが、精神への負担に一役買っている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "本来、この手の状況で障害になる乾きや飢えとも無縁だから、\\n精神に直接すべての負担がやってくる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "本来、この手の状況で障害になる乾きや飢えとも無縁だから、精神に直接すべての負担がやってくる。",
+      "txt_idk_2": "本来、この手の状況で障害になる乾きや飢えとも無縁だから、精神に直接すべての負担がやってくる。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "水が必要なら体が持たずにとっくに死んでいる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "水が必要でないから、じわじわと精神が殺されている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "どっちがいいかと言うなら、まだ救いのある後者の方がいい。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "でもこのままじゃ、行きつく先は同じになってしまう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "（本当に何とかしないと……）",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それだけを考えていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    }
+  ]
+]

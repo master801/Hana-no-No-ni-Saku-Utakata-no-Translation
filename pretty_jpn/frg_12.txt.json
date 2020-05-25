@@ -1,0 +1,1160 @@
+[
+  [
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "その日、飲み物を買いにコンビニに入った。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先日桜花のせいで幽霊騒動が起きた場所でもあるため若干の\\n気まずさは持っていたが、桜花荘から最寄りのため、今も\\nよく利用している。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "先日桜花のせいで幽霊騒動が起きた場所でもあるため若干の気まずさは持っていたが、桜花荘から最寄りのため、今もよく利用している。",
+      "txt_idk_2": "先日桜花のせいで幽霊騒動が起きた場所でもあるため若干の気まずさは持っていたが、桜花荘から最寄りのため、今もよく利用している。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "大通りにあるコンビニは何かと便利だ。\\n前に汐音が、先生ともよくここで会うと言っていたっけ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "大通りにあるコンビニは何かと便利だ。前に汐音が、先生ともよくここで会うと言っていたっけ。",
+      "txt_idk_2": "大通りにあるコンビニは何かと便利だ。前に汐音が、先生ともよくここで会うと言っていたっけ。"
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「あら……」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40001"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「あ、どうも」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ばったり先生とはち合わせる。\\nが、その後ろから出てきた人をみて、偶然に驚いた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "ばったり先生とはち合わせる。が、その後ろから出てきた人をみて、偶然に驚いた。",
+      "txt_idk_2": "ばったり先生とはち合わせる。が、その後ろから出てきた人をみて、偶然に驚いた。"
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「あら、道隆君も？」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40054"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「…………あっ」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40002"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "後ろの千歳さんを見て、先生が驚きをあげる。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「ええっと……」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40055"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「月女の、藤宮さん……？」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40003"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「あら、懐かしい。\\n昔はそうでしたけれど……あ！　島津さん？\\nセッターをやられてましたよね」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40056"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「あら、懐かしい。昔はそうでしたけれど……あ！　島津さん？セッターをやられてましたよね」",
+      "txt_idk_2": "「あら、懐かしい。昔はそうでしたけれど……あ！　島津さん？セッターをやられてましたよね」"
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「そうです。うわぁ、懐かしい～」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40004"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「はい。お元気してましたか？」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40057"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「あの……先生。\\n千歳さんと知り合いなんですか？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「あの……先生。千歳さんと知り合いなんですか？」",
+      "txt_idk_2": "「あの……先生。千歳さんと知り合いなんですか？」"
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「新堂君こそ藤宮さんのお知り合い？」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40005"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「……ん……藤宮……」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40006"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「はい。汐音がいつもお世話になっています」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40058"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「ええっ！？　じゃあ、藤宮さんって、藤宮さんのお姉さん？」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40007"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「…………先生、思いっきり混乱してますよ」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "コンビニの中の視線が先生に集まっている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「あの、よかったら場所変えましょうか……？」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40059"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "……落ち着ける所という事で、ファミレスにやってきた。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "俺たちだと金がないからジュース買って公園のベンチになる\\n所が、ファミレスになるのはさすがは大人だ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "俺たちだと金がないからジュース買って公園のベンチになる所が、ファミレスになるのはさすがは大人だ。",
+      "txt_idk_2": "俺たちだと金がないからジュース買って公園のベンチになる所が、ファミレスになるのはさすがは大人だ。"
+    },
+    {
+      "character_speaking": "和泉",
+      "idk_1": null,
+      "txt": "「ご注文はお決まり……って、先生？\\nなんだか珍しい組み合わせね」",
+      "voices": [
+        {
+          "name": "和泉",
+          "pan": 0,
+          "type": 0,
+          "voice": "b03_40054"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ご注文はお決まり……って、先生？なんだか珍しい組み合わせね」",
+      "txt_idk_2": "「ご注文はお決まり……って、先生？なんだか珍しい組み合わせね」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……だよな」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「私もそう思う」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40008"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先生まで苦笑している。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「じゃあ、飲み物を……」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40060"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "軽くドリンクバー３つ頼んだ。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先生達は知り合いらしいので、俺が取りに行く事にした。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "涼子",
+      "idk_1": null,
+      "txt": "「あの、先輩。先生がいらしてますが……」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_40041"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「コンビニでばったり会ってね。\\n汐音のお姉さんと昔の知り合いみたいで、場所を変えようって」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「コンビニでばったり会ってね。汐音のお姉さんと昔の知り合いみたいで、場所を変えようって」",
+      "txt_idk_2": "「コンビニでばったり会ってね。汐音のお姉さんと昔の知り合いみたいで、場所を変えようって」"
+    },
+    {
+      "character_speaking": "涼子",
+      "idk_1": null,
+      "txt": "「先輩も何かお話が？」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_40042"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「…………そういや俺、なんであそこにいるんだろう？\\n流れでついてきちまった……」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「…………そういや俺、なんであそこにいるんだろう？流れでついてきちまった……」",
+      "txt_idk_2": "「…………そういや俺、なんであそこにいるんだろう？流れでついてきちまった……」"
+    },
+    {
+      "character_speaking": "涼子",
+      "idk_1": null,
+      "txt": "「な、なるほど……」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_40043"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "ともあれ二人が知り合いというのは知らなかった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "関係でも聞いてみる事にしよう。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「お待たせしました」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「ありがとう」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40061"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「気が利くわね」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40009"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「いやぁ……ところで先生と千歳さんって、どういう繋がり\\nなんですか？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「いやぁ……ところで先生と千歳さんって、どういう繋がりなんですか？」",
+      "txt_idk_2": "「いやぁ……ところで先生と千歳さんって、どういう繋がりなんですか？」"
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「ただの顔見知りなんだけどね。\\n先生は昔、久住学園に通っていてバレー部だったの」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40010"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ただの顔見知りなんだけどね。先生は昔、久住学園に通っていてバレー部だったの」",
+      "txt_idk_2": "「ただの顔見知りなんだけどね。先生は昔、久住学園に通っていてバレー部だったの」"
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「それで藤宮さんは月女のバレー部。\\n近いから練習試合も何度もやっていて、それでお互いよく\\n知っていたのよ」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40011"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「それで藤宮さんは月女のバレー部。近いから練習試合も何度もやっていて、それでお互いよく知っていたのよ」",
+      "txt_idk_2": "「それで藤宮さんは月女のバレー部。近いから練習試合も何度もやっていて、それでお互いよく知っていたのよ」"
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「とっても懐かしいですね。\\nあれからお元気してました？」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40062"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「とっても懐かしいですね。あれからお元気してました？」",
+      "txt_idk_2": "「とっても懐かしいですね。あれからお元気してました？」"
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「ええ。何とか今こうして先生やっているくらいには。\\nそちらも相変わらず綺麗で羨ましい」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40012"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ええ。何とか今こうして先生やっているくらいには。そちらも相変わらず綺麗で羨ましい」",
+      "txt_idk_2": "「ええ。何とか今こうして先生やっているくらいには。そちらも相変わらず綺麗で羨ましい」"
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「島津さんも変わらないですよ」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40063"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「…………ずずず」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "会話に入り込めないから、ストローを咥え続けている。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "お代わりのメロンソーダを入れてきた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "会話もはずんでいるようだった。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「そういえば新堂君は知ってる？\\n藤宮さんのスパイク、すごく強烈でね。レシーブすると手が\\nしびれるくらいだから、弾丸スパイクって呼ばれてたのよ」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40013"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「そういえば新堂君は知ってる？藤宮さんのスパイク、すごく強烈でね。レシーブすると手がしびれるくらいだから、弾丸スパイクって呼ばれてたのよ」",
+      "txt_idk_2": "「そういえば新堂君は知ってる？藤宮さんのスパイク、すごく強烈でね。レシーブすると手がしびれるくらいだから、弾丸スパイクって呼ばれてたのよ」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そうなんですか？」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「む、昔の話よ」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40064"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "すごく照れている……。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「島津さんのセッターもすごく上手かったのよ。\\nフェイントは多彩だし、コントロールも良いし強かったわ」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40065"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「島津さんのセッターもすごく上手かったのよ。フェイントは多彩だし、コントロールも良いし強かったわ」",
+      "txt_idk_2": "「島津さんのセッターもすごく上手かったのよ。フェイントは多彩だし、コントロールも良いし強かったわ」"
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「沢山練習したもの。\\n藤宮さんに打たせたら取れないから、そもそも打たせない\\nようにしよう！　って頑張っていたから」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40014"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「沢山練習したもの。藤宮さんに打たせたら取れないから、そもそも打たせないようにしよう！　って頑張っていたから」",
+      "txt_idk_2": "「沢山練習したもの。藤宮さんに打たせたら取れないから、そもそも打たせないようにしよう！　って頑張っていたから」"
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「あら、うちも似た感じでしたよ」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40066"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「……なんだか意外な関係ですね」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "まさか先生と千歳さんからスポコン話を聞けるとは。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「藤宮さん……汐音さんは今はバレーやってないみたいですが」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40015"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「ええ。中学時代にやっていたけれど、辞めてしまったみたい。\\n合わなかったのかも」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40067"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「ええ。中学時代にやっていたけれど、辞めてしまったみたい。合わなかったのかも」",
+      "txt_idk_2": "「ええ。中学時代にやっていたけれど、辞めてしまったみたい。合わなかったのかも」"
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「そっかぁ。藤宮さんの妹さんなら強くなれそうなのに\\nちょっと勿体ないですね」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40016"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「そっかぁ。藤宮さんの妹さんなら強くなれそうなのにちょっと勿体ないですね」",
+      "txt_idk_2": "「そっかぁ。藤宮さんの妹さんなら強くなれそうなのにちょっと勿体ないですね」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「…………」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「でも汐音は汐音で楽しそうだから。\\n私はそれで良いんじゃないかって思っています」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40068"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「でも汐音は汐音で楽しそうだから。私はそれで良いんじゃないかって思っています」",
+      "txt_idk_2": "「でも汐音は汐音で楽しそうだから。私はそれで良いんじゃないかって思っています」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「そういえば、先生の家って意外と近いらしいですよ。\\n汐音はコンビニでたまに会うって言ってましたけど」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「そういえば、先生の家って意外と近いらしいですよ。汐音はコンビニでたまに会うって言ってましたけど」",
+      "txt_idk_2": "「そういえば、先生の家って意外と近いらしいですよ。汐音はコンビニでたまに会うって言ってましたけど」"
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「あら、そうなんですか？」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40069"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「ええ」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40017"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「じゃあ、今度よかったらご飯でも」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40070"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「そうですね、楽しみにしています」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40018"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「…………」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "少し、意外な物を見た感じがした。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "学生同士の友情や付き合いは一瞬の物で、学園の中で完結する\\nと思ってた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "学生同士の友情や付き合いは一瞬の物で、学園の中で完結すると思ってた。",
+      "txt_idk_2": "学生同士の友情や付き合いは一瞬の物で、学園の中で完結すると思ってた。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "でも、こうして社会に出てから改めて知り合って……という\\nのもなんだか悪くない。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "でも、こうして社会に出てから改めて知り合って……というのもなんだか悪くない。",
+      "txt_idk_2": "でも、こうして社会に出てから改めて知り合って……というのもなんだか悪くない。"
+    },
+    {
+      "character_speaking": "千歳",
+      "idk_1": null,
+      "txt": "「すっかり時間を取らせてしまって。\\n道隆君もごめんね」",
+      "voices": [
+        {
+          "name": "千歳",
+          "pan": 0,
+          "type": 0,
+          "voice": "b01_40071"
+        }
+      ],
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「すっかり時間を取らせてしまって。道隆君もごめんね」",
+      "txt_idk_2": "「すっかり時間を取らせてしまって。道隆君もごめんね」"
+    },
+    {
+      "character_speaking": "恋",
+      "idk_1": null,
+      "txt": "「いえ、私の方こそ。\\nそれではまた」",
+      "voices": [
+        {
+          "name": "恋",
+          "pan": 0,
+          "type": 0,
+          "voice": "b04_40019"
+        }
+      ],
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "「いえ、私の方こそ。それではまた」",
+      "txt_idk_2": "「いえ、私の方こそ。それではまた」"
+    },
+    {
+      "character_speaking": "道隆",
+      "idk_1": null,
+      "txt": "「はい。それでは」",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "先生は何度も振り返りながら、歩いていく。\\nその姿は普段学園で見る女子達みたいで、なんだか新鮮だ。",
+      "voices": null,
+      "idk_2": 464,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "先生は何度も振り返りながら、歩いていく。その姿は普段学園で見る女子達みたいで、なんだか新鮮だ。",
+      "txt_idk_2": "先生は何度も振り返りながら、歩いていく。その姿は普段学園で見る女子達みたいで、なんだか新鮮だ。"
+    },
+    {
+      "character_speaking": null,
+      "idk_1": null,
+      "txt": "それを見送る千歳さんも、普段の大人とは違って、少しだけ\\n俺たちに近いように見えていた。",
+      "voices": null,
+      "idk_2": 448,
+      "scene_data": null,
+      "idk_3": null,
+      "txt_idk_1": "それを見送る千歳さんも、普段の大人とは違って、少しだけ俺たちに近いように見えていた。",
+      "txt_idk_2": "それを見送る千歳さんも、普段の大人とは違って、少しだけ俺たちに近いように見えていた。"
+    }
+  ]
+]
