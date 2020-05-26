@@ -1,0 +1,2392 @@
+[
+  [
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "麗奈が帰り、子猫達を住処代わりの箱に戻しにきた。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「でも安心したよー。この子達が気になってたから、最近急い\\nで帰ってたんだね」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00172"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「でも安心したよー。この子達が気になってたから、最近急いで帰ってたんだね」",
+      "txt_idk_2": "「でも安心したよー。この子達が気になってたから、最近急いで帰ってたんだね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「こんだけ小さいとな……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「気がつくと、すぐにあちこち歩き回ってしまうんですよ。\\nこの前も一匹居なくなってて、探しました」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00003"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「気がつくと、すぐにあちこち歩き回ってしまうんですよ。この前も一匹居なくなってて、探しました」",
+      "txt_idk_2": "「気がつくと、すぐにあちこち歩き回ってしまうんですよ。この前も一匹居なくなってて、探しました」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「へー。こんなちっちゃくても行動力あるもんなんですね」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "子猫達は大きな段ボール箱に入れられている。\\n中にはタオルが敷かれていて、同時にベッドにもなっている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "子猫達は大きな段ボール箱に入れられている。中にはタオルが敷かれていて、同時にベッドにもなっている。",
+      "txt_idk_2": "子猫達は大きな段ボール箱に入れられている。中にはタオルが敷かれていて、同時にベッドにもなっている。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "箱の壁は猫たちの背より遥かに大きい。\\n成猫ならともかく、まだ歩くのもおぼつかない子猫達には\\n超えられない高さに見える。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "箱の壁は猫たちの背より遥かに大きい。成猫ならともかく、まだ歩くのもおぼつかない子猫達には超えられない高さに見える。",
+      "txt_idk_2": "箱の壁は猫たちの背より遥かに大きい。成猫ならともかく、まだ歩くのもおぼつかない子猫達には超えられない高さに見える。"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「子猫でも案外よじ登ったりするもんだよ。\\nちっちゃくても爪もあるしね」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00173"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「子猫でも案外よじ登ったりするもんだよ。ちっちゃくても爪もあるしね」",
+      "txt_idk_2": "「子猫でも案外よじ登ったりするもんだよ。ちっちゃくても爪もあるしね」"
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「そうですね」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00004"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ほほ笑む優枝さんの巫女服の袖にも、一匹爪を立ててよじ登ろ\\nうとしているのがいる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "ほほ笑む優枝さんの巫女服の袖にも、一匹爪を立ててよじ登ろうとしているのがいる。",
+      "txt_idk_2": "ほほ笑む優枝さんの巫女服の袖にも、一匹爪を立ててよじ登ろうとしているのがいる。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "優しげな手つきで猫を掴むと、じたばたと暴れる子猫を箱の中\\nへ戻した。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "優しげな手つきで猫を掴むと、じたばたと暴れる子猫を箱の中へ戻した。",
+      "txt_idk_2": "優しげな手つきで猫を掴むと、じたばたと暴れる子猫を箱の中へ戻した。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "こうして箱ごと猫を持ち歩いて、掃除しながらでも目が届く\\n距離に置いてるらしい。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "こうして箱ごと猫を持ち歩いて、掃除しながらでも目が届く距離に置いてるらしい。",
+      "txt_idk_2": "こうして箱ごと猫を持ち歩いて、掃除しながらでも目が届く距離に置いてるらしい。"
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「お二人は麗奈さんのお知り合いなのですよね」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00005"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「そうですよー。幼馴染なんです。\\n子供の頃から一緒に遊んでて、今も同じ学園に通ってます」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00174"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そうですよー。幼馴染なんです。子供の頃から一緒に遊んでて、今も同じ学園に通ってます」",
+      "txt_idk_2": "「そうですよー。幼馴染なんです。子供の頃から一緒に遊んでて、今も同じ学園に通ってます」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そういえば、優枝さんも俺たちと同年代ですよね。\\nどこなんですか？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そういえば、優枝さんも俺たちと同年代ですよね。どこなんですか？」",
+      "txt_idk_2": "「そういえば、優枝さんも俺たちと同年代ですよね。どこなんですか？」"
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「私はあちらの……」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00006"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そう言って、神社から図書館の方を指差した。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "俺たちの学園の方じゃない。街の中心の方にある私立の方向だ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「大通りの先にある女子校に通ってます」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00007"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「あ、知ってる！　すっごいですね。頭いいんだ。\\n確か月丘女子学園だよね」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00175"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「あ、知ってる！　すっごいですね。頭いいんだ。確か月丘女子学園だよね」",
+      "txt_idk_2": "「あ、知ってる！　すっごいですね。頭いいんだ。確か月丘女子学園だよね」"
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「はい……[つき]月[じょ]女の一年です」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00008"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「はい……つきじょの一年です」",
+      "txt_idk_2": "「はい……月女の一年です」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「じゃあわたしたちのいっこ下なんだ」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00176"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「そうなんですか？　では先輩方にとんだ失礼を……」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00009"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「いやでも違う所だし、別にかしこまらなくても気にしないで\\nいいですよ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「いやでも違う所だし、別にかしこまらなくても気にしないでいいですよ」",
+      "txt_idk_2": "「いやでも違う所だし、別にかしこまらなくても気にしないでいいですよ」"
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「えっと、じゃあ……ええと……はい」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00010"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「それでは、あの、良かったら言葉遣いを……年上の方が敬語\\nだと落ち着かなくて……」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00011"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「それでは、あの、良かったら言葉遣いを……年上の方が敬語だと落ち着かなくて……」",
+      "txt_idk_2": "「それでは、あの、良かったら言葉遣いを……年上の方が敬語だと落ち着かなくて……」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「はは。わかりました。じゃなくて、わかった。\\nこれでいい？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「はは。わかりました。じゃなくて、わかった。これでいい？」",
+      "txt_idk_2": "「はは。わかりました。じゃなくて、わかった。これでいい？」"
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「はい。ありがとうございます」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00012"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "優枝さんの方はあんま変わってないが、本人が落ち着かないと\\nいうのに、無理強いさせる訳にもいかない。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "優枝さんの方はあんま変わってないが、本人が落ち着かないというのに、無理強いさせる訳にもいかない。",
+      "txt_idk_2": "優枝さんの方はあんま変わってないが、本人が落ち着かないというのに、無理強いさせる訳にもいかない。"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「でも月女って偏差値高いんだよね。\\nすごいなぁ。わたしもちょっと考えたけど無理だったよ」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00177"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「でも月女って偏差値高いんだよね。すごいなぁ。わたしもちょっと考えたけど無理だったよ」",
+      "txt_idk_2": "「でも月女って偏差値高いんだよね。すごいなぁ。わたしもちょっと考えたけど無理だったよ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そうなのか？\\n月女って名前どっかで聞いた事あったのは、それでかな？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そうなのか？月女って名前どっかで聞いた事あったのは、それでかな？」",
+      "txt_idk_2": "「そうなのか？月女って名前どっかで聞いた事あったのは、それでかな？」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「タカちゃんは違うでしょ。\\nうちのお姉ちゃんの母校じゃない」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00178"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「タカちゃんは違うでしょ。うちのお姉ちゃんの母校じゃない」",
+      "txt_idk_2": "「タカちゃんは違うでしょ。うちのお姉ちゃんの母校じゃない」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……知らなかった。\\nもしかしたら聞いてたかもしれないけど、記憶になかった」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……知らなかった。もしかしたら聞いてたかもしれないけど、記憶になかった」",
+      "txt_idk_2": "「……知らなかった。もしかしたら聞いてたかもしれないけど、記憶になかった」"
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「家族の方がうちの学園に通われているのですか？」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00013"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「うん。わたしのお姉ちゃんが卒業生。\\nでもずっと前に卒業してるから今はもう全然関係ないけどね」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00179"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「うん。わたしのお姉ちゃんが卒業生。でもずっと前に卒業してるから今はもう全然関係ないけどね」",
+      "txt_idk_2": "「うん。わたしのお姉ちゃんが卒業生。でもずっと前に卒業してるから今はもう全然関係ないけどね」"
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「いえ……そんなことは……」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00014"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「というかこの話を引っ張っても、話題に困るだけだろ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩の関係者ならかしこまる気持ちもあるだろうけど、結局は\\n赤の他人でしかないだろうし。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "先輩の関係者ならかしこまる気持ちもあるだろうけど、結局は赤の他人でしかないだろうし。",
+      "txt_idk_2": "先輩の関係者ならかしこまる気持ちもあるだろうけど、結局は赤の他人でしかないだろうし。"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「それもそうだねー」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00180"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「じゃあ、話を戻して……この子たちなんですけど、今は\\n神社で飼ってるんですか？」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00181"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「じゃあ、話を戻して……この子たちなんですけど、今は神社で飼ってるんですか？」",
+      "txt_idk_2": "「じゃあ、話を戻して……この子たちなんですけど、今は神社で飼ってるんですか？」"
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「いえ、違います。\\n私がいる時は面倒は見てますけれど」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00015"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「いえ、違います。私がいる時は面倒は見てますけれど」",
+      "txt_idk_2": "「いえ、違います。私がいる時は面倒は見てますけれど」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「それって飼ってるんじゃなくてですか？」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00182"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「ええ」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00016"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "汐音と思わず顔を見合わせる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「えっと、ここに置いておくのは構わないけれど、それは\\n里親が見つかるまでだってお話になっていて」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00017"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「えっと、ここに置いておくのは構わないけれど、それは里親が見つかるまでだってお話になっていて」",
+      "txt_idk_2": "「えっと、ここに置いておくのは構わないけれど、それは里親が見つかるまでだってお話になっていて」"
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「もしも見つからなくて大きくなっちゃったら、その時は\\n仕方ないから神社に住まわせるけど、飼ってるのとも違って\\nいて、野良猫みたいな扱いに……」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00018"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「もしも見つからなくて大きくなっちゃったら、その時は仕方ないから神社に住まわせるけど、飼ってるのとも違っていて、野良猫みたいな扱いに……」",
+      "txt_idk_2": "「もしも見つからなくて大きくなっちゃったら、その時は仕方ないから神社に住まわせるけど、飼ってるのとも違っていて、野良猫みたいな扱いに……」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「む、むむ？」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00183"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "汐音が話を整理しようと脳をフル回転させている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「つまり、実際に飼ってるのは麗奈で、神社は置き場所として\\n猫を預かってるって形なんですか」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「つまり、実際に飼ってるのは麗奈で、神社は置き場所として猫を預かってるって形なんですか」",
+      "txt_idk_2": "「つまり、実際に飼ってるのは麗奈で、神社は置き場所として猫を預かってるって形なんですか」"
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「あ、はい。そうです」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00019"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "思わず汐音と顔を見合わせる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「でもちょっと心配なので、こうして……」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00020"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "猫を入れた箱ごと、優枝さんは持ち上げた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「箱の中に入れてお掃除する時に近くに置いておくんです。\\nそうすれば目について安心できますから」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_00021"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「箱の中に入れてお掃除する時に近くに置いておくんです。そうすれば目について安心できますから」",
+      "txt_idk_2": "「箱の中に入れてお掃除する時に近くに置いておくんです。そうすれば目について安心できますから」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……なるほど、なんとなく事情は理解できました」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "それからしばらく子猫の世話を手伝ったり、様子をみながら\\n遊びとも手伝いともつかない時間をすごしていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "それからしばらく子猫の世話を手伝ったり、様子をみながら遊びとも手伝いともつかない時間をすごしていた。",
+      "txt_idk_2": "それからしばらく子猫の世話を手伝ったり、様子をみながら遊びとも手伝いともつかない時間をすごしていた。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "太陽が傾き始めて、汐音と共に神社を出る。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "入り口にあったマウンテンバイクが無くなっている。\\nやはりあれが麗奈の自転車だったんだろう。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "入り口にあったマウンテンバイクが無くなっている。やはりあれが麗奈の自転車だったんだろう。",
+      "txt_idk_2": "入り口にあったマウンテンバイクが無くなっている。やはりあれが麗奈の自転車だったんだろう。"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「麗奈ちゃん、あの子たちの事どうするつもりなんだろう？」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00184"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「さぁなぁ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "里子に出すにしろ自分で飼うにしろ、あまり外に置きっぱなし\\nは出来ないだろう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "里子に出すにしろ自分で飼うにしろ、あまり外に置きっぱなしは出来ないだろう。",
+      "txt_idk_2": "里子に出すにしろ自分で飼うにしろ、あまり外に置きっぱなしは出来ないだろう。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "一体どんな事情があってこうなっているのか……。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "それを知らない今は、汐音と共に困惑するしかなかった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "桜花荘の自室に戻ってきた頃には、すっかり日が暮れていた。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "適当に飯を用意して部屋で食べながら桜花にするのは、先ほど\\nの出来事だった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "適当に飯を用意して部屋で食べながら桜花にするのは、先ほどの出来事だった。",
+      "txt_idk_2": "適当に飯を用意して部屋で食べながら桜花にするのは、先ほどの出来事だった。"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「ふぅん？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00275"
+        }
+      ],
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "読んでいた本から顔をあげて、興味深げに俺を見る。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「お前が待ち望んでたような事件の話じゃないけど」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「ボクはそんな事は、一言も言ってないよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00276"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "……先の事件の時にどれだけ生き生きと推理を語っていたかは\\n言わないでおいてやろう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "……先の事件の時にどれだけ生き生きと推理を語っていたかは言わないでおいてやろう。",
+      "txt_idk_2": "……先の事件の時にどれだけ生き生きと推理を語っていたかは言わないでおいてやろう。"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「少し興味深い話だ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00277"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「でも実際は単なる捨て猫ってだけだろ。\\n疑問はあるけど、捨てられてる動物をこっそりどこかよそで\\n飼うなんて、俺にも経験がある」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「でも実際は単なる捨て猫ってだけだろ。疑問はあるけど、捨てられてる動物をこっそりどこかよそで飼うなんて、俺にも経験がある」",
+      "txt_idk_2": "「でも実際は単なる捨て猫ってだけだろ。疑問はあるけど、捨てられてる動物をこっそりどこかよそで飼うなんて、俺にも経験がある」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「その時はどうなったんだい？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00278"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「犬だったんだけど、最後は分からない。みんなで交代で\\n餌やったりしてたけど気がついたら居なくなってた」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「犬だったんだけど、最後は分からない。みんなで交代で餌やったりしてたけど気がついたら居なくなってた」",
+      "txt_idk_2": "「犬だったんだけど、最後は分からない。みんなで交代で餌やったりしてたけど気がついたら居なくなってた」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「野良になったか、それとも誰かに貰われていったか……。\\n散々探しまわったんだけど、見つからなかったな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「野良になったか、それとも誰かに貰われていったか……。散々探しまわったんだけど、見つからなかったな」",
+      "txt_idk_2": "「野良になったか、それとも誰かに貰われていったか……。散々探しまわったんだけど、見つからなかったな」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "保健所に連れていかれたかも！　と誰かが言いだして、子供達\\nだけで自転車に乗って見に行った。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "保健所に連れていかれたかも！　と誰かが言いだして、子供達だけで自転車に乗って見に行った。",
+      "txt_idk_2": "保健所に連れていかれたかも！　と誰かが言いだして、子供達だけで自転車に乗って見に行った。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "結局無駄足だったけど、自分たちの手で何かをしてやりたいと\\nいう団結力と行動力に動かされていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "結局無駄足だったけど、自分たちの手で何かをしてやりたいという団結力と行動力に動かされていた。",
+      "txt_idk_2": "結局無駄足だったけど、自分たちの手で何かをしてやりたいという団結力と行動力に動かされていた。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「すげー探しまわったよ。ビラ作ったり近所を回ったり」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「今にして思えば、その行動力で里親探してやればよかった\\nのに、ほんっとガキだったなぁ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「今にして思えば、その行動力で里親探してやればよかったのに、ほんっとガキだったなぁ」",
+      "txt_idk_2": "「今にして思えば、その行動力で里親探してやればよかったのに、ほんっとガキだったなぁ」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「探すのをやめたきっかけは？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00279"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「…………わからない。時間が経って諦めてしまったのか他の\\nことで忙しくなったのか……いつしか自然にやめてた」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「…………わからない。時間が経って諦めてしまったのか他のことで忙しくなったのか……いつしか自然にやめてた」",
+      "txt_idk_2": "「…………わからない。時間が経って諦めてしまったのか他のことで忙しくなったのか……いつしか自然にやめてた」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「なるほど」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00280"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "桜花は形のいい顎に手を当てて、二度三度と頷いている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "いつしか本は傍らに閉じて置かれていて、話に集中してる\\nようだった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "いつしか本は傍らに閉じて置かれていて、話に集中してるようだった。",
+      "txt_idk_2": "いつしか本は傍らに閉じて置かれていて、話に集中してるようだった。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「この程度の話だから、前と違って事件が起きてる訳じゃない」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「だが道隆は気になるようだね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00281"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……そりゃな。そもそも何もなかったら話題になんて\\n出さない」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……そりゃな。そもそも何もなかったら話題になんて出さない」",
+      "txt_idk_2": "「……そりゃな。そもそも何もなかったら話題になんて出さない」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「ではまずはそこを解明しておこうか」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00282"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "あっさりと言った桜花が、一瞬理解できなかった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「お前、もう分かったっていうのか！？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "自分自身ですら、なんでこんなに消化不良なのかさっぱり理解\\nが出来ないというのに。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "自分自身ですら、なんでこんなに消化不良なのかさっぱり理解が出来ないというのに。",
+      "txt_idk_2": "自分自身ですら、なんでこんなに消化不良なのかさっぱり理解が出来ないというのに。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ただ首を傾げてるしかなかったのに、たった一度話を聞いた\\nだけの桜花が、本人に解説出来るほど理解出来たというのか？",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "ただ首を傾げてるしかなかったのに、たった一度話を聞いただけの桜花が、本人に解説出来るほど理解出来たというのか？",
+      "txt_idk_2": "ただ首を傾げてるしかなかったのに、たった一度話を聞いただけの桜花が、本人に解説出来るほど理解出来たというのか？"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「……何を言ってるんだ。分かる訳ないじゃないか」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00283"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「え？　でも今……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「ボクが言ったのは、まさしく何故気にかかるかという部分\\nだけだよ。それ以外は今は情報不足だ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00284"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ボクが言ったのは、まさしく何故気にかかるかという部分だけだよ。それ以外は今は情報不足だ」",
+      "txt_idk_2": "「ボクが言ったのは、まさしく何故気にかかるかという部分だけだよ。それ以外は今は情報不足だ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「なんだ、そういう事か……驚いた」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「さすがに全部を今ここで解明なんて出来ないよ。\\nそもそも先ほど言ったじゃないか。事件なんて何も起きてない」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00285"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「さすがに全部を今ここで解明なんて出来ないよ。そもそも先ほど言ったじゃないか。事件なんて何も起きてない」",
+      "txt_idk_2": "「さすがに全部を今ここで解明なんて出来ないよ。そもそも先ほど言ったじゃないか。事件なんて何も起きてない」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「とか言いながら、なんか嬉しそうだぞ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「今の道隆の驚きはボクが思ってた以上に、ボクの事を高く\\n評価してくれてたあらわれだと思った」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00286"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「今の道隆の驚きはボクが思ってた以上に、ボクの事を高く評価してくれてたあらわれだと思った」",
+      "txt_idk_2": "「今の道隆の驚きはボクが思ってた以上に、ボクの事を高く評価してくれてたあらわれだと思った」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「ならば喜びが出ても道理だろう？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00287"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "……桜花は自分の思考の早さをひけらかすでも、自分自身の事\\nなのに気付かない俺に呆れるでもなく、ただ喜んでいる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "……桜花は自分の思考の早さをひけらかすでも、自分自身の事なのに気付かない俺に呆れるでもなく、ただ喜んでいる。",
+      "txt_idk_2": "……桜花は自分の思考の早さをひけらかすでも、自分自身の事なのに気付かない俺に呆れるでもなく、ただ喜んでいる。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "だからだろう。\\nまだ知りあって日が浅いのに、桜花に何かを相談する事に\\n抵抗がないのは。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "だからだろう。まだ知りあって日が浅いのに、桜花に何かを相談する事に抵抗がないのは。",
+      "txt_idk_2": "だからだろう。まだ知りあって日が浅いのに、桜花に何かを相談する事に抵抗がないのは。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そう言われるとなんか恥ずかしいな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「気に障ったら謝るよ。\\nさて、話を続けても構わないかな？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00288"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「気に障ったら謝るよ。さて、話を続けても構わないかな？」",
+      "txt_idk_2": "「気に障ったら謝るよ。さて、話を続けても構わないかな？」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ああ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「まず確認なんだけれど、子供の頃の道隆は居なくなった動物\\nを探す時に、見える『色』は使わなかったのかい？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00289"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「まず確認なんだけれど、子供の頃の道隆は居なくなった動物を探す時に、見える『色』は使わなかったのかい？」",
+      "txt_idk_2": "「まず確認なんだけれど、子供の頃の道隆は居なくなった動物を探す時に、見える『色』は使わなかったのかい？」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「もしくは人間以外の生き物のは見えないというのなら、\\nボクの持ってる情報に齟齬が生じているから、少し考え直す\\n必要が出てくるけれど」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00290"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「もしくは人間以外の生き物のは見えないというのなら、ボクの持ってる情報に齟齬が生じているから、少し考え直す必要が出てくるけれど」",
+      "txt_idk_2": "「もしくは人間以外の生き物のは見えないというのなら、ボクの持ってる情報に齟齬が生じているから、少し考え直す必要が出てくるけれど」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「いや、単にその頃はまだ見えなかったんだ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ガキの頃に事故にあって、それからしばらく眼が見えない時\\nが続いてた。ある時見えるようになって、そしたら変な色が\\nついてた」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ガキの頃に事故にあって、それからしばらく眼が見えない時が続いてた。ある時見えるようになって、そしたら変な色がついてた」",
+      "txt_idk_2": "「ガキの頃に事故にあって、それからしばらく眼が見えない時が続いてた。ある時見えるようになって、そしたら変な色がついてた」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「……なるほど。動物については？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00291"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「誰かが直前まで触っていたら、その人の色は残ってる。\\nでも動物そのものに見える訳じゃない」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「誰かが直前まで触っていたら、その人の色は残ってる。でも動物そのものに見える訳じゃない」",
+      "txt_idk_2": "「誰かが直前まで触っていたら、その人の色は残ってる。でも動物そのものに見える訳じゃない」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「つまり動物も物も、全てまとめて人間以外として認識して\\nいるのかもしれないね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00292"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「つまり動物も物も、全てまとめて人間以外として認識しているのかもしれないね」",
+      "txt_idk_2": "「つまり動物も物も、全てまとめて人間以外として認識しているのかもしれないね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「人間しか見えないんだから、きっとそうなんだろ。\\nで、それが重要なのか？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「人間しか見えないんだから、きっとそうなんだろ。で、それが重要なのか？」",
+      "txt_idk_2": "「人間しか見えないんだから、きっとそうなんだろ。で、それが重要なのか？」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「この場合は特に。ただ、もしも見えていたのなら、わざわざ\\n探しまわるなんてしなかったと思ったから確認がしたかった」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00293"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「この場合は特に。ただ、もしも見えていたのなら、わざわざ探しまわるなんてしなかったと思ったから確認がしたかった」",
+      "txt_idk_2": "「この場合は特に。ただ、もしも見えていたのなら、わざわざ探しまわるなんてしなかったと思ったから確認がしたかった」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「それで本題に入るけれど、先ほど道隆が言った彼女……。\\n麗奈だっけ。その子も当時一緒にいたのかい？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00294"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「それで本題に入るけれど、先ほど道隆が言った彼女……。麗奈だっけ。その子も当時一緒にいたのかい？」",
+      "txt_idk_2": "「それで本題に入るけれど、先ほど道隆が言った彼女……。麗奈だっけ。その子も当時一緒にいたのかい？」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ああ。桜花にはまだ話した事なかったけど麗奈は俺と汐音の\\n幼馴染なんだ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ああ。桜花にはまだ話した事なかったけど麗奈は俺と汐音の幼馴染なんだ」",
+      "txt_idk_2": "「ああ。桜花にはまだ話した事なかったけど麗奈は俺と汐音の幼馴染なんだ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「麗奈は付き合いだけなら誰より長い。\\nあの時も一緒にいたはずだ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「麗奈は付き合いだけなら誰より長い。あの時も一緒にいたはずだ」",
+      "txt_idk_2": "「麗奈は付き合いだけなら誰より長い。あの時も一緒にいたはずだ」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「なるほど。そうか。\\nそれがボクが感じた疑問だ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00295"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「なるほど。そうか。それがボクが感じた疑問だ」",
+      "txt_idk_2": "「なるほど。そうか。それがボクが感じた疑問だ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「というと？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「道隆に神社での話を聞いた時、いくつか感じた事があった。\\n一つは道隆は何もせずに帰ってきたのを後悔してるのでは\\nないか？　という事」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00296"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「道隆に神社での話を聞いた時、いくつか感じた事があった。一つは道隆は何もせずに帰ってきたのを後悔してるのではないか？　という事」",
+      "txt_idk_2": "「道隆に神社での話を聞いた時、いくつか感じた事があった。一つは道隆は何もせずに帰ってきたのを後悔してるのではないか？　という事」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「次が場所か状況に、強い別の思い入れがあったのではないか\\nという事」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00297"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「次が場所か状況に、強い別の思い入れがあったのではないかという事」",
+      "txt_idk_2": "「次が場所か状況に、強い別の思い入れがあったのではないかという事」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「後者については、道隆が話してくれた過去の思い出が理由\\nだろう。こちらは話を聞いて納得が出来た」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00298"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「後者については、道隆が話してくれた過去の思い出が理由だろう。こちらは話を聞いて納得が出来た」",
+      "txt_idk_2": "「後者については、道隆が話してくれた過去の思い出が理由だろう。こちらは話を聞いて納得が出来た」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「こちらは……という事は……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「ああ、引っかかっていたのが前者の理由。\\nそして道隆が抱いていた疑念の正体だ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00299"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ああ、引っかかっていたのが前者の理由。そして道隆が抱いていた疑念の正体だ」",
+      "txt_idk_2": "「ああ、引っかかっていたのが前者の理由。そして道隆が抱いていた疑念の正体だ」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「子供の頃の出来事は強いトラウマとは言わないが、今現在に\\n影響を与えているのは明らかだ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00300"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「子供の頃の出来事は強いトラウマとは言わないが、今現在に影響を与えているのは明らかだ」",
+      "txt_idk_2": "「子供の頃の出来事は強いトラウマとは言わないが、今現在に影響を与えているのは明らかだ」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「特に失くした物の行方が分からないというのは、対象が\\n何であれ強く心に刻まれる。例えば親が失踪した子供が\\n家族に対し疑念と不信感を抱くようなものだな」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00301"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「特に失くした物の行方が分からないというのは、対象が何であれ強く心に刻まれる。例えば親が失踪した子供が家族に対し疑念と不信感を抱くようなものだな」",
+      "txt_idk_2": "「特に失くした物の行方が分からないというのは、対象が何であれ強く心に刻まれる。例えば親が失踪した子供が家族に対し疑念と不信感を抱くようなものだな」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……それは極端すぎないか？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「うん。単に分かりやすく説明するために、極端な例を出した\\nに過ぎない」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00302"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「うん。単に分かりやすく説明するために、極端な例を出したに過ぎない」",
+      "txt_idk_2": "「うん。単に分かりやすく説明するために、極端な例を出したに過ぎない」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「今の出来事で重要なのは、過去に拾った動物の行方が分から\\nなくなっている事と、今現在の猫を今後どうするかの筋道が\\nまったく立っていない事だ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00303"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「今の出来事で重要なのは、過去に拾った動物の行方が分からなくなっている事と、今現在の猫を今後どうするかの筋道がまったく立っていない事だ」",
+      "txt_idk_2": "「今の出来事で重要なのは、過去に拾った動物の行方が分からなくなっている事と、今現在の猫を今後どうするかの筋道がまったく立っていない事だ」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「特に相手は過去の出来事を共有している幼馴染だ。\\n里親を探すにしろ、どこかの団体に預けるにしろ何かしらの\\n行動を起こさないといけないのは分かりきっている」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00304"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「特に相手は過去の出来事を共有している幼馴染だ。里親を探すにしろ、どこかの団体に預けるにしろ何かしらの行動を起こさないといけないのは分かりきっている」",
+      "txt_idk_2": "「特に相手は過去の出来事を共有している幼馴染だ。里親を探すにしろ、どこかの団体に預けるにしろ何かしらの行動を起こさないといけないのは分かりきっている」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「それなのに、なんら行動に移していない。\\nこのままでは当時と同じ事になってしまうのではないか？\\nという思いが道隆にあるのが、気になっている理由だ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00305"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「それなのに、なんら行動に移していない。このままでは当時と同じ事になってしまうのではないか？という思いが道隆にあるのが、気になっている理由だ」",
+      "txt_idk_2": "「それなのに、なんら行動に移していない。このままでは当時と同じ事になってしまうのではないか？という思いが道隆にあるのが、気になっている理由だ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「………………なるほどなぁ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "桜花の話を黙って聞く。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "それは自分の内面を他人に解説されるという、あまり気分が\\nよくない出来事のはずなのに、驚くほどすんなりと心の中に\\nおちていった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "それは自分の内面を他人に解説されるという、あまり気分がよくない出来事のはずなのに、驚くほどすんなりと心の中におちていった。",
+      "txt_idk_2": "それは自分の内面を他人に解説されるという、あまり気分がよくない出来事のはずなのに、驚くほどすんなりと心の中におちていった。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "多分それは桜花に悪意が無い事と、俺が促して話して貰った\\nからだろう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "多分それは桜花に悪意が無い事と、俺が促して話して貰ったからだろう。",
+      "txt_idk_2": "多分それは桜花に悪意が無い事と、俺が促して話して貰ったからだろう。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「いつまでも神社に迷惑を掛けられないのは、麗奈だって\\n分かってるはずなんだよな……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「いつまでも神社に迷惑を掛けられないのは、麗奈だって分かってるはずなんだよな……」",
+      "txt_idk_2": "「いつまでも神社に迷惑を掛けられないのは、麗奈だって分かってるはずなんだよな……」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そして同時にも思う。\\n本当に何もしてないのだろうか？　と。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "そして同時にも思う。本当に何もしてないのだろうか？　と。",
+      "txt_idk_2": "そして同時にも思う。本当に何もしてないのだろうか？　と。"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「その麗奈という彼女と道隆は、今でも親しいのかい？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00306"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ん？　どうだろうな。\\n話は良くするけど、昔ほど一緒に居る訳じゃない」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ん？　どうだろうな。話は良くするけど、昔ほど一緒に居る訳じゃない」",
+      "txt_idk_2": "「ん？　どうだろうな。話は良くするけど、昔ほど一緒に居る訳じゃない」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「なんだ、そうなのか」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00307"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「まあお互いデカくなったから、つるむにしても理由が必要に\\nなっちまったって事なのかもしれない」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「まあお互いデカくなったから、つるむにしても理由が必要になっちまったって事なのかもしれない」",
+      "txt_idk_2": "「まあお互いデカくなったから、つるむにしても理由が必要になっちまったって事なのかもしれない」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「ボクにはよく分からないが、そういうものなのかい？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00308"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……まあ、幽霊にはよく分からんだろう」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "試験も勉強もないのが幽霊だろうから。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "クラスメートの視線なんて気にする事もないだろう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「あ、そうだ。これ桜花に」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "学園の事を思い出して、桜花に会長から預かったメモを渡した。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「これは？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00309"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「学園の生徒会長から預かってきた。……ほら、桜花の解明\\nしたチョークの行方ではちあわせた人」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「学園の生徒会長から預かってきた。……ほら、桜花の解明したチョークの行方ではちあわせた人」",
+      "txt_idk_2": "「学園の生徒会長から預かってきた。……ほら、桜花の解明したチョークの行方ではちあわせた人」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「ああ。そういえば帰った時にそんな話を聞いたね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00310"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「会長が俺に渡したって事は、桜花にって事だろうからな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「なるほど。了解した。\\nでもボクは携帯電話も持っていないから、道隆が登録しておい\\nてくれないか。彼女もそれで気にしないだろう」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00311"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「なるほど。了解した。でもボクは携帯電話も持っていないから、道隆が登録しておいてくれないか。彼女もそれで気にしないだろう」",
+      "txt_idk_2": "「なるほど。了解した。でもボクは携帯電話も持っていないから、道隆が登録しておいてくれないか。彼女もそれで気にしないだろう」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……わかった」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "少し抵抗はあったが、会長も俺に渡したんだし、確かに気に\\nすると思えない。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "少し抵抗はあったが、会長も俺に渡したんだし、確かに気にすると思えない。",
+      "txt_idk_2": "少し抵抗はあったが、会長も俺に渡したんだし、確かに気にすると思えない。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "会長の名前と番号を入れて登録した。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「珍しい名前だね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00312"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ああ、[かささぎ]鵲って一文字だしな。\\nこの辺りだと会長しかいないんじゃないかな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ああ、かささぎって一文字だしな。この辺りだと会長しかいないんじゃないかな」",
+      "txt_idk_2": "「ああ、鵲って一文字だしな。この辺りだと会長しかいないんじゃないかな」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「だけど姓があるというのは羨ましくも思うよ。\\nボクはまだ思い出せないからね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00313"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「だけど姓があるというのは羨ましくも思うよ。ボクはまだ思い出せないからね」",
+      "txt_idk_2": "「だけど姓があるというのは羨ましくも思うよ。ボクはまだ思い出せないからね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……ま、そのうち出てくるだろ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「いざとなったら道隆の籍にいれてくれ。\\nそうすれば問題解決だ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00314"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「いざとなったら道隆の籍にいれてくれ。そうすれば問題解決だ」",
+      "txt_idk_2": "「いざとなったら道隆の籍にいれてくれ。そうすれば問題解決だ」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そんな事を、笑いながら言ってくる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「…………お前に体が無くてよかったな。\\nそんな事ばかり言ってたら、人をたぶらかす悪女だぞ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「…………お前に体が無くてよかったな。そんな事ばかり言ってたら、人をたぶらかす悪女だぞ」",
+      "txt_idk_2": "「…………お前に体が無くてよかったな。そんな事ばかり言ってたら、人をたぶらかす悪女だぞ」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "口には出せないが、こいつは見た目もいいから始末が悪い。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "というか、初めて会った時にはすっかり騙されてしまったから\\nやっぱりタチが悪いんだろう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "というか、初めて会った時にはすっかり騙されてしまったからやっぱりタチが悪いんだろう。",
+      "txt_idk_2": "というか、初めて会った時にはすっかり騙されてしまったからやっぱりタチが悪いんだろう。"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「生身ではないから、ギリギリでまぬがれてるという事だね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00315"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "楽しげに言って、傍らに置いた本を手に取る。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「でもこうして触れはするんだよ？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_00316"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……まったく。本気なのか、からかってるのか分からん」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "空いた食器を手に立ち上がる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "部屋を出た所で、背後からくすくすとした涼しげな笑い声が\\n聞こえてきた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "部屋を出た所で、背後からくすくすとした涼しげな笑い声が聞こえてきた。",
+      "txt_idk_2": "部屋を出た所で、背後からくすくすとした涼しげな笑い声が聞こえてきた。"
+    }
+  ]
+]

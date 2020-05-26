@@ -1,0 +1,2440 @@
+[
+  [
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "……放課後のチャイムが鳴ると同時に、外に出た。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "汐音達には桜花と待ち合わせと言ってあるから、先に帰るのを\\n呼び止められる事もなかった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "汐音達には桜花と待ち合わせと言ってあるから、先に帰るのを呼び止められる事もなかった。",
+      "txt_idk_2": "汐音達には桜花と待ち合わせと言ってあるから、先に帰るのを呼び止められる事もなかった。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "まあ、デートだと冷やかされはしたけれど。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "大通りを神社の方向に行き、途中にあるコンビニに向かう。\\n桜花にシュークリームとジュースを買って行く事にした。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "大通りを神社の方向に行き、途中にあるコンビニに向かう。桜花にシュークリームとジュースを買って行く事にした。",
+      "txt_idk_2": "大通りを神社の方向に行き、途中にあるコンビニに向かう。桜花にシュークリームとジュースを買って行く事にした。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "神社の前の石段には、既に桜花が来ていた。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「お待たせ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「早かったね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50378"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「急いできたんだよ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "石段の下に自転車を止める。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「今日は弁当届けてくれてありがとう。\\nこれお前にお土産」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「今日は弁当届けてくれてありがとう。これお前にお土産」",
+      "txt_idk_2": "「今日は弁当届けてくれてありがとう。これお前にお土産」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「お礼なんていいのに。けれど、ありがたく貰っておくよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50379"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そうしてくれ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「それからこれだ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50380"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "桜花が言って取りだしたのは、俺の部屋に置かれていた例の\\n石で出来たナイフ状の物だった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "桜花が言って取りだしたのは、俺の部屋に置かれていた例の石で出来たナイフ状の物だった。",
+      "txt_idk_2": "桜花が言って取りだしたのは、俺の部屋に置かれていた例の石で出来たナイフ状の物だった。"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「もしもこれが関係しているのなら、神社に納めて貰うのが\\n一番だと思う」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50381"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「もしもこれが関係しているのなら、神社に納めて貰うのが一番だと思う」",
+      "txt_idk_2": "「もしもこれが関係しているのなら、神社に納めて貰うのが一番だと思う」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「正直手元にあっても困る物だしな……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "神社に入ると以前に見た神主さんの色が見えた。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「今日はいるんだな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「どっちだい？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50382"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「右手の山の方だな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そちらを見ると、ちょうど神主さんが境内に戻ってくる所\\nだった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "そちらを見ると、ちょうど神主さんが境内に戻ってくる所だった。",
+      "txt_idk_2": "そちらを見ると、ちょうど神主さんが境内に戻ってくる所だった。"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「やあ、こんにちは。確か以前に来てた子だね」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50001"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ええ、ご無沙汰しています」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「そちらは？　見ない顔だね」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50002"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「どうも、こちらの道隆の連れ合いです。\\n少々お聞きしたい事があって巫女さんに言伝を頼みました」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50383"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「どうも、こちらの道隆の連れ合いです。少々お聞きしたい事があって巫女さんに言伝を頼みました」",
+      "txt_idk_2": "「どうも、こちらの道隆の連れ合いです。少々お聞きしたい事があって巫女さんに言伝を頼みました」"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「では君が？」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50003"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「はい」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50384"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "初対面の人と話すためか、桜花の喋り方が他所行きに\\nなっている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "初対面の人と話すためか、桜花の喋り方が他所行きになっている。",
+      "txt_idk_2": "初対面の人と話すためか、桜花の喋り方が他所行きになっている。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "さて……例の『石』の事を話題に出すにしても、いきなり\\nでは突拍子もなさすぎる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "さて……例の『石』の事を話題に出すにしても、いきなりでは突拍子もなさすぎる。",
+      "txt_idk_2": "さて……例の『石』の事を話題に出すにしても、いきなりでは突拍子もなさすぎる。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "桜花はどういう風に話を持っていくのか、興味がある。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「実は身の回りで奇妙な出来事に遭遇しまして」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50385"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「――――っ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「おや、どうしたのかな？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50386"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「な、なんでもない」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "……自分自身の棚上げは、もはや桜花の持ち芸のレベルだ。\\n突っ込むだけヤボだ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "……自分自身の棚上げは、もはや桜花の持ち芸のレベルだ。突っ込むだけヤボだ。",
+      "txt_idk_2": "……自分自身の棚上げは、もはや桜花の持ち芸のレベルだ。突っ込むだけヤボだ。"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「そこでこの街に何か曰くや伝承があったら、教えて頂きたい\\nと思いました」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50387"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そこでこの街に何か曰くや伝承があったら、教えて頂きたいと思いました」",
+      "txt_idk_2": "「そこでこの街に何か曰くや伝承があったら、教えて頂きたいと思いました」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "桜花の言葉に、神主さんは一拍遅れて豪快に笑った。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「わははっ。ずいぶん端折るじゃないか。\\nいっそすがすがしいくらいだ」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50004"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「わははっ。ずいぶん端折るじゃないか。いっそすがすがしいくらいだ」",
+      "txt_idk_2": "「わははっ。ずいぶん端折るじゃないか。いっそすがすがしいくらいだ」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「どうなのでしょう？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50388"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「ふむ……何を調べているのかは分からないが、俺も全てを\\n知っている訳じゃない。それでもいいかな」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50005"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ふむ……何を調べているのかは分からないが、俺も全てを知っている訳じゃない。それでもいいかな」",
+      "txt_idk_2": "「ふむ……何を調べているのかは分からないが、俺も全てを知っている訳じゃない。それでもいいかな」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「もちろん」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50389"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「では、何から話すかな。\\nむしろ君たちが聞きたい事はなにかな？」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50006"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「では、何から話すかな。むしろ君たちが聞きたい事はなにかな？」",
+      "txt_idk_2": "「では、何から話すかな。むしろ君たちが聞きたい事はなにかな？」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「道隆は何かあるかい？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50390"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そうだなぁ……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    }
+  ],
+  null,
+  [
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「この神社について教えてください」",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「ここかい？　昔、この上に大きな社があったらしくてね。\\n元々はそこの分社なんだ」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50007"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ここかい？　昔、この上に大きな社があったらしくてね。元々はそこの分社なんだ」",
+      "txt_idk_2": "「ここかい？　昔、この上に大きな社があったらしくてね。元々はそこの分社なんだ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「優枝さんから聞きました。山の上にあったけれど、戦争で\\n破壊されてしまったとか……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「優枝さんから聞きました。山の上にあったけれど、戦争で破壊されてしまったとか……」",
+      "txt_idk_2": "「優枝さんから聞きました。山の上にあったけれど、戦争で破壊されてしまったとか……」"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「その通りらしい。山の上の神社は特殊な場所だったようでね。\\n誰でも山に入れていい場所ではなかったようなので、麓に近い\\nここで入山のための審査をしてたようだ」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50008"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「その通りらしい。山の上の神社は特殊な場所だったようでね。誰でも山に入れていい場所ではなかったようなので、麓に近いここで入山のための審査をしてたようだ」",
+      "txt_idk_2": "「その通りらしい。山の上の神社は特殊な場所だったようでね。誰でも山に入れていい場所ではなかったようなので、麓に近いここで入山のための審査をしてたようだ」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「何か資格のようなものが必要だったと？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50391"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「それは知らんよ。なんせ山の上の社が無くなったのが７０年\\nも前の頃で、ここが使われなくなったのは更に１０年以上昔の\\n事だからね」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50009"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「それは知らんよ。なんせ山の上の社が無くなったのが７０年も前の頃で、ここが使われなくなったのは更に１０年以上昔の事だからね」",
+      "txt_idk_2": "「それは知らんよ。なんせ山の上の社が無くなったのが７０年も前の頃で、ここが使われなくなったのは更に１０年以上昔の事だからね」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「８０年？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50392"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「ああ、戦争が激化してくる頃には、山の神性も失われて\\n入山希望者も数を減らしていたようだ」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50010"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ああ、戦争が激化してくる頃には、山の神性も失われて入山希望者も数を減らしていたようだ」",
+      "txt_idk_2": "「ああ、戦争が激化してくる頃には、山の神性も失われて入山希望者も数を減らしていたようだ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「どんな神様を祭っていたんでしょう」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「さてなぁ……鏡石とだけ伝わっている」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50011"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「……鏡石？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50393"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「知ってるのか？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「幾つか同名の物があるのは知っている。大抵は石の表面が\\n磨かれているか、平らになっている鏡状の石に名づけられる」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50394"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「幾つか同名の物があるのは知っている。大抵は石の表面が磨かれているか、平らになっている鏡状の石に名づけられる」",
+      "txt_idk_2": "「幾つか同名の物があるのは知っている。大抵は石の表面が磨かれているか、平らになっている鏡状の石に名づけられる」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「もちろん、それ自体が鏡として役立つかというと微妙だな。\\n特殊な形状ゆえに、残ってるに過ぎない」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50395"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「もちろん、それ自体が鏡として役立つかというと微妙だな。特殊な形状ゆえに、残ってるに過ぎない」",
+      "txt_idk_2": "「もちろん、それ自体が鏡として役立つかというと微妙だな。特殊な形状ゆえに、残ってるに過ぎない」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "……頭をフル回転させているせいか、桜花の口ぶりも元に\\n戻ってしまっている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "……頭をフル回転させているせいか、桜花の口ぶりも元に戻ってしまっている。",
+      "txt_idk_2": "……頭をフル回転させているせいか、桜花の口ぶりも元に戻ってしまっている。"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「ここにあったのは、文字通りの意味で鏡の石らしい」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50012"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「覗いた人間次第で、過去現在未来に人の心まで映し出すって\\n伝説がある」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50013"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「覗いた人間次第で、過去現在未来に人の心まで映し出すって伝説がある」",
+      "txt_idk_2": "「覗いた人間次第で、過去現在未来に人の心まで映し出すって伝説がある」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……すごいですね」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "俺の感想に、神主さんは首を振った。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「しょせんはただの伝説だよ」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50014"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「人の心を映し出すなんて言われても、覗きこんだ本人にしか\\n分からない。実物が無いのでは確かめようもないからね」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50015"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「人の心を映し出すなんて言われても、覗きこんだ本人にしか分からない。実物が無いのでは確かめようもないからね」",
+      "txt_idk_2": "「人の心を映し出すなんて言われても、覗きこんだ本人にしか分からない。実物が無いのでは確かめようもないからね」"
+    }
+  ],
+  [
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「『石』について、心当たりはないですか？」",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「具体的にはこちらだ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50396"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「これは……」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50016"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "神主さんの表情が驚きに変わる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「驚いた。これはどこで？」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50017"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「街のチンピラが持っていた。彼らの中でごく当たり前に\\n使われていたようだね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50397"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「街のチンピラが持っていた。彼らの中でごく当たり前に使われていたようだね」",
+      "txt_idk_2": "「街のチンピラが持っていた。彼らの中でごく当たり前に使われていたようだね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「知っている物なんですか？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「優枝から話を聞いて、資料を探してきた。\\nその中に似た物があったはずだ」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50018"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「優枝から話を聞いて、資料を探してきた。その中に似た物があったはずだ」",
+      "txt_idk_2": "「優枝から話を聞いて、資料を探してきた。その中に似た物があったはずだ」"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「少し待っていなさい」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50019"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "神主さんが社務所に行く。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "やがて手に和綴じの古ぼけた本を持ってきた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「こちらの本は？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50398"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「分かりやすく言うなら、神社についての本だ。\\n山の上の神社とその分社についてまとめられている」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50020"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「分かりやすく言うなら、神社についての本だ。山の上の神社とその分社についてまとめられている」",
+      "txt_idk_2": "「分かりやすく言うなら、神社についての本だ。山の上の神社とその分社についてまとめられている」"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「これだ」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50021"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "開かれたページには墨で絵が描かれている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "手鏡や日本史で習ったような銅鏡。\\n今手元にあるようなナイフ状の石などが書かれている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "手鏡や日本史で習ったような銅鏡。今手元にあるようなナイフ状の石などが書かれている。",
+      "txt_idk_2": "手鏡や日本史で習ったような銅鏡。今手元にあるようなナイフ状の石などが書かれている。"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「分社にも幾つか祭器のような物が奉られていたとある。\\n鏡石の大元から取り出した物で、それぞれに似たような力が\\nあったと書かれているね」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50022"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「分社にも幾つか祭器のような物が奉られていたとある。鏡石の大元から取り出した物で、それぞれに似たような力があったと書かれているね」",
+      "txt_idk_2": "「分社にも幾つか祭器のような物が奉られていたとある。鏡石の大元から取り出した物で、それぞれに似たような力があったと書かれているね」"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「とはいえ、そのような物は権威付けのための物だろうけれど」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50023"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……そうですね」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「ちなみにこちらについては何と？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50399"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「人に傷をつけたならば、記憶を刺激し、より深く思い出す\\n事が出来るとある」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50024"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「人に傷をつけたならば、記憶を刺激し、より深く思い出す事が出来るとある」",
+      "txt_idk_2": "「人に傷をつけたならば、記憶を刺激し、より深く思い出す事が出来るとある」"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「……正直な所、眉唾だね。どのような仕組みならばそんな\\n事が出来るのか見当もつかない」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50025"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……正直な所、眉唾だね。どのような仕組みならばそんな事が出来るのか見当もつかない」",
+      "txt_idk_2": "「……正直な所、眉唾だね。どのような仕組みならばそんな事が出来るのか見当もつかない」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「…………」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50400"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "桜花は何か言いたげな顔をしている。\\nが、何も言わなかった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "桜花は何か言いたげな顔をしている。が、何も言わなかった。",
+      "txt_idk_2": "桜花は何か言いたげな顔をしている。が、何も言わなかった。"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「奉られていた社も、とうの昔に解体されているようだ。\\n山の上の本殿が無くなるよりもだいぶ昔だね」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50026"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「奉られていた社も、とうの昔に解体されているようだ。山の上の本殿が無くなるよりもだいぶ昔だね」",
+      "txt_idk_2": "「奉られていた社も、とうの昔に解体されているようだ。山の上の本殿が無くなるよりもだいぶ昔だね」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「今の場所は分かりますか？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50401"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「ああ、地図が描かれている」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50027"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……これって」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "見せて貰った場所。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そこは、桜花荘のある所だった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    }
+  ],
+  [
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「幽霊についての記録なんて物はありますか？」",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「幽霊……神社で扱う題材ではないね」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50028"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "苦笑している。\\nまあ、それも当然か。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "苦笑している。まあ、それも当然か。",
+      "txt_idk_2": "苦笑している。まあ、それも当然か。"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「ただ、当時の御神体はどうやら人間の記憶に作用する物\\nだったらしい」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50029"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ただ、当時の御神体はどうやら人間の記憶に作用する物だったらしい」",
+      "txt_idk_2": "「ただ、当時の御神体はどうやら人間の記憶に作用する物だったらしい」"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「幽霊というのは、そこに残った微弱な電磁波を脳が受信\\nしてしまい、人の像を映すとどこかで見た事がある」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50030"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「幽霊というのは、そこに残った微弱な電磁波を脳が受信してしまい、人の像を映すとどこかで見た事がある」",
+      "txt_idk_2": "「幽霊というのは、そこに残った微弱な電磁波を脳が受信してしまい、人の像を映すとどこかで見た事がある」"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「もしも読み取るだけではなく、強いストレスを感じた脳が\\n空間に焼きついてしまったのなら、波長の合う人にその人の\\n残した情報が再現される事があるのかもしれないね」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50031"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「もしも読み取るだけではなく、強いストレスを感じた脳が空間に焼きついてしまったのなら、波長の合う人にその人の残した情報が再現される事があるのかもしれないね」",
+      "txt_idk_2": "「もしも読み取るだけではなく、強いストレスを感じた脳が空間に焼きついてしまったのなら、波長の合う人にその人の残した情報が再現される事があるのかもしれないね」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「……なるほど」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50402"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「御神体が人の記憶に関する物……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「幾つかの祭具もあったとされているが、保管場所は全て\\n離していたらしい。人の記憶に影響を与えられるのなら\\n危険な物もあったのだろうね」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50032"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「幾つかの祭具もあったとされているが、保管場所は全て離していたらしい。人の記憶に影響を与えられるのなら危険な物もあったのだろうね」",
+      "txt_idk_2": "「幾つかの祭具もあったとされているが、保管場所は全て離していたらしい。人の記憶に影響を与えられるのなら危険な物もあったのだろうね」"
+    }
+  ],
+  [
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「他にまだあるかな？」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50033"
+        }
+      ],
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "大体の話は聞けたように思う。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「いえ、ありがとうございました」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「年中ヒマしているからね。構わないよ」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50034"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「……神主さんは、人の記憶というのはどういう物だと\\n思っている？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50403"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……神主さんは、人の記憶というのはどういう物だと思っている？」",
+      "txt_idk_2": "「……神主さんは、人の記憶というのはどういう物だと思っている？」"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「さて……過去にそれに類する物を奉っていたとあるが、\\n俺自身はさっぱりだ」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50035"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「さて……過去にそれに類する物を奉っていたとあるが、俺自身はさっぱりだ」",
+      "txt_idk_2": "「さて……過去にそれに類する物を奉っていたとあるが、俺自身はさっぱりだ」"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「ただ、脳が神経接続された細胞間の電気信号のやり取りと\\n言うなら、そこにたまたま合ってしまう物はあるのだろう」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50036"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ただ、脳が神経接続された細胞間の電気信号のやり取りと言うなら、そこにたまたま合ってしまう物はあるのだろう」",
+      "txt_idk_2": "「ただ、脳が神経接続された細胞間の電気信号のやり取りと言うなら、そこにたまたま合ってしまう物はあるのだろう」"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「今後科学が進めば、やがて人間の手で記憶も自在に操作\\nできるようになるかもしれない」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50037"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「今後科学が進めば、やがて人間の手で記憶も自在に操作できるようになるかもしれない」",
+      "txt_idk_2": "「今後科学が進めば、やがて人間の手で記憶も自在に操作できるようになるかもしれない」"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「そんな世界に住んでるんだから、たまたま自然物で同じ\\n作用をもたらす物があったとしても……まあ、あり得ない話\\nではないとは思っている」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50038"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そんな世界に住んでるんだから、たまたま自然物で同じ作用をもたらす物があったとしても……まあ、あり得ない話ではないとは思っている」",
+      "txt_idk_2": "「そんな世界に住んでるんだから、たまたま自然物で同じ作用をもたらす物があったとしても……まあ、あり得ない話ではないとは思っている」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「そう……ですか」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50404"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「では以上かな？」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50039"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「山の上の社の跡を見に行きたいのですが、そこからまっすぐ\\n登っていけば着きますか？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50405"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「山の上の社の跡を見に行きたいのですが、そこからまっすぐ登っていけば着きますか？」",
+      "txt_idk_2": "「山の上の社の跡を見に行きたいのですが、そこからまっすぐ登っていけば着きますか？」"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「いけなくはないが、ここ数年入りこんだ人はいない。\\n道もないので装備も無くてはろくに登れない」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50040"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「いけなくはないが、ここ数年入りこんだ人はいない。道もないので装備も無くてはろくに登れない」",
+      "txt_idk_2": "「いけなくはないが、ここ数年入りこんだ人はいない。道もないので装備も無くてはろくに登れない」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「……なるほど」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50406"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「ガキの頃に途中まで行った事はあったが、大きな崖の上に\\n出てどうしようも無くなってしまったな」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50041"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ガキの頃に途中まで行った事はあったが、大きな崖の上に出てどうしようも無くなってしまったな」",
+      "txt_idk_2": "「ガキの頃に途中まで行った事はあったが、大きな崖の上に出てどうしようも無くなってしまったな」"
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「そこから眺めるくらいまでなら行けなくはないが、その先は\\nとてもじゃないが許可は出来ない」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50042"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そこから眺めるくらいまでなら行けなくはないが、その先はとてもじゃないが許可は出来ない」",
+      "txt_idk_2": "「そこから眺めるくらいまでなら行けなくはないが、その先はとてもじゃないが許可は出来ない」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「進んで遭難したい訳じゃないですから。\\nどっちみち入らないと思います」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「進んで遭難したい訳じゃないですから。どっちみち入らないと思います」",
+      "txt_idk_2": "「進んで遭難したい訳じゃないですから。どっちみち入らないと思います」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「行けても話に出た崖までだね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50407"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "太陽が茜色に染まる。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "夕日が沈んで行く中、優枝さんがやってきた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「おっと、そろそろ仕事あがりだ。\\n今日はこのくらいでいいかな」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50043"
+        }
+      ],
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「おっと、そろそろ仕事あがりだ。今日はこのくらいでいいかな」",
+      "txt_idk_2": "「おっと、そろそろ仕事あがりだ。今日はこのくらいでいいかな」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「ええ、ありがとうございました」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50408"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ありがとうございまいした」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "神主",
+      "hidden_character_speaking": null,
+      "txt": "「ではね。失礼するよ」",
+      "voices": [
+        {
+          "name": "神主",
+          "pan": 0,
+          "type": 0,
+          "voice": "c03_50044"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "神主さんは社務所に戻っていく。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "入れ違いに巫女服を着た優枝さんが出てきた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「こんにちは。お話は聞けました？」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_50010"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ありがとう。おかげで色々と参考になった」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「……一部は分からないと言う事が分かっただけだったが。\\nそれでも大いに進展した部類か」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50409"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……一部は分からないと言う事が分かっただけだったが。それでも大いに進展した部類か」",
+      "txt_idk_2": "「……一部は分からないと言う事が分かっただけだったが。それでも大いに進展した部類か」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「贅沢すぎるだろ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「まあね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50410"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「お二人は御神体について調べられているのですよね」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_50011"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「え、いや、そこまでは」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「単に由来を聞きたかっただけなのだけれど、そっちに狙いを\\n絞った方が当りかもしれないな」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50411"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「単に由来を聞きたかっただけなのだけれど、そっちに狙いを絞った方が当りかもしれないな」",
+      "txt_idk_2": "「単に由来を聞きたかっただけなのだけれど、そっちに狙いを絞った方が当りかもしれないな」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「問題は行き詰ってしまっている事だが……」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50412"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「もう失われてしまった物ですからね。\\n神社の人間にもさっぱりです」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_50012"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「もう失われてしまった物ですからね。神社の人間にもさっぱりです」",
+      "txt_idk_2": "「もう失われてしまった物ですからね。神社の人間にもさっぱりです」"
+    },
+    {
+      "actual_character_speaking": "優枝",
+      "hidden_character_speaking": null,
+      "txt": "「ですがロマンがありますよね。\\n何か分かったら教えてください」",
+      "voices": [
+        {
+          "name": "優枝",
+          "pan": 0,
+          "type": 0,
+          "voice": "b02_50013"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ですがロマンがありますよね。何か分かったら教えてください」",
+      "txt_idk_2": "「ですがロマンがありますよね。何か分かったら教えてください」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「はい」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "それで俺と桜花は神社を後にした。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "部屋に戻って着替えをした。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "桜花はお茶を入れてくると、さっきコンビニで買った\\nシュークリームを食べていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "桜花はお茶を入れてくると、さっきコンビニで買ったシュークリームを食べていた。",
+      "txt_idk_2": "桜花はお茶を入れてくると、さっきコンビニで買ったシュークリームを食べていた。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「あんまり収穫はなかったな」",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「……そうだね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50413"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「結局これ、持ち帰ってきちまったけど、どうしよう？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「元はここにあった社にあった物だというのなら、ずいぶんと\\n遠回りをして帰ってきた事になる」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50414"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「元はここにあった社にあった物だというのなら、ずいぶんと遠回りをして帰ってきた事になる」",
+      "txt_idk_2": "「元はここにあった社にあった物だというのなら、ずいぶんと遠回りをして帰ってきた事になる」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「隠し部屋にでも放りこんでおくとしよう。\\nやがて忘れ去られてしまうだろうけれど、これはあまり表に\\n出していい物じゃない」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50415"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「隠し部屋にでも放りこんでおくとしよう。やがて忘れ去られてしまうだろうけれど、これはあまり表に出していい物じゃない」",
+      "txt_idk_2": "「隠し部屋にでも放りこんでおくとしよう。やがて忘れ去られてしまうだろうけれど、これはあまり表に出していい物じゃない」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……だな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "人間の記憶に作用するという話、普段なら到底信じられない。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "でも先日の一件からすると、頷けてしまう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「人の記憶……か」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「知っているかい？　人間にとって、楽しかった時の記憶を\\n思い出すのは、大いなる快楽なんだそうだ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50416"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「知っているかい？　人間にとって、楽しかった時の記憶を思い出すのは、大いなる快楽なんだそうだ」",
+      "txt_idk_2": "「知っているかい？　人間にとって、楽しかった時の記憶を思い出すのは、大いなる快楽なんだそうだ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そうなのか？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「ああ。そのため人の記憶に自由に介入出来る物があるなら、\\n大勢の人が訪ねてくるというのも分かる」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50417"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ああ。そのため人の記憶に自由に介入出来る物があるなら、大勢の人が訪ねてくるというのも分かる」",
+      "txt_idk_2": "「ああ。そのため人の記憶に自由に介入出来る物があるなら、大勢の人が訪ねてくるというのも分かる」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……ちょっと考えただけでも用途は色々だしな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「……そうだね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_50418"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "桜花がしみじみとして頷く。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "過去に別れた人との記憶があったとしたら、それをとても\\nリアルな追体験が出来るとして……。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "過去に別れた人との記憶があったとしたら、それをとてもリアルな追体験が出来るとして……。",
+      "txt_idk_2": "過去に別れた人との記憶があったとしたら、それをとてもリアルな追体験が出来るとして……。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "……望まない人間なんているんだろうか。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "俺と桜花との違い。\\n打ち明けた時の汐音達の反応……。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "俺と桜花との違い。打ち明けた時の汐音達の反応……。",
+      "txt_idk_2": "俺と桜花との違い。打ち明けた時の汐音達の反応……。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "昼間の事を思い出しながら、そんな事を考えてしまった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    }
+  ]
+]

@@ -9,7 +9,8 @@ Text extracted from patch [1.11](http://www.applique-soft.com/sapo/hananono_patc
 
 Repository Structure
 -------------
-The directory `pretty_jpn` contains readable json text lines ***in Japanese***, of the original scn json script.
+The directory `pretty_jpn` contains readable json text lines ***in Japanese***, of the original scn json script.<br/>
+The directory `pretty_eng` contains readable json text lines ***in English***, a translated copy of `pretty_jpn`.
 
 Credits
 -------------

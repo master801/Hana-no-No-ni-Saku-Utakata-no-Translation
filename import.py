@@ -34,10 +34,9 @@ def main():
             continue
 
         for json_obj in json_obj_list:
-            name: str = json_obj['name']
             scenes: list = json_obj['scenes']
+            pretty_file_path = '{}{}{}.json'.format(constants.PRETTY_PATH_DEFAULT, constants.FILE_PATH_SEPARATOR, json_obj['name'])
 
-            out_path = '{}{}{}.json'.format(constants.OUT_PATH, constants.FILE_PATH_SEPARATOR, name)
             # noinspection PyTypeChecker
             text_scenes: list = [None] * len(scenes)
             for i in range(len(scenes)):
@@ -49,14 +48,14 @@ def main():
 
             # noinspection PyComparisonWithNone
             if text_scenes != None:
-                if not os.path.exists(constants.OUT_PATH):
-                    os.mkdir(constants.OUT_PATH)
+                if not os.path.exists(constants.PRETTY_PATH_DEFAULT):
+                    os.mkdir(constants.PRETTY_PATH_DEFAULT)
                     pass
 
-                if os.path.exists(out_path):
-                    os.remove(out_path)
+                if os.path.exists(pretty_file_path):
+                    os.remove(pretty_file_path)
                     pass
-                with open(out_path, 'x+', encoding='utf-8') as fp_out_json:
+                with open(pretty_file_path, 'x+', encoding='utf-8') as fp_out_json:
                     json.dump(
                         text_scenes,
                         fp_out_json,
@@ -66,11 +65,14 @@ def main():
                     )
                     fp_out_json.close()
 
-                    print('Wrote pretty file \"{}\"\n'.format(out_path))
+                    print('Wrote pretty file \"{}\"\n'.format(pretty_file_path))
                     pass
                 pass
             continue
         print('Done')
+        pass
+    else:
+        print('No scn json files in path \"{}\" were found?!'.format(constants.PATH_SCN_ORIGINAL))
         pass
     return
 

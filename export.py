@@ -11,7 +11,7 @@ def main():
     Exports the modified text lines from `out` into the patch folder
     """
     fp_txt_json_files = []
-    for (root, subdirs, files) in os.walk(constants.OUT_PATH):
+    for (root, subdirs, files) in os.walk(constants.PRETTY_PATH_CURRENT):
         for file in files:
             if file.endswith('.txt.json'):
                 fp_txt_json_files.append(root + constants.FILE_PATH_SEPARATOR + file)
@@ -27,7 +27,7 @@ def main():
                 print('Read pretty file \"{}\"'.format(txt_json_file))
                 pass
 
-            file_name: str = txt_json_file[len(constants.OUT_PATH)+1:]
+            file_name: str = txt_json_file[len(constants.PRETTY_PATH_CURRENT)+1:]
             path: str = constants.PATH_SCN_ORIGINAL + constants.FILE_PATH_SEPARATOR + file_name
             with open(path, 'r', encoding='utf-8') as io_scn:
                 json_scn = json.load(io_scn)
@@ -62,6 +62,9 @@ def main():
                 pass
             continue
         print('Done')
+        pass
+    else:
+        print('No pretty files in path \"{}\" were found?!'.format(constants.PRETTY_PATH_CURRENT))
         pass
     return
 

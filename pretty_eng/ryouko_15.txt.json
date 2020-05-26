@@ -1,0 +1,2350 @@
+[
+  [
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "昼の時間になって、隣の麗奈に声をかけた。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「昼、空いてるか？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「……なに。私に予定を聞くの？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10041"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ああ。どうしても。\\n涼子ちゃんも一緒だから心配しないでいい」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ああ。どうしても。涼子ちゃんも一緒だから心配しないでいい」",
+      "txt_idk_2": "「ああ。どうしても。涼子ちゃんも一緒だから心配しないでいい」"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「わかったわ。そういう事なら。\\n場所はどこ？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10042"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「わかったわ。そういう事なら。場所はどこ？」",
+      "txt_idk_2": "「わかったわ。そういう事なら。場所はどこ？」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「中庭に頼む」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「ええ。汐音も呼ぶんでしょう？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10043"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「今声を掛けてくるよ。ちょっと待っててくれ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "麗奈が頷く。\\n今度は汐音の方に向かった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "麗奈が頷く。今度は汐音の方に向かった。",
+      "txt_idk_2": "麗奈が頷く。今度は汐音の方に向かった。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「昼飯、良かったら中庭にいかないか？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「ええっ？　涼子ちゃんは？」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10063"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「もちろん呼んである」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「そっかぁ……うん、分かったよ。行く。\\n麗奈ちゃんと話してたのってこの事？」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10064"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そっかぁ……うん、分かったよ。行く。麗奈ちゃんと話してたのってこの事？」",
+      "txt_idk_2": "「そっかぁ……うん、分かったよ。行く。麗奈ちゃんと話してたのってこの事？」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ああ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「わかった。じゃあ二人で先に行く。\\n一緒に行くと気まずそうだし」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10065"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「わかった。じゃあ二人で先に行く。一緒に行くと気まずそうだし」",
+      "txt_idk_2": "「わかった。じゃあ二人で先に行く。一緒に行くと気まずそうだし」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「全然気にしないと思うけどなぁ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "わかってないなぁと汐音がため息をついた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「彼女と合流するのに、違う女の子連れていったらダメだよ。\\nそれが仲のいい涼子ちゃんでも同じ」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10066"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「彼女と合流するのに、違う女の子連れていったらダメだよ。それが仲のいい涼子ちゃんでも同じ」",
+      "txt_idk_2": "「彼女と合流するのに、違う女の子連れていったらダメだよ。それが仲のいい涼子ちゃんでも同じ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……なるほど。肝に銘じておく」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「女の子はね。いつだって特別扱いされたがるものなの」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10067"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「…………もちろん例外はいるけど」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10068"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "その視線が一瞬麗奈に向かった事は、言わないでおいてやろう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「タカちゃんは涼子ちゃん迎えに行くんでしょう？\\n麗奈ちゃんとご飯食べてるから、準備できたらいつでもきてよ」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10069"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「タカちゃんは涼子ちゃん迎えに行くんでしょう？麗奈ちゃんとご飯食べてるから、準備できたらいつでもきてよ」",
+      "txt_idk_2": "「タカちゃんは涼子ちゃん迎えに行くんでしょう？麗奈ちゃんとご飯食べてるから、準備できたらいつでもきてよ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「わかった」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "それから二人より先に教室を出た。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "中庭の外れにある待ち合わせ場所には、涼子ちゃんが既に\\n来ていた。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "中庭の外れにある待ち合わせ場所には、涼子ちゃんが既に来ていた。",
+      "txt_idk_2": "中庭の外れにある待ち合わせ場所には、涼子ちゃんが既に来ていた。"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「な、なんだか、緊張、してきました……」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10599"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……それは俺もだけど……涼子ちゃんって恥ずかしがり屋の\\n上によく緊張すると思うけれど」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……それは俺もだけど……涼子ちゃんって恥ずかしがり屋の上によく緊張すると思うけれど」",
+      "txt_idk_2": "「……それは俺もだけど……涼子ちゃんって恥ずかしがり屋の上によく緊張すると思うけれど」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「え、ええ。どうしてもこうなっちゃうんです」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10600"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「それがよく陸上だと緊張しないで全力出せるんだな。\\n大会の方が大変だと思うけど」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「それがよく陸上だと緊張しないで全力出せるんだな。大会の方が大変だと思うけど」",
+      "txt_idk_2": "「それがよく陸上だと緊張しないで全力出せるんだな。大会の方が大変だと思うけど」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「……あの、ですね。\\n恥ずかしいので、内緒でもいいですか？」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10601"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……あの、ですね。恥ずかしいので、内緒でもいいですか？」",
+      "txt_idk_2": "「……あの、ですね。恥ずかしいので、内緒でもいいですか？」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「…………恥ずかしい？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "今まで基本的に答えてくれた涼子ちゃんでも、これだけは\\n譲れないらしい。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "今まで基本的に答えてくれた涼子ちゃんでも、これだけは譲れないらしい。",
+      "txt_idk_2": "今まで基本的に答えてくれた涼子ちゃんでも、これだけは譲れないらしい。"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「あ、ですが、このような関係になった以上、話しても何も\\n問題はないはずなのですが、わたしの願掛けが入っていて」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10602"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「あ、ですが、このような関係になった以上、話しても何も問題はないはずなのですが、わたしの願掛けが入っていて」",
+      "txt_idk_2": "「あ、ですが、このような関係になった以上、話しても何も問題はないはずなのですが、わたしの願掛けが入っていて」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「わ、わかった。そこまで言うなら聞かないけれど。\\n……このような関係ってことは、もしかして俺も関わりある？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「わ、わかった。そこまで言うなら聞かないけれど。……このような関係ってことは、もしかして俺も関わりある？」",
+      "txt_idk_2": "「わ、わかった。そこまで言うなら聞かないけれど。……このような関係ってことは、もしかして俺も関わりある？」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「あ――」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10603"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "失言に気づいたか、顔が赤くなる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「はい。……半分くらい……」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10604"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「残りの半分は？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「――あ！　先輩方もう来られてますよ！」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10605"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「………………はぐらかされた」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "まあ、いい。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "これから先が重要なんだ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「きたわね。食べながらでも構わないでしょう」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10044"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ああ、いいよ。\\nそっちの方が普段通りで話しやすい」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ああ、いいよ。そっちの方が普段通りで話しやすい」",
+      "txt_idk_2": "「ああ、いいよ。そっちの方が普段通りで話しやすい」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「うん、そうだね。\\n二人も座りなよ」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10070"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「うん、そうだね。二人も座りなよ」",
+      "txt_idk_2": "「うん、そうだね。二人も座りなよ」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "シートの隅に涼子ちゃんと二人で座る。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "普段通りとは言ったが、何となく畏まってしまう。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "それは隣の涼子ちゃんも同じだろう。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "緊張する俺たちを見てか、汐音と麗奈の表情が少し和らいだ。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……既に知ってると思うけど、涼子ちゃんと付き合っている。\\nその報告をしようと思ってわざわざ来て貰ったんだ」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……既に知ってると思うけど、涼子ちゃんと付き合っている。その報告をしようと思ってわざわざ来て貰ったんだ」",
+      "txt_idk_2": "「……既に知ってると思うけど、涼子ちゃんと付き合っている。その報告をしようと思ってわざわざ来て貰ったんだ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「黙ってて悪かった。機会を見ていずれ話さなくちゃとは\\n思ってたんだけど……」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「黙ってて悪かった。機会を見ていずれ話さなくちゃとは思ってたんだけど……」",
+      "txt_idk_2": "「黙ってて悪かった。機会を見ていずれ話さなくちゃとは思ってたんだけど……」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「…………うん。いいよ。\\nってわたしが許可出す事でもないし。ねえ、麗奈ちゃん」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10071"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「…………うん。いいよ。ってわたしが許可出す事でもないし。ねえ、麗奈ちゃん」",
+      "txt_idk_2": "「…………うん。いいよ。ってわたしが許可出す事でもないし。ねえ、麗奈ちゃん」"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「初日に教えるとか、悩んだ時に相談を持ちかけるとか、\\nその程度のリアクションは合っても良かったとは思うけれど\\n私もそれくらいかしらね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10045"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「初日に教えるとか、悩んだ時に相談を持ちかけるとか、その程度のリアクションは合っても良かったとは思うけれど私もそれくらいかしらね」",
+      "txt_idk_2": "「初日に教えるとか、悩んだ時に相談を持ちかけるとか、その程度のリアクションは合っても良かったとは思うけれど私もそれくらいかしらね」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "どこか呆れた感じで、二人は言う。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "とっくに分かっている内容だったのだろう。\\nそれでも真面目にこうして付き合ってくれたのは嬉しい。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "とっくに分かっている内容だったのだろう。それでも真面目にこうして付き合ってくれたのは嬉しい。",
+      "txt_idk_2": "とっくに分かっている内容だったのだろう。それでも真面目にこうして付き合ってくれたのは嬉しい。"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「お二人には大変お世話になったのに、報告が遅れてしまい\\n本当に申し訳ありませんでした」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10606"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「お二人には大変お世話になったのに、報告が遅れてしまい本当に申し訳ありませんでした」",
+      "txt_idk_2": "「お二人には大変お世話になったのに、報告が遅れてしまい本当に申し訳ありませんでした」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「いいって、謝る事じゃないよ」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10072"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「ところでどっちから告白したの？\\nタカちゃん？」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10073"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ところでどっちから告白したの？タカちゃん？」",
+      "txt_idk_2": "「ところでどっちから告白したの？タカちゃん？」"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「道隆にそんな甲斐性がある訳ないでしょう。\\n涼子から言ったに決まってるわ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10046"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「道隆にそんな甲斐性がある訳ないでしょう。涼子から言ったに決まってるわ」",
+      "txt_idk_2": "「道隆にそんな甲斐性がある訳ないでしょう。涼子から言ったに決まってるわ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ぐ――」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "さ、さすが物心つく前からの幼馴染。\\n熟知されてやがる……。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "さ、さすが物心つく前からの幼馴染。熟知されてやがる……。",
+      "txt_idk_2": "さ、さすが物心つく前からの幼馴染。熟知されてやがる……。"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「でも、そうだとしても告白に応えるのはちょっと意外だった\\nわね。決め手はなんだったの？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10047"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「でも、そうだとしても告白に応えるのはちょっと意外だったわね。決め手はなんだったの？」",
+      "txt_idk_2": "「でも、そうだとしても告白に応えるのはちょっと意外だったわね。決め手はなんだったの？」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「決め手……と言われてもなぁ。\\n困るぞ、その質問」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「決め手……と言われてもなぁ。困るぞ、その質問」",
+      "txt_idk_2": "「決め手……と言われてもなぁ。困るぞ、その質問」"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「お昼にこんな所呼び出されて、カップルののろけ話聞かされ\\nているんだから、それくらいいいでしょ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10048"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「お昼にこんな所呼び出されて、カップルののろけ話聞かされているんだから、それくらいいいでしょ」",
+      "txt_idk_2": "「お昼にこんな所呼び出されて、カップルののろけ話聞かされているんだから、それくらいいいでしょ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そ、そういう話の流れだったのか……？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「さ、さあ……そうだったのでしょうか」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10607"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「あのね、恋人同士が相手のいない二人に対してくっついた\\n時の話してるんだから、それ以外ないでしょーがー」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10074"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「あのね、恋人同士が相手のいない二人に対してくっついた時の話してるんだから、それ以外ないでしょーがー」",
+      "txt_idk_2": "「あのね、恋人同士が相手のいない二人に対してくっついた時の話してるんだから、それ以外ないでしょーがー」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「…………なるほど」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「で、それで？　答えは？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10049"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ごくりと唾を飲み込む。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "麗奈達のみならず涼子ちゃんにも聞かせる話になる。\\n変な事を言わないように、腹に力を込めた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "麗奈達のみならず涼子ちゃんにも聞かせる話になる。変な事を言わないように、腹に力を込めた。",
+      "txt_idk_2": "麗奈達のみならず涼子ちゃんにも聞かせる話になる。変な事を言わないように、腹に力を込めた。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……涼子ちゃんの笑顔……だな。\\nいつからか、気軽に触ったりしたらまずい気持ちになって。\\n笑顔が曇ったら嫌だな……と思うようになってた……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……涼子ちゃんの笑顔……だな。いつからか、気軽に触ったりしたらまずい気持ちになって。笑顔が曇ったら嫌だな……と思うようになってた……」",
+      "txt_idk_2": "「……涼子ちゃんの笑顔……だな。いつからか、気軽に触ったりしたらまずい気持ちになって。笑顔が曇ったら嫌だな……と思うようになってた……」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「それで何でこう思うんだろう？　と思ったら、やっぱり\\nどこかでそういう対象として見てたんだろうなと……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「それで何でこう思うんだろう？　と思ったら、やっぱりどこかでそういう対象として見てたんだろうなと……」",
+      "txt_idk_2": "「それで何でこう思うんだろう？　と思ったら、やっぱりどこかでそういう対象として見てたんだろうなと……」"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「それは、本当に？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10050"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……正直な所、その当時の気持ちは分からない。\\nでも、今ははっきりと言える。そう決断した後だから。\\nあやふやな気持ちじゃなく、涼子ちゃんが好きだ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……正直な所、その当時の気持ちは分からない。でも、今ははっきりと言える。そう決断した後だから。あやふやな気持ちじゃなく、涼子ちゃんが好きだ」",
+      "txt_idk_2": "「……正直な所、その当時の気持ちは分からない。でも、今ははっきりと言える。そう決断した後だから。あやふやな気持ちじゃなく、涼子ちゃんが好きだ」"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「……そっか。それならいいんじゃない？\\n私から言う事は……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10051"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……そっか。それならいいんじゃない？私から言う事は……」",
+      "txt_idk_2": "「……そっか。それならいいんじゃない？私から言う事は……」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "麗奈はぽんと手を叩く。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「はやくパンツ代払いなさいよ。\\n確か今日出すって言ったわよね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10052"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「はやくパンツ代払いなさいよ。確か今日出すって言ったわよね」",
+      "txt_idk_2": "「はやくパンツ代払いなさいよ。確か今日出すって言ったわよね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「――――あ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「……まったく、仕方ないわね。\\nほらジュースを購買で買ってくるからお金」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10053"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……まったく、仕方ないわね。ほらジュースを購買で買ってくるからお金」",
+      "txt_idk_2": "「……まったく、仕方ないわね。ほらジュースを購買で買ってくるからお金」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「く――し、仕方ない」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "小銭を渡すと麗奈はスタスタと購買に向かって歩いていった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「本当はお互い払わなくてもいいお金なのに。\\nなんか変な二人だよね」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10075"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「本当はお互い払わなくてもいいお金なのに。なんか変な二人だよね」",
+      "txt_idk_2": "「本当はお互い払わなくてもいいお金なのに。なんか変な二人だよね」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「ですが、羨ましいです」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10608"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「……うん、まあ、ちょっとだけね」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10076"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「なんだよ。払わなくていいなら、麗奈から取り返してきて\\nくれよ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「なんだよ。払わなくていいなら、麗奈から取り返してきてくれよ」",
+      "txt_idk_2": "「なんだよ。払わなくていいなら、麗奈から取り返してきてくれよ」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「ふーんだ、自分でいけ。ばかー」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10077"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「んだとこら！」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「わー、涼子ちゃーん。助けてー！」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10078"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「わ、わわっ。ダメですっ。お昼が先です……っ」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10609"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "美奈",
+      "hidden_character_speaking": null,
+      "txt": "「井之上さん」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_10002"
+        }
+      ],
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "購買に向かって歩いていた麗奈は波多野美奈に呼び止められた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「なに？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10054"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "美奈",
+      "hidden_character_speaking": null,
+      "txt": "「いえ……どこか、嬉しそうでしたので。\\n何かあったのですか？」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_10003"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「いえ……どこか、嬉しそうでしたので。何かあったのですか？」",
+      "txt_idk_2": "「いえ……どこか、嬉しそうでしたので。何かあったのですか？」"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「…………あったと言えばあったし、いつも通りとも言える。\\n難しい質問ね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10055"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「…………あったと言えばあったし、いつも通りとも言える。難しい質問ね」",
+      "txt_idk_2": "「…………あったと言えばあったし、いつも通りとも言える。難しい質問ね」"
+    },
+    {
+      "actual_character_speaking": "美奈",
+      "hidden_character_speaking": null,
+      "txt": "「はぁ……」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_10004"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "要領を得ない麗奈の返事に、美奈は小さく首を傾げた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「大事な後輩と一番の親友がくっついて幸せになったのよ。\\n喜ばなかったら嘘になるでしょう」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10056"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「大事な後輩と一番の親友がくっついて幸せになったのよ。喜ばなかったら嘘になるでしょう」",
+      "txt_idk_2": "「大事な後輩と一番の親友がくっついて幸せになったのよ。喜ばなかったら嘘になるでしょう」"
+    },
+    {
+      "actual_character_speaking": "美奈",
+      "hidden_character_speaking": null,
+      "txt": "「そういうものですか」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_10005"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「ええ、そういうもの。\\nそれじゃね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10057"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ええ、そういうもの。それじゃね」",
+      "txt_idk_2": "「ええ、そういうもの。それじゃね」"
+    },
+    {
+      "actual_character_speaking": "美奈",
+      "hidden_character_speaking": null,
+      "txt": "「……はい……」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_10006"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「ああ、それからお母さんとは話をしたの？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10058"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "美奈",
+      "hidden_character_speaking": null,
+      "txt": "「あ、えっと、はい。その、少しだけ」",
+      "voices": [
+        {
+          "name": "美奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "b07_10007"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「よかったわね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10059"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "世の中には良い報告で溢れている。\\nそれは日常が平和に回っているという事。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "世の中には良い報告で溢れている。それは日常が平和に回っているという事。",
+      "txt_idk_2": "世の中には良い報告で溢れている。それは日常が平和に回っているという事。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そう思うと、こぼれる笑みを小さく漏らした。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「せー、はー……せー……はー……」",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「まったくもう……しつこいっ。\\nお昼食べてたのにぃ……」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10079"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「まったくもう……しつこいっ。お昼食べてたのにぃ……」",
+      "txt_idk_2": "「まったくもう……しつこいっ。お昼食べてたのにぃ……」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「う、うるせー、一度始めた事をやめられるか……っ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「……ふふ」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10610"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「あ！　ほらー、笑われてる。\\nというか恋人ほったらかしちゃダメでしょう」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10080"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「あ！　ほらー、笑われてる。というか恋人ほったらかしちゃダメでしょう」",
+      "txt_idk_2": "「あ！　ほらー、笑われてる。というか恋人ほったらかしちゃダメでしょう」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ぐ――、ご、ごめん。涼子ちゃん……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「何をやっているのやら」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10060"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ジュース片手に麗奈が戻ってくる。\\n涼子ちゃんは麗奈に会釈して、微笑んだ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "ジュース片手に麗奈が戻ってくる。涼子ちゃんは麗奈に会釈して、微笑んだ。",
+      "txt_idk_2": "ジュース片手に麗奈が戻ってくる。涼子ちゃんは麗奈に会釈して、微笑んだ。"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「いえ……いいんです。\\n今見ていてはっきりと思いました」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10611"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「いえ……いいんです。今見ていてはっきりと思いました」",
+      "txt_idk_2": "「いえ……いいんです。今見ていてはっきりと思いました」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「わたしは先輩方を見ているのもすごく好きなんです」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10612"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「……先輩。さっきの話の答えです」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10613"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「わたしトラックの中ではゴールに先輩方の姿を思い浮かべる\\nんです。その中では井之上先輩がわたしをまっすぐ見ていて、\\n藤宮先輩が応援してくれるんです」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10614"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「わたしトラックの中ではゴールに先輩方の姿を思い浮かべるんです。その中では井之上先輩がわたしをまっすぐ見ていて、藤宮先輩が応援してくれるんです」",
+      "txt_idk_2": "「わたしトラックの中ではゴールに先輩方の姿を思い浮かべるんです。その中では井之上先輩がわたしをまっすぐ見ていて、藤宮先輩が応援してくれるんです」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「そして、先輩がわたしが自分の足で辿りつくのを待っていて\\nくれる……そう思うだけで、トラックの中では、怖い物が何も\\nなくなるんです」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10615"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そして、先輩がわたしが自分の足で辿りつくのを待っていてくれる……そう思うだけで、トラックの中では、怖い物が何もなくなるんです」",
+      "txt_idk_2": "「そして、先輩がわたしが自分の足で辿りつくのを待っていてくれる……そう思うだけで、トラックの中では、怖い物が何もなくなるんです」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「……涼子ちゃん……」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10081"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「ですから、わたし努力しますっ。\\nもっともっと、先輩方に失望されないように、精一杯」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10616"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ですから、わたし努力しますっ。もっともっと、先輩方に失望されないように、精一杯」",
+      "txt_idk_2": "「ですから、わたし努力しますっ。もっともっと、先輩方に失望されないように、精一杯」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「うう～～ん、ありがたいんだけど、たまには休むことを\\n覚えてもいいと思うんだけどなぁ……ねぇ、麗奈ちゃん」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10082"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「うう～～ん、ありがたいんだけど、たまには休むことを覚えてもいいと思うんだけどなぁ……ねぇ、麗奈ちゃん」",
+      "txt_idk_2": "「うう～～ん、ありがたいんだけど、たまには休むことを覚えてもいいと思うんだけどなぁ……ねぇ、麗奈ちゃん」"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「今は心配ないでしょ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10061"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ん？　俺？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「それがあんたの勤めになるんだから」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10062"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「おう！　休むのは得意だぞっ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「……やっぱり別れさせようか。\\n将来有望な涼子ちゃんが悪の道に染まっちゃう……」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10083"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……やっぱり別れさせようか。将来有望な涼子ちゃんが悪の道に染まっちゃう……」",
+      "txt_idk_2": "「……やっぱり別れさせようか。将来有望な涼子ちゃんが悪の道に染まっちゃう……」"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「道隆はどうでもいいけど、国民の損失になるわね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10063"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「お前ら人聞きが悪いぞっ！！」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "涼子ちゃんがおかしさを堪えられないといった感じで笑って\\nいる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "涼子ちゃんがおかしさを堪えられないといった感じで笑っている。",
+      "txt_idk_2": "涼子ちゃんがおかしさを堪えられないといった感じで笑っている。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ここ数年失われていた、進学前にあった懐かしい空気だった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "部活に行く涼子ちゃんとバイトに行く俺で校門で別れる。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "涼子ちゃんは両手に持った鞄を降ろして、頭を下げた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「今日はありがとうございました」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10617"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「いや、俺は何にもしてないけど……むしろ涼子ちゃんだよ。\\nあんな想いで走ってるって知らなかった」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「いや、俺は何にもしてないけど……むしろ涼子ちゃんだよ。あんな想いで走ってるって知らなかった」",
+      "txt_idk_2": "「いや、俺は何にもしてないけど……むしろ涼子ちゃんだよ。あんな想いで走ってるって知らなかった」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「し、知られては恥ずかしいですので……」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10618"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ま、まあな。それもそうだけど」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「場の空気に押されてしまって、なんで言ってしまったのか、\\n分からないくらいなので忘れてくださいっ」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10619"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「場の空気に押されてしまって、なんで言ってしまったのか、分からないくらいなので忘れてくださいっ」",
+      "txt_idk_2": "「場の空気に押されてしまって、なんで言ってしまったのか、分からないくらいなので忘れてくださいっ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……いや、でも聞いちゃったしなぁ。\\n俺はともかく汐音達は絶対に覚えてるぞ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……いや、でも聞いちゃったしなぁ。俺はともかく汐音達は絶対に覚えてるぞ」",
+      "txt_idk_2": "「……いや、でも聞いちゃったしなぁ。俺はともかく汐音達は絶対に覚えてるぞ」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「う、うぅ……」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10620"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「でも誰も悪い気はしてない。それどころか自分も涼子ちゃん\\nみたくもっと頑張らないとって思った」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「でも誰も悪い気はしてない。それどころか自分も涼子ちゃんみたくもっと頑張らないとって思った」",
+      "txt_idk_2": "「でも誰も悪い気はしてない。それどころか自分も涼子ちゃんみたくもっと頑張らないとって思った」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「だから、大事に覚えておくよ。\\n涼子ちゃんが俺たちにくれた、大切な言葉だと思うから」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「だから、大事に覚えておくよ。涼子ちゃんが俺たちにくれた、大切な言葉だと思うから」",
+      "txt_idk_2": "「だから、大事に覚えておくよ。涼子ちゃんが俺たちにくれた、大切な言葉だと思うから」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「わたしが、先輩方に……？」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10621"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「対等ってそういう事だろ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「あ――」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10622"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "恋人同士になる話をした時に、今までの一方的な関係じゃなく\\n互いを支えられる対等な関係である事を願った。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "恋人同士になる話をした時に、今までの一方的な関係じゃなく互いを支えられる対等な関係である事を願った。",
+      "txt_idk_2": "恋人同士になる話をした時に、今までの一方的な関係じゃなく互いを支えられる対等な関係である事を願った。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "互いに影響を与えて、成長していく。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "それが俺たちの目指す姿だ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「……はい。……ありがとう、ございます」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10623"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ほら、またお礼言ってる。\\n言うのはこっちだって」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ほら、またお礼言ってる。言うのはこっちだって」",
+      "txt_idk_2": "「ほら、またお礼言ってる。言うのはこっちだって」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「で、ですが……」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10624"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ほら、そろそろ部活始まっちまう。\\n早くいかないと」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ほら、そろそろ部活始まっちまう。早くいかないと」",
+      "txt_idk_2": "「ほら、そろそろ部活始まっちまう。早くいかないと」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「はい。それでは先輩、また後でです」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10625"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「おう」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「それから、今度のテスト勉強、ご一緒してもいいですか？」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10626"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「もちろん」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「楽しみにしていますっ！」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10627"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "涼子ちゃんは大きく手を振って駆けだしていく。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "何度も何度も振り返りながら、夕日に染まるグラウンドの方へ\\n走って行った。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "何度も何度も振り返りながら、夕日に染まるグラウンドの方へ走って行った。",
+      "txt_idk_2": "何度も何度も振り返りながら、夕日に染まるグラウンドの方へ走って行った。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「さて――俺もいくか」",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "何となく小走りでバイト先に向かう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "涼子ちゃんに触発されたのか、やる気に満ちていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    }
+  ]
+]

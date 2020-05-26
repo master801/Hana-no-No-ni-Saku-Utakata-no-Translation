@@ -1,0 +1,3277 @@
+[
+  [
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "桜花荘に帰ってきた。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「桜花の奴は汐音の家に遊びに行くと言ってましたが、\\nそろそろ帰っているかも。\\n寄って行きませんか」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「桜花の奴は汐音の家に遊びに行くと言ってましたが、そろそろ帰っているかも。寄って行きませんか」",
+      "txt_idk_2": "「桜花の奴は汐音の家に遊びに行くと言ってましたが、そろそろ帰っているかも。寄って行きませんか」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「ええ、そうさせて貰うつもり。\\nそれに帰るだけなら、公園で別れた方が早かったしね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30634"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ええ、そうさせて貰うつもり。それに帰るだけなら、公園で別れた方が早かったしね」",
+      "txt_idk_2": "「ええ、そうさせて貰うつもり。それに帰るだけなら、公園で別れた方が早かったしね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「それも、そうですね」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "……緊張して妙に喉が渇いてしまう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩が桜花荘に来たのは初めてじゃない。\\nその時は何の意識もしてなかったのに、今は違っている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "先輩が桜花荘に来たのは初めてじゃない。その時は何の意識もしてなかったのに、今は違っている。",
+      "txt_idk_2": "先輩が桜花荘に来たのは初めてじゃない。その時は何の意識もしてなかったのに、今は違っている。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "俺の部屋にいくのが重大事に思えてきてしまう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ただいまー」",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「お邪魔します」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30635"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「桜花？　いないのか……？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "一通り声を掛けながら部屋に戻ってきたが、桜花の姿は\\nどこにもなかった。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "一通り声を掛けながら部屋に戻ってきたが、桜花の姿はどこにもなかった。",
+      "txt_idk_2": "一通り声を掛けながら部屋に戻ってきたが、桜花の姿はどこにもなかった。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「まだ、隣にいるみたいです……はは……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「そうなんだ……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30636"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "……昨日とシチュエーションは同じなのに、お互い妙に\\nぎこちない。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "……昨日とシチュエーションは同じなのに、お互い妙にぎこちない。",
+      "txt_idk_2": "……昨日とシチュエーションは同じなのに、お互い妙にぎこちない。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「あー……その……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ええ……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30637"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ここでこうして向かい合っていると、どうしても昨日の事を\\n思いだしてしまう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "ここでこうして向かい合っていると、どうしても昨日の事を思いだしてしまう。",
+      "txt_idk_2": "ここでこうして向かい合っていると、どうしても昨日の事を思いだしてしまう。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "……先輩を抱きしめた温もり。",
+      "voices": null,
+      "idk_1": 472,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "体の感触。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "それから…………。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「さっきの事なんですが……。\\nもう一回、やり直しさせてくれませんか」",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「さっきの事なんですが……。もう一回、やり直しさせてくれませんか」",
+      "txt_idk_2": "「さっきの事なんですが……。もう一回、やり直しさせてくれませんか」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「さっきの……？　ああ……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30638"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ええ。もちろん。\\nでも、私初めてだから」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30639"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……ええ。もちろん。でも、私初めてだから」",
+      "txt_idk_2": "「……ええ。もちろん。でも、私初めてだから」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩が目を閉じる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "顔を上に向けて、俺を待っている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……はい……ありがとうございます」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そうして、今度こそ。\\n俺たちは初めてのキスをした。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "そうして、今度こそ。俺たちは初めてのキスをした。",
+      "txt_idk_2": "そうして、今度こそ。俺たちは初めてのキスをした。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "唇が離れる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩の体をそっと、横たえた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ごめんね、あまり……色っぽくなくて……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30640"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そんなことは！」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "絶対に、そんな事はない。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "はだけた服と、そこから覗く下着が色っぽい。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そして何よりも、付き合っている女性が目の前で露わな姿を\\nしているという状況……。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "そして何よりも、付き合っている女性が目の前で露わな姿をしているという状況……。",
+      "txt_idk_2": "そして何よりも、付き合っている女性が目の前で露わな姿をしているという状況……。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "視覚と心臓が直結されたかのようだ。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "どくどくと打ち鳴らされて、怖い程になってる。\\n目の前がくらくらする。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "どくどくと打ち鳴らされて、怖い程になってる。目の前がくらくらする。",
+      "txt_idk_2": "どくどくと打ち鳴らされて、怖い程になってる。目の前がくらくらする。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "知らず手を伸ばしていた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩の肌に触れる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「――ん」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30641"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "くすぐったそうに身をよじる。\\n柔らかな肌は手に吸いつくようで、緊張のためか汗ばんでいた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "くすぐったそうに身をよじる。柔らかな肌は手に吸いつくようで、緊張のためか汗ばんでいた。",
+      "txt_idk_2": "くすぐったそうに身をよじる。柔らかな肌は手に吸いつくようで、緊張のためか汗ばんでいた。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "俺も背中に服がべったりと貼りついているのを感じる。\\n唾を飲み込むのも一苦労な程だった。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "俺も背中に服がべったりと貼りついているのを感じる。唾を飲み込むのも一苦労な程だった。",
+      "txt_idk_2": "俺も背中に服がべったりと貼りついているのを感じる。唾を飲み込むのも一苦労な程だった。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「すごく、綺麗です……色っぽいと思います……」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ありがとう……でも、恥ずかしい……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30642"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "落ち着かないように身をよじる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そんな所もとても可愛い。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「もっと触っていいですか……？」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……うん……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30643"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "どう伝えれば先輩が魅力的な事、今すぐ抱きしめたいと\\n思っているのかを伝えられるのだろう。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "どう伝えれば先輩が魅力的な事、今すぐ抱きしめたいと思っているのかを伝えられるのだろう。",
+      "txt_idk_2": "どう伝えれば先輩が魅力的な事、今すぐ抱きしめたいと思っているのかを伝えられるのだろう。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "愛しい気持ちを言葉にするのは照れ臭い。\\nでもその思いを込めて、先輩にキスをした。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "愛しい気持ちを言葉にするのは照れ臭い。でもその思いを込めて、先輩にキスをした。",
+      "txt_idk_2": "愛しい気持ちを言葉にするのは照れ臭い。でもその思いを込めて、先輩にキスをした。"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「ん……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30644"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……んっ。ちゅ……ん……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30645"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "柔らかい唇の感触に頭がくらくらする。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ついばむように、何度も唇を合わせる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "その度に少しずつ体のこわばりが解けていく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "俺自身の体の中に熱がこもるようだ。\\n先輩と触れあった唇から、お互いの体の中に愛情が流れていく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "俺自身の体の中に熱がこもるようだ。先輩と触れあった唇から、お互いの体の中に愛情が流れていく。",
+      "txt_idk_2": "俺自身の体の中に熱がこもるようだ。先輩と触れあった唇から、お互いの体の中に愛情が流れていく。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "その感覚がたまらなく愛おしくて、何度も唇を重ねた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ん、ちゅ……んんっ、あ……ん」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30646"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ちゅ、……んんっ、ぁ……はぁ……ぁ……んっ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30647"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「あ……っ。ん……っ。んっ。ぁ……ん、ちゅ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30648"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "舌を出して、唇を舐める。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "開いた隙間から先輩の口の中に差し込む。\\nやがて先輩の方も、恐る恐るといった感じで舌を絡めてきた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "開いた隙間から先輩の口の中に差し込む。やがて先輩の方も、恐る恐るといった感じで舌を絡めてきた。",
+      "txt_idk_2": "開いた隙間から先輩の口の中に差し込む。やがて先輩の方も、恐る恐るといった感じで舌を絡めてきた。"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「ちゅ、……ちゅぱ、ちゅ……ん、ちゅ……あ……んん」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30649"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……はぁ……はぁ。ん……ふぅ……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30650"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「なん、だか。いやらしいキス……してる……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30651"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……そう、ですね……きっと先輩とだから……。\\nもっとしてもいいですか……？」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……そう、ですね……きっと先輩とだから……。もっとしてもいいですか……？」",
+      "txt_idk_2": "「……そう、ですね……きっと先輩とだから……。もっとしてもいいですか……？」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「ん……いいよ。新堂君の好きなように……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30652"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「ちゅ、んん、ぴちゃ……ちゅ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30653"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "キスしながら先輩の体に手を伸ばした。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "――ふに。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……んんっ！」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30654"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "驚きに目を見開いた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "胸を触りながら、キスを続ける。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "女の子の胸の感触と、唇の甘さに頭の中がぼうっとして\\n何も考えられなくなっていく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "女の子の胸の感触と、唇の甘さに頭の中がぼうっとして何も考えられなくなっていく。",
+      "txt_idk_2": "女の子の胸の感触と、唇の甘さに頭の中がぼうっとして何も考えられなくなっていく。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "それとは対照的に下半身に集まった血液が、ズボンの中で\\n痛いほどに自己主張していた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "それとは対照的に下半身に集まった血液が、ズボンの中で痛いほどに自己主張していた。",
+      "txt_idk_2": "それとは対照的に下半身に集まった血液が、ズボンの中で痛いほどに自己主張していた。"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「んんっ。んっ。あ……っ。ちゅ、……ん。……ちゅぱ……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30655"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ぴちゃぴちゃとからみあった舌から、唾液がこぼれる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "甘い声を出しながら先輩はぴくんと体を震わせて、愛撫を\\n受けいれてくれているようだった。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "甘い声を出しながら先輩はぴくんと体を震わせて、愛撫を受けいれてくれているようだった。",
+      "txt_idk_2": "甘い声を出しながら先輩はぴくんと体を震わせて、愛撫を受けいれてくれているようだった。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「脱がした方が、いいですか……？」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……う……ううん。まだ裸は恥ずかしいから……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30656"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「わかりました」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "このまま先輩の体を探っていく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ブラの下に手を入れて、胸を中心に優しく、撫でるように。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「すごく柔らかい……」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……そういう物だもの……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30657"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "どこか拗ねたように言うのが、とても愛おしくて可愛い。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "女の人の胸をじっくりと撫でる。\\nその事に驚きを覚えながらも、安心感のような物があった。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "女の人の胸をじっくりと撫でる。その事に驚きを覚えながらも、安心感のような物があった。",
+      "txt_idk_2": "女の人の胸をじっくりと撫でる。その事に驚きを覚えながらも、安心感のような物があった。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "手のひらから伝わる心臓の鼓動。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "柔らかさ、それから汗ばんだしっとりと吸いつく感触。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "今先輩と触れ合っている事への興奮と、安心感。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "様々な物が合わさって、俺たちの興奮を高めていく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「んん……っ。あ……はぁ……ん」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30658"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "乳首が硬くなっている。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "指先で優しく摘まむと、先輩の体がのけぞるように跳ねた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「――ああっ！　そ、こ……敏感だから、優しく……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30659"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「わ、わかりました……」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "指を離して手で全体的に撫でるように擦っていく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "柔らかな胸の中で一際堅い突起が、俺の手に当る。\\nそれもまた、新鮮な感触だった。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "柔らかな胸の中で一際堅い突起が、俺の手に当る。それもまた、新鮮な感触だった。",
+      "txt_idk_2": "柔らかな胸の中で一際堅い突起が、俺の手に当る。それもまた、新鮮な感触だった。"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「ん、……ん。……ふぅ。……ふぅ……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30660"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「んんっ！　あ、ああっ。あん……っ。ん」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30661"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩は身をよじりながら、切なげな声をあげる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……はぁ、はぁ……っ。んぁ……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30662"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "最初の緊張は薄れ、切なげに上気していた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "（……こっち触ったら、どうなんだろ……）",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩の大事な部分に手を伸ばした。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「んっ。！！　ああああっっ！！」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30663"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "下着の上から秘所に触れた途端、大きく身をよじる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「や……だめ、そこ……っっ。\\nちょ、まって……っ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30664"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「や……だめ、そこ……っっ。ちょ、まって……っ」",
+      "txt_idk_2": "「や……だめ、そこ……っっ。ちょ、まって……っ」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "潤っている下着の上から、柔らかい個所を愛撫していく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "スリットの部分に指を当てて、押し込むように擦って行く。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "その度に下着の湿り気が増す。\\n指を離すと、透明な粘液が糸を引いていた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "その度に下着の湿り気が増す。指を離すと、透明な粘液が糸を引いていた。",
+      "txt_idk_2": "その度に下着の湿り気が増す。指を離すと、透明な粘液が糸を引いていた。"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……あまり、いじらないで……そろそろ……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30665"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ですが、触らないととても痛いって聞きますけど……」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……その前に、恥ずかしさで死にそう……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30666"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩は顔を覆うように、恥ずかしさを隠している。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "首元まで赤くなっていた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「これ……用意してきたから」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30667"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そう言って先輩が取り出したのは小さな箱だった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「あ……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "本来なら俺が用意しなくちゃいけないものだ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "テンパっていて、すっかり忘れてしまっていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ありがとうございます」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ん」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30668"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ズボンを降ろす。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "痛いほどに上を向いていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩から貰ったゴムをつける。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "不慣れな様子に四苦八苦している姿を……。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……そうやってつけるんだ……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30669"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "……先輩が興味深げに見ていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「や、やめてください……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……私だけ恥ずかしいんじゃ不公平だもの」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30670"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そうかもしれないですけど」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "何とも情けない姿を見られてしまった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「でも、緊張が解けたわ。\\nそうよね……そっちも恥ずかしくなるわよね……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30671"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「でも、緊張が解けたわ。そうよね……そっちも恥ずかしくなるわよね……」",
+      "txt_idk_2": "「でも、緊張が解けたわ。そうよね……そっちも恥ずかしくなるわよね……」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ええ……お互いに」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……うん。二人でする事だものね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30672"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ん、ちゅ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30673"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "軽いキスをした。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "向かいあって、先輩の中にペニスを埋める。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……いつ……っ……ぅぅ……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30674"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩は体を起こしたまま、自分の中に埋没する物を見ている。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「うぅ……本当に入っているわね……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30675"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「なんだか、すごく……変な感じ……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30676"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……く……」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩の中はきつく締めあげてきている。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "中は潤っていて、挿入する潤滑剤としては十分そうだった。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "しかし堅く閉ざされた膣壁が俺の侵入を阻んでいる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "結合部からぽたりと鮮血がこぼれおちた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ふぅ……ふぅ……。ん……あっ、はぁ……っ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30677"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "苦痛交じりの声を漏らしている。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「すみません……あまり長引かないようにします」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ん……お願い……ゆっくりね。ゆっくりと……少しずつ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30678"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「はい……」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "腰を引くと、埋めていたペニスが引き出されていく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "破瓜の血と愛液で朱色に染まっているそれを、再び先輩の\\n中に埋めていく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "破瓜の血と愛液で朱色に染まっているそれを、再び先輩の中に埋めていく。",
+      "txt_idk_2": "破瓜の血と愛液で朱色に染まっているそれを、再び先輩の中に埋めていく。"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「んん……っ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30679"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "声を押し殺すように、身を固くしている。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "その様子が痛々しくて、早く終わらせたくなってくる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "でも――。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "（く……きつい……）",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ゴム越しとはいえ、先輩の中は暖かくて愛液が絡みついてくる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "膣壁は俺のペニスを握りしめているかのようだ。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "これらが合わさって、快楽となって脳髄に響いてくる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩が痛みに耐えているのに、俺は反対に気持ちよさを\\n感じている。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "先輩が痛みに耐えているのに、俺は反対に気持ちよさを感じている。",
+      "txt_idk_2": "先輩が痛みに耐えているのに、俺は反対に気持ちよさを感じている。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "それが申し訳ないと共に、未知の快感を味わいたい欲求と\\nなっている。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "それが申し訳ないと共に、未知の快感を味わいたい欲求となっている。",
+      "txt_idk_2": "それが申し訳ないと共に、未知の快感を味わいたい欲求となっている。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "――ちゅく、ちゅぷ。ずちゅ……。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "浅く、少しずつ先輩の中を探っていく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ん、んんっ。あ……んっ……く」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30680"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩の体は挿入するたびに前後に揺さぶられて、膣内の圧力が\\n変化してる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "先輩の体は挿入するたびに前後に揺さぶられて、膣内の圧力が変化してる。",
+      "txt_idk_2": "先輩の体は挿入するたびに前後に揺さぶられて、膣内の圧力が変化してる。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "奥の方はまだ大分痛むのだろう。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "中に入るたびに激しい抵抗にあっている。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩に痛い思いをさせたくない。\\n出来るだけ入り口の辺りを往復するようにした。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "先輩に痛い思いをさせたくない。出来るだけ入り口の辺りを往復するようにした。",
+      "txt_idk_2": "先輩に痛い思いをさせたくない。出来るだけ入り口の辺りを往復するようにした。"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ぁ……はぁ、んんっ、……ん……。\\nはぁ……はぁ……っ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30681"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……ぁ……はぁ、んんっ、……ん……。はぁ……はぁ……っ」",
+      "txt_idk_2": "「……ぁ……はぁ、んんっ、……ん……。はぁ……はぁ……っ」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "荒く苦しそうな息遣いに、変化があらわれた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩の中を浅く挿入しながら、痛みの少なそうな場所を\\n探していく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "先輩の中を浅く挿入しながら、痛みの少なそうな場所を探していく。",
+      "txt_idk_2": "先輩の中を浅く挿入しながら、痛みの少なそうな場所を探していく。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "俺と先輩と間で、鮮血に染まったペニスが出入りしている。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "視覚的なエロさに直接感じるのとは違った興奮があった。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「痛みは、どうですか……？」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ん……さっきよりは、まだ……平気。\\nなんだか、すごいわね……。私の中を、新堂君のが出たり\\n入ったりしている」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30682"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……ん……さっきよりは、まだ……平気。なんだか、すごいわね……。私の中を、新堂君のが出たり入ったりしている」",
+      "txt_idk_2": "「……ん……さっきよりは、まだ……平気。なんだか、すごいわね……。私の中を、新堂君のが出たり入ったりしている」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ん、ふぅ……んん。あ……んんっ……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30683"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「く、……んんっ、あ……ああぁ、はぁ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30684"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ときおり顔をしかめているのは、痛みが走るからだろう。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "あまり長引かせても先輩が辛いだけだ。\\n早く終わらせないと。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "あまり長引かせても先輩が辛いだけだ。早く終わらせないと。",
+      "txt_idk_2": "あまり長引かせても先輩が辛いだけだ。早く終わらせないと。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「少しだけ動き早くします」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ん、いいわよ。我慢できる、から」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30685"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩の中を往復する速度を速めていく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ぐちゅくちゅと粘液の音が出し入れするたびに大きくなる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "――ちゅく、ずちゅ、くちゅ。ぷちゅ。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩の中をかき回すたびに、愛液が溢れてこぼれていく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「んっ。んんっ！！　あぁ……ぁあっっ。んっ。あっ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30686"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「い……いた……っ。んんっ。く……あ。あぁ……っ！！」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30687"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……く。中、なんだかしびれて……っ。\\n……んんっ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30688"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……く。中、なんだかしびれて……っ。……んんっ」",
+      "txt_idk_2": "「……く。中、なんだかしびれて……っ。……んんっ」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "堅く締めつけられていた先輩の膣内にも変化があった。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "少しずつ堅さがほぐれて、俺のペニスを迎えいれてゆく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "徐々に緩急をつけた締め付けになってきて、快感が背筋を\\nつらぬいていく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "徐々に緩急をつけた締め付けになってきて、快感が背筋をつらぬいていく。",
+      "txt_idk_2": "徐々に緩急をつけた締め付けになってきて、快感が背筋をつらぬいていく。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ん……俺そろそろ……」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……いいわよ、いつでも……んっ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30689"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩の声に後押しされるように、ストロークを速めていく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「んぁぁっっ！！　んっっ。ふぅ……あぁっ！！」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30690"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……中、奥まで……擦れて……っ。\\nんんっ、痛い……けど、なんか、変な感じ……っ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30691"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……中、奥まで……擦れて……っ。んんっ、痛い……けど、なんか、変な感じ……っ」",
+      "txt_idk_2": "「……中、奥まで……擦れて……っ。んんっ、痛い……けど、なんか、変な感じ……っ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「もう少しだけ、我慢してください。先輩、俺……もう……っ」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……ん、いいよ、いつでも……んんっ！　ああっ！」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30692"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……んんっっ！！」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30693"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「くぅ……っっ！！」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩が体を硬直させる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "太ももが強く締めつけられた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "その途端――。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "――どくっ！　どくっ！　どくっ！！",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "挿入したまま精液を放っていた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……くぅ……っ」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "射精が止まらず、何度も脈打ち続ける。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……あ、……はぁ。はぁ……。\\nんん……あ……ふぅ……はぁぁ……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30694"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……あ、……はぁ。はぁ……。んん……あ……ふぅ……はぁぁ……」",
+      "txt_idk_2": "「……あ、……はぁ。はぁ……。んん……あ……ふぅ……はぁぁ……」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩は目を閉じて、痛みとも快楽ともつかない顔をしていた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……はぁ……はぁ……」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ペニスが先輩の中から抜け落ちる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ゴムの中に白濁した液体が溜まっている。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "栓を抜かれたように、血と愛液の混ざった液体が溢れていた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    }
+  ],
+  [
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "行為が終わって、服を整える。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "お互いに照れ臭くて、顔を合わせにくい。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "部屋の隅に置かれたゴミ箱には、血とか色々な物がついた\\nティッシュが入れられている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "部屋の隅に置かれたゴミ箱には、血とか色々な物がついたティッシュが入れられている。",
+      "txt_idk_2": "部屋の隅に置かれたゴミ箱には、血とか色々な物がついたティッシュが入れられている。"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……う……まだ痛いわ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30695"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「すみません……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「謝る事じゃないわよ。話には聞いていたのを改めて実感\\nしたって感じね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30696"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「謝る事じゃないわよ。話には聞いていたのを改めて実感したって感じね」",
+      "txt_idk_2": "「謝る事じゃないわよ。話には聞いていたのを改めて実感したって感じね」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「でも……悪くはないかな。\\n距離が近づいたって感じがあるから」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30697"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「でも……悪くはないかな。距離が近づいたって感じがあるから」",
+      "txt_idk_2": "「でも……悪くはないかな。距離が近づいたって感じがあるから」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「はい……あの、良かったらなんですが」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「ん？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30698"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「連休明けたら一緒に登校しませんか」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「もちろん構わないわよ。あ、でも、生徒会の作業あるから\\n朝早いけれど、いい？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30699"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「もちろん構わないわよ。あ、でも、生徒会の作業あるから朝早いけれど、いい？」",
+      "txt_idk_2": "「もちろん構わないわよ。あ、でも、生徒会の作業あるから朝早いけれど、いい？」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「もちろんです」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「じゃあ行く前にこっちに寄るわね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30700"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「俺が行きますよ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「でもルート的に私が来た方が楽そうじゃない？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30701"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「…………そうかも」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「じゃあ決まり。せっかくだし手伝って貰おうかな」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30702"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「はい」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「それじゃ、私帰るけれど」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30703"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「途中まで送ります」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「なに、エスコートしてくれるの？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30704"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そ、そういう訳じゃないですけど……その……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「なになに、どうしたの？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30705"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「一緒に居たくて……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「じゃ、お言葉に甘えましょうか」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30706"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩が手を差し出す。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "それをとって、立つ支えとなる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "靴を履いて、改めて手を繋いで外に出る。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……帰りもこのままでいい？　まだ少し、歩きづらいから」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30707"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「家まで送りますよ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「お母さんに見られたら、すごい冷やかされるけど」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30708"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「その時は……堂々と……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「ふふ、よろしい。\\nそれじゃいきましょうか」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_30709"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ふふ、よろしい。それじゃいきましょうか」",
+      "txt_idk_2": "「ふふ、よろしい。それじゃいきましょうか」"
+    }
+  ]
+]

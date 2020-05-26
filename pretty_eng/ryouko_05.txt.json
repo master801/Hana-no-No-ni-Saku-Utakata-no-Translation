@@ -1,0 +1,2037 @@
+[
+  [
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "放課後のチャイムと共に帰路につく。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "……というのは先週までの話。\\n今日からは学園の帰りに行く所が出来た。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "……というのは先週までの話。今日からは学園の帰りに行く所が出来た。",
+      "txt_idk_2": "……というのは先週までの話。今日からは学園の帰りに行く所が出来た。"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「道隆って前にもアルバイトしてたわよね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10001"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「確か喫茶店だったよね。今日からファミレスにランクアップ\\nなのかな」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10024"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「確か喫茶店だったよね。今日からファミレスにランクアップなのかな」",
+      "txt_idk_2": "「確か喫茶店だったよね。今日からファミレスにランクアップなのかな」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……店の広さだけでならそう言えなくもないが、今の発言は\\n全国の喫茶店を敵に回してるぞ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……店の広さだけでならそう言えなくもないが、今の発言は全国の喫茶店を敵に回してるぞ」",
+      "txt_idk_2": "「……店の広さだけでならそう言えなくもないが、今の発言は全国の喫茶店を敵に回してるぞ」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「そ、そんなつもりはないよぉ～」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10025"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「フロア配置なら今度暇つぶしにでも行くわ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10002"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「どう考えても裏方だと思うけどなぁ。力仕事が必要とか\\n言ってたし、制服目当ての客も多いからフロアは女の子だろ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「どう考えても裏方だと思うけどなぁ。力仕事が必要とか言ってたし、制服目当ての客も多いからフロアは女の子だろ」",
+      "txt_idk_2": "「どう考えても裏方だと思うけどなぁ。力仕事が必要とか言ってたし、制服目当ての客も多いからフロアは女の子だろ」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「そっかぁ。残念」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10026"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「雑用ならどちらもやる可能性は高いでしょ。\\n今あれこれ言ってても仕方ないわ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10003"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「雑用ならどちらもやる可能性は高いでしょ。今あれこれ言ってても仕方ないわ」",
+      "txt_idk_2": "「雑用ならどちらもやる可能性は高いでしょ。今あれこれ言ってても仕方ないわ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「それもそうだな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「あ！　先輩方。おつかれさまです」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10084"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "話ながら歩いていた所に声がかけられた。\\n振りかえると涼子ちゃんが居た。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "話ながら歩いていた所に声がかけられた。振りかえると涼子ちゃんが居た。",
+      "txt_idk_2": "話ながら歩いていた所に声がかけられた。振りかえると涼子ちゃんが居た。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「あれ？　涼子ちゃんも今から帰り？\\n部活は今日は休みなんだ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「あれ？　涼子ちゃんも今から帰り？部活は今日は休みなんだ」",
+      "txt_idk_2": "「あれ？　涼子ちゃんも今から帰り？部活は今日は休みなんだ」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「はい、アルバイトがあるのでお休みをいただきました」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10085"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「初めての道隆が迷わないように待ってたんでしょ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10004"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「初日で道に迷うのは恥ずかしいもんね、うんうん」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10027"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……お前らとも何度も行ってる店だし、ほぼ毎日目の前を\\n通りがかるだろうが」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……お前らとも何度も行ってる店だし、ほぼ毎日目の前を通りがかるだろうが」",
+      "txt_idk_2": "「……お前らとも何度も行ってる店だし、ほぼ毎日目の前を通りがかるだろうが」"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「それで？　時間は何時から？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10005"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「四時に来てくれって言ってたな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「ならあまり長話してる暇もなさそうね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10006"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「だな。それじゃ行こっか」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「はいっ」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10086"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "徒歩の涼子ちゃんにあわせて自転車は押してきた。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "猫の件が終わってからの麗奈は、徒歩か自転車かを日ごとに\\n気分で使い分けている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "猫の件が終わってからの麗奈は、徒歩か自転車かを日ごとに気分で使い分けている。",
+      "txt_idk_2": "猫の件が終わってからの麗奈は、徒歩か自転車かを日ごとに気分で使い分けている。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "今日は徒歩だったようで身軽な感じだ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "一方俺と汐音は歩道の隅で肩身を狭くしながら押していた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「バイトの日は歩きで良い気がしてきた……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「あなた達は自転車にしても、徒歩の三十分が十分に変わる\\nだけだから、元から大差がないでしょ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10007"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「あなた達は自転車にしても、徒歩の三十分が十分に変わるだけだから、元から大差がないでしょ」",
+      "txt_idk_2": "「あなた達は自転車にしても、徒歩の三十分が十分に変わるだけだから、元から大差がないでしょ」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「遅刻しそうな時には大違いだよ！」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10028"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「遅刻する時にだけ乗る発想もあるわね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10008"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そもそもバイト先って停める場所あるのか？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「そこは確認しておこうよ！」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10029"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「普段から行ってるからつい。客用スペースに停めていいもん\\nなのかな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「普段から行ってるからつい。客用スペースに停めていいもんなのかな」",
+      "txt_idk_2": "「普段から行ってるからつい。客用スペースに停めていいもんなのかな」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「あ……っ」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10087"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "涼子ちゃんが固まる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「お店の前が広いのでそこに停めても大丈夫だと思います。\\nですが学生が多いので鍵は掛けた方がいいです」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10088"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「お店の前が広いのでそこに停めても大丈夫だと思います。ですが学生が多いので鍵は掛けた方がいいです」",
+      "txt_idk_2": "「お店の前が広いのでそこに停めても大丈夫だと思います。ですが学生が多いので鍵は掛けた方がいいです」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「盗まれても嫌だしな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "週末にいった時を思い出す。\\n駐車場が混雑していて、自転車もひとまとめにされる程だ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "週末にいった時を思い出す。駐車場が混雑していて、自転車もひとまとめにされる程だ。",
+      "txt_idk_2": "週末にいった時を思い出す。駐車場が混雑していて、自転車もひとまとめにされる程だ。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "あの中から引っ張り出すのも面倒に感じられて、少し迷う。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「いっそのこと鞄ごと桜花荘に置いてくるかな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「……はぁ、仕方ないわね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10009"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "麗奈が俺に向かって手を出した。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「桜花荘に置いといてあげるわ。鍵は桜花さんに預けておけば\\nいいでしょう」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10010"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「桜花荘に置いといてあげるわ。鍵は桜花さんに預けておけばいいでしょう」",
+      "txt_idk_2": "「桜花荘に置いといてあげるわ。鍵は桜花さんに預けておけばいいでしょう」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「悪いな。恩に着るよ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「バイト代入ったらコーヒーでも奢って貰うわ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10011"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "麗奈の方に押してハンドルを渡す。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "自転車を受け取ると、麗奈は普段のマウンテンバイクに乗る\\nように、足を回してひらりとまたがった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "自転車を受け取ると、麗奈は普段のマウンテンバイクに乗るように、足を回してひらりとまたがった。",
+      "txt_idk_2": "自転車を受け取ると、麗奈は普段のマウンテンバイクに乗るように、足を回してひらりとまたがった。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "…………薄い青か。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「見物料にデザートも頼むわね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10012"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「今のは自分で見せたんだろっ！」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「コンビニの１００円シュークリームでいいわ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_10013"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「お前のパンツ安いなっ！」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「……麗奈ちゃんのパンツ買ってるみたいに聞こえるよ、それ」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_10030"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "何を言っていいのかあたふたしてる涼子ちゃんの隣で、汐音が\\n呆れていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "何を言っていいのかあたふたしてる涼子ちゃんの隣で、汐音が呆れていた。",
+      "txt_idk_2": "何を言っていいのかあたふたしてる涼子ちゃんの隣で、汐音が呆れていた。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "汐音と麗奈が先に帰り、改めて涼子ちゃんとバイトに向かった。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「よろしくお願いします」",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "店長",
+      "hidden_character_speaking": null,
+      "txt": "「はいよ。よろしくね」",
+      "voices": [
+        {
+          "name": "店長",
+          "pan": 0,
+          "type": 0,
+          "voice": "c08_10001"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "店の中で改めて店長に挨拶をした。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "今日は仕事始めだ。\\n店長にくっついて仕事を覚えてく所から始まりだ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "今日は仕事始めだ。店長にくっついて仕事を覚えてく所から始まりだ。",
+      "txt_idk_2": "今日は仕事始めだ。店長にくっついて仕事を覚えてく所から始まりだ。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "平日とはいえ夕方になると、そこそこ混んでくる。\\n忙しくなりそうだった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "平日とはいえ夕方になると、そこそこ混んでくる。忙しくなりそうだった。",
+      "txt_idk_2": "平日とはいえ夕方になると、そこそこ混んでくる。忙しくなりそうだった。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "まず最初にやる事になったのは、それぞれの消耗品の位置の\\n把握だ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "まず最初にやる事になったのは、それぞれの消耗品の位置の把握だ。",
+      "txt_idk_2": "まず最初にやる事になったのは、それぞれの消耗品の位置の把握だ。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ドリンクバーに始まり、テーブルの上にある紙や調味料など\\n無くなっていたら気づいて補充。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "ドリンクバーに始まり、テーブルの上にある紙や調味料など無くなっていたら気づいて補充。",
+      "txt_idk_2": "ドリンクバーに始まり、テーブルの上にある紙や調味料など無くなっていたら気づいて補充。"
+    },
+    {
+      "actual_character_speaking": "店長",
+      "hidden_character_speaking": null,
+      "txt": "「お店の中を意識して見るというのを心がけてね。\\nテーブルを見つつ、何か問題ありそうなお客さんのチェックは\\n皆でやらないといけない事だから」",
+      "voices": [
+        {
+          "name": "店長",
+          "pan": 0,
+          "type": 0,
+          "voice": "c08_10002"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「お店の中を意識して見るというのを心がけてね。テーブルを見つつ、何か問題ありそうなお客さんのチェックは皆でやらないといけない事だから」",
+      "txt_idk_2": "「お店の中を意識して見るというのを心がけてね。テーブルを見つつ、何か問題ありそうなお客さんのチェックは皆でやらないといけない事だから」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「問題……ですか？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "店長",
+      "hidden_character_speaking": null,
+      "txt": "「何も騒動を起こす意味じゃなくてもね。\\n例えばこういう所だと忘れ物が多いのよ。傘や携帯に始まり\\nバッグや買い物袋とかね」",
+      "voices": [
+        {
+          "name": "店長",
+          "pan": 0,
+          "type": 0,
+          "voice": "c08_10003"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「何も騒動を起こす意味じゃなくてもね。例えばこういう所だと忘れ物が多いのよ。傘や携帯に始まりバッグや買い物袋とかね」",
+      "txt_idk_2": "「何も騒動を起こす意味じゃなくてもね。例えばこういう所だと忘れ物が多いのよ。傘や携帯に始まりバッグや買い物袋とかね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「なるほど」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "店からするとトラブルの規模としては小さくても、それは\\n忘れた当人にとっては大問題だ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "店からするとトラブルの規模としては小さくても、それは忘れた当人にとっては大問題だ。",
+      "txt_idk_2": "店からするとトラブルの規模としては小さくても、それは忘れた当人にとっては大問題だ。"
+    },
+    {
+      "actual_character_speaking": "店長",
+      "hidden_character_speaking": null,
+      "txt": "「そういえば以前ここで忘れ物の財布があった時に、君が\\n涼子ちゃんに落とし主を教えてあげたんだったね」",
+      "voices": [
+        {
+          "name": "店長",
+          "pan": 0,
+          "type": 0,
+          "voice": "c08_10004"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そういえば以前ここで忘れ物の財布があった時に、君が涼子ちゃんに落とし主を教えてあげたんだったね」",
+      "txt_idk_2": "「そういえば以前ここで忘れ物の財布があった時に、君が涼子ちゃんに落とし主を教えてあげたんだったね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「あ……そんな事もありましたね。すっかり忘れてました」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "店長",
+      "hidden_character_speaking": null,
+      "txt": "「その話を聞いてたから、細かい所にも目が行き届きそう\\nだなと思って採用したのよ」",
+      "voices": [
+        {
+          "name": "店長",
+          "pan": 0,
+          "type": 0,
+          "voice": "c08_10005"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「その話を聞いてたから、細かい所にも目が行き届きそうだなと思って採用したのよ」",
+      "txt_idk_2": "「その話を聞いてたから、細かい所にも目が行き届きそうだなと思って採用したのよ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「道理でスピード採用だと思いました」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "店長",
+      "hidden_character_speaking": null,
+      "txt": "「以前からお店に来てくれてる姿も見てたしね。\\nさ、次はバックヤードの仕事ね」",
+      "voices": [
+        {
+          "name": "店長",
+          "pan": 0,
+          "type": 0,
+          "voice": "c08_10006"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「以前からお店に来てくれてる姿も見てたしね。さ、次はバックヤードの仕事ね」",
+      "txt_idk_2": "「以前からお店に来てくれてる姿も見てたしね。さ、次はバックヤードの仕事ね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「はい」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "その後もしばらく店長に従って、あれこれと教わっていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "気がつけば日も落ちていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "今日から入った新人に、大きな仕事がある訳でもない。\\nまずは仕事を覚えるのを最優先で、テーブルの片付けや商品の\\n補充をしながら過ごしていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "今日から入った新人に、大きな仕事がある訳でもない。まずは仕事を覚えるのを最優先で、テーブルの片付けや商品の補充をしながら過ごしていた。",
+      "txt_idk_2": "今日から入った新人に、大きな仕事がある訳でもない。まずは仕事を覚えるのを最優先で、テーブルの片付けや商品の補充をしながら過ごしていた。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ディナータイムになり忙しくなってきても、涼子ちゃんは\\n笑顔を崩さずに接客をしている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "ディナータイムになり忙しくなってきても、涼子ちゃんは笑顔を崩さずに接客をしている。",
+      "txt_idk_2": "ディナータイムになり忙しくなってきても、涼子ちゃんは笑顔を崩さずに接客をしている。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "バイト始めてそろそろ一ヶ月の割に、接客も堂に入ってて\\nベテランのようだ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "バイト始めてそろそろ一ヶ月の割に、接客も堂に入っててベテランのようだ。",
+      "txt_idk_2": "バイト始めてそろそろ一ヶ月の割に、接客も堂に入っててベテランのようだ。"
+    },
+    {
+      "actual_character_speaking": "和泉",
+      "hidden_character_speaking": "？？？",
+      "txt": "「いよー、新人。真面目に働いているかね？」",
+      "voices": [
+        {
+          "name": "和泉",
+          "pan": 0,
+          "type": 0,
+          "voice": "b03_10015"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "不意に肩を叩かれる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "振りかえるとウェイトレスの格好の和泉がいた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「あれ？　今日シフトだったんだ。\\nそれなら一緒にくりゃよかったな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「あれ？　今日シフトだったんだ。それなら一緒にくりゃよかったな」",
+      "txt_idk_2": "「あれ？　今日シフトだったんだ。それなら一緒にくりゃよかったな」"
+    },
+    {
+      "actual_character_speaking": "和泉",
+      "hidden_character_speaking": null,
+      "txt": "「今日は夜の忙しい間だけだから、今入ったばかり。\\n二時間で上がるから、手伝いくらいの感じね」",
+      "voices": [
+        {
+          "name": "和泉",
+          "pan": 0,
+          "type": 0,
+          "voice": "b03_10016"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「今日は夜の忙しい間だけだから、今入ったばかり。二時間で上がるから、手伝いくらいの感じね」",
+      "txt_idk_2": "「今日は夜の忙しい間だけだから、今入ったばかり。二時間で上がるから、手伝いくらいの感じね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「なるほど」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そういうシフトの入り方もあるのか。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "昨年バイトで喫茶店に行ってた事があったけど、バイトの数が\\n少なくてそういう変化のついたシフトはなかった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "昨年バイトで喫茶店に行ってた事があったけど、バイトの数が少なくてそういう変化のついたシフトはなかった。",
+      "txt_idk_2": "昨年バイトで喫茶店に行ってた事があったけど、バイトの数が少なくてそういう変化のついたシフトはなかった。"
+    },
+    {
+      "actual_character_speaking": "和泉",
+      "hidden_character_speaking": null,
+      "txt": "「なになに。気になる？」",
+      "voices": [
+        {
+          "name": "和泉",
+          "pan": 0,
+          "type": 0,
+          "voice": "b03_10017"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「涼子ちゃんをか？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "和泉",
+      "hidden_character_speaking": null,
+      "txt": "「他にいないでしょ。あんなじっくり見ちゃってさ」",
+      "voices": [
+        {
+          "name": "和泉",
+          "pan": 0,
+          "type": 0,
+          "voice": "b03_10018"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そいういう訳じゃないんだけど……涼子ちゃんってバイトを\\nやるの初めてとか言ってたわりに、慣れたもんだと思ってな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そいういう訳じゃないんだけど……涼子ちゃんってバイトをやるの初めてとか言ってたわりに、慣れたもんだと思ってな」",
+      "txt_idk_2": "「そいういう訳じゃないんだけど……涼子ちゃんってバイトをやるの初めてとか言ってたわりに、慣れたもんだと思ってな」"
+    },
+    {
+      "actual_character_speaking": "和泉",
+      "hidden_character_speaking": null,
+      "txt": "「逆に初めてだから、余計な先入観が無くすんなりなじめたの\\nかもね」",
+      "voices": [
+        {
+          "name": "和泉",
+          "pan": 0,
+          "type": 0,
+          "voice": "b03_10019"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「逆に初めてだから、余計な先入観が無くすんなりなじめたのかもね」",
+      "txt_idk_2": "「逆に初めてだから、余計な先入観が無くすんなりなじめたのかもね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「なるほど、そういう考え方もあるか」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "和泉",
+      "hidden_character_speaking": null,
+      "txt": "「ま、あんま話しこんでてもしゃーないわ。\\nあたしも行ってくるから、ほらほら仕事。２番と１５番の\\nテーブル片付けておいて」",
+      "voices": [
+        {
+          "name": "和泉",
+          "pan": 0,
+          "type": 0,
+          "voice": "b03_10020"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ま、あんま話しこんでてもしゃーないわ。あたしも行ってくるから、ほらほら仕事。２番と１５番のテーブル片付けておいて」",
+      "txt_idk_2": "「ま、あんま話しこんでてもしゃーないわ。あたしも行ってくるから、ほらほら仕事。２番と１５番のテーブル片付けておいて」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「了解、先輩」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "和泉",
+      "hidden_character_speaking": null,
+      "txt": "「うむうむ。もっと敬いたまえ」",
+      "voices": [
+        {
+          "name": "和泉",
+          "pan": 0,
+          "type": 0,
+          "voice": "b03_10021"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "和泉は茶化したように言うと、仕事に戻って行った。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "さて、俺ももうひと頑張りするか……。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "夜１０時も近づきピークタイムもすぎた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ここらは深夜帯で未成年が働けないのもあり、俺たちはバイト\\n上がりになる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "ここらは深夜帯で未成年が働けないのもあり、俺たちはバイト上がりになる。",
+      "txt_idk_2": "ここらは深夜帯で未成年が働けないのもあり、俺たちはバイト上がりになる。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「おつかれさまでした」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「おつかれさまでした！」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10089"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "和泉",
+      "hidden_character_speaking": null,
+      "txt": "「おつかれさまです」",
+      "voices": [
+        {
+          "name": "和泉",
+          "pan": 0,
+          "type": 0,
+          "voice": "b03_10022"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "店長",
+      "hidden_character_speaking": null,
+      "txt": "「はい。おつかれさん。\\nまた明日よろしくね」",
+      "voices": [
+        {
+          "name": "店長",
+          "pan": 0,
+          "type": 0,
+          "voice": "c08_10007"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「はい。おつかれさん。また明日よろしくね」",
+      "txt_idk_2": "「はい。おつかれさん。また明日よろしくね」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "三人で店長に挨拶をして、バックヤードに向かう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "ウェイトレス",
+      "hidden_character_speaking": null,
+      "txt": "「店長……ちょっと……」",
+      "voices": [
+        {
+          "name": "ウェイトレス",
+          "pan": 0,
+          "type": 0,
+          "voice": "c07_10001"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "店長",
+      "hidden_character_speaking": null,
+      "txt": "「ん？」",
+      "voices": [
+        {
+          "name": "店長",
+          "pan": 0,
+          "type": 0,
+          "voice": "c08_10008"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ホールを出ていく間際、別の仕事が入ったのか、店長が\\n大学生のアルバイトの人に呼び止められていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "ホールを出ていく間際、別の仕事が入ったのか、店長が大学生のアルバイトの人に呼び止められていた。",
+      "txt_idk_2": "ホールを出ていく間際、別の仕事が入ったのか、店長が大学生のアルバイトの人に呼び止められていた。"
+    },
+    {
+      "actual_character_speaking": "和泉",
+      "hidden_character_speaking": null,
+      "txt": "「あー、終わった終わったぁ。\\n今日はあんま忙しくなくて良かったぁ」",
+      "voices": [
+        {
+          "name": "和泉",
+          "pan": 0,
+          "type": 0,
+          "voice": "b03_10023"
+        }
+      ],
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「あー、終わった終わったぁ。今日はあんま忙しくなくて良かったぁ」",
+      "txt_idk_2": "「あー、終わった終わったぁ。今日はあんま忙しくなくて良かったぁ」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「そうですね。先輩はどうでした？」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10090"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「なんだか慣れない事ばかりで時間が長く感じたな……。\\n覚える事多くて大変そうだ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「なんだか慣れない事ばかりで時間が長く感じたな……。覚える事多くて大変そうだ」",
+      "txt_idk_2": "「なんだか慣れない事ばかりで時間が長く感じたな……。覚える事多くて大変そうだ」"
+    },
+    {
+      "actual_character_speaking": "和泉",
+      "hidden_character_speaking": null,
+      "txt": "「今日は表の仕事ばかりだったからねぇ。\\n今度は厨房の手伝いもやる事になるんじゃないの？」",
+      "voices": [
+        {
+          "name": "和泉",
+          "pan": 0,
+          "type": 0,
+          "voice": "b03_10024"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「今日は表の仕事ばかりだったからねぇ。今度は厨房の手伝いもやる事になるんじゃないの？」",
+      "txt_idk_2": "「今日は表の仕事ばかりだったからねぇ。今度は厨房の手伝いもやる事になるんじゃないの？」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「料理上手くないんだよなぁ。昨年喫茶店でバイトしてた事は\\nあったけど、料理はマスターが作っててウェイターと掃除しか\\nしてなかったし」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「料理上手くないんだよなぁ。昨年喫茶店でバイトしてた事はあったけど、料理はマスターが作っててウェイターと掃除しかしてなかったし」",
+      "txt_idk_2": "「料理上手くないんだよなぁ。昨年喫茶店でバイトしてた事はあったけど、料理はマスターが作っててウェイターと掃除しかしてなかったし」"
+    },
+    {
+      "actual_character_speaking": "和泉",
+      "hidden_character_speaking": null,
+      "txt": "「あはは、いきなり任せられる事なんてないでしょ。\\n最初は配膳と簡単な盛り付けくらいよ。サラダボウル作ったり\\nとかね」",
+      "voices": [
+        {
+          "name": "和泉",
+          "pan": 0,
+          "type": 0,
+          "voice": "b03_10025"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「あはは、いきなり任せられる事なんてないでしょ。最初は配膳と簡単な盛り付けくらいよ。サラダボウル作ったりとかね」",
+      "txt_idk_2": "「あはは、いきなり任せられる事なんてないでしょ。最初は配膳と簡単な盛り付けくらいよ。サラダボウル作ったりとかね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「それくらいなら何とかなるか……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「…………」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10091"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ふと隣を見ると涼子ちゃんが出てきたばかりのバイト先を\\n振りかえっている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "ふと隣を見ると涼子ちゃんが出てきたばかりのバイト先を振りかえっている。",
+      "txt_idk_2": "ふと隣を見ると涼子ちゃんが出てきたばかりのバイト先を振りかえっている。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「忘れ物？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「あ……いえ、大丈夫です。\\nそれでは先輩方、失礼しますね」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10092"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「あ……いえ、大丈夫です。それでは先輩方、失礼しますね」",
+      "txt_idk_2": "「あ……いえ、大丈夫です。それでは先輩方、失礼しますね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「遅いから送って行こうか？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「ありがとうございます。でも慣れてるので大丈夫です」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10093"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "和泉",
+      "hidden_character_speaking": null,
+      "txt": "「男に送られる方が心配だしね」",
+      "voices": [
+        {
+          "name": "和泉",
+          "pan": 0,
+          "type": 0,
+          "voice": "b03_10026"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「そ、そんな事は……！」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10094"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「涼子ちゃんからかうなって」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "和泉",
+      "hidden_character_speaking": null,
+      "txt": "「それじゃあたしも帰るわ。またね」",
+      "voices": [
+        {
+          "name": "和泉",
+          "pan": 0,
+          "type": 0,
+          "voice": "b03_10027"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ああ、おつかれ。涼子ちゃんもまた明日」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「はい、失礼します」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10095"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "和泉が手を振って背を向ける。\\n涼子ちゃんは折り目正しく頭を下げると、帰っていった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "和泉が手を振って背を向ける。涼子ちゃんは折り目正しく頭を下げると、帰っていった。",
+      "txt_idk_2": "和泉が手を振って背を向ける。涼子ちゃんは折り目正しく頭を下げると、帰っていった。"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「お帰り。道隆のいない間に二人がきたよ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_10092"
+        }
+      ],
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ただいま、麗奈と汐音だろ？\\nバイト先に自転車置きづらかったから、こっちに持ってきて\\n貰ったんだ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ただいま、麗奈と汐音だろ？バイト先に自転車置きづらかったから、こっちに持ってきて貰ったんだ」",
+      "txt_idk_2": "「ただいま、麗奈と汐音だろ？バイト先に自転車置きづらかったから、こっちに持ってきて貰ったんだ」"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「今度働いてる様子を見に行くと言っていたね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_10093"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「他人事みたくいってるけど、お前も来そうだな……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「興味が無いといったら嘘になる」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_10094"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "大真面目な顔で頷いてやがる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「それでどうだった？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_10095"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「まだ慣れてないから疲れた……風呂入ってくる」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「そういうと思って沸かしてあるよ。\\nボクは先にお風呂を貰っているから気にせずゆっくり\\n暖まってきたまえ」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_10096"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そういうと思って沸かしてあるよ。ボクは先にお風呂を貰っているから気にせずゆっくり暖まってきたまえ」",
+      "txt_idk_2": "「そういうと思って沸かしてあるよ。ボクは先にお風呂を貰っているから気にせずゆっくり暖まってきたまえ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「…………お前、風呂入るんだ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「言わなかっただけでこれまでも入っていたよ。\\n何事も経験だしね」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_10097"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「言わなかっただけでこれまでも入っていたよ。何事も経験だしね」",
+      "txt_idk_2": "「言わなかっただけでこれまでも入っていたよ。何事も経験だしね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……なるほど」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そういう事なら気にせず入ってくるとしよう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "湯上りという割には全然そんなそぶりも無かったのは、こいつ\\nが幽霊だからなのかもしれない。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "湯上りという割には全然そんなそぶりも無かったのは、こいつが幽霊だからなのかもしれない。",
+      "txt_idk_2": "湯上りという割には全然そんなそぶりも無かったのは、こいつが幽霊だからなのかもしれない。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "案外一度姿を消して元に戻れば、濡れててもすぐに乾いたり\\nするのかも……。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "案外一度姿を消して元に戻れば、濡れててもすぐに乾いたりするのかも……。",
+      "txt_idk_2": "案外一度姿を消して元に戻れば、濡れててもすぐに乾いたりするのかも……。"
+    },
+    {
+      "actual_character_speaking": "桜花",
+      "hidden_character_speaking": null,
+      "txt": "「ん？　どうかしたかな？」",
+      "voices": [
+        {
+          "name": "桜花",
+          "pan": 0,
+          "type": 0,
+          "voice": "a02_10098"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「なんでもない」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "それは便利そうではあったけど、風情に欠けてしまうとも\\n少しだけ思った。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "それは便利そうではあったけど、風情に欠けてしまうとも少しだけ思った。",
+      "txt_idk_2": "それは便利そうではあったけど、風情に欠けてしまうとも少しだけ思った。"
+    }
+  ]
+]

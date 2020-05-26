@@ -1,0 +1,659 @@
+[
+  [
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "――人と言う字は支え合って出来ているという言葉を、よく\\n耳にする。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "――人と言う字は支え合って出来ているという言葉を、よく耳にする。",
+      "txt_idk_2": "――人と言う字は支え合って出来ているという言葉を、よく耳にする。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "――だが同時に、人と言う漢字は誰にも寄りそわずに人が\\n自分の足で立ってるとも聞いた事がある。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "――だが同時に、人と言う漢字は誰にも寄りそわずに人が自分の足で立ってるとも聞いた事がある。",
+      "txt_idk_2": "――だが同時に、人と言う漢字は誰にも寄りそわずに人が自分の足で立ってるとも聞いた事がある。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "どちらが正しいのかは、俺には分からない。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "でもどちらが好きかと問われたならば、きっと答えは決まって\\nいる……。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "でもどちらが好きかと問われたならば、きっと答えは決まっている……。",
+      "txt_idk_2": "でもどちらが好きかと問われたならば、きっと答えは決まっている……。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "夏休みを迎えた海岸は、沢山の人で溢れていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "親子連れから恋人。男友達の一団もいれば、ナンパ待ちらしき\\n女性グループまで様々だ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "親子連れから恋人。男友達の一団もいれば、ナンパ待ちらしき女性グループまで様々だ。",
+      "txt_idk_2": "親子連れから恋人。男友達の一団もいれば、ナンパ待ちらしき女性グループまで様々だ。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ビーチに敷いたシートに寝そべり、夏の太陽を感じている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "泳ぎ疲れた後の休憩の時間、運動神経抜群の彼女は、飲み物を\\n買いに行っていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "泳ぎ疲れた後の休憩の時間、運動神経抜群の彼女は、飲み物を買いに行っていた。",
+      "txt_idk_2": "泳ぎ疲れた後の休憩の時間、運動神経抜群の彼女は、飲み物を買いに行っていた。"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「お待たせしました」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10668"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「お帰り……ありがとう」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "差し出されたコーラを受け取った。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「風が気持ちいいいですね」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10669"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「こうも暑いと、風くらいないと干上がっちまうしなぁ」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「もう少ししたら、また泳ぎにいきましょうか」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10670"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「もう体力の限界……でも水に浸かるだけなら気持ちよさそう\\nだ」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「もう体力の限界……でも水に浸かるだけなら気持ちよさそうだ」",
+      "txt_idk_2": "「もう体力の限界……でも水に浸かるだけなら気持ちよさそうだ」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「…………先輩、正直に答えて欲しいのですが」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10671"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「なに？」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "涼子ちゃんに、顔を向ける。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "少し怒った表情で俺に問いただした。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「気分が悪くなっていたりはしないのですか？\\nここは大勢人がいます。ということは今視ている景色は……」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10672"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「気分が悪くなっていたりはしないのですか？ここは大勢人がいます。ということは今視ている景色は……」",
+      "txt_idk_2": "「気分が悪くなっていたりはしないのですか？ここは大勢人がいます。ということは今視ている景色は……」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「あ～……どうだろな」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "青い空と――そして、様々な人の『色』で混ざりあって\\n[・]ど[・]す[・]黒[・]く[・]染[・]ま[・]っ[・]た浜と海をこの眼で視た。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "青い空と――そして、様々な人の『色』で混ざりあってどす黒く染まった浜と海をこの眼で視た。",
+      "txt_idk_2": "青い空と――そして、様々な人の『色』で混ざりあってどす黒く染まった浜と海をこの眼で視た。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "大勢の人の気配が混ざり合い、どこの誰とも知らない人の\\n気配が、俺たちの居場所も侵食していく。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "大勢の人の気配が混ざり合い、どこの誰とも知らない人の気配が、俺たちの居場所も侵食していく。",
+      "txt_idk_2": "大勢の人の気配が混ざり合い、どこの誰とも知らない人の気配が、俺たちの居場所も侵食していく。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "前はそれに耐えきれなくて、一人暮らしを願っていた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "だから涼子ちゃんの言っている事は半分正解。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「最近は、そんな気にならなくなってきたんだ。\\nだから全然大丈夫。せっかくの夏だから、まだまだ楽しもう」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「最近は、そんな気にならなくなってきたんだ。だから全然大丈夫。せっかくの夏だから、まだまだ楽しもう」",
+      "txt_idk_2": "「最近は、そんな気にならなくなってきたんだ。だから全然大丈夫。せっかくの夏だから、まだまだ楽しもう」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「……本当ですか？」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10673"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ああ、本当本当」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そう、嘘偽りなく本当の事だ。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「だって――」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "涼子ちゃんとの距離を縮めた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "視界いっぱいに彼女が広がり――そして、俺の見えている\\n景色は涼子ちゃんの色で塗りつぶされる。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "視界いっぱいに彼女が広がり――そして、俺の見えている景色は涼子ちゃんの色で塗りつぶされる。",
+      "txt_idk_2": "視界いっぱいに彼女が広がり――そして、俺の見えている景色は涼子ちゃんの色で塗りつぶされる。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「こうしていれば、俺が見えるのは涼子ちゃんの色だけだ。\\n……まあ、完全にそれだけって訳でもないけど……」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「こうしていれば、俺が見えるのは涼子ちゃんの色だけだ。……まあ、完全にそれだけって訳でもないけど……」",
+      "txt_idk_2": "「こうしていれば、俺が見えるのは涼子ちゃんの色だけだ。……まあ、完全にそれだけって訳でもないけど……」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「涼子ちゃんの色は見失わない。どこの、どんな場所に居たと\\nしても、俺の道しるべになってくれる」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「涼子ちゃんの色は見失わない。どこの、どんな場所に居たとしても、俺の道しるべになってくれる」",
+      "txt_idk_2": "「涼子ちゃんの色は見失わない。どこの、どんな場所に居たとしても、俺の道しるべになってくれる」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「…………わかりました。ですが、気分が悪くなったら\\nすぐに言って下さいね」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10674"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「…………わかりました。ですが、気分が悪くなったらすぐに言って下さいね」",
+      "txt_idk_2": "「…………わかりました。ですが、気分が悪くなったらすぐに言って下さいね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ああ、任せておけ」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "涼子ちゃんは離れない。\\nぴったりとくっついたままだった。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "涼子ちゃんは離れない。ぴったりとくっついたままだった。",
+      "txt_idk_2": "涼子ちゃんは離れない。ぴったりとくっついたままだった。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……あの……涼子さん。\\nジュース飲みづらくないですか……？」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……あの……涼子さん。ジュース飲みづらくないですか……？」",
+      "txt_idk_2": "「……あの……涼子さん。ジュース飲みづらくないですか……？」"
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「で、ですが、こうしていれば大丈夫だと先輩が……」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10675"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「いやいや！　ずっとこうしてるって訳でもないからっ」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "……ビーチで公衆の面前で抱き合っている。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "さぞかし滑稽な姿に……と思ったのだが、周囲の人たちは\\n俺たちなんて視界に入らないように、それぞれの夏を満喫\\nしていた。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "さぞかし滑稽な姿に……と思ったのだが、周囲の人たちは俺たちなんて視界に入らないように、それぞれの夏を満喫していた。",
+      "txt_idk_2": "さぞかし滑稽な姿に……と思ったのだが、周囲の人たちは俺たちなんて視界に入らないように、それぞれの夏を満喫していた。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「…………あれ？」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「どうかされましたか」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10676"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……なんでもない」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "こういう事を実感するたびに、思うのだ。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "見えている色も俺自身も含めた世界の一つだ。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "この世界には納得のいく事、行かない事。自分の手の届く事や\\n届かない事があって、成り立っている。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "この世界には納得のいく事、行かない事。自分の手の届く事や届かない事があって、成り立っている。",
+      "txt_idk_2": "この世界には納得のいく事、行かない事。自分の手の届く事や届かない事があって、成り立っている。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "これも、そんな中の一つなのだろうとただ純粋に思う。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「それじゃ休憩終わり。また泳ぎに行こう」",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "涼子",
+      "hidden_character_speaking": null,
+      "txt": "「はいっ」",
+      "voices": [
+        {
+          "name": "涼子",
+          "pan": 0,
+          "type": 0,
+          "voice": "a04_10677"
+        }
+      ],
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "人という字は、一人の人間が自分の足で大地をふみしめて\\n立っている。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "人という字は、一人の人間が自分の足で大地をふみしめて立っている。",
+      "txt_idk_2": "人という字は、一人の人間が自分の足で大地をふみしめて立っている。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "でも立ち続けるには、寄りそってくれる人が必要なのだろうと\\n俺は思っている――。",
+      "voices": null,
+      "idk_1": 456,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "でも立ち続けるには、寄りそってくれる人が必要なのだろうと俺は思っている――。",
+      "txt_idk_2": "でも立ち続けるには、寄りそってくれる人が必要なのだろうと俺は思っている――。"
+    }
+  ],
+  null,
+  null
+]

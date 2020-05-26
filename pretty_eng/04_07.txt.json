@@ -1,0 +1,2412 @@
+[
+  [
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "日が落ちてからはファミレスに移動し、時間を潰した。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "といっても、暇つぶしと言う名の先輩による補習になったが\\n先輩曰くアリバイ作りだそうで、仕方なく本腰を入れて勉強を\\nするハメになってしまった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "といっても、暇つぶしと言う名の先輩による補習になったが先輩曰くアリバイ作りだそうで、仕方なく本腰を入れて勉強をするハメになってしまった。",
+      "txt_idk_2": "といっても、暇つぶしと言う名の先輩による補習になったが先輩曰くアリバイ作りだそうで、仕方なく本腰を入れて勉強をするハメになってしまった。"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「……う、うう～～ん」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00479"
+        }
+      ],
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「あなたもう帰ったら？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00508"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「だ、だいじょうぶ……」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00480"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「藤宮さんは普段が心配だわ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00222"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「出来るとは言わないですが、出来なくないレベルですよ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……頼りない返事ね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00223"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "約一名、始まる前から疲労困憊になってるのも居たが、概ね\\n問題ないだろう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "約一名、始まる前から疲労困憊になってるのも居たが、概ね問題ないだろう。",
+      "txt_idk_2": "約一名、始まる前から疲労困憊になってるのも居たが、概ね問題ないだろう。"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「それじゃ行くわ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00224"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「正面からですか？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「いえ、裏に鍵の掛かってない通用口があるのよ。\\nそっちに回りましょう」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00225"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「いえ、裏に鍵の掛かってない通用口があるのよ。そっちに回りましょう」",
+      "txt_idk_2": "「いえ、裏に鍵の掛かってない通用口があるのよ。そっちに回りましょう」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "薄暗い中を四人で歩く。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "当然の事ながら、優枝さんとは神社で別れていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「う、うう～～。手を繋いでもいい……？」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00481"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「好きにしなさいよ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00509"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「タカちゃん、反対側お願い～～」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00482"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……お化け怖い奴が、どうして桜花は普通に接してられるん\\nだろうな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……お化け怖い奴が、どうして桜花は普通に接してられるんだろうな」",
+      "txt_idk_2": "「……お化け怖い奴が、どうして桜花は普通に接してられるんだろうな」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「桜花さんはお化けって感じしないもん」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00483"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「それは否定はしない」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「本人に七不思議の件を聞いてみたい所ね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00226"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「ああ、それなら言ってましたよ。\\n七不思議はその頃まだ知らなかったから、校舎で見た顔に\\nついてですけど」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ああ、それなら言ってましたよ。七不思議はその頃まだ知らなかったから、校舎で見た顔についてですけど」",
+      "txt_idk_2": "「ああ、それなら言ってましたよ。七不思議はその頃まだ知らなかったから、校舎で見た顔についてですけど」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「彼女はなんて？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00227"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そんな非科学的なのがいる訳ないから、現実的に物ごとを\\n見ないとダメだって」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そんな非科学的なのがいる訳ないから、現実的に物ごとを見ないとダメだって」",
+      "txt_idk_2": "「そんな非科学的なのがいる訳ないから、現実的に物ごとを見ないとダメだって」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「なるほど、尤もな内容ね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00228"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "超常現象の桜花が真っ先にそれを否定し、人間の俺たちが\\n七不思議が本物かどうかなんて話をしている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "超常現象の桜花が真っ先にそれを否定し、人間の俺たちが七不思議が本物かどうかなんて話をしている。",
+      "txt_idk_2": "超常現象の桜花が真っ先にそれを否定し、人間の俺たちが七不思議が本物かどうかなんて話をしている。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "妙なおかしさがある。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "同じ事を思ったのか、麗奈が言った。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「あの子が言っていた、うちの学園のは本物ってどういう意味\\nなのかしらね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00510"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「あの子が言っていた、うちの学園のは本物ってどういう意味なのかしらね」",
+      "txt_idk_2": "「あの子が言っていた、うちの学園のは本物ってどういう意味なのかしらね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「言葉通りに受け取るなら、月女のはただの怪談でうちのは\\n本物の超常現象って意味なんだろうけど」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「言葉通りに受け取るなら、月女のはただの怪談でうちのは本物の超常現象って意味なんだろうけど」",
+      "txt_idk_2": "「言葉通りに受け取るなら、月女のはただの怪談でうちのは本物の超常現象って意味なんだろうけど」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「でも違う学園の話が残り続けてるっていうのも変だよね」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00484"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「そうとも限らないわ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00229"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩が鍵を開ける。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "中庭に出ると、月明かりに視界が開けた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「と言いますと？」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「今は後回しにしましょう。喋ってて見咎められてもね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00230"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「そうね……道隆、ここに誰か人はいる？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00511"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「…………いや、見える範囲だと俺たちだけだな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「そう」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00512"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "返事を聞くが早いか、麗奈が堂々と歩きだす。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「あ、待ってよー」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00485"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "小走りでその後ろを駆けていく。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "俺たちも後に続いた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩の持っていた鍵で通用口を開けて、中に入った。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "当然ながら廊下の電気は消えており、歩くたびにひたひたと\\nいうリノリウムの床を踏む音が校舎に響く。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "当然ながら廊下の電気は消えており、歩くたびにひたひたというリノリウムの床を踏む音が校舎に響く。",
+      "txt_idk_2": "当然ながら廊下の電気は消えており、歩くたびにひたひたというリノリウムの床を踏む音が校舎に響く。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "四人でいても昼間と正反対の不気味な雰囲気に圧倒される。\\n中庭では離れてた汐音の手が、今度こそ離さないと、俺と麗奈\\nの腕をがっちり掴んでいた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "四人でいても昼間と正反対の不気味な雰囲気に圧倒される。中庭では離れてた汐音の手が、今度こそ離さないと、俺と麗奈の腕をがっちり掴んでいた。",
+      "txt_idk_2": "四人でいても昼間と正反対の不気味な雰囲気に圧倒される。中庭では離れてた汐音の手が、今度こそ離さないと、俺と麗奈の腕をがっちり掴んでいた。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「先輩はこういうの大丈夫なんですね」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "何気ない質問だったのだが、先輩は呆れたように小さくため息\\nをついた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "何気ない質問だったのだが、先輩は呆れたように小さくため息をついた。",
+      "txt_idk_2": "何気ない質問だったのだが、先輩は呆れたように小さくため息をついた。"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「これで怖がるようなら、そもそも行くなんて言わないわよ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00231"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そりゃそうだ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「外部から入るにしろ、生徒が来るにしろ、わざわざ鍵を\\n開けて中に入った事になるのよね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00513"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「外部から入るにしろ、生徒が来るにしろ、わざわざ鍵を開けて中に入った事になるのよね」",
+      "txt_idk_2": "「外部から入るにしろ、生徒が来るにしろ、わざわざ鍵を開けて中に入った事になるのよね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「俺たちがそうだしな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「先生が見た人影は、どうやって校舎に入ったのかしらね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00514"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「鍵についてはあまり気にしない方がいいわよ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00232"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「どうしてですか？」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00486"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「管理が適当なのよ。例えば運動部の場合、倉庫や体育館、\\n武道場の鍵を部活の時に持ち出すわよね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00233"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「管理が適当なのよ。例えば運動部の場合、倉庫や体育館、武道場の鍵を部活の時に持ち出すわよね」",
+      "txt_idk_2": "「管理が適当なのよ。例えば運動部の場合、倉庫や体育館、武道場の鍵を部活の時に持ち出すわよね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そうですね」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「返すのは翌日登校した後か、次の部活で顧問に返却でも何も\\n言われないのよ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00234"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「返すのは翌日登校した後か、次の部活で顧問に返却でも何も言われないのよ」",
+      "txt_idk_2": "「返すのは翌日登校した後か、次の部活で顧問に返却でも何も言われないのよ」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「ええっ。それって失くしたら困りそう……」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00487"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「そんなの珍しくもないわよ。だから、職員室にも全部の鍵の\\n予備があるの。私が持ってるのもそう」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00235"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そんなの珍しくもないわよ。だから、職員室にも全部の鍵の予備があるの。私が持ってるのもそう」",
+      "txt_idk_2": "「そんなの珍しくもないわよ。だから、職員室にも全部の鍵の予備があるの。私が持ってるのもそう」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「セキュリティ、ザルだなぁ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「余程のお嬢様学園でもない限り、どこもこんなものだと思う\\nわよ。大学に行くともっと酷いらしいから」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00236"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「余程のお嬢様学園でもない限り、どこもこんなものだと思うわよ。大学に行くともっと酷いらしいから」",
+      "txt_idk_2": "「余程のお嬢様学園でもない限り、どこもこんなものだと思うわよ。大学に行くともっと酷いらしいから」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「わたしの印象だとしっかりしてそうなイメージです……」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00488"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「研究で泊まり込む事も多くなるみたいよ。いちいち鍵を\\n開けて貰うのは面倒って判断なんでしょうね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00237"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「研究で泊まり込む事も多くなるみたいよ。いちいち鍵を開けて貰うのは面倒って判断なんでしょうね」",
+      "txt_idk_2": "「研究で泊まり込む事も多くなるみたいよ。いちいち鍵を開けて貰うのは面倒って判断なんでしょうね」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「まあ、結局は管理する側の意識次第なんでしょうけど」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00238"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ため息をつく姿からは、先輩も改善はしたいと思ってるようだ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "二階に上がって、その痕跡に気づいた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……人が通った跡がある」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「時刻は夜１０時１５分。例の七不思議に合わせた人かしら？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00239"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「それにしても、人が歩いた跡なんてよく分かったわね。\\nどんな技術か知識なのか興味あるわ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00240"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「それにしても、人が歩いた跡なんてよく分かったわね。どんな技術か知識なのか興味あるわ」",
+      "txt_idk_2": "「それにしても、人が歩いた跡なんてよく分かったわね。どんな技術か知識なのか興味あるわ」"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「……道隆のはそんなのじゃないわね」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00515"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「あー……そうだね。これこそ七不思議に入れてもいい、本物\\nの超能力なのかも？」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00489"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「あー……そうだね。これこそ七不思議に入れてもいい、本物の超能力なのかも？」",
+      "txt_idk_2": "「あー……そうだね。これこそ七不思議に入れてもいい、本物の超能力なのかも？」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「説明が欲しいのだけど」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00241"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩が首を傾げる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "今さら隠してても意味がないので、正直に話す事にした。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「俺、人間の痕跡が分かるんですよ。\\n人それぞれ固有の色を持ってて、歩いた跡とか身につけてた物\\nには、それがしばらく残ってるんです」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「俺、人間の痕跡が分かるんですよ。人それぞれ固有の色を持ってて、歩いた跡とか身につけてた物には、それがしばらく残ってるんです」",
+      "txt_idk_2": "「俺、人間の痕跡が分かるんですよ。人それぞれ固有の色を持ってて、歩いた跡とか身につけてた物には、それがしばらく残ってるんです」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「………………幽霊にまで会ってる現状、今さら野暮な事は\\n言わないけれど」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00242"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「………………幽霊にまで会ってる現状、今さら野暮な事は言わないけれど」",
+      "txt_idk_2": "「………………幽霊にまで会ってる現状、今さら野暮な事は言わないけれど」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「話が早くて助かります」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「ちなみにそれは、どの程度見えるの？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00243"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「普通に見える範囲なら、特に制限は無いですけど……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「そうじゃなくて、今ここって暗いでしょう？\\nこうして手をかざしても肌の色の判別も難しいわよね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00244"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そうじゃなくて、今ここって暗いでしょう？こうして手をかざしても肌の色の判別も難しいわよね」",
+      "txt_idk_2": "「そうじゃなくて、今ここって暗いでしょう？こうして手をかざしても肌の色の判別も難しいわよね」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「え、ええ。まあ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「その中でも色ははっきり分かるの？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00245"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「…………」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "そう言われてみると……特に意識した事はなかったし、明らか\\nに俺がおかしいか超常現象じみてるものだから、そういうモノ\\nとしか思ってなかった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "そう言われてみると……特に意識した事はなかったし、明らかに俺がおかしいか超常現象じみてるものだから、そういうモノとしか思ってなかった。",
+      "txt_idk_2": "そう言われてみると……特に意識した事はなかったし、明らかに俺がおかしいか超常現象じみてるものだから、そういうモノとしか思ってなかった。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「見えます。言われてみると周囲の明るさにはたいして\\n影響されていないですね」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「見えます。言われてみると周囲の明るさにはたいして影響されていないですね」",
+      "txt_idk_2": "「見えます。言われてみると周囲の明るさにはたいして影響されていないですね」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "厳密には影響されない訳じゃないが、光の当たる場所では\\n若干の彩度が変わる程度の変化でしかない。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "厳密には影響されない訳じゃないが、光の当たる場所では若干の彩度が変わる程度の変化でしかない。",
+      "txt_idk_2": "厳密には影響されない訳じゃないが、光の当たる場所では若干の彩度が変わる程度の変化でしかない。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "どれだけ暗くても、色が見えなくなるなんて事はない。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「それはそれで、便利なのか不便なのか分からないわね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00246"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「どうしてです？　人より見えない物が見えるなら、普通の人\\nにプラスって感じがしますけど」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00490"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「どうしてです？　人より見えない物が見えるなら、普通の人にプラスって感じがしますけど」",
+      "txt_idk_2": "「どうしてです？　人より見えない物が見えるなら、普通の人にプラスって感じがしますけど」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「だって見たくもないのに目に入ってくるんでしょ。\\n暗い所で夜景を見たくても、周囲の歩いてる人の色が飛び込ん\\nできたら、変な言い方だけど見た目がうるさいわよ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00247"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「だって見たくもないのに目に入ってくるんでしょ。暗い所で夜景を見たくても、周囲の歩いてる人の色が飛び込んできたら、変な言い方だけど見た目がうるさいわよ」",
+      "txt_idk_2": "「だって見たくもないのに目に入ってくるんでしょ。暗い所で夜景を見たくても、周囲の歩いてる人の色が飛び込んできたら、変な言い方だけど見た目がうるさいわよ」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「………………」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "不意に、あっけにとられた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "見える事を説明しても、普通は汐音のように思う。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "でも俺自身が感じてる負の要素を、先輩はあっさり辿りついて\\n説明してくれた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "でも俺自身が感じてる負の要素を、先輩はあっさり辿りついて説明してくれた。",
+      "txt_idk_2": "でも俺自身が感じてる負の要素を、先輩はあっさり辿りついて説明してくれた。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩の頭の良さも察しの良さも分かってるつもりだった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "でも、本当に実感したのは今この時なのかもしれない。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「どうしたの？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00248"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「い、いえ。なんでもないです、俺もそんな感じのが気に\\nなって、桜花荘で暮らすようになったんですよ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「い、いえ。なんでもないです、俺もそんな感じのが気になって、桜花荘で暮らすようになったんですよ」",
+      "txt_idk_2": "「い、いえ。なんでもないです、俺もそんな感じのが気になって、桜花荘で暮らすようになったんですよ」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「へぇ、そうなんだ。でも災難だったわね。\\n桜花さんが一緒なら、結局見えてる事に変わりはないだろうし」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00249"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「へぇ、そうなんだ。でも災難だったわね。桜花さんが一緒なら、結局見えてる事に変わりはないだろうし」",
+      "txt_idk_2": "「へぇ、そうなんだ。でも災難だったわね。桜花さんが一緒なら、結局見えてる事に変わりはないだろうし」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「いや、あいつ幽霊のせいか、色が見えなくて……っと、誰か\\nいます」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「いや、あいつ幽霊のせいか、色が見えなくて……っと、誰かいます」",
+      "txt_idk_2": "「いや、あいつ幽霊のせいか、色が見えなくて……っと、誰かいます」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "辿ってきた痕跡の色が強くなっている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "空間に残留してる残りじゃなくて、人間が発している色だ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「ど、どうしよう……？」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00491"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「色に見覚えはある？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00516"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「あ、ああ。いや、でもこれは……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「話は後。こっちに」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00250"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩についてくように、その場を離れた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "元々近づいてた訳ではないから、俺たちは気づかれなかった\\nだろう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "元々近づいてた訳ではないから、俺たちは気づかれなかっただろう。",
+      "txt_idk_2": "元々近づいてた訳ではないから、俺たちは気づかれなかっただろう。"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「ここでやり過ごしましょう。お互いこんな時間にあっても\\n気まずくなるだけだわ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00251"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「ここでやり過ごしましょう。お互いこんな時間にあっても気まずくなるだけだわ」",
+      "txt_idk_2": "「ここでやり過ごしましょう。お互いこんな時間にあっても気まずくなるだけだわ」"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「え……捕まえに来たのでは？」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00517"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「そんなつもりはないわよ。だってそれは警備の人の仕事\\nじゃない」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00252"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そんなつもりはないわよ。だってそれは警備の人の仕事じゃない」",
+      "txt_idk_2": "「そんなつもりはないわよ。だってそれは警備の人の仕事じゃない」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「問題を起こしてたら、それを知っておく方が重要よ。\\nだって、知ってる人なんでしょ？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00253"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「問題を起こしてたら、それを知っておく方が重要よ。だって、知ってる人なんでしょ？」",
+      "txt_idk_2": "「問題を起こしてたら、それを知っておく方が重要よ。だって、知ってる人なんでしょ？」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "最後のは問いかけに聞こえるが、俺への念押しだ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……はい」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「なら問題行動を起こしてたとしても逃げられないわ。\\n何をやろうとしてたのかを知る事が出来れば、それでいい」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00254"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「なら問題行動を起こしてたとしても逃げられないわ。何をやろうとしてたのかを知る事が出来れば、それでいい」",
+      "txt_idk_2": "「なら問題行動を起こしてたとしても逃げられないわ。何をやろうとしてたのかを知る事が出来れば、それでいい」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「大体、本当に七不思議なんて物を信じての行動なら、傍目\\nには何もしてないように見える事もあるじゃない。\\nそれなら大げさにしたら真相は分からなくなるわ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00255"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「大体、本当に七不思議なんて物を信じての行動なら、傍目には何もしてないように見える事もあるじゃない。それなら大げさにしたら真相は分からなくなるわ」",
+      "txt_idk_2": "「大体、本当に七不思議なんて物を信じての行動なら、傍目には何もしてないように見える事もあるじゃない。それなら大げさにしたら真相は分からなくなるわ」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「なるほど……」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00492"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「結局お化けでも何でもなかったわね。\\nでも、何でこんな所にまで……」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00518"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「結局お化けでも何でもなかったわね。でも、何でこんな所にまで……」",
+      "txt_idk_2": "「結局お化けでも何でもなかったわね。でも、何でこんな所にまで……」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「やっぱり先輩の言う通り、七不思議なのかな。願いを叶えて\\n貰うって言う」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00493"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「やっぱり先輩の言う通り、七不思議なのかな。願いを叶えて貰うって言う」",
+      "txt_idk_2": "「やっぱり先輩の言う通り、七不思議なのかな。願いを叶えて貰うって言う」"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「あやふやすぎるでしょ。どんだけ切羽詰まってるのよ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00519"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「それも見れば分かるんじゃないかしらね……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00256"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "それからしばらくの間、暗がりの階段に腰をおろして、物音を\\n聞いていた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "それからしばらくの間、暗がりの階段に腰をおろして、物音を聞いていた。",
+      "txt_idk_2": "それからしばらくの間、暗がりの階段に腰をおろして、物音を聞いていた。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "喋る人がいなくなると、暗い廊下はシンと静まりかえっている。",
+      "voices": null,
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "学園の前を走るトラックの音などが、微かに耳に届く。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "ただそれも分厚いコンクリートの壁と夜の校舎が持つ空気に\\n吸い込まれてしまい、より一層の寂しさを引き立たせるだけだ。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "ただそれも分厚いコンクリートの壁と夜の校舎が持つ空気に吸い込まれてしまい、より一層の寂しさを引き立たせるだけだ。",
+      "txt_idk_2": "ただそれも分厚いコンクリートの壁と夜の校舎が持つ空気に吸い込まれてしまい、より一層の寂しさを引き立たせるだけだ。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "右手に温かな物を触れるのを感じた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「…………」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00494"
+        }
+      ],
+      "idk_1": 464,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "横を見ると、静かな暗闇が怖いのか汐音が手を握って体を寄せ\\nてくる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "横を見ると、静かな暗闇が怖いのか汐音が手を握って体を寄せてくる。",
+      "txt_idk_2": "横を見ると、静かな暗闇が怖いのか汐音が手を握って体を寄せてくる。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "毛布でもあったら頭からかぶってる事だろう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「……あなた達、付き合ってないのよね？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00257"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「え？　あ、はい。そうですけど」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "汐音も驚いた顔で頷いている。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「なんか理解に苦しむわね……そう気軽に異性に触れるもの\\nなのかしら。幼馴染の気安さという物なの？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00258"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「なんか理解に苦しむわね……そう気軽に異性に触れるものなのかしら。幼馴染の気安さという物なの？」",
+      "txt_idk_2": "「なんか理解に苦しむわね……そう気軽に異性に触れるものなのかしら。幼馴染の気安さという物なの？」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩は麗奈に話を振る。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "それを受けて、麗奈は首を横に振った。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「道隆と汐音だからでしょう。私はいくら相手が道隆でも\\n照れが入ってしまうので出来ませんよ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00520"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「道隆と汐音だからでしょう。私はいくら相手が道隆でも照れが入ってしまうので出来ませんよ」",
+      "txt_idk_2": "「道隆と汐音だからでしょう。私はいくら相手が道隆でも照れが入ってしまうので出来ませんよ」"
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「あ、殴るので良ければ気軽にできます」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00521"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「なるほど、それも一時的接触ではあるわね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00259"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「それはやめてくれ、マジに。\\n先輩も冗談でも変な迎合せんでください」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「それはやめてくれ、マジに。先輩も冗談でも変な迎合せんでください」",
+      "txt_idk_2": "「それはやめてくれ、マジに。先輩も冗談でも変な迎合せんでください」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "と言いつつも、麗奈が人に手を上げる事は滅多にないが。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「あ……う、ごめんね」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00495"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "おずおずと汐音が手を引っ込める。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「確かにちょっと特殊というか、改めて言われると俺も意識\\nしてしまう部分はあるんですが……結構慣れてるといいますか\\nなんか色々と言いづらい話でもあって……」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「確かにちょっと特殊というか、改めて言われると俺も意識してしまう部分はあるんですが……結構慣れてるといいますかなんか色々と言いづらい話でもあって……」",
+      "txt_idk_2": "「確かにちょっと特殊というか、改めて言われると俺も意識してしまう部分はあるんですが……結構慣れてるといいますかなんか色々と言いづらい話でもあって……」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「それなら別に聞かないわよ。無理に話さなくてもいいわ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00260"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「……いや、誤解を解いておくために話します。\\n元々汐音の暗闇嫌いは俺のせいでもあるので」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「……いや、誤解を解いておくために話します。元々汐音の暗闇嫌いは俺のせいでもあるので」",
+      "txt_idk_2": "「……いや、誤解を解いておくために話します。元々汐音の暗闇嫌いは俺のせいでもあるので」"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩が軽く首を傾げる。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "続ける前に階段の方からさっきの色が見えた方へ首を伸ばし\\n様子を見た。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "続ける前に階段の方からさっきの色が見えた方へ首を伸ばし様子を見た。",
+      "txt_idk_2": "続ける前に階段の方からさっきの色が見えた方へ首を伸ばし様子を見た。"
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "戻ってくる気配はない。\\n七不思議なら刻限まで後数分余裕はある。俺たちが動かなけれ\\nば、鉢合わせもしないだろう。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "戻ってくる気配はない。七不思議なら刻限まで後数分余裕はある。俺たちが動かなければ、鉢合わせもしないだろう。",
+      "txt_idk_2": "戻ってくる気配はない。七不思議なら刻限まで後数分余裕はある。俺たちが動かなければ、鉢合わせもしないだろう。"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「目に見える色の話ですけど、切っ掛けがあったんです。\\n俺、ガキの頃に事故にあって一時期目が見えなかったんですよ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「目に見える色の話ですけど、切っ掛けがあったんです。俺、ガキの頃に事故にあって一時期目が見えなかったんですよ」",
+      "txt_idk_2": "「目に見える色の話ですけど、切っ掛けがあったんです。俺、ガキの頃に事故にあって一時期目が見えなかったんですよ」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「失明していたの？　今は視力は？」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00261"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「今はなんとか……ある時不意に視力が戻って、それから\\n今みたいな変な色が見えるようになったんですけど、それまで\\n不便で不便で仕方なくて」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「今はなんとか……ある時不意に視力が戻って、それから今みたいな変な色が見えるようになったんですけど、それまで不便で不便で仕方なくて」",
+      "txt_idk_2": "「今はなんとか……ある時不意に視力が戻って、それから今みたいな変な色が見えるようになったんですけど、それまで不便で不便で仕方なくて」"
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「そんな時に手を引いて俺を助けてくれてたのが、麗奈と汐音\\nだったんですよ」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そんな時に手を引いて俺を助けてくれてたのが、麗奈と汐音だったんですよ」",
+      "txt_idk_2": "「そんな時に手を引いて俺を助けてくれてたのが、麗奈と汐音だったんですよ」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「へぇ」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00262"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "頷きながら、先輩は麗奈の方をちらりと見る。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "暗がりでも麗奈の頬が紅潮してるのが見えた。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "麗奈",
+      "hidden_character_speaking": null,
+      "txt": "「……子供の頃の話ですよ」",
+      "voices": [
+        {
+          "name": "麗奈",
+          "pan": 0,
+          "type": 0,
+          "voice": "a06_00522"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「二人には今も感謝してる訳ですが、ひとまずそれは置いと\\nいて……汐音が暗闇を怖がるようになったのが、それが原因\\nみたいでして」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「二人には今も感謝してる訳ですが、ひとまずそれは置いといて……汐音が暗闇を怖がるようになったのが、それが原因みたいでして」",
+      "txt_idk_2": "「二人には今も感謝してる訳ですが、ひとまずそれは置いといて……汐音が暗闇を怖がるようになったのが、それが原因みたいでして」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「そ、そんな事は……」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00496"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「別にいいって、隠さなくても。おかしい事じゃないしな」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「親しい盲目の人間に接しているうちに、自分自身も暗闇に\\nなったら……と考えてしまったのね」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00263"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「親しい盲目の人間に接しているうちに、自分自身も暗闇になったら……と考えてしまったのね」",
+      "txt_idk_2": "「親しい盲目の人間に接しているうちに、自分自身も暗闇になったら……と考えてしまったのね」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「……自分じゃよくわかりませんけど……」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00497"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「そういう事情なら納得はするけれど、勘違いする人は多そう\\nね……」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00264"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「そういう事情なら納得はするけれど、勘違いする人は多そうね……」",
+      "txt_idk_2": "「そういう事情なら納得はするけれど、勘違いする人は多そうね……」"
+    },
+    {
+      "actual_character_speaking": "汐音",
+      "hidden_character_speaking": null,
+      "txt": "「ごめんなさい……」",
+      "voices": [
+        {
+          "name": "汐音",
+          "pan": 0,
+          "type": 0,
+          "voice": "a03_00498"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "先輩は汐音の謝罪に、長い耳元の髪を指で巻きながら、どこか\\n困った感じだった。",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "先輩は汐音の謝罪に、長い耳元の髪を指で巻きながら、どこか困った感じだった。",
+      "txt_idk_2": "先輩は汐音の謝罪に、長い耳元の髪を指で巻きながら、どこか困った感じだった。"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「怒ってる訳でも[たしな]窘めてる訳でもないのよ。\\n私の悪癖かしらね。聞き方がストレートすぎるってうちの人\\nにも言われるの」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00265"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": "「怒ってる訳でもたしなめてる訳でもないのよ。私の悪癖かしらね。聞き方がストレートすぎるってうちの人にも言われるの」",
+      "txt_idk_2": "「怒ってる訳でも窘めてる訳でもないのよ。私の悪癖かしらね。聞き方がストレートすぎるってうちの人にも言われるの」"
+    },
+    {
+      "actual_character_speaking": "雫",
+      "hidden_character_speaking": null,
+      "txt": "「そろそろ時間が過ぎた頃よね。いってみましょうか」",
+      "voices": [
+        {
+          "name": "雫",
+          "pan": 0,
+          "type": 0,
+          "voice": "a05_00266"
+        }
+      ],
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "道隆",
+      "hidden_character_speaking": null,
+      "txt": "「はい」",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    }
+  ]
+]
