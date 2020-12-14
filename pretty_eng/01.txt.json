@@ -3,7 +3,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "藤宮家のおじさん、おばさんも交えての夕食は、おばさんと\\n千歳さんが気合いを入れて作った事もあって、とても豪勢で\\n美味しかった。",
+      "txt": "The dinner with the Fujimiya family was very sumptuous\\nand delicious, partly because of auntie and Chitose-chan\\nhad put a lot of effort into making it.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -14,7 +14,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "藤宮家の人たちはとても暖かくて、遊びに来るたびに歓迎して\\nくれる。",
+      "txt": "The Fujimiya family are very warm and welcoming every\\ntime they come to visit.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -25,7 +25,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "今回もそれにたがわず、勿体ないくらいの歓迎をしてくれた\\nのだが……。",
+      "txt": "This time, too, they didn't begrudge me that,\\nand have me an unworthy welcome...",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -34,9 +34,9 @@
       "txt_idk_2": "今回もそれにたがわず、勿体ないくらいの歓迎をしてくれたのだが……。"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……お化け屋敷か……」",
+      "txt": "\"...a haunted house...\"",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -47,7 +47,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "夕食も終わった頃に、少しそんな話をした。",
+      "txt": "When dinner was over, we talked about a bit about that.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -56,9 +56,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「さっきは驚かせるような事を言っちゃってごめんね」",
+      "txt": "\"I'm sorry I said something that startled you earlier.\"",
       "voices": [
         {
           "name": "千歳",
@@ -74,9 +74,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「構いませんけど……俺が知らないのを二人とも驚いてる感じ\\nだったよな」",
+      "txt": "\"I don't mind... but... you both sounded surprised that I\\ndidn't know.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -85,9 +85,9 @@
       "txt_idk_2": "「構いませんけど……俺が知らないのを二人とも驚いてる感じだったよな」"
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「そうなんだけど」",
+      "txt": "\"That's true, but...\"",
       "voices": [
         {
           "name": "汐音",
@@ -105,7 +105,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "歯切れの悪い返事をしながら、千歳さんを見ている。",
+      "txt": "She looked at Chitose-san with a crisp reply.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -116,7 +116,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "どうやら汐音からは話しづらいようだ。",
+      "txt": "Apparently, it's hard for Shione-chan to talk.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -125,9 +125,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「もしかしたら聞いた事があるかもしれないけれど、桜花荘\\nにはあだ名があるのよ」",
+      "txt": "\"Maybe you've heard of it, but Ouka has a\\nnickname.\"",
       "voices": [
         {
           "name": "千歳",
@@ -143,9 +143,9 @@
       "txt_idk_2": "「もしかしたら聞いた事があるかもしれないけれど、桜花荘にはあだ名があるのよ」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「あだ名？　というともしかして……」",
+      "txt": "\"A nickname? If you ask me, might it be...?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -154,9 +154,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「うん。お化け屋敷」",
+      "txt": "\"Yeah. The Haunted House.\"",
       "voices": [
         {
           "name": "千歳",
@@ -172,9 +172,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「もっとも誰も住んでない古い建物を見て、近所の子供が\\nそう言っているだけなんだけれどね」",
+      "txt": "\"Most of the time, it's just a neighborhood kid saying that\\nwhenever they see an old building that no one lives in.\"",
       "voices": [
         {
           "name": "千歳",
@@ -190,9 +190,9 @@
       "txt_idk_2": "「もっとも誰も住んでない古い建物を見て、近所の子供がそう言っているだけなんだけれどね」"
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「……お化け屋敷って言われてたのは、おじいちゃんが住んで\\nいた頃からだったよ」",
+      "txt": "\"... They used to call it a haunted house even when\\ngrandpa lived there.\"",
       "voices": [
         {
           "name": "汐音",
@@ -208,9 +208,9 @@
       "txt_idk_2": "「……お化け屋敷って言われてたのは、おじいちゃんが住んでいた頃からだったよ」"
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「あら、そうだったかしら」",
+      "txt": "\"Oh, I don't think so.\"",
       "voices": [
         {
           "name": "千歳",
@@ -226,9 +226,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「そうだよー」",
+      "txt": "\"That's right.\"",
       "voices": [
         {
           "name": "汐音",
@@ -244,9 +244,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「…………なるほど」",
+      "txt": "\"... So that's it.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -257,7 +257,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "確かに『自分ちはお化け屋敷です』なんて道端じゃ話しづらい\\n話題だろう。",
+      "txt": "It's true that a \"haunted house\" would be a hard topic to\\ntalk about on the street.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -266,9 +266,9 @@
       "txt_idk_2": "確かに『自分ちはお化け屋敷です』なんて道端じゃ話しづらい話題だろう。"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……ちなみに、その……出るんですか？」",
+      "txt": "\"... By the way, are you going to answer it?\\nYou're going to leave?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -277,9 +277,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「えっと、出るって、何が？」",
+      "txt": "Well, what do you mean you're leaving?",
       "voices": [
         {
           "name": "千歳",
@@ -295,9 +295,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「この場合の出るっていうのは、そりゃ勿論……」",
+      "txt": "\"In this case, leaving, of course, means...\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -306,9 +306,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「やめてよー、そんなのいたら怖くて暮らせないよ」",
+      "txt": "\"Don't say that. I can't live scared to live like that.\"",
       "voices": [
         {
           "name": "汐音",
@@ -324,9 +324,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「お前の家に出る訳じゃないだろ」",
+      "txt": "\"It's not like I'm leaving your house.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -335,9 +335,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「だって隣だもんっ」",
+      "txt": "\"Because we live right next to each other.\"",
       "voices": [
         {
           "name": "汐音",
@@ -353,9 +353,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……まあ、そうだな」",
+      "txt": "\"... well, yeah.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -366,7 +366,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "汐音の部屋から窓を見れば、桜花荘が間近に見える。",
+      "txt": "Looking out the window from Shione-chan's room,\\nI can see Ouka up close.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -377,7 +377,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "本物がいるかもしれないと意識してしまったら、夜中に窓を\\n見るのも怖くなるだろう。",
+      "txt": "You'd be afraid to even look at the window at night in fear\\nof seeing the real thing that might be there.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -386,9 +386,9 @@
       "txt_idk_2": "本物がいるかもしれないと意識してしまったら、夜中に窓を見るのも怖くなるだろう。"
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「今の所、見たって言う人はいないわね」",
+      "txt": "\"So far, I haven't heard anyone saying they've seen it.\"",
       "voices": [
         {
           "name": "千歳",
@@ -404,9 +404,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「そうなんですか……？」",
+      "txt": "\"Is that so...?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -417,7 +417,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "じゃあさっき俺が見たのは？",
+      "txt": "Then what did I see earlier",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -428,7 +428,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "やっぱり単なる目の錯覚だったんだろうか。",
+      "txt": "I wonder if it was just an optical illusion after all.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -439,7 +439,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "……錯覚じみた物なら毎日見てるけど、本当にそういう\\n見間違いなんてあるんだろうか？",
+      "txt": "... I see illusory things every day,\\nbut is there really such a thing?",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -448,9 +448,9 @@
       "txt_idk_2": "……錯覚じみた物なら毎日見てるけど、本当にそういう見間違いなんてあるんだろうか？"
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「だんだん住むの怖くなってきたでしょ？」",
+      "txt": "\"It's getting scarier and scarier to live there, isn't it?\"",
       "voices": [
         {
           "name": "汐音",
@@ -466,9 +466,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「いや、そこまでは」",
+      "txt": "\"No, not that far.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -477,9 +477,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「ええっ！？」",
+      "txt": "\"Huh!?\"",
       "voices": [
         {
           "name": "汐音",
@@ -495,9 +495,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「あなた怖がりすぎよ」",
+      "txt": "\"You're too scared.\"",
       "voices": [
         {
           "name": "千歳",
@@ -513,9 +513,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「お姉ちゃんだって、さっきタカちゃんが怖がったらどうし\\nようって言ってたもんっ」",
+      "txt": "\"I was just saying what I would do if Taka-kun was\\nscared.\"",
       "voices": [
         {
           "name": "汐音",
@@ -531,9 +531,9 @@
       "txt_idk_2": "「お姉ちゃんだって、さっきタカちゃんが怖がったらどうしようって言ってたもんっ」"
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「まあ、それはそれとして、ね」",
+      "txt": "\"Well, it is what it is, anyway.\"",
       "voices": [
         {
           "name": "千歳",
@@ -549,9 +549,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……ちなみに、お化け屋敷っていうのは見た目の印象だけで\\n言われてて本物を見た人はいないんですよね？」",
+      "txt": "\"... By the way, it being called a haunted house is just an\\nimpression of what it looks like, and no one has ever seen\\nthe real thing, right?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -560,9 +560,9 @@
       "txt_idk_2": "「……ちなみに、お化け屋敷っていうのは見た目の印象だけで言われてて本物を見た人はいないんですよね？」"
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「え、ええ。そう言ってくる人は今の所いないわね」",
+      "txt": "\"Ummm, uh. I don't see anyone saying that to me at the\\nmoment.\"",
       "voices": [
         {
           "name": "千歳",
@@ -578,9 +578,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「もしかして探すつもりなの？」",
+      "txt": "\"Are you going to look for it?\"",
       "voices": [
         {
           "name": "汐音",
@@ -596,9 +596,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「そういう訳じゃないけど……」",
+      "txt": "\"It's not like that, but...\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -609,7 +609,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "見るからに怖がってる汐音を前に、さっき見た物の事も言うに\\n言えず、結局桜花荘がお化け屋敷と言われてる噂だけを聞いて\\n終えるのだった。",
+      "txt": "Shione is so scared from the looks of it,\\nthat she can't even say what she saw earlier, and ended up only hearing a rumor that Ouka is a haunted house.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -620,7 +620,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "こうして改めて部屋を見ても、どこもおかしな所はない。",
+      "txt": "Looking at the room again, there is nothing strange about it.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -631,7 +631,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "桜花荘に戻る時に若干の緊張はしたものの、玄関にも何も変化\\nはなく、あの白い影のようなものもいなかった。",
+      "txt": "Although I was slightly nervous when I returned to\\nOuka, there was no change in the entrance,\\nnor was there anything like that white shadow.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -640,9 +640,9 @@
       "txt_idk_2": "桜花荘に戻る時に若干の緊張はしたものの、玄関にも何も変化はなく、あの白い影のようなものもいなかった。"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「ふぅ……」",
+      "txt": "\"Whew...\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -653,7 +653,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "力を抜いて、横たわる。\\n布団からみる光景は、どこか懐かしい物だった。",
+      "txt": "I relaxed and laid down.\\nThe sight from the futon was somehow nostalgic.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -664,7 +664,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "寝床が変わったからって眠れなくなるほど繊細じゃないけど、\\n夕方聞いた話には引っ掛かる物があった。",
+      "txt": "I'm not finicky enough to not sleep because of the change\\nof beds, but there was something about what I heard this evening that stuck.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -675,7 +675,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "そう……確か……。",
+      "txt": "I see... I think...",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -686,7 +686,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "……ふと、思い出した事があった。",
+      "txt": "Then I remembered something.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -697,7 +697,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "俺たちが子供の頃、爺さんがまだ生きてた当時の桜花荘。",
+      "txt": "When we were kids, when grandfather was still alive,\\nOuka.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -708,7 +708,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "そこは俺たち子供の遊び場だった。",
+      "txt": "It was a playground for us kids.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -719,7 +719,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "汐音達、藤宮の人たちが引っ越してきたばかりで、俺と汐音と\\nそれからもう一人の幼馴染と共に、よく遊びに来ていた。",
+      "txt": "Shione-chan and her friends from Fujinomiya had just\\nmoved in, and she often came to visit me, Shione-chan,\\nand another childhood friend.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -730,7 +730,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "爺さんは子供の遊びに付き合う人ではなかったが、それを咎め\\nる事もしなかった。",
+      "txt": "The old man wasn't one to play along with children,\\nbut he didn't care to blame them either.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -741,7 +741,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "ただ縁側に座って、いつものように難しい顔をしていた。",
+      "txt": "He just sat on the curb and looked as difficult as ever.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -752,7 +752,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "大人たちは爺さんの近くにいて、広い建物の中で俺たちは\\n自由だった。",
+      "txt": "The adults were close to the old man and we were free\\nin the big building.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -763,7 +763,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "……そのはずなのに……。",
+      "txt": "... It's supposed to be...",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -772,9 +772,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "（……誰……だったかな……）",
+      "txt": "(... Who was..? I don't know if it was...)",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -785,7 +785,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "俺たち３人の他に、もう一人、居たような気がする。",
+      "txt": "I think there was another one besides the three of us.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -796,7 +796,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "ここは古くて秘密基地みたいな所だったけど、子供たちが\\nずっと籠って遊んでるには狭い場所だ。",
+      "txt": "This place was old and kind of like a secret base,\\nbut it's too small for the kids to be playing in all of the\\ntime.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -807,7 +807,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "それでも飽きずに通っていたのは、もっと他に理由があった\\nような気がしてくる。",
+      "txt": "Still, I feel like there were more reasons for me to go there\\nwithout getting bored.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -818,7 +818,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "それが思い出せない。",
+      "txt": "I can't remember why.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -829,7 +829,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "忘れてはいけない大切な事だったような気がするのだが、\\n１０年近い歳月は、もう当時の事を曖昧にしてしまって\\n薄れさせてしまう。",
+      "txt": "I feel like it was an important thing to remember,\\nbut nearly ten years have already obscured and\\nfaded that moment away.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -840,7 +840,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "それはここの想い出も同じだ。",
+      "txt": "The same is true about the memories here.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -851,7 +851,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "昔も今のように、ここに布団を敷いて泊まった事があった……\\nような気がする。",
+      "txt": "There was a time, like now, when we used to stay here\\nwith a futon... I think so.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -862,7 +862,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "子供たちだけで布団を敷いて、普段と違う寝床に高揚して\\nはしゃいでいた。",
+      "txt": "The kids just laid out the futon and frolicked elatedly on\\nthe unusual bed.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -873,7 +873,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "大人たちに怒られないように声を潜め、布団をかぶって、暗い\\n世界で子供同士の話をした。",
+      "txt": "I lowered my voice to avoid being scolded by the adults,\\nI covered myself with the futon, and chatted\\nwith the other kids in the dark world.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -884,7 +884,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "あの時は結局眠れたのは明け方になってからだった",
+      "txt": "It wasn't until dawn that I finally got some sleep.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -893,20 +893,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "？？？",
+      "actual_character_speaking": "???",
       "hidden_character_speaking": null,
-      "txt": "「――――、――――」",
-      "voices": null,
-      "idk_1": 448,
-      "scene_data": null,
-      "idk_2": null,
-      "txt_idk_1": null,
-      "txt_idk_2": null
-    },
-    {
-      "actual_character_speaking": null,
-      "hidden_character_speaking": null,
-      "txt": "何か、音がした。",
+      "txt": "\"----, ----\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -917,7 +906,18 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "浅い眠りの淵から呼び覚まされる。",
+      "txt": "I heard a noise.",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "I awoke from the abyss of shallow sleep.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -928,7 +928,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "それで自分が眠っていたのだと、夢の中で自覚した。",
+      "txt": "So I realized in my dream that I had been asleep.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -937,9 +937,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「――――――」",
+      "txt": "\"----\"",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -950,7 +950,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "目を開けて、呼吸が止まった。",
+      "txt": "I opened my eyes and stopped breathing.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -961,7 +961,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "俺しかいなかったはずの部屋で、視線がぶつかりあう。",
+      "txt": "I was supposed to be the only person in the room\\nwhen our gazes collided with each other.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -972,7 +972,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "白い顔が覗きこんでいる。",
+      "txt": "A white face peeked out.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -983,7 +983,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "吐息が掛かる程に近いのに、呼気を感じない。",
+      "txt": "I can't feel my exhalation, even though it's so close\\nthat it takes my breath away.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -994,7 +994,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "人ならば当然あるはずの気配というものが、まったく無かった。",
+      "txt": "There was no at all that a person would naturally have.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -1003,9 +1003,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「――――！」",
+      "txt": "\"----!\"",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -1016,7 +1016,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "反射的に目を閉じる。",
+      "txt": "Reflexively, I close my eyes.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1027,7 +1027,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "触れ合いそうな距離は、手を伸ばせば届きそうでもあり、\\nこのまま待てば、俺に同化するようでもあった。",
+      "txt": "The distance between us was so close that I could reach\\nout and touch it, and if I waited this long, it seemed to\\nassimilate into me.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1036,9 +1036,9 @@
       "txt_idk_2": "触れ合いそうな距離は、手を伸ばせば届きそうでもあり、このまま待てば、俺に同化するようでもあった。"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……………………」",
+      "txt": "\".......\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1049,7 +1049,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "体が、動かない。",
+      "txt": "I can't move.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1060,7 +1060,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "金縛りにあっている……訳じゃない。",
+      "txt": "It's not like I'm in bonds or anything.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1071,7 +1071,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "そう。\\n指の先は動く。",
+      "txt": "Really.\\nThe tips of its fingers move.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1082,7 +1082,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "足の先端も動く。",
+      "txt": "The tips of their feet also move.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1093,7 +1093,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "ただ、突然の事に体が動き方を忘れてしまってる。",
+      "txt": "It's just that, all of a sudden, my body forgot how to move.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1104,7 +1104,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "だから大丈夫。\\nこの次に何かが起こっても、自分の体は動いてくれる。",
+      "txt": "So it's okay.\\nEven if something happends after this, my body will move.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1115,7 +1115,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "その時やるべき事を心に思い描いて、次を待つ。",
+      "txt": "I have a mental picture in my mind of what I need to do\\nthen and wait for the next one.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1126,7 +1126,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "だけど。",
+      "txt": "However.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1137,7 +1137,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "いつまで待っても『次』は起こらず、この日は結局、眠れない\\n夜を過ごしていた……。",
+      "txt": "No matter how long I waited, the \"next\" didn't happen,\\nand I ended up spending a sleepless night that day...",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1146,9 +1146,9 @@
       "txt_idk_2": "いつまで待っても『次』は起こらず、この日は結局、眠れない夜を過ごしていた……。"
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「おはよー。……あれ？　なんか目が真っ赤だよ？」",
+      "txt": "\"Good morning...\\nHuh?! Why are your eyes red?\"",
       "voices": [
         {
           "name": "汐音",
@@ -1164,9 +1164,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「ああ、おはよう」",
+      "txt": "\"Oh, good morning.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1177,7 +1177,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "眠れない夜を過ごし、朝起きてからは建物の中を一通り見て\\n回っていた。",
+      "txt": "I had a sleepless night and woke up in the morning to\\ntake a quick look around the building.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1188,7 +1188,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "結局誰かが入り込んだ形跡もなければ、何か特別な物があった\\nりもしない。",
+      "txt": "After all, there's no sign of anyone getting in, or\\nanything special.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1199,7 +1199,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "間違いなく昨夜は俺一人だった。",
+      "txt": "I was definitely on my own last night.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1210,7 +1210,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "例え空き巣のプロだろうとも、ここまで痕跡を残さず立ち去る\\nのは不可能だ。",
+      "txt": "Even if you're a professional burglar, it's impossible\\nto walk away without leaving a trace.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1221,7 +1221,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "当然俺はプロの探偵でも刑事でもないし、犯罪に対する知識\\nなんて物はないが、この手の事柄にかけては１００％を断言\\n出来る。",
+      "txt": "Of course, I'm not a professional detective, and I have no\\nknowledge of crime, but I can say with 100\\% certainty\\nwhen it comes to this sort of thing.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1230,9 +1230,9 @@
       "txt_idk_2": "当然俺はプロの探偵でも刑事でもないし、犯罪に対する知識なんて物はないが、この手の事柄にかけては１００％を断言出来る。"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「なぁ。昨日の話なんだけど、今時間あるか？」",
+      "txt": "\"Hey. I want to talk to you about yesterday, do you have\\nsome time right now?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1241,9 +1241,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「昨日？　なんだっけ？」",
+      "txt": "\"Yesterday? What was it about again?\"",
       "voices": [
         {
           "name": "汐音",
@@ -1259,9 +1259,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「いやだから……」",
+      "txt": "\"No, because...\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1272,7 +1272,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "目の前の建物を見上げる。",
+      "txt": "I look up at the building in front of me.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1283,7 +1283,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "朝起きてから中を調べて、それから家の外を見て回った。",
+      "txt": "I woke up in the morning and check inside, then looked\\naround the outside of the house.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1294,7 +1294,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "しかし、一度外に出て陽の光を浴びたら、薄暗い年代物の建物\\nに戻るのが何となく嫌になってこうして入り口で立ちぼうけだ。",
+      "txt": "However, once I went outside and basked in the sunlight,\\nI somehow felt uncomfortable going into the dimly lit\\nold building, so I stood at the entrance.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1303,9 +1303,9 @@
       "txt_idk_2": "しかし、一度外に出て陽の光を浴びたら、薄暗い年代物の建物に戻るのが何となく嫌になってこうして入り口で立ちぼうけだ。"
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「あ、お化け屋敷の話？」",
+      "txt": "\"Oh, you're talking about the haunted house?\"",
       "voices": [
         {
           "name": "汐音",
@@ -1321,9 +1321,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……そう。それ」",
+      "txt": "\"... Yeah. That.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1332,9 +1332,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「別にいいけど、わたしはあまり信じてないからなぁ」",
+      "txt": "\"It's okay, but I don't really believe in it.\"",
       "voices": [
         {
           "name": "汐音",
@@ -1350,9 +1350,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「その割には昨日は思わせぶりだったじゃないか」",
+      "txt": "\"You were a bit of a tease yesterday, though.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1361,9 +1361,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「だってここにそういう噂があって、嫌がってる親戚の人が\\nいるのは本当だもん」",
+      "txt": "\"Because it's true that there's a rumor about this place,\\nand it's true that I have relatives who don't like it.\"",
       "voices": [
         {
           "name": "汐音",
@@ -1379,9 +1379,9 @@
       "txt_idk_2": "「だってここにそういう噂があって、嫌がってる親戚の人がいるのは本当だもん」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「そうなのか？」",
+      "txt": "\"Is that so?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1390,9 +1390,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「壊しちゃえばいいのにって人もいたみたいだよ。\\nお爺ちゃんがすっごく反対して、建物をこのままにして管理\\nするようにって遺言まで残してたくらいだから」",
+      "txt": "\"Some people wish they would just tear it down. Grandpa\\nwas very opposed to it, and he even left a will that said he wanted to keep the building intact and maintained. That's about right.\"",
       "voices": [
         {
           "name": "汐音",
@@ -1408,9 +1408,9 @@
       "txt_idk_2": "「壊しちゃえばいいのにって人もいたみたいだよ。お爺ちゃんがすっごく反対して、建物をこのままにして管理するようにって遺言まで残してたくらいだから」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「そうだったのか」",
+      "txt": "\"I didn't know that.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1421,7 +1421,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "汐音の藤宮家とうちはイトコの関係だけど、ここに住んでた\\n爺さんは俺の祖父という訳じゃない。",
+      "txt": "The Fujimiya family in Shione's side are related to my\\nfamily, but the old man who lived here was not my grandfather.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1432,7 +1432,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "孫の汐音も俺も、もう一人の幼馴染も分け隔てなく接して\\nくれていたけど、親族にしか分からない事もある。",
+      "txt": "The grandkids, Shione and I, and my other childhood\\nfriend, were not separated, but there are some things that\\nonly relatives can understand.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1443,7 +1443,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "俺にとってはただ何となく残ってる建物だったけど、今の話\\nからすると、爺さんは何かを知っていたか、特別な思い入れが\\nあって残そうとしたように思える。",
+      "txt": "To me, it was just a leftover building, but from what I'm\\nhearing now, it sounds like the old man knew something\\nor had a special place in his heart and wanted to keep it.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1454,7 +1454,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "それがお化け屋敷の話に繋がってるのか確かめる術はない。\\nならどちらにしろ、今となってはどうでもいい話だ。",
+      "txt": "There's no way to know for sure if that's connected to the\\nhaunted house story.\\nEither way, it doesn't matter now.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1463,9 +1463,9 @@
       "txt_idk_2": "それがお化け屋敷の話に繋がってるのか確かめる術はない。ならどちらにしろ、今となってはどうでもいい話だ。"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「そういや、汐音はこんな朝っぱらから何してるんだ？」",
+      "txt": "\"Well, what's Shione doing here early in the morning?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1474,9 +1474,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「わたし？　回覧板届けにきたんだよ」",
+      "txt": "\"Me? I'm here to deliver a notice.\"",
       "voices": [
         {
           "name": "汐音",
@@ -1492,9 +1492,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「うち……というかここに？」",
+      "txt": "\"Home... or is it here?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1503,9 +1503,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「ううん。そうじゃなくて」",
+      "txt": "\"No. It's not that.\"",
       "voices": [
         {
           "name": "汐音",
@@ -1523,7 +1523,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "汐音が手にしている回覧板を見る。",
+      "txt": "Shione looks at the notice in her hand.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1534,7 +1534,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "それから辺りを見渡して、該当の家に見当を付けた。",
+      "txt": "Then I looked around and took a look at the house in\\nquestion.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1543,9 +1543,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「ああ、あそこか」",
+      "txt": "\"Oh, there it is.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1556,7 +1556,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "向かいの家を指差した。",
+      "txt": "I pointed to the house across the street.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1565,9 +1565,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「え？　そうだけど……良くわかったね」",
+      "txt": "\"What? Yes, but... well, you know what I mean.\"",
       "voices": [
         {
           "name": "汐音",
@@ -1583,9 +1583,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「ん、まぁな。これもってけばいいんだろ。それなら俺が\\nやっておくよ」",
+      "txt": "\"Hmm, well. I'll take that. I'll take care of that for you.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1594,9 +1594,9 @@
       "txt_idk_2": "「ん、まぁな。これもってけばいいんだろ。それなら俺がやっておくよ」"
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「でも悪いよ」",
+      "txt": "\"But I'm sorry.\"",
       "voices": [
         {
           "name": "汐音",
@@ -1612,9 +1612,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「いいっていいって」",
+      "txt": "\"No, it's fine.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1625,7 +1625,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "言いながら、回覧板を受け取る。",
+      "txt": "As I say this, I receive a pamphlet.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1636,7 +1636,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "めくって裏を見ると、案の定、藤宮家の次の巡回先は桜花荘に\\nなっていた。",
+      "txt": "I turned around and looked at the back of the house,\\nand sure enough, he Fujimiya family's\\nnext visit was to Ouka Manor.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1645,9 +1645,9 @@
       "txt_idk_2": "めくって裏を見ると、案の定、藤宮家の次の巡回先は桜花荘になっていた。"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「本来ならここの人間が持ってくモンみたいだし」",
+      "txt": "\"It's like they're supposed to have it.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1656,9 +1656,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「う……それはそうなんだけど」",
+      "txt": "\"Umm... that's true, but...\"",
       "voices": [
         {
           "name": "汐音",
@@ -1674,9 +1674,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「じゃあ、お願いできる？」",
+      "txt": "\"So, could you do me a favor?\"",
       "voices": [
         {
           "name": "汐音",
@@ -1692,9 +1692,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「もちろん。次からは余計な遠慮は要らないからな」",
+      "txt": "\"Of course. Next time, you won't have to be as reserved.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1703,9 +1703,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "汐音",
+      "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "「でもタカちゃんってほんとカンがいいよね」",
+      "txt": "\"But you're really intuitive, aren't you, Taka-chan?\"",
       "voices": [
         {
           "name": "汐音",
@@ -1721,9 +1721,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……まあ、そうだな」",
+      "txt": "\"... well, yeah.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1734,7 +1734,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "軽く雑談して帰宅する汐音を見送った。",
+      "txt": "We chatted lightly and then I watched Shione go home.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1743,20 +1743,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「別にカンがいい訳じゃないけど……まあ、いいか」",
-      "voices": null,
-      "idk_1": 448,
-      "scene_data": null,
-      "idk_2": null,
-      "txt_idk_1": null,
-      "txt_idk_2": null
-    },
-    {
-      "actual_character_speaking": null,
-      "hidden_character_speaking": null,
-      "txt": "そっちの方が余計な説明も要らないし。",
+      "txt": "\"I'm not a very good judge of character, but... okay.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1767,7 +1756,18 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "回覧板を見ると、次の廃品回収の連絡と、近所の公園で近々\\nフリーマーケットがあるという告知だった。",
+      "txt": "I don't need any extra explanation that way.",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": null,
+      "hidden_character_speaking": null,
+      "txt": "I looked at the handout and saw a notice of the next scrap\\nmetal collection, and an announcement of an upcoming\\nflea market at a nearby park.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1778,7 +1778,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "向かいの家に届けると、普段届けにくる汐音じゃなかった事を\\n説明するのに、少しだけ時間を取られてしまった。",
+      "txt": "When I delivered it to the house across the street, it\\ntook me a bit of time to explain that it wasn't Shione who usually delivered it.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1787,9 +1787,9 @@
       "txt_idk_2": "向かいの家に届けると、普段届けにくる汐音じゃなかった事を説明するのに、少しだけ時間を取られてしまった。"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "（……気分転換くらいにはなったかな）",
+      "txt": "(... maybe it was just a change of pace.)",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -1800,7 +1800,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "ずいぶん話好きの人で、引っ越してきた説明から何から話して\\nいると、気がついたら３０分ほど経過していた。",
+      "txt": "He was quite a talker, and I found myself talking about\\neverything from the explanation of moving in to\\neverything else, and about 30 minutes had passed.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1811,7 +1811,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "お化け屋敷の噂について知ってるか気にはなったが、わざわざ\\nそんな話を切り出す切っ掛けもなく、普通の雑談で終わって\\nしまった。",
+      "txt": "I was curious if he knew about the rumors of the haunted\\nhouse, but I didn't bother to start talking about it, and we\\nended up having the usual banter.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1822,7 +1822,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "でもそのおかげで、日常に一気に引きもどされた感じで、妙な\\n心霊現象に躊躇していたのが馬鹿らしくなってくる。",
+      "txt": "But because of that, I feel pulled back into my daily life\\nall at once, and I feel ridiculous for having been hesitant\\nabout the strange spiritual phnomenon.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1833,7 +1833,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "本当に幽霊が出るなら、それはそれで話が早い。",
+      "txt": "If it really is haunted, that's a quick story.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1844,7 +1844,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "今さら多少おかしな事に気を取られても、本当に今さらの話に\\nなってしまう訳だし……。",
+      "txt": "Even if you're distracted by something a little crazy now,\\nit's really too late to be talking about it now...",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1855,7 +1855,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "桜花荘に戻って階段を上がり、二階の自室に向かう。",
+      "txt": "I went back to Ouka and walked up the stairs to\\nmy room on the second floor.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1866,7 +1866,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "例の白い影もなく、桜花荘の中は何の変化もなかった。",
+      "txt": "Without the white shadow being seen like usual,\\nthere was no change inside Ouka Manor.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1877,7 +1877,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "……けれど……。",
+      "txt": "...but...",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1888,7 +1888,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "白い影をまた見るくらいは、覚悟していた。",
+      "txt": "I was prepared to at least look at that white shadow again.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1899,7 +1899,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "でも、自分の部屋で待っていたのはそれを遥かに超越した\\n出来事だった。",
+      "txt": "But what awaited me in my room was an event that far\\ntranscended that.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1910,7 +1910,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "部屋の中に、女の子がいる。",
+      "txt": "There's a girl in the room.",
       "voices": null,
       "idk_1": 472,
       "scene_data": null,
@@ -1921,7 +1921,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "長い髪は窓から入る風に揺られ、色彩鮮やかな着物の上に\\n軽く掛かっている。",
+      "txt": "Her long hair swayed in the breeze coming in through the\\nwindow and hung lightly on her brightly colored kimono.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -1932,7 +1932,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "整った綺麗な顔に浮かぶのはほほ笑み。",
+      "txt": "A smile appeared on her beautiful, well-groomed face.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -1943,7 +1943,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "入り口に佇む俺に向けている。",
+      "txt": "She pointed it at me while standing in the doorway.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -1954,7 +1954,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "深い瞳と視線がまじりあって離れない。",
+      "txt": "Her deep eyes and gaze mingled together and never left.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -1976,7 +1976,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "ただ目の前にいる人物が、外からこの建物に入ったのではない\\n事だけは、誰よりもよく分かっていた。",
+      "txt": "The only thing I knew better than anyone else was that the\\nperson in front of me had not entered the building from\\nthe outside.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -1985,9 +1985,9 @@
       "txt_idk_2": "ただ目の前にいる人物が、外からこの建物に入ったのではない事だけは、誰よりもよく分かっていた。"
     },
     {
-      "actual_character_speaking": "桜花",
-      "hidden_character_speaking": "少女",
-      "txt": "「こんにちは。昨夜は驚かせてしまいましたね」",
+      "actual_character_speaking": "Ouka",
+      "hidden_character_speaking": "Girl",
+      "txt": "\"Hello. I'm sorry I startled you last night.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2003,9 +2003,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「あ……ああ」",
+      "txt": "\"Oh... ah...\"",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2016,7 +2016,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "涼やかな声に首を振る事しか出来ない。",
+      "txt": "All I could do was shake my head at the cool voice.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2027,7 +2027,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "俺の態度がおかしかったのか、少女はくすりと笑った。",
+      "txt": "The girl giggled, as if my attitude was funny.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2036,9 +2036,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
-      "hidden_character_speaking": "少女",
-      "txt": "「ごめんなさい。驚かないでください。少し、お話がしたい\\nだけなのです」",
+      "actual_character_speaking": "Ouka",
+      "hidden_character_speaking": "Girl",
+      "txt": "\"I'm sorry.\\nPlease don't be surprised, I just want to talk a little.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2054,9 +2054,9 @@
       "txt_idk_2": "「ごめんなさい。驚かないでください。少し、お話がしたいだけなのです」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「…………わかった」",
+      "txt": "\"...Okay\"",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2065,9 +2065,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
-      "hidden_character_speaking": "少女",
-      "txt": "「あら」",
+      "actual_character_speaking": "Ouka",
+      "hidden_character_speaking": "Girl",
+      "txt": "\"Oh, my.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2085,7 +2085,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "頷くと、少女は自分が提案したくせに首を傾げる。",
+      "txt": "Nodding, the girl tilted her head, even though she had\\nsuggested it.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2094,9 +2094,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
-      "hidden_character_speaking": "少女",
-      "txt": "「そう素直に受け入れてくれるとは思いませんでした。\\n何か理由があるのですか？」",
+      "actual_character_speaking": "Ouka",
+      "hidden_character_speaking": "Girl",
+      "txt": "\"I didn't expect you to accept it so honestly.\\nIs there a reason for this?\"",
       "voices": [
         {
           "name": "桜花",
@@ -2112,9 +2112,9 @@
       "txt_idk_2": "「そう素直に受け入れてくれるとは思いませんでした。何か理由があるのですか？」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「そういう訳じゃないけど……話くらいしないと、事情も\\n分からないし、何も出来ないから」",
+      "txt": "\"It's not that, but if you don't talk to me at least...\\nI won't know that's going on and I won't be able to do\\nanything about it.\"",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2123,9 +2123,9 @@
       "txt_idk_2": "「そういう訳じゃないけど……話くらいしないと、事情も分からないし、何も出来ないから」"
     },
     {
-      "actual_character_speaking": "桜花",
-      "hidden_character_speaking": "少女",
-      "txt": "「なるほど、道理ですね。あなたの理解する手助けになれた\\nなら幸いです」",
+      "actual_character_speaking": "Ouka",
+      "hidden_character_speaking": "Girl",
+      "txt": "\"I see, that makes sense.\\nI hope I was able to help you nunderstand.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2141,9 +2141,9 @@
       "txt_idk_2": "「なるほど、道理ですね。あなたの理解する手助けになれたなら幸いです」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……？」",
+      "txt": "\"...?\"",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2154,7 +2154,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "自分の事を話すのだろうに、少女は妙に客観じみた事を言う。",
+      "txt": "The girl said something strangely objective, even though\\nshe was probably talking about herself.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2163,8 +2163,8 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
-      "hidden_character_speaking": "少女",
+      "actual_character_speaking": "Ouka",
+      "hidden_character_speaking": "Girl",
       "txt": "「私は……[おうか,1]桜花とでも名乗りましょうか。\\nこの建物と同じ名です」",
       "voices": [
         {
@@ -2181,9 +2181,9 @@
       "txt_idk_2": "「私は……桜花とでも名乗りましょうか。この建物と同じ名です」"
     },
     {
-      "actual_character_speaking": "桜花",
-      "hidden_character_speaking": "少女",
-      "txt": "「あなたは道隆ですね。私が見えていたようでしたので、昨夜\\nは少々観察をさせていただいてました」",
+      "actual_character_speaking": "Ouka",
+      "hidden_character_speaking": "Girl",
+      "txt": "\"You must be Michitaka.\\nSince you seemed to be able to see me, I was able to\\nobserve you a little last night.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2199,9 +2199,9 @@
       "txt_idk_2": "「あなたは道隆ですね。私が見えていたようでしたので、昨夜は少々観察をさせていただいてました」"
     },
     {
-      "actual_character_speaking": "桜花",
-      "hidden_character_speaking": "少女",
-      "txt": "「驚かせた事は改めて謝罪します」",
+      "actual_character_speaking": "Ouka",
+      "hidden_character_speaking": "Girl",
+      "txt": "\"Again, I apologize for the surprise.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2219,7 +2219,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "少女――桜花は深々と頭を下げた。",
+      "txt": "The girl - Ouka - bowed her head deeply.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2228,9 +2228,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「それから、私の姿が見えて声が聞こえた事を嬉しく思います」",
+      "txt": "\"And I'm glad you can see and hear me.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2246,9 +2246,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「――――あ、ああ。丁寧に、どうも」",
+      "txt": "\"---- Oh, yeah. That's very polite, thank you.\"",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2259,7 +2259,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "ようやく驚きから体が動くようになって、やっとの思いで\\n絞りだしたのは、そんな言葉だった。",
+      "txt": "That's what I finally managed to squeeze out of my body\\nas it finally began to move from surprise.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2270,7 +2270,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "桜花は俺を見てくすりと笑う。",
+      "txt": "Ouka looked at me and chuckled.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2279,9 +2279,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「お名前を伺ってもよろしいですか？」",
+      "txt": "\"May I ask for your name?\"",
       "voices": [
         {
           "name": "桜花",
@@ -2297,9 +2297,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「…………改めて自己紹介しろって事か」",
+      "txt": "\"You want me to introduce myself again....?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2321,7 +2321,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "本当に妙な気分だ。",
+      "txt": "I feel really strange.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2332,7 +2332,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "こんな所で時代がかった格好の女の子と話すのもそうだし、\\n自分の部屋で自己紹介もおかしい。",
+      "txt": "It was strange to talk to a girl in an old-fasioned outfit\\nin an place like this, and it was strange to introduce\\nmyself in my own room.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2341,7 +2341,7 @@
       "txt_idk_2": "こんな所で時代がかった格好の女の子と話すのもそうだし、自分の部屋で自己紹介もおかしい。"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
       "txt": "「新堂道隆。久住学園の……春休みがあけたら２年になる。\\n……名前呼んでる相手に改めて自己紹介っていうのも、少し\\n居心地悪いな」",
       "voices": null,
@@ -2354,7 +2354,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "ぎこちない自己紹介も済んで、改めて目の前の桜花を見る。",
+      "txt": "After my awkward self-introduction, I saw\\ncherry blossoms in front of me again.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2365,7 +2365,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "着てる着物は……袴なんだろうか。\\n正月に見る着物より動きやすそうだし、剣道とか弓道なんかで\\n見た事ある格好をしている。",
+      "txt": "I wonder if the kimono she is wearing is a... hakama.\\nIt looks more comfortable than the ones I see on New\\nYears and looks like something used in kendo or archery.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2376,7 +2376,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "でもそれよりずっと華やかで女の子らしい。",
+      "txt": "But it's much more glamorous and girly than that.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2387,7 +2387,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "日常で着るには少々時代錯誤だが、彼女とこの建物には良く\\n似合っている。",
+      "txt": "It's a bit old-fashioned for everyday wear, but it suits\\nher and this building.",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2396,9 +2396,9 @@
       "txt_idk_2": "日常で着るには少々時代錯誤だが、彼女とこの建物には良く似合っている。"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……なんか変な感じがする」",
+      "txt": "\"... I have a weird feeling about this.\"",
       "voices": null,
       "idk_1": 456,
       "scene_data": null,
@@ -2409,7 +2409,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "妙に落ち着かない。",
+      "txt": "I feel strangely unsettled.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2420,7 +2420,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "桜花の存在自体もそうだ。\\nでも、それを不思議と受け入れて会話してしまってる自分自身\\nについてもだ。",
+      "txt": "Ouka's exsistence itself is the same. But it's also about\\nmyself, who has strangely accepted and conversed with her.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2431,7 +2431,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "桜花が友好的な態度を取っていて、かつ丁寧な物腰だから\\n慌てるより先に落ち着かされてしまった。",
+      "txt": "Ouka's friendly attitude and polite manner calmed me\\ndown before I could panic.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2442,7 +2442,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "一度落ち着いてしまうと、今度は慌てる方が変に思えてしまう。",
+      "txt": "Once you calm down, it seems strange to panic now.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2453,7 +2453,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "その結果、こうして存在しないはずの人と座って落ち着いて\\n話をするという、奇妙な状況になっている。",
+      "txt": "As a result, I find myself in a strange situation of sitting\\nand calmly talking with someone who shouldn't exist in\\nthis way.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2464,7 +2464,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "でもそれ以上に、収まりの悪い奇妙な感覚がついて回る。",
+      "txt": "But more than that, a strange feeling of inability to fit in\\nfollowed me.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2473,9 +2473,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「私がですか？　それとも、道隆がまだ納得しきれていない\\nから、回答を欲しているのでしょうか」",
+      "txt": "\"Me? Or is it that Michitaka is still not fully convinced and\\nwants an answer?\"",
       "voices": [
         {
           "name": "桜花",
@@ -2491,9 +2491,9 @@
       "txt_idk_2": "「私がですか？　それとも、道隆がまだ納得しきれていないから、回答を欲しているのでしょうか」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「存在そのものもそうなんだけど……」",
+      "txt": "\"So is existence itself...\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2504,7 +2504,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "今の返事もそうだ。",
+      "txt": "That's what I just said.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2515,7 +2515,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "自分の心理を言葉に直されたみたいだ。",
+      "txt": "It's like my thoughts have been put into words.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2526,7 +2526,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "彼女がどう思うかとか、そういうんじゃない。",
+      "txt": "It's not about what she thinks or anything like that.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2537,7 +2537,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "俺がどう思うかを桜花は口にしている。",
+      "txt": "Ouka is saying what I think.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2546,9 +2546,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「今、道隆が疑問に思った事は正解に近いです」",
+      "txt": "\"What Michitaka just questioned is closed to the right\\nanswer.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2564,9 +2564,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「え――っ！？」",
+      "txt": "\"What-?!\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2577,7 +2577,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "心の中を読まれたような発言に、ぎくりとした。",
+      "txt": "I cringed at my comment, as if someone had read my mind.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2586,9 +2586,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「別に心の中を読んだ訳ではありません。ただ……そうですね。\\n目の前にいる私は、影のようなものなのです」",
+      "txt": "\"It's not that I'm reading your mind. It's just that... you're\\nright. I'm right in front of you, and I'm like a shadow.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2604,9 +2604,9 @@
       "txt_idk_2": "「別に心の中を読んだ訳ではありません。ただ……そうですね。目の前にいる私は、影のようなものなのです」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「影……？　誰の？」",
+      "txt": "\"Shadow...? Whose?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2615,9 +2615,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「もちろん、あなたのですよ」",
+      "txt": "\"Yours, of course.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2633,9 +2633,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「俺の……？」",
+      "txt": "\"Mine...?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2646,7 +2646,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "意味が分からない。",
+      "txt": "I don't know what that means.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2657,7 +2657,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "というか、俺自身だとしたらこんなに綺麗な女の子である\\nはずがない。",
+      "txt": "I mean, if it was me, I couldn't possibly be a beautiful girl\\nlike her.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2668,7 +2668,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "そりゃ男だから、可愛くて綺麗な女の子が現れたら嬉しいし、\\n和服は綺麗だし滅多に見ないから、着てるならいいと思う。",
+      "txt": "That's because I'm a guy, and I'm happy when a pretty,\\nbeautiful girl shows up, and kimonos are beautiful and\\nrarely seen, so I think it's fine if she's wearing one.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2679,7 +2679,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "でも常日頃から幻覚を見たり、自己投影するほど熱心に思って\\nる訳じゃない。",
+      "txt": "But I'm not so passionate about it that I hallucinated or\\nproject myself into it on a regular basis.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2688,9 +2688,9 @@
       "txt_idk_2": "でも常日頃から幻覚を見たり、自己投影するほど熱心に思ってる訳じゃない。"
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「何と説明したらいいでしょうね。\\n私の中には、道隆の言葉しかないので、少々難しいのです」",
+      "txt": "\"I don't know how to explain it. It's a little difficult,\\nbecause all I have are the words of Michitaka.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2706,9 +2706,9 @@
       "txt_idk_2": "「何と説明したらいいでしょうね。私の中には、道隆の言葉しかないので、少々難しいのです」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……？」",
+      "txt": "\"...?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2717,9 +2717,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「私は……影。この桜花荘に根付いた想いが人の姿を取って\\nいるように見えるだけなのです」",
+      "txt": "\"I am... a shadow. It's just that the thoughts that have\\ntaken root in this house seem to have taken on human\\nform.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2735,9 +2735,9 @@
       "txt_idk_2": "「私は……影。この桜花荘に根付いた想いが人の姿を取っているように見えるだけなのです」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「人の……想い……？」",
+      "txt": "\"People's... thoughts...?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2746,9 +2746,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「そう訝しげになる必要はありませんよ。\\nあなたは常日頃から、それを『観て』いるはずです」",
+      "txt": "\"You don't have to be so doubtful.\\nYou 'see' it all the time.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2764,9 +2764,9 @@
       "txt_idk_2": "「そう訝しげになる必要はありませんよ。あなたは常日頃から、それを『観て』いるはずです」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「…………あ……」",
+      "txt": "\"...and...\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2777,7 +2777,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "その言葉に、少しだけ驚いた。",
+      "txt": "I was a little surprised at what she said.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2788,7 +2788,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "それは他人には殆ど話さず、隠していた秘密だったから。",
+      "txt": "It was a secret that I had kept hidden, rarely telling others.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2797,9 +2797,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「この建物に染みついた想いの結晶。そう思って下さって\\n構いません」",
+      "txt": "\"It's a manifestation of the feelings that have seeped into\\nthis building. You can think of it that way.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2815,9 +2815,9 @@
       "txt_idk_2": "「この建物に染みついた想いの結晶。そう思って下さって構いません」"
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「長い建物が持つ膨大な情報は、あなたの目を通して形となり\\n処理するのにふさわしい姿を形作った」",
+      "txt": "\"The vast amount of information in the long building has\\nformed a shape worthy of being molded and processed\\nthrough your eyes.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2833,9 +2833,9 @@
       "txt_idk_2": "「長い建物が持つ膨大な情報は、あなたの目を通して形となり処理するのにふさわしい姿を形作った」"
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「ゆえに、私はあなたの知る言葉でしか話せず、誰の目にも\\n触れる事はない」",
+      "txt": "\"Therefore, I can only speak in the language you know,\\nand no one will ever see me.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2851,9 +2851,9 @@
       "txt_idk_2": "「ゆえに、私はあなたの知る言葉でしか話せず、誰の目にも触れる事はない」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「だから影なのか」",
+      "txt": "\"So that's why you're a shadow.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2862,9 +2862,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「信じてくれるのですか？」",
+      "txt": "\"Do you believe me?\"",
       "voices": [
         {
           "name": "桜花",
@@ -2880,9 +2880,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……んなこと言われてもな。\\n信じるも信じないも、混乱してて分からない」",
+      "txt": "\"... don't tell me that. Believe it or not,\\nI'm so confused I don't know.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2893,7 +2893,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "何より、彼女の言う事を証明する方法が何一つ無いのだ。",
+      "txt": "Most importantly, there is no way to prove anything she\\nsays.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2904,7 +2904,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "そもそも、そこで躓いてしまっている。",
+      "txt": "That's where I stumbled in the first place.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2915,7 +2915,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "けれどそれなら、さっき自己紹介をする前に、俺の名前を\\n知っていたのも納得できてしまう。",
+      "txt": "But then it makes sense that she knew my name before\\nshe introduced herself earlier.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2924,9 +2924,9 @@
       "txt_idk_2": "けれどそれなら、さっき自己紹介をする前に、俺の名前を知っていたのも納得できてしまう。"
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「では一つ試してみましょうか」",
+      "txt": "\"Then let's try one.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2944,7 +2944,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "そう言って視線を窓の外に向ける。",
+      "txt": "Then she turned her gaze out the window.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -2955,7 +2955,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "桜花につられて外を見ると、千歳さんの姿が見えた。",
+      "txt": "Ouka grabbed me and made me look outside, where I\\nsaw Chitose.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2964,9 +2964,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「手にしているのは食べ物のようですね。きっと道隆への\\n差し入れでしょう」",
+      "txt": "\"What she has in hers hand seems to be food.\\nIt must be a gift for Michitaka.\"",
       "voices": [
         {
           "name": "桜花",
@@ -2982,9 +2982,9 @@
       "txt_idk_2": "「手にしているのは食べ物のようですね。きっと道隆への差し入れでしょう」"
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「下に降りて、彼女に会って下さい。少し遅れて私が顔を\\n出せば、見えるのならば突然の事に驚くはずです」",
+      "txt": "\"Go downstairs and see her. If I show up a little later, if\\nyou can see me, you'll be surprised at how sudden it is.\"",
       "voices": [
         {
           "name": "桜花",
@@ -3000,9 +3000,9 @@
       "txt_idk_2": "「下に降りて、彼女に会って下さい。少し遅れて私が顔を出せば、見えるのならば突然の事に驚くはずです」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「そりゃそうだ」",
+      "txt": "\"Yeah, that's right.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3013,7 +3013,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "幽霊屋敷の幽霊でも、俺が女の子を連れ込んだのでも、どちら\\nにしても、この建物にはいないはずの異分子だ。",
+      "txt": "Whether it's the ghost of the haunted house or me\\nbringing that girl in, either way, it's an foreign being that\\nshouldn't be in this building.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3024,7 +3024,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "それに千歳さんは掃除やら歓迎会やらで、昨日はずっとここに\\nいた。",
+      "txt": "Besides, Chitose was here all of yesterday for cleaning\\nand a welcome party.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3035,7 +3035,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "桜花荘に他に人間がいなかったのは、千歳さんが一番良く\\n知っている。",
+      "txt": "Chitose knew that there were no other people in Sakuraso.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3044,9 +3044,9 @@
       "txt_idk_2": "桜花荘に他に人間がいなかったのは、千歳さんが一番良く知っている。"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「どっちにしろ千歳さんが来るなら部屋でじっと待ってても\\n結果は同じだ。それに乗るよ」",
+      "txt": "\"Either way, if Chitose is coming, the result will be the\\nsame if I stay in my room and wait. I'll take that.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3055,9 +3055,9 @@
       "txt_idk_2": "「どっちにしろ千歳さんが来るなら部屋でじっと待ってても結果は同じだ。それに乗るよ」"
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「では、要件が済んだ辺りで顔を出しますね」",
+      "txt": "\"I'll see you around when I'm done.\"",
       "voices": [
         {
           "name": "桜花",
@@ -3075,7 +3075,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "桜花に頷いて、外に出る。",
+      "txt": "I nodded to Ouka and went outside.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3084,9 +3084,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「………………」",
+      "txt": "\"...\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3097,7 +3097,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "おかしな存在と普通に会話をしてしまった事に、今さら妙な\\n高揚を覚えてくる。",
+      "txt": "I feel strangely uplifted now that I've had a normal\\nconversation with a strange being.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3108,7 +3108,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "これを誰かに話したい気持ちと、黙っていた方がいい気持ちが\\n相反して襲ってくる。",
+      "txt": "A conflicting feeling of wanting to tell someone about this\\nand a feeling of being silent struck me.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3119,7 +3119,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "……まあ、千歳さんが彼女を見えたのなら、遠からず話す事に\\nなるのだろうけど。",
+      "txt": "... Well, if Chitose could see her, I'm sure we'll be taking\\nin the not too distant future.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3128,9 +3128,9 @@
       "txt_idk_2": "……まあ、千歳さんが彼女を見えたのなら、遠からず話す事になるのだろうけど。"
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「こんにちはー……あら、ちょうどいいわね」",
+      "txt": "\"Hello.\\n... Oh, just in time.\"",
       "voices": [
         {
           "name": "千歳",
@@ -3148,7 +3148,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "千歳さんが玄関を開けるのと、俺が下りたのはほぼ同時だった。",
+      "txt": "Chitose opened the front door and I came down almost at\\nthe same time.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3157,9 +3157,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「もう朝ごはん食べた？」",
+      "txt": "\"Have you had breakfast yet?\"",
       "voices": [
         {
           "name": "千歳",
@@ -3175,9 +3175,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「いや……なんか色々とあって、今朝はまだです」",
+      "txt": "\"No... there's just been some stuff going on, but not yet.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3186,9 +3186,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「そうなんだ。ちょうど良かった」",
+      "txt": "\"Oh, yeah. Just as well.\"",
       "voices": [
         {
           "name": "千歳",
@@ -3206,7 +3206,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "手にしたお盆の上には、香ばしい焼きおにぎりが乗っていた。",
+      "txt": "On the tray in her hands was a savory roasted rice ball.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3215,9 +3215,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「焼いてあるから、一日くらいなら保存も利くわ。\\n今じゃなくても、お腹が空いたら食べてね」",
+      "txt": "\"It's roasted, so it'll last for a day or so. Even if you don't eat it now, you can eat it later, when you're hungry.\"",
       "voices": [
         {
           "name": "千歳",
@@ -3233,9 +3233,9 @@
       "txt_idk_2": "「焼いてあるから、一日くらいなら保存も利くわ。今じゃなくても、お腹が空いたら食べてね」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「ありがとうございます」",
+      "txt": "\"Thank you very much.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3257,7 +3257,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "差し入れはとてもありがたいけど、この先の事を考えると\\n気が気じゃない。",
+      "txt": "I'm very grateful for the food, but I'm not sure I'm ready for what's to come.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3268,7 +3268,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "そういえば、桜花はまだ来ないのだろうか。",
+      "txt": "Speaking of which, has Ouka come yet?",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3279,7 +3279,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "早く来ないと、千歳さんが帰ってしまうけれど……。",
+      "txt": "If you don't come soon, Chitose will leave, but...",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3290,7 +3290,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "背後を振り返る。",
+      "txt": "I look back behind me.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3299,9 +3299,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「ほら、見えていないだろう」",
+      "txt": "\"Look, you can't see me.\"",
       "voices": [
         {
           "name": "桜花",
@@ -3317,7 +3317,7 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
       "txt": "「――――っ」",
       "voices": null,
@@ -3330,7 +3330,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "彼女は既にそこにいて、先ほどとは違った少々おどけた口調で\\n笑みを浮かべていた。",
+      "txt": "She was already there, smiling in a slightly mischievous tone, different from before.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3339,9 +3339,9 @@
       "txt_idk_2": "彼女は既にそこにいて、先ほどとは違った少々おどけた口調で笑みを浮かべていた。"
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「どうかしたの？」",
+      "txt": "\"What's wrong?\"",
       "voices": [
         {
           "name": "千歳",
@@ -3357,9 +3357,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「え……あ。何でもないです」",
+      "txt": "\"Uh... it's nothing.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3368,9 +3368,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「それより、これありがとうございました。\\n後で頂きます」",
+      "txt": "\"Thank you very much for this. I'll eat it later.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3379,9 +3379,9 @@
       "txt_idk_2": "「それより、これありがとうございました。後で頂きます」"
     },
     {
-      "actual_character_speaking": "千歳",
+      "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "「いいのいいの。何か困った事があったらいつでも来てね」",
+      "txt": "\"It's fine, it's fine. If you need any help, just come by anytime.\"",
       "voices": [
         {
           "name": "千歳",
@@ -3399,7 +3399,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "小さく手を振って、千歳さんは帰っていった。",
+      "txt": "Waving her hand a little, Chitose left.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3408,9 +3408,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「そんなにあからさまに驚くと、彼女に不審がられてしまい\\nますよ」",
+      "txt": "\"If you're so obviously surprised, she's going to be suspicious.\"",
       "voices": [
         {
           "name": "桜花",
@@ -3426,9 +3426,9 @@
       "txt_idk_2": "「そんなにあからさまに驚くと、彼女に不審がられてしまいますよ」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……いきなり後ろにいたら、誰だって驚くって」",
+      "txt": "\"... Anyone would be surprised to see you behind me out of the blue.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3437,9 +3437,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「それで、どうでした？」",
+      "txt": "\"So, how did it go?\"",
       "voices": [
         {
           "name": "桜花",
@@ -3455,9 +3455,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「見えてなかったみたいだったな……こんだけ近くにいたのに\\n気がつかないなんて、あり得ない訳だし……」",
+      "txt": "\"It looks like she couldn't see you... it's impossible to be this close and not notice...\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3466,9 +3466,9 @@
       "txt_idk_2": "「見えてなかったみたいだったな……こんだけ近くにいたのに気がつかないなんて、あり得ない訳だし……」"
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「そうですね」",
+      "txt": "\"I agree.\"",
       "voices": [
         {
           "name": "桜花",
@@ -3486,7 +3486,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "となると、やっぱり本当に？",
+      "txt": "Then again, is it really?",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3497,7 +3497,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "いや、どちらにしても彼女が目の前にいて話が出来るのは\\n真実だ。",
+      "txt": "No, either way it's true that she's right in front of me and we can talk.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3508,7 +3508,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "そこから疑い始めたら、どうにもならない。",
+      "txt": "If you start doubting from there, there's nothing you can do.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3517,9 +3517,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……部屋に戻ろう。こんな所じゃゆっくり話も出来ない」",
+      "txt": "\"... Let's go back to the room. We can't talk much in here.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3530,7 +3530,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "二階の部屋に戻り、貰ったおにぎりに手を付ける。",
+      "txt": "I went back to my room upstairs and put my hand on the rice ball that was given to me.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -3539,9 +3539,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「食べないのか？」",
+      "txt": "\"Don't you eat?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3552,7 +3552,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "桜花は黙って首を振った。",
+      "txt": "Ouka silently shook her head.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3561,9 +3561,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「私はあなたが見ている影のようなものですから。物に触れる\\n事は出来ません。あなたも、私には触れられません」",
+      "txt": "\"Because I'm like a shadow you can see. I can't touch things. You can't touch me either.\"",
       "voices": [
         {
           "name": "桜花",
@@ -3579,9 +3579,9 @@
       "txt_idk_2": "「私はあなたが見ている影のようなものですから。物に触れる事は出来ません。あなたも、私には触れられません」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……そうなのか」",
+      "txt": "\"... I see.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3590,9 +3590,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「試してみますか？」",
+      "txt": "\"Would you like to try?\"",
       "voices": [
         {
           "name": "桜花",
@@ -3610,7 +3610,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "そう言われて、手を前に出す……そこでどこに触ろうかと一瞬\\n躊躇した。",
+      "txt": "When she said that, I put my hand out in front of me.... and hesitated for a moment, wondering where I should touch her at.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3621,7 +3621,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "このまま手を伸ばせば、彼女の胸元に辿りつく。",
+      "txt": "If I keep reaching out, I'll reach her chest.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3632,7 +3632,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "いくら触れないといっても、それはあんまりな行為だ。",
+      "txt": "No matter how much you don't want to touch it, it's still too much.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3643,7 +3643,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "かといって顔や頭に手を伸ばすのも、なにか違う。",
+      "txt": "However, there was something different about reaching for her face or head.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3654,7 +3654,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "手を触ろうと伸ばすのも、妙に意味深に感じられてしまう。",
+      "txt": "Even reaching out to touch her hand felt strangely meaning ful.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3665,7 +3665,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "女の子の体を好きに触れと言われても、これはこれでとても\\n困る行為なんだと思い知らされる。",
+      "txt": "I am reminded that this is a very troubling act when we are told to touch a girl's body as we please.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3674,9 +3674,9 @@
       "txt_idk_2": "女の子の体を好きに触れと言われても、これはこれでとても困る行為なんだと思い知らされる。"
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「ふふ」",
+      "txt": "\"Mmm\"",
       "voices": [
         {
           "name": "桜花",
@@ -3694,7 +3694,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "桜花は笑って、体を前に出した。",
+      "txt": "Ouka laughed and leaned forward.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3703,20 +3703,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「あ」",
-      "voices": null,
-      "idk_1": 448,
-      "scene_data": null,
-      "idk_2": null,
-      "txt_idk_1": null,
-      "txt_idk_2": null
-    },
-    {
-      "actual_character_speaking": null,
-      "hidden_character_speaking": null,
-      "txt": "それは一瞬の事だった。",
+      "txt": "\"Ah.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3727,7 +3716,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "俺の腕は彼女の胸元を突き抜けている。",
+      "txt": "It was only for a moment.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3738,7 +3727,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "触った感触すらなく、ホログラムのようだった。",
+      "txt": "My arms went through her chest.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3747,9 +3736,20 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "「この通りです」",
+      "txt": "It didn't even feel like a touch, it was like a hologram.",
+      "voices": null,
+      "idk_1": 448,
+      "scene_data": null,
+      "idk_2": null,
+      "txt_idk_1": null,
+      "txt_idk_2": null
+    },
+    {
+      "actual_character_speaking": "Ouka",
+      "hidden_character_speaking": null,
+      "txt": "\"Just like that.\"",
       "voices": [
         {
           "name": "桜花",
@@ -3765,9 +3765,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……これは、分かってても驚くな……」",
+      "txt": "\"... This is surprising, even if you know what you're doing...\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3776,9 +3776,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「私はあなたの見ている影――この桜花荘に根付いた想いの\\n結晶に過ぎません。こうして話している行為すら、本来は意味\\nのない物なのでしょうね」",
+      "txt": "\"I'm just a shadow you see, a crystal of thoughts that have taken root in this house. Even the act of talking to you like this must be meaningless.\"",
       "voices": [
         {
           "name": "桜花",
@@ -3794,9 +3794,9 @@
       "txt_idk_2": "「私はあなたの見ている影――この桜花荘に根付いた想いの結晶に過ぎません。こうして話している行為すら、本来は意味のない物なのでしょうね」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「だとしても、桜花は俺の目の前にいるだろ？」",
+      "txt": "\"Even so, Ouka is right in front of me, isn't she?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3805,9 +3805,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「はい……それはあなたの力が見せている幻です。\\nここに色濃く残った想いを整理し、納得が出来れば、私の姿は\\n像を結ぶ事なく消えるのでしょう」",
+      "txt": "\"Yes... it is an illusion that your power is showing you. When you have sorted out and convinced the feelings that remain here, my figure will disappear without forming an image.\"",
       "voices": [
         {
           "name": "桜花",
@@ -3823,9 +3823,9 @@
       "txt_idk_2": "「はい……それはあなたの力が見せている幻です。ここに色濃く残った想いを整理し、納得が出来れば、私の姿は像を結ぶ事なく消えるのでしょう」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「納得……？　俺が？」",
+      "txt": "\"Convinced...? I am?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3836,7 +3836,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "つまり、それをすると目の前の少女は消えてしまう訳なのか？",
+      "txt": "So you're saying that if I do that, the girl in front of me will disappear?",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3845,9 +3845,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「私は別にこのままでも構いませんが」",
+      "txt": "\"I'm fine with it as it is.\"",
       "voices": [
         {
           "name": "桜花",
@@ -3865,7 +3865,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "再び、俺の思考を先読みしたように、少女が言葉を発する。",
+      "txt": "Again, as if anticipating my thoughts, the girl speaks up.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3876,7 +3876,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "やはり俺の中にある物を投影してるというのは、本当なのかも\\nしれない。",
+      "txt": "Maybe it's true that I'm projecting what's inside of me after all.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3885,9 +3885,9 @@
       "txt_idk_2": "やはり俺の中にある物を投影してるというのは、本当なのかもしれない。"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「でもどうすればいいんだよ。これ以上に納得なんて出来ると\\n思えないけど」",
+      "txt": "\"But what am I supposed to do? I don't think I can convince you any more than I already have.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3896,9 +3896,9 @@
       "txt_idk_2": "「でもどうすればいいんだよ。これ以上に納得なんて出来ると思えないけど」"
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「では……そうですね。今日はお話をしませんか？\\nお互い、まだ知らない事も多いはずです。まずはそこから\\n始めてみるのはいかがでしょうか」",
+      "txt": "\"So... yes. Why don't we have a talk today? I'm sure there are many things we don't know about each other yet. How about we start from there?\"",
       "voices": [
         {
           "name": "桜花",
@@ -3914,9 +3914,9 @@
       "txt_idk_2": "「では……そうですね。今日はお話をしませんか？お互い、まだ知らない事も多いはずです。まずはそこから始めてみるのはいかがでしょうか」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「……それが無難かな。\\n何はともあれ、しばらくよろしく」",
+      "txt": "\"... I guess that's safe. At any rate, I look forward to working with you for a while.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3927,7 +3927,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "そう言うと、桜花は笑った。",
+      "txt": "Ouka laughed when I said that.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3936,9 +3936,9 @@
       "txt_idk_2": null
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「私はあなたが脳裏に映す像に過ぎないと言ったのに、挨拶を\\nするのですね」",
+      "txt": "\"I told you that I am nothing but an image you projected in your mind, and yet you greet me.\"",
       "voices": [
         {
           "name": "桜花",
@@ -3954,9 +3954,9 @@
       "txt_idk_2": "「私はあなたが脳裏に映す像に過ぎないと言ったのに、挨拶をするのですね」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「そう言わないと俺が『納得』出来ないんだよ。\\n目の前にいるのに、俺の妄想の産物なんて言われても認めたく\\nない心理を分かって欲しい」",
+      "txt": "\"I can't be 'connvinced' unless you say so. I want you to understand that I don't want to admit that you're a figment of my imagination when you're right in front of me.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3965,9 +3965,9 @@
       "txt_idk_2": "「そう言わないと俺が『納得』出来ないんだよ。目の前にいるのに、俺の妄想の産物なんて言われても認めたくない心理を分かって欲しい」"
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「分かりました。私はあなたに従う存在ですから、意のままに\\nいたしましょう」",
+      "txt": "\"I understand. I am following you, so let's do it.\"",
       "voices": [
         {
           "name": "桜花",
@@ -3985,7 +3985,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "そこで桜花は再び意地悪そうな笑みを浮かべる。",
+      "txt": "Then Ouka smiled again, a grinning smile on her face.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -3996,7 +3996,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "これも、俺の心の底に浮かんだ思考を読み取ったかのよう\\nだった。",
+      "txt": "It was as if she had also read the thoughts that were floating in the depths of my mind.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -4005,9 +4005,9 @@
       "txt_idk_2": "これも、俺の心の底に浮かんだ思考を読み取ったかのようだった。"
     },
     {
-      "actual_character_speaking": "桜花",
+      "actual_character_speaking": "Ouka",
       "hidden_character_speaking": null,
-      "txt": "「しかし……私はあなたの妄想の産物なら、いかような姿を\\n取らせる事も出来るのに、節度のある姿に留めているのですね」",
+      "txt": "\"But... I can make me look any way you want if I'm a figment of your imagination, but you keep me in moderation.\"",
       "voices": [
         {
           "name": "桜花",
@@ -4023,9 +4023,9 @@
       "txt_idk_2": "「しかし……私はあなたの妄想の産物なら、いかような姿を取らせる事も出来るのに、節度のある姿に留めているのですね」"
     },
     {
-      "actual_character_speaking": "道隆",
+      "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "「…………そういう事を突っ込まれると色々と困る」",
+      "txt": "\"... You know, I get in a lot of trouble when people ask me that.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -4036,7 +4036,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "服の着せ替え方なんか知らないし。",
+      "txt": "I don't even know how to dress myself up properly.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -4047,7 +4047,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "そもそも、完全に『納得』しきれてないから、桜花は今も\\nここにいるんだろうし。",
+      "txt": "In the first place, I'm not completely 'convinced', which is probably why Ouka is still here.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -4058,7 +4058,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "困った俺の顔を見て、桜花は再び笑った。",
+      "txt": "Seeing my troubled face, Ouka laughed again.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -4069,7 +4069,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "この日は一日[かのじょ,1]桜花と話して過ごすことにした。",
+      "txt": "I decided to spend the rest of my day talking to Ouka.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,

@@ -5,12 +5,12 @@
 What is this repository about?
 -------------
 This repository contains scripts and text for translating the game 花の野に咲くうたかたの.<br/>
-Text extracted from patch [1.11](http://www.applique-soft.com/sapo/hananono_patch_v1_11.zip)
+Text is extracted from the game with patch [1.11](http://www.applique-soft.com/sapo/hananono_patch_v1_11.zip) applied.
 
 Repository Structure
 -------------
-The directory `pretty_jpn` contains readable json text lines ***in Japanese***, of the original scn json script.<br/>
-The directory `pretty_eng` contains readable json text lines ***in English***, a translated copy of `pretty_jpn`.
+The directory `pretty_jpn` contains readable json text lines in ***Japanese***, of the original scn json script.<br/>
+The directory `pretty_eng` contains readable json text lines in ***English***, a translated copy of `pretty_jpn`.
 
 Credits
 -------------
