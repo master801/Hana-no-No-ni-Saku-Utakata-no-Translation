@@ -3,7 +3,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "The dinner with the Fujimiya family was very sumptuous\\nand delicious, partly because of auntie and Chitose-chan\\nhad put a lot of effort into making it.",
+      "txt": "The dinner with the Fujimiya family, including my aunt and\\nmy uncle, was very rich and delicious, partly because my\\naunt and Chitose had put a lot of effort into making it.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -14,7 +14,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "The Fujimiya family are very warm and welcoming every\\ntime they come to visit.",
+      "txt": "The Fujimaya family has always been very warm and\\nwelcoming each time I came to play.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -25,7 +25,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "This time, too, they didn't begrudge me that,\\nand have me an unworthy welcome...",
+      "txt": "This time was no different, and the welcome I received\\nwas almost too good to be true.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -36,7 +36,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"...a haunted house...\"",
+      "txt": "\"... A haunted house, huh...\"",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -47,7 +47,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "When dinner was over, we talked about a bit about that.",
+      "txt": "When dinner was over, we talked a bit about that.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -76,7 +76,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"I don't mind... but... you both sounded surprised that I\\ndidn't know.\"",
+      "txt": "\"I don't mind... but... you both seemed pretty surprised\\nthat I didn't know about it.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -105,7 +105,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "She looked at Chitose-san with a crisp reply.",
+      "txt": "She looked at her elder sister while giving an evasive reply.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -116,7 +116,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Apparently, it's hard for Shione-chan to talk.",
+      "txt": "It seems like Shione-chan can't talk about it for some\\nreason.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -127,7 +127,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"Maybe you've heard of it, but Ouka has a\\nnickname.\"",
+      "txt": "\"You may have heard about it before, but Ouka-sou has a\\nnickname.\"",
       "voices": [
         {
           "name": "千歳",
@@ -174,7 +174,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"Most of the time, it's just a neighborhood kid saying that\\nwhenever they see an old building that no one lives in.\"",
+      "txt": "\"But that's just what the neighborhood kids say when they\\nsee an old building with no one living in it.\"",
       "voices": [
         {
           "name": "千歳",
@@ -210,7 +210,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"Oh, I don't think so.\"",
+      "txt": "\"Oh, was it really the case?\"",
       "voices": [
         {
           "name": "千歳",
@@ -228,7 +228,7 @@
     {
       "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "\"That's right.\"",
+      "txt": "\"Yes.\"",
       "voices": [
         {
           "name": "汐音",
@@ -246,7 +246,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"... So that's it.\"",
+      "txt": "\"... So that's why they didn't tell me about it.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -257,7 +257,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "It's true that a \"haunted house\" would be a hard topic to\\ntalk about on the street.",
+      "txt": "Certainly, \"My house is haunted\" would be a difficult topic\\nto talk about on the streets.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -268,7 +268,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"... By the way, are you going to answer it?\\nYou're going to leave?\"",
+      "txt": "\"... By the way... Did it ever appear?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -279,7 +279,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "Well, what do you mean you're leaving?",
+      "txt": "What do you mean?",
       "voices": [
         {
           "name": "千歳",
@@ -297,7 +297,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"In this case, leaving, of course, means...\"",
+      "txt": "\"Well, of course I mean the gh...\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -308,7 +308,7 @@
     {
       "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "\"Don't say that. I can't live scared to live like that.\"",
+      "txt": "\"Stop with that, I'm gonna be too scared to sleep if you go\\non.\"",
       "voices": [
         {
           "name": "汐音",
@@ -326,7 +326,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"It's not like I'm leaving your house.\"",
+      "txt": "\"It's not like it would appear in your house though, right?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -337,7 +337,7 @@
     {
       "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "\"Because we live right next to each other.\"",
+      "txt": "\"But it's right next door...\"",
       "voices": [
         {
           "name": "汐音",
@@ -355,7 +355,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"... well, yeah.\"",
+      "txt": "\"... Well, that's true.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -366,7 +366,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Looking out the window from Shione-chan's room,\\nI can see Ouka up close.",
+      "txt": "You can see Ouka-so from up close looking out the window\\nin Shione-chan's room after all.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -377,7 +377,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "You'd be afraid to even look at the window at night in fear\\nof seeing the real thing that might be there.",
+      "txt": "Once you're aware that the real thing might be there,\\nyou'd be afraid to even look out the window at night.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -417,7 +417,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Then what did I see earlier",
+      "txt": "Then what did I see earlier?",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -439,7 +439,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "... I see illusory things every day,\\nbut is there really such a thing?",
+      "txt": "... I see illusory things every day, but is there really\\nsuch a thing?",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -468,7 +468,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"No, not that far.\"",
+      "txt": "\"No, not that much.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -515,7 +515,7 @@
     {
       "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "\"I was just saying what I would do if Taka-kun was\\nscared.\"",
+      "txt": "\"I was just saying what I would do if Taka-chan was\\nscared.\"",
       "voices": [
         {
           "name": "汐音",
@@ -609,7 +609,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Shione is so scared from the looks of it, that she can't\\neven say what she saw earlier, and ended up only hearing a rumor that Ouka is a haunted house.",
+      "txt": "Shione is so scared from the looks of it, that she can't\\neven say what she saw earlier, and ended up only hearing\\na rumor that Ouka is a haunted house.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -620,7 +620,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Looking at the room again, there is nothing strange about it.",
+      "txt": "Looking at the room again, there is nothing strange about\\nit.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -631,7 +631,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Although I was slightly nervous when I returned to\\nOuka, there was no change in the entrance, nor was\\nthere anything like that white shadow.",
+      "txt": "Although I was slightly nervous when I returned to\\nOuka-sou, there was no change in the entrance, nor\\nwas there anything like that white shadow.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -664,7 +664,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "I'm not finicky enough to not sleep because of the change\\nof beds, but there was something about what I heard this evening that stuck.",
+      "txt": "I'm not finicky enough to not sleep because of the change\\nof beds, but there was something about what I heard this\\nevening that stuck.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -697,7 +697,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "When we were kids, when grandfather was still alive,\\nOuka.",
+      "txt": "When we were kids, when grandfather was still alive,\\nOuka-sou.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -730,7 +730,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "The old man wasn't one to play along with children,\\nbut he didn't care to blame them either.",
+      "txt": "The old man wasn't one to play along with children, but\\nhe didn't care to blame them either.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -796,7 +796,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "This place was old and kind of like a secret base, but it's\\ntoo small for the kids to be playing in all of the\\ntime.",
+      "txt": "This place was old and kind of like a secret base, but it's\\ntoo small for the kids to be playing in all of the time.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,

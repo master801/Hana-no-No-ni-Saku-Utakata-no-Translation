@@ -158,7 +158,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "I sighed as I finished sorting through my room's stuff.",
+      "txt": "I sighed as I finished unpacking my luggage.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -169,7 +169,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "The sun, which had not fully risen when I left my parents' house, is now tilting in the western sky.",
+      "txt": "The sun, which had not fully risen when I left my parents'\\nhouse, is now tilting in the western sky.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -180,7 +180,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "After a simple cleaning, dusting and packing.",
+      "txt": "After a quick cleaning, I dusted off and organized my\\nstuff.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -191,7 +191,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Furniture needed for daily life had been provided, so as\\nlong as the futon was hung out to dry and the moisture\\nwas removed, tonight's bed will be no problem.",
+      "txt": "The bare necessities were already provided, so as long as\\nI hung the futon to dry out the dampness, I would have no\\nproblem sleeping tonight.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -202,7 +202,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"......\"",
+      "txt": "\"...\"",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -224,7 +224,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "An old-fasioned bookshelf and a desk.\\nThen the futon was folded.",
+      "txt": "An old-fashioned bookshelf, a desk and a folded futon.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -235,7 +235,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "The TV in the corner of the room is old, and now that\\nwe've switched to terrestrial, it's probably only used for\\ngames or videos.",
+      "txt": "The TV in the corner of the room is old, and now that\\nwe've switched to terrestrial, it probably will only be used\\nfor games or videos.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -290,7 +290,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "At our age, I don't think there's anyone who isn't\\nattracted to these words.",
+      "txt": "At our age, I don't think there's anyone who isn't\\nattracted by these words.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -312,7 +312,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": ".... Well, it looks like there are going to be a lot of things,\\nbut it's good to think about it after it gets tough.",
+      "txt": "... Well, it seems like there will be a lot of tough times in\\nthe future, but it's better not to think about it until it\\nhappens.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -341,7 +341,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "My name was called from outside.\\nI looked out the window and looked down to see a woman waving at me.",
+      "txt": "I heard my name called from outside. I peeked out the\\nwindow and looked down to see a woman waving at me.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -352,7 +352,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "She's my cousin, who is the landlord who lives next door.",
+      "txt": "She's my cousin, and the landlord who lives in the building\\nnext door.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -396,7 +396,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "What will happen?\\nI remember the beginning of this.",
+      "txt": "What will happen in the future? I start to remember how\\nthis all started.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -407,7 +407,7 @@
     {
       "actual_character_speaking": "Father",
       "hidden_character_speaking": null,
-      "txt": "\"Are you willing to live on your own?\"",
+      "txt": "\"Do you wanna start living on your own?\"",
       "voices": [
         {
           "name": "父親",
@@ -436,7 +436,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "It's about that time when I have to think about my career.\\nSo, I replied nonchalantly.",
+      "txt": "I'm getting to the age where I need to start thinking about\\nmy future. So, I answered without a second thought.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -447,7 +447,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"I have\"",
+      "txt": "\"Yes.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -542,7 +542,7 @@
     {
       "actual_character_speaking": "Father",
       "hidden_character_speaking": null,
-      "txt": "\"Then go there.\\nWe're in the neighborhood, so you don't have to transfer,\\nand you can at least come over if you're hungry.\"",
+      "txt": "\"Then go there. We're in the neighborhood, so you don't\\nhave to transfer, and you can at least come over for\\ndinner if you're hungry.\"",
       "voices": [
         {
           "name": "父親",
@@ -560,7 +560,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"...... Yes?\"",
+      "txt": "\"... Yes?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -571,7 +571,7 @@
     {
       "actual_character_speaking": "Father",
       "hidden_character_speaking": null,
-      "txt": "「いやだからな」",
+      "txt": "\"I don't want to, you know.\"",
       "voices": [
         {
           "name": "父親",
@@ -589,7 +589,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "He said to himself, \"I don't understand him.\"",
+      "txt": "\"I don't understand him\", I thought to myself, while my\\nfather continued.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -618,7 +618,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"...... Really?\"",
+      "txt": "\"... Really?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -629,7 +629,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "While I was taken aback, my father nodded his head\\nearnestly.",
+      "txt": "I was taken aback, but my father nodded his head\\nearnestly.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -640,7 +640,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "...... Even in retrospect, it seems so sudden.",
+      "txt": "... Even in retrospect, it seems so sudden.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -651,7 +651,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "The next day was unreasonable, so I prepared for one day\\nand carried the luggage in my father's car today,\\nand here we are.",
+      "txt": "As I expected, moving on the next day was too much, so I\\ntook a whole day to prepare and carried my luggage to my\\nfather's car today, and here we are now.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -662,7 +662,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "I'll have to use the furniture and whatever else that\\nis already there. It's a good idea to have a little bit of time to think about what to do.",
+      "txt": "I'll use the furniture that's already there. The luggage I\\nbrought contains mostly clothes, school supplies and my\\nhobbies.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -673,7 +673,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "In any case, there are several reasons why I took such a\\nfool's errand.",
+      "txt": "Anyway, there are several reasons why I went along with\\nsuch a reckless idea.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -684,7 +684,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "The first reason was that I wanted live alone.",
+      "txt": "First of all, I wanted to live alone.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -695,7 +695,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Second, there was no need to transfer to a new school\\nand it was in the same city.",
+      "txt": "Secondly, I didn't need to transfer to a new school and it\\nwas in the same city.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -706,7 +706,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Then......",
+      "txt": "And finally...",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -768,7 +768,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Since Sakurahasou, the building I live in, belongs to her\\nfamily, she is the real landlord.",
+      "txt": "Since Ouka-sou, the building I live in, belongs to her\\nfamily, she is practically my landlord.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -779,7 +779,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "I'm a stranger and I'd do the same, but it's a relative next\\ndoor and I don't need the rent.",
+      "txt": "It's a bit intimidating to be a stranger in a new place, but\\nit's fine since I have relatives next door and I don't need\\nto pay rent.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -790,7 +790,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "On the contrary, I hope that I can enjoy the room\\ncompletely by myself, unlike my small house.",
+      "txt": "On the contrary, I'll be able to enjoy my room completely\\nby myself, unlike in my small house.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -801,7 +801,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"I thought it was an unfamiliar sight...\"",
+      "txt": "\"I thought it was kind of an unfamiliar situation...\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -812,7 +812,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"Fufu, sure.\"",
+      "txt": "\"Fufu, that's truue.\"",
       "voices": [
         {
           "name": "千歳",
@@ -830,7 +830,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Both Chitose-san and I have a bag in our hands since we\\nbought essential daily necessities.",
+      "txt": "Chitose-san and I carry a bag in both of our hands after\\nbuying daily necessities.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -841,7 +841,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Walking around with a shopping bag in our hands is an\\nunfamiliar sight for the both of us.",
+      "txt": "Walking around with a shopping bag in our hands is an\\nunfamiliar situation for both of us.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -852,7 +852,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"It's fine if you come to my house to eat,\\nbut there's also also the timing of your life,\\nso you'll have to cook for yourself...\"",
+      "txt": "\"It's fine if you come to my house to eat whenever you\\nwant, but because of the timing of our lives, you'll also\\nhave to cook for yourself...\"",
       "voices": [
         {
           "name": "千歳",
@@ -870,7 +870,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"Is there anything else I've forgotten to buy?\"",
+      "txt": "\"Now, is there anything I forgot to buy?\"",
       "voices": [
         {
           "name": "千歳",
@@ -899,7 +899,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"That's true, too. I'm right next door,\\nso don't hesitate to tell me if you have any problems.\"",
+      "txt": "\"It's true you can do that. I'm right next door, so don't\\nhesitate to tell me if you have any problems.\"",
       "voices": [
         {
           "name": "千歳",
@@ -946,7 +946,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Chitose-san looks up.",
+      "txt": "Chitose-san looks forward.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -957,7 +957,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "When I was caught and looked in her direction,\\nI saw a girl waving at in the distance.",
+      "txt": "When I followed her gaze, I saw a girl waving at us in the\\ndistance.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -968,7 +968,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"Shione-chan seems to meddling, though.\"",
+      "txt": "\"I'm afraid Shione-chan is going to meddle in.\"",
       "voices": [
         {
           "name": "千歳",
@@ -986,7 +986,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"... Surely\"",
+      "txt": "\"... Indeed.\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1015,7 +1015,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"So you see. I was just about to leave.\"",
+      "txt": "\"As you can see. I was just about to leave.\"",
       "voices": [
         {
           "name": "千歳",
@@ -1062,7 +1062,7 @@
     {
       "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "\"No, it's nothing like that, but instead it's a welcome party\\nfor a housewarming celebration, so I thought I'd like to\\nhave some sukiyaki.\"",
+      "txt": "\"No, it's nothing like that, but since we're having a\\nhousewarming party today, I thought sukiyaki would be\\nperfect...\"",
       "voices": [
         {
           "name": "汐音",
@@ -1098,7 +1098,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"Is that what you want to eat?\"",
+      "txt": "\"That's only what YOU want to eat, isn't it? Good grief.\"",
       "voices": [
         {
           "name": "千歳",
@@ -1116,7 +1116,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Chitose-san chided her, and the girl shrugged.",
+      "txt": "The girl shrugged as Chitose-san chided her.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1149,7 +1149,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Of course, we're also classmates that go to the same\\nclass, so it's a bit late to be told that they're going to\\nhave a welcoming party at their new home.",
+      "txt": "We were also classmates previously, so it just feels a bit\\nsudden to be told that we're going to have a welcoming\\nparty at their house.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1160,7 +1160,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"Here, help me with this, take it.\"",
+      "txt": "\"You came all the way here to help right? Here, take this.\"",
       "voices": [
         {
           "name": "千歳",
@@ -1196,7 +1196,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "She took half of the bags from Chitose-san and\\nlined up next to me.",
+      "txt": "She took half of the bags Chitose-san carried and lined up\\nnext to me.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1207,7 +1207,7 @@
     {
       "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "\"I guess this means we're going to travel to school\\ntogether, during the new semester.\"",
+      "txt": "\"I guess this means we'll be going to school together this\\nsemester.\"",
       "voices": [
         {
           "name": "汐音",
@@ -1225,7 +1225,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"Oh, I see. How am I supposed to get there from here?\\nShione-chan rides the bike to school, don't you?\"",
+      "txt": "\"Oh, I see. How am I supposed to get there from here?\\nShione-chan, you ride your bike to school, don't you?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1236,7 +1236,7 @@
     {
       "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "\"Yeah. But if you have a bike, you have to register for bike\\nparking. It's a new semester and we're all going out at\\nonce, so it might be just right.\"",
+      "txt": "\"Yeah. But if you have a bike, you'll have to register for\\nbike parking. It's a new semester and all the parking\\nplaces will be released at once, so it might be just fine.\"",
       "voices": [
         {
           "name": "汐音",
@@ -1294,7 +1294,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "When I questioned myself, Chitose-chan made a small\\nspeech buble.",
+      "txt": "While I was tilting my head questioningly, Chitose-san let out a small sigh.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1305,7 +1305,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"It's too difficult to explain. If you walk, you have to take a\\nroad that bikes aren't allowed on.\"",
+      "txt": "\"You're leaving out too much, Shione-chan. If you walk,\\nyou can take a path that bikes can't go on.\"",
       "voices": [
         {
           "name": "千歳",
@@ -1323,7 +1323,7 @@
     {
       "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "\"Yeah. If you go through the forest where the shrine is,\\nyou reach the other side, so there aren't any traffic lights\\nat the intersection and it's faster.\"",
+      "txt": "\"Yeah. If you go through the forest where the shrine is,\\nyou avoid the intersections and you don't have to wait for\\nthe traffic lights, so it's faster.\"",
       "voices": [
         {
           "name": "汐音",
@@ -1352,7 +1352,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "If you live in a different place, the route to school is also\\nvery different.",
+      "txt": "When you live in a different place, the route to school\\nchanges drastically.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1363,7 +1363,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "It's a great way to discover new things about the school\\nyou're used to going to.",
+      "txt": "Even going to the familiar school buildings is likely to be a\\nnew experience.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1374,7 +1374,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "While we were talking about such things, Sakurahasou\\ncame into view.",
+      "txt": "While we were talking about such things, Ouka-sou came\\ninto view.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -1403,7 +1403,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"The refrigerator is the same as the one my grandpa used,\\nso I think it can be used even if it's a little old.\\nMake sure you put the raw stuff in it right away.\"",
+      "txt": "\"Your refrigerator is the same one Grandpa used, so I\\nthink it still works even if it's a little old. Make sure you\\nput all of the fresh food in it right away.\"",
       "voices": [
         {
           "name": "千歳",
@@ -1432,7 +1432,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"It's okay. It would have been nice if Michitaka-kun\\nhad lived there.\"",
+      "txt": "\"It's okay. And I'm glad you're living here now,\\nMichitaka-kun.\"",
       "voices": [
         {
           "name": "千歳",
@@ -1450,7 +1450,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"......?\"",
+      "txt": "\"...?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1505,7 +1505,7 @@
     {
       "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "\"Well, now you do.\"",
+      "txt": "\"Until you, no.\"",
       "voices": [
         {
           "name": "汐音",
@@ -1534,7 +1534,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"This is Michitaka-kun's first time?\"",
+      "txt": "\"So Michitaka is the first one huh?\"",
       "voices": [
         {
           "name": "千歳",
@@ -1552,7 +1552,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"Have the either of you two thought of living there?\"",
+      "txt": "\"Did any of you two ever think about living there?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1563,7 +1563,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Then you can make a whole large house into your own\\nroom.",
+      "txt": "They could have potentially turned this whole large house\\ninto their personal room.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1574,7 +1574,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "I'm sure you'll have to go through the hassle of eating and\\ncleaning, but as Chitose-san said earlier, you can go home to your own house right next door to eat.",
+      "txt": "I'm sure they'd have to go through the hassle of getting\\nfood and cleaning, but as Chitose-san said earlier, they\\nwould be able to go to their house right next door to eat.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1614,7 +1614,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"No way. You used to come here and play as a kid many\\ntimes before...\"",
+      "txt": "\"No way he doesn't know. We used to come here to play\\nall the time back when we were kids...\"",
       "voices": [
         {
           "name": "千歳",
@@ -1632,7 +1632,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"Hey, uh... Hey, um.... Excuse me?\"",
+      "txt": "\"Hum... Excuse me?\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1661,7 +1661,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Shione turns around to face this way.",
+      "txt": "Shione turns to face me.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1672,7 +1672,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "The seriousness of her face made me feel uncomfortable.",
+      "txt": "Seeing her serious face, I couldn't help but feel a bit\\nuncomfortable.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1683,7 +1683,7 @@
     {
       "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "\"It's nothing to stand around and talk about,\\nlet's talk about it later?\"",
+      "txt": "\"It's nothing to stand around and talk about, let's\\ntalk about it later?\"",
       "voices": [
         {
           "name": "汐音",
@@ -1712,7 +1712,7 @@
     {
       "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "\"Okay, sis.\"",
+      "txt": "\"Alright then, onee-chan?\"",
       "voices": [
         {
           "name": "汐音",
@@ -1748,7 +1748,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "The two of them went to the house next door - their home.",
+      "txt": "The two of them head towards the house next door, their\\nhome.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1759,7 +1759,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "As they walked away, I heard Chitose-san's mummbling.",
+      "txt": "As they walked away, I heard Chitose-san mumbling.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1770,7 +1770,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"I'm troubled...\\nUncle, I hope you haven't told him yet.\\nWhat if Michitaka-kun is scared...\"",
+      "txt": "\"I'm troubled... Uncle, I hope you haven't told him about it\\nyet. What if Michitaka-kun gets scared...\"",
       "voices": [
         {
           "name": "千歳",
@@ -1788,7 +1788,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "\"......\"",
+      "txt": "\"...\"",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1810,7 +1810,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "With a feeling of incomprehension,\\nI walked into Sakurahasou.",
+      "txt": "Feeling uneasy, I walked into Ouka-sou.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -1821,7 +1821,7 @@
     {
       "actual_character_speaking": "Michitaka",
       "hidden_character_speaking": null,
-      "txt": "(She said that I didn't know or that I'd been here when I\\nwas a kid...)",
+      "txt": "(She talked about something I didn't know... And that I've\\nbeen there before when I was a kid...)",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1843,7 +1843,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "This building, Sakurahasou, is the building our\\ngrandfather lived in.",
+      "txt": "This building, Ouka-sou, is the building our grandfather\\nlived in.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1865,7 +1865,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "At that time, the Fujimiya family didn't live next door,\\nand their father built the house afterwards because he\\nwas worried about his father who had reached his old age.",
+      "txt": "At that time, the Fujimiya family didn't live next door, and\\ntheir father built the house afterwards because he was\\nworried about his father who was getting old.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1876,7 +1876,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "When we were kids, he was still going strong and\\nwe used to come visit often because we lived in the same\\ncity.",
+      "txt": "When we were kids, he was still going strong and we used\\nto come visit often since we lived in the same city.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1887,7 +1887,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "But most of them weren't there to see the old man.",
+      "txt": "But most of the time, we weren't there to see the old man.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1898,7 +1898,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "As a child, the antiquated building fueled his adventurous\\nspirit, and took a scared Shione-chan along with him as he\\nran through it.",
+      "txt": "As a child, the antique building fueled my adventurous\\nspirit, and I used to run around the building followed by\\na scared Shione-chan.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1942,7 +1942,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "It is...",
+      "txt": "It was...",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1964,7 +1964,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "A white shadow crossed my vision.",
+      "txt": "A white shadow crossed my field of vision.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1975,7 +1975,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "It left the front room and went to the back stairs and\\ndisappeared upstairs.",
+      "txt": "It left the front room and went up the stairs in the back,\\nbefore disappearing upstairs.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -1997,7 +1997,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "I rub my eyes. There's nothing to see there.\\nThere was no white shadow left either.",
+      "txt": "I rub my eyes. I see nothing where it disappeared.\\nThe white shadow disappeared.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2008,7 +2008,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "No no no no!!!!",
+      "txt": "No, no, no, no! There's no way!",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2019,7 +2019,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "That was when I was a kid!",
+      "txt": "It's just an urban legend from when I was a kid!",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2030,7 +2030,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "First of all,\\nI've been there all day and there's nothing there!",
+      "txt": "First of all, I was there all day and nothing happened!",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2041,7 +2041,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "But when I turn around and look up at the sky,\\nthe sun is tilting and turning madder.",
+      "txt": "When I turn around and look up at the sky, the sun is\\nsetting and turning redder.",
       "voices": null,
       "idk_1": 464,
       "scene_data": null,
@@ -2052,7 +2052,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "The sun is slower than before when I went out shopping,\\nand night is about to come.",
+      "txt": "The sun is lower than before I went out for shopping, and\\nnight is coming.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2063,7 +2063,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "If anything is going to happen, it's more fitting than\\ndaytime.",
+      "txt": "If anything were to happen, it would be more likely at\\nnight than during the day.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2085,7 +2085,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "Is this why you two were so suspicious a moment ago?",
+      "txt": "Is this the reason why these two were acting so suspicious\\nearlier?",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2096,7 +2096,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "No one wanted to live in this house because it was\\nhaunted by a real person?",
+      "txt": "Did no one want to live here because it really is a haunted\\nhouse?",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2118,7 +2118,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "I swallowed my salavia.",
+      "txt": "I swallowed my saliva.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2129,7 +2129,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "I struggled a bit, maybe because I was so nervous.",
+      "txt": "I struggled gulping it down, probably because of my\\nnervousness.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
@@ -2140,7 +2140,7 @@
     {
       "actual_character_speaking": "Shione",
       "hidden_character_speaking": null,
-      "txt": "\"Hey there.\"",
+      "txt": "\"Sorry for keeping you waiting!\"",
       "voices": [
         {
           "name": "汐音",
@@ -2158,7 +2158,7 @@
     {
       "actual_character_speaking": "Chitose",
       "hidden_character_speaking": null,
-      "txt": "\"Did you wait for me?\"",
+      "txt": "\"Were you waiting for us?\"",
       "voices": [
         {
           "name": "千歳",
@@ -2187,7 +2187,7 @@
     {
       "actual_character_speaking": null,
       "hidden_character_speaking": null,
-      "txt": "I was startled by the momentum of my shaking,\\nor maybe I was startled by the two surprised faces.",
+      "txt": "I was startled by the sound of their voices and turned\\naround quickly. The two girls had a surprised look on\\ntheir face.",
       "voices": null,
       "idk_1": 448,
       "scene_data": null,
