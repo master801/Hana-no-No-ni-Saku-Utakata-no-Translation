@@ -24,11 +24,14 @@ def main():
             with open(txt_json_file, 'r', encoding='utf-8') as io_json:
                 pretty_scene_texts = json.load(io_json)
                 io_json.close()
-                print('Read pretty file \"{}\"'.format(txt_json_file))
+                print(f'Read pretty file \"{txt_json_file}\"')
                 pass
 
             file_name: str = txt_json_file[len(constants.PRETTY_PATH_CURRENT)+1:]
             path: str = constants.PATH_SCN_ORIGINAL + constants.FILE_PATH_SEPARATOR + file_name
+            if not os.path.isfile(path):
+                print(f'Original file \"{path}\" does not exist!')
+                continue
             with open(path, 'r', encoding='utf-8') as io_scn:
                 json_scn = json.load(io_scn)
                 io_scn.close()
@@ -58,13 +61,13 @@ def main():
             with open(path, '+w', encoding='utf-8') as io_scn:
                 json.dump(json_scn, io_scn, ensure_ascii=False, indent=2)
                 io_scn.close()
-                print('Wrote modified scn json file \"{}\"\n'.format(path))
+                print(f'Wrote modified scn json file \"{path}\"\n')
                 pass
             continue
         print('Done')
         pass
     else:
-        print('No pretty files in path \"{}\" were found?!'.format(constants.PRETTY_PATH_CURRENT))
+        print(f'No pretty files in path \"{constants.PRETTY_PATH_CURRENT}\" were found?!')
         pass
     return
 

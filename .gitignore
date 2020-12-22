@@ -176,15 +176,6 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -213,4 +204,11 @@ cython_debug/
 /.vscode
 
 ### Custom Stuff
-/SCN
+TRANS_TOOL/SCN
+ENV/TOOLS/FreeMoteToolkit
+ENV/ORIGINAL/patch2/*
+ENV/MODIFIED/patch2.xp3
+ENV/MODIFIED/patch2/*
+ENV/WORKING/patch2/*
+SCN/ORIGINAL/*
+SCN/MODIFIED/*
