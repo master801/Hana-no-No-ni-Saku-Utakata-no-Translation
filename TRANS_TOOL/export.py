@@ -35,7 +35,7 @@ def main():
             with open(path, 'r', encoding='utf-8') as io_scn:
                 json_scn = json.load(io_scn)
                 io_scn.close()
-                print('Read scn json file \"{}\"'.format(path))
+                print(f'Read scn json file \"{path}\"')
                 pass
 
             for i in range(len(pretty_scene_texts)):
