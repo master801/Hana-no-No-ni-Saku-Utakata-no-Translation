@@ -32,8 +32,8 @@ def json_import_serialize(obj):
                     text[4],  # idk 1
                     text[5],  # scene data
                     text[6],  # idk 2
-                    text[7],  # text idk 1
-                    text[8]  # text idk2
+                    text[7],  # text hira
+                    text[8]  # text kata
                 )
                 pass
             elif len(text) == 6:
@@ -82,8 +82,8 @@ def json_import_deserialize(obj):
             # 'scene_data': obj.scene_data,
             'scene_data': None,  # Do not write scene data, this is written back later on
             'idk_2': obj.idk_2,
-            'txt_idk_1': obj.txt_idk_1,
-            'txt_idk_2': obj.txt_idk_2,
+            'txt_hira': obj.txt_hira,
+            'txt_kata': obj.txt_kata,
         }
     elif isinstance(obj, ModelVoice):
         return {
@@ -117,8 +117,8 @@ def json_export_serialize(obj):
                 obj['idk_1'],
                 obj['scene_data'],
                 obj['idk_2'],
-                obj['txt_idk_1'],
-                obj['txt_idk_2']
+                obj['txt_hira'],
+                obj['txt_kata']
             ]
     else:
         print('SOMETHING BROKE?!')

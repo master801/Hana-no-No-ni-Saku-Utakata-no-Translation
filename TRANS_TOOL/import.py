@@ -1,6 +1,11 @@
 import os
 import json
+import csv
 
+import sys
+sys.path.append('..')  # Hacky - For generic_constants
+
+import generic_constants
 import json_data
 import constants
 
@@ -13,31 +18,24 @@ def main():
     for (root, subdirs, files) in os.walk(constants.PATH_SCN_ORIGINAL):
         for file in files:
             if file.endswith('.txt.json'):
-                fp_txt_json_files.append(root + constants.FILE_PATH_SEPARATOR + file)
+                fp_txt_json_files.append(root + generic_constants.FP_S + file)
                 pass
             continue
         continue
 
     if len(fp_txt_json_files) > 0:
-        json_obj_list = []
         for txt_json_file in fp_txt_json_files:  # Open and read json files
             with open(txt_json_file, 'r+', encoding='utf8') as fp_json:
                 json_file = json.load(
                     fp_json,
                     object_hook=json_data.json_import_serialize
                 )
-                json_obj_list.append(json_file)
                 fp_json.close()
-
-                print('Read SCN Json file \"{}\"'.format(txt_json_file))
                 pass
-            continue
+            print(f'Read SCN JSON file \"{txt_json_file}\"')
 
-        for json_obj in json_obj_list:
-            scenes: list = json_obj['scenes']
-            pretty_file_path = '{}{}{}.json'.format(constants.PRETTY_PATH_DEFAULT, constants.FILE_PATH_SEPARATOR, json_obj['name'])
+            scenes: list = json_file['scenes']
 
-            # noinspection PyTypeChecker
             text_scenes: list = [None] * len(scenes)
             for i in range(len(scenes)):
                 scene = scenes[i]
@@ -45,34 +43,83 @@ def main():
                     text_scenes[i] = scene['texts']
                     pass
                 continue
+            del scene
+            del i
 
-            # noinspection PyComparisonWithNone
-            if text_scenes != None:
+            if len(text_scenes) > 0:
+                pretty_fp = f'{constants.PRETTY_PATH_DEFAULT}{generic_constants.FP_S}' + json_file['name']
+                if constants.LEGACY:
+                    pretty_fp += '.json'
+                    pass
+                else:
+                    pretty_fp += '.csv'
+                    pass
+
                 if not os.path.exists(constants.PRETTY_PATH_DEFAULT):
                     os.mkdir(constants.PRETTY_PATH_DEFAULT)
                     pass
-
-                if os.path.exists(pretty_file_path):
-                    os.remove(pretty_file_path)
+                if os.path.exists(pretty_fp):
+                    print(f'File \"{pretty_fp}\" already exists! Deleting...')
+                    os.remove(pretty_fp)
+                    print(f'Deleted file \"{pretty_fp}\"')
                     pass
-                with open(pretty_file_path, 'x+', encoding='utf-8') as fp_out_json:
-                    json.dump(
-                        text_scenes,
-                        fp_out_json,
-                        ensure_ascii=False,
-                        indent=2,
-                        default=json_data.json_import_deserialize
-                    )
-                    fp_out_json.close()
 
-                    print('Wrote pretty file \"{}\"\n'.format(pretty_file_path))
+                if constants.LEGACY:
+                    print('LEGACY WILL NO LONGER BE SUPPORTED IN THE FUTURE')
+                    with open(pretty_fp, 'x+', encoding='utf-8') as fp_out_json:
+                        json.dump(
+                            text_scenes,
+                            fp_out_json,
+                            ensure_ascii=False,
+                            indent=2,
+                            default=json_data.json_import_deserialize
+                        )
+                        fp_out_json.close()
+                    del fp_out_json
                     pass
+                else:
+                    with open(pretty_fp, 'xt+', encoding='utf-8', newline='') as fp_out:
+                        writer = csv.writer(fp_out, quoting=csv.QUOTE_NONNUMERIC)
+                        writer.writerow([
+                            'scene',
+                            'idk_1',
+                            'actual_char',
+                            'hidden_char',
+                            'text',
+                            'text_hira',
+                            'text_kata'
+                        ])
+                        for i in range(len(text_scenes)):
+                            text_scene = text_scenes[i]
+                            if text_scene == None:
+                                continue
+                            for text in text_scene:
+                                writer.writerow([
+                                    i,
+                                    text.idk_1,
+                                    text.actual_character_speaking,
+                                    text.hidden_character_speaking,
+                                    text.txt,
+                                    text.txt_hira,
+                                    text.txt_kata
+                                ])
+                                continue
+                            del text
+                            del text_scene
+                            continue
+                        del i
+                        fp_out.flush()
+                        fp_out.close()
+                        pass
+                    pass
+
+                print(f'Wrote pretty file \"{pretty_fp}\"\n')
                 pass
             continue
-        print('Done')
+        print('\nDone')
         pass
     else:
-        print('No scn json files in path \"{}\" were found?!'.format(constants.PATH_SCN_ORIGINAL))
+        print(f'No scn json files in path \"{constants.PATH_SCN_ORIGINAL}\" were found?!')
         pass
     return
 
