@@ -1,5 +1,7 @@
 @echo off
 
+TITLE DECODE
+
 echo ARE YOU SURE??!!!
 pause
 

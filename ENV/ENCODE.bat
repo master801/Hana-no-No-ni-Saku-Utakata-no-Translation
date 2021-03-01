@@ -3,4 +3,5 @@
 @REM Encodes translation scripts and copies game files to prepare for repacking
 
 @REM Moved batch script to pure Python because Windows can't handle it...
+TITLE ENCODE
 python ENCODE.py --compile --process_scn
