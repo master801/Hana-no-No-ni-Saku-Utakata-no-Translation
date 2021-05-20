@@ -36,7 +36,8 @@ def copy_files():
         'main', f'main{generic_constants.FP_S}flowmap',
         'sysscn',
         'image', f'image{generic_constants.FP_S}pop',
-        'uipsd'
+        'uipsd',
+        'scenario', f'scenario{generic_constants.FP_S}staffroll'
     ]
     for sub_dir in sub_dirs:
         if sub_dir == '':
